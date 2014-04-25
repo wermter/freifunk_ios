@@ -1,515 +1,1571 @@
 {
     "links": [
         {
-            "id": "66:66:b3:50:03:20-c0:ff:ee:ba:be:01",
+            "id": "66:66:b3:9b:93:c6-c0:ff:ee:ba:be:02",
             "quality": "1.000, 1.000",
-            "source": 51,
-            "target": 8,
+            "source": 10,
+            "target": 14,
             "type": "vpn"
         },
         {
-            "id": "76:ea:3a:bf:21:82-c0:ff:ee:ba:be:01",
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:63:b3:2a",
             "quality": "1.000, 1.000",
-            "source": 48,
-            "target": 8,
+            "source": 84,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:c6",
+            "quality": "1.000, 1.000",
+            "source": 75,
+            "target": 12,
             "type": "vpn"
         },
         {
             "id": "66:66:b3:9b:93:c6-c0:ff:ee:ba:be:01",
             "quality": "1.000, 1.000",
-            "source": 54,
-            "target": 8,
+            "source": 10,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:9a",
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:c0",
             "quality": "1.000, 1.000",
-            "source": 22,
-            "target": 8,
+            "source": 74,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:f2",
-            "quality": "1.000, 1.000",
-            "source": 15,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "c2:4a:00:84:54:96-c2:4a:00:84:54:96_0",
+            "id": "c2:4a:00:85:54:72-c2:4a:00:85:54:72_0",
             "quality": "TT",
-            "source": 44,
-            "target": 45,
+            "source": 43,
+            "target": 44,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:7c:1e:fa-c0:ff:ee:ba:be:01",
+            "id": "c2:4a:00:a0:42:9a-c2:4a:00:a0:44:16",
+            "quality": "1.037, 1.008",
+            "source": 78,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "66:70:02:ab:bc:76-c0:ff:ee:ba:be:01",
             "quality": "1.000, 1.000",
-            "source": 42,
-            "target": 8,
+            "source": 131,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-fa:d1:11:a1:4d:8a",
+            "id": "66:70:02:ab:bc:76-c0:ff:ee:ba:be:02",
             "quality": "1.000, 1.000",
-            "source": 16,
-            "target": 8,
+            "source": 131,
+            "target": 14,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:7c:81:6c-12:fe:ed:7c:81:6c_1",
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:83:bc",
+            "quality": "1.000, 1.000",
+            "source": 62,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:8e:70",
+            "quality": "1.000, 1.016",
+            "source": 73,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:cf:90-12:fe:ed:b0:cf:90_0",
             "quality": "TT",
-            "source": 39,
-            "target": 41,
+            "source": 121,
+            "target": 122,
             "type": "client"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:8a",
-            "quality": "1.000, 1.000",
-            "source": 14,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:f4",
-            "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:de:55:24-c0:ff:ee:ba:be:01",
+            "id": "c0:ff:ee:ba:be:02-fa:1a:67:5b:f2:aa",
             "quality": "1.000, 1.000",
             "source": 30,
-            "target": 8,
+            "target": 14,
             "type": "vpn"
-        },
-        {
-            "id": "66:70:02:68:85:32-c0:ff:ee:ba:be:01",
-            "quality": "1.000, 1.000",
-            "source": 31,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "66:66:b3:50:03:20-66:66:b3:50:03:20_1",
-            "quality": "TT",
-            "source": 51,
-            "target": 53,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:b0:cf:90-c0:ff:ee:ba:be:01",
-            "quality": "1.000, 1.000",
-            "source": 58,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "66:66:b3:4d:a1:2c-c0:ff:ee:ba:be:01",
-            "quality": "1.000, 1.000",
-            "source": 2,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:af:a7:62-66:66:b3:4c:8a:66",
-            "quality": "1.000, 1.020",
-            "source": 33,
-            "target": 3,
-            "type": "vpn"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:4c",
-            "quality": "1.000, 1.000",
-            "source": 55,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:f4:cd:9a-12:fe:ed:f4:cd:9a_0",
-            "quality": "TT",
-            "source": 37,
-            "target": 38,
-            "type": "client"
         },
         {
             "id": "c0:ff:ee:ba:be:01-c0:ff:ee:ba:be:01_0",
             "quality": "TT",
-            "source": 8,
-            "target": 9,
+            "source": 12,
+            "target": 13,
             "type": "client"
-        },
-        {
-            "id": "12:fe:ed:b0:a7:62-c0:ff:ee:ba:be:01",
-            "quality": "1.000, 1.000",
-            "source": 3,
-            "target": 8,
-            "type": "vpn"
         },
         {
             "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:cc",
             "quality": "1.000, 1.000",
-            "source": 29,
-            "target": 8,
+            "source": 7,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:f4:cd:9a-66:66:b3:41:0b:2e",
-            "quality": "1.071, 1.081",
-            "source": 5,
-            "target": 37,
-            "type": null
+            "id": "12:fe:ed:f5:e7:b6-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 76,
+            "target": 12,
+            "type": "vpn"
         },
         {
-            "id": "66:66:b3:41:0b:2e-66:66:b3:41:0b:2e_0",
+            "id": "c2:4a:00:63:b2:38-c2:4a:00:63:b2:38_1",
             "quality": "TT",
-            "source": 5,
+            "source": 57,
             "target": 59,
             "type": "client"
         },
         {
-            "id": "96:b4:d9:cf:89:47-c0:ff:ee:ba:be:01",
+            "id": "c2:4a:00:63:b2:38-c2:4a:00:63:b2:38_0",
+            "quality": "TT",
+            "source": 57,
+            "target": 58,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:52",
             "quality": "1.000, 1.000",
-            "source": 1,
-            "target": 8,
+            "source": 79,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-fa:1a:67:5b:f2:aa",
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:83:6c",
             "quality": "1.000, 1.000",
-            "source": 8,
-            "target": 0,
+            "source": 48,
+            "target": 14,
             "type": "vpn"
         },
         {
-            "id": "76:ea:3a:bf:21:82-76:ea:3a:bf:21:82_0",
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:0b:cc:ec",
+            "quality": "1.000, 1.000",
+            "source": 70,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f4:fb:36-c2:4a:00:42:2c:ee",
+            "quality": "1.094, 1.016",
+            "source": 4,
+            "target": 2,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:f5:fb:36-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:58",
+            "quality": "1.011, 1.000",
+            "source": 116,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:e7:b6-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 76,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:47:03:c4-ea:94:f6:69:8c:a2",
+            "quality": "1.192, 1.114",
+            "source": 104,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:f5:fe:94-12:fe:ed:f5:fe:94_2",
+            "quality": "TT",
+            "source": 26,
+            "target": 29,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:f5:fe:94-12:fe:ed:f5:fe:94_1",
+            "quality": "TT",
+            "source": 26,
+            "target": 28,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:63:b3:2a",
+            "quality": "1.000, 1.000",
+            "source": 84,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:41:d3:58-c0:ff:ee:ba:be:01",
+            "quality": "1.011, 1.012",
+            "source": 18,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_6",
+            "quality": "TT",
+            "source": 86,
+            "target": 93,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:f5:ff:d4-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:54:83:6c-c2:4a:00:54:83:6c_0",
             "quality": "TT",
             "source": 48,
             "target": 49,
             "type": "client"
         },
         {
-            "id": "66:66:b3:50:03:20-66:66:b3:50:03:20_0",
-            "quality": "TT",
-            "source": 51,
-            "target": 52,
-            "type": "client"
-        },
-        {
-            "id": "fa:1a:67:5a:f2:aa-fa:1a:67:5a:f2:aa_0",
-            "quality": "TT",
-            "source": 0,
-            "target": 7,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:41:d3:58-c0:ff:ee:ba:be:01",
-            "quality": "1.000, 1.008",
-            "source": 10,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:7d:a2:44-12:fe:ed:7d:a2:44_0",
-            "quality": "TT",
-            "source": 4,
-            "target": 34,
-            "type": "client"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:b6",
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:c8",
             "quality": "1.000, 1.000",
-            "source": 61,
-            "target": 8,
+            "source": 142,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "66:66:b3:fa:a4:4f-66:66:b3:fa:a4:4f_0",
+            "id": "12:fe:ed:56:11:50-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 114,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:56:11:50-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 114,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:ec:9a:4a-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 139,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_0",
             "quality": "TT",
-            "source": 6,
-            "target": 60,
+            "source": 86,
+            "target": 87,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:f4:cd:9a-66:66:b3:40:e8:20",
-            "quality": "1.024, 1.203",
-            "source": 37,
-            "target": 28,
-            "type": null
+            "id": "12:fe:ed:ec:9a:4a-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 139,
+            "target": 14,
+            "type": "vpn"
         },
         {
-            "id": "66:66:b3:9c:c4:b0-66:66:b3:9c:c4:b0_1",
-            "quality": "TT",
-            "source": 18,
-            "target": 20,
-            "type": "client"
+            "id": "12:fe:ed:f5:e4:1e-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 52,
+            "target": 14,
+            "type": "vpn"
         },
         {
-            "id": "c2:4a:00:54:83:bc-c2:4a:00:54:83:bc_0",
+            "id": "12:fe:ed:f5:fe:94-12:fe:ed:f5:fe:94_0",
             "quality": "TT",
             "source": 26,
             "target": 27,
             "type": "client"
         },
         {
+            "id": "12:fe:ed:f5:e4:1e-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 52,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:4c:a1:2c-66:66:b3:9c:c4:b0",
+            "quality": "1.393, 1.474",
+            "source": 45,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:de:55:24-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 71,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:57:52",
+            "quality": "1.000, 1.000",
+            "source": 23,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:72",
+            "quality": "1.000, 1.000",
+            "source": 43,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:9a:93:c6-66:66:b3:9a:93:c6_0",
+            "quality": "TT",
+            "source": 10,
+            "target": 118,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7d:a2:44-c2:4a:00:a0:43:ec",
+            "quality": "1.000, 1.032",
+            "source": 112,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:42:82",
+            "quality": "1.000, 1.000",
+            "source": 140,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:e5:f4-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 110,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:e5:f4-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 110,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b8:5a:dc-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 129,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b8:5a:dc-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 129,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:43:4c",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2f:32-c2:4a:00:43:2f:32_0",
+            "quality": "TT",
+            "source": 68,
+            "target": 69,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:43:c0",
+            "quality": "1.000, 1.000",
+            "source": 74,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_4",
+            "quality": "TT",
+            "source": 86,
+            "target": 91,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 95,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "56:e6:fc:dd:cd:8e-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 47,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "56:e6:fc:dd:cd:8e-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 47,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 95,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:56:10:dc-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 137,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_2",
+            "quality": "TT",
+            "source": 86,
+            "target": 89,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:48:03:c4",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fc:22-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:95:bd:b4-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:95:bd:b4-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:a0:44:14-c2:4a:00:a0:44:14_0",
+            "quality": "TT",
+            "source": 106,
+            "target": 107,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:42:c8",
+            "quality": "1.000, 1.000",
+            "source": 142,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:41:99:64-12:fe:ed:41:99:64_0",
+            "quality": "TT",
+            "source": 54,
+            "target": 55,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:48:03:c4",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:4d:a1:2c-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:a0:43:ec-c2:4a:00:a0:43:ec_0",
+            "quality": "TT",
+            "source": 112,
+            "target": 113,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_3",
+            "quality": "TT",
+            "source": 86,
+            "target": 90,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:94:bd:b4-fa:d1:11:a0:4d:8a",
+            "quality": "1.041, 1.085",
+            "source": 38,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:47:03:c4-c2:4a:00:47:03:c4_0",
+            "quality": "TT",
+            "source": 6,
+            "target": 64,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:42:16",
+            "quality": "1.000, 1.000",
+            "source": 101,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-fa:1a:67:5b:f2:aa",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:41:d3:58-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 18,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:43:2f:32",
+            "quality": "1.000, 1.000",
+            "source": 68,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c0:ff:ee:ba:be:42",
+            "quality": "1.000, 1.000",
+            "source": 16,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:b6",
+            "quality": "1.000, 1.000",
+            "source": 136,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:43:2b:40",
+            "quality": "1.000, 1.000",
+            "source": 86,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:ca",
+            "quality": "1.000, 1.016",
+            "source": 31,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:a1:43:58-c2:4a:00:a1:43:58_0",
+            "quality": "TT",
+            "source": 116,
+            "target": 117,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-12:fe:ed:7c:1e:fa_4",
+            "quality": "TT",
+            "source": 95,
+            "target": 100,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:18",
+            "quality": "1.000, 1.004",
+            "source": 41,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
             "id": "12:fe:ed:7e:a2:44-c0:ff:ee:ba:be:01",
             "quality": "1.000, 1.000",
-            "source": 4,
-            "target": 8,
+            "source": 8,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:7e:a2:44-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:41:99:64-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 54,
+            "target": 14,
             "type": "vpn"
         },
         {
             "id": "12:fe:ed:41:99:64-c0:ff:ee:ba:be:01",
             "quality": "1.000, 1.000",
-            "source": 24,
-            "target": 8,
+            "source": 54,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "fa:d1:11:a1:4d:8a-fa:d1:11:a1:4d:8a_0",
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:44:36",
+            "quality": "1.000, 1.000",
+            "source": 81,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:43:2c:ee",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:83:cc",
+            "quality": "1.000, 1.016",
+            "source": 7,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:44:36",
+            "quality": "1.000, 1.000",
+            "source": 81,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:cf:90-12:fe:ed:b0:cf:90_3",
             "quality": "TT",
-            "source": 16,
-            "target": 17,
+            "source": 121,
+            "target": 125,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:41:92:c0-c0:ff:ee:ba:be:01",
+            "id": "12:fe:ed:b0:cf:90-12:fe:ed:b0:cf:90_2",
+            "quality": "TT",
+            "source": 121,
+            "target": 124,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:b0:cf:90-12:fe:ed:b0:cf:90_1",
+            "quality": "TT",
+            "source": 121,
+            "target": 123,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:43:2e:90",
             "quality": "1.000, 1.000",
-            "source": 36,
-            "target": 8,
+            "source": 19,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:b8",
+            "id": "12:fe:ed:2c:98:58-c0:ff:ee:ba:be:01",
             "quality": "1.000, 1.000",
-            "source": 62,
-            "target": 8,
+            "source": 3,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:2c",
-            "quality": "1.000, 1.000",
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:43:2f:3a",
+            "quality": "1.000, 1.016",
             "source": 50,
-            "target": 8,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:7d:a2:44-12:fe:ed:7d:a2:44_1",
-            "quality": "TT",
-            "source": 4,
-            "target": 35,
-            "type": "client"
-        },
-        {
-            "id": "66:70:02:68:85:32-66:70:02:68:85:32_0",
-            "quality": "TT",
-            "source": 31,
-            "target": 32,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:fb:a4:50-c0:ff:ee:ba:be:01",
-            "quality": "1.000, 1.000",
-            "source": 6,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:6c",
-            "quality": "1.000, 1.000",
-            "source": 23,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "66:66:b3:42:0b:2e-c0:ff:ee:ba:be:01",
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:42:9a",
             "quality": "1.000, 1.000",
             "source": 5,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "c2:4a:00:a1:43:be-c2:4a:00:a1:43:be_0",
-            "quality": "TT",
-            "source": 56,
-            "target": 57,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:7c:81:6c-12:fe:ed:7c:81:6c_0",
-            "quality": "TT",
-            "source": 39,
-            "target": 40,
-            "type": "client"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:57:52",
-            "quality": "1.000, 1.000",
-            "source": 11,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "66:66:b3:9c:c4:b0-c2:4a:00:84:54:96",
-            "quality": "1.441, 1.275",
-            "source": 44,
-            "target": 18,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:41:99:64-12:fe:ed:41:99:64_0",
-            "quality": "TT",
-            "source": 24,
-            "target": 25,
-            "type": "client"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:72",
-            "quality": "1.000, 1.000",
-            "source": 21,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:be",
-            "quality": "1.000, 1.000",
-            "source": 56,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:7d:a2:44-c2:4a:00:a0:43:ec",
-            "quality": "1.104, 1.114",
-            "source": 47,
-            "target": 4,
-            "type": null
-        },
-        {
-            "id": "66:66:b3:9c:c4:b0-66:66:b3:9c:c4:b0_0",
-            "quality": "TT",
-            "source": 18,
-            "target": 19,
-            "type": "client"
-        },
-        {
-            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:7e:b4",
-            "quality": "1.000, 1.000",
-            "source": 13,
-            "target": 8,
+            "target": 14,
             "type": "vpn"
         },
         {
             "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:bc",
             "quality": "1.000, 1.000",
-            "source": 26,
-            "target": 8,
+            "source": 62,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "c2:4a:00:85:54:b8-c2:4a:00:85:54:b8_0",
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:85:54:b8",
+            "quality": "1.000, 1.000",
+            "source": 132,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:42:2e:14-c2:4a:00:a0:43:4c",
+            "quality": "1.037, 1.000",
+            "source": 141,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:7e:b4",
+            "quality": "1.000, 1.000",
+            "source": 25,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:41:9f:32-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 22,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:41:9f:32-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 22,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:63:b2:38-c2:4a:00:63:b2:38_2",
+            "quality": "TT",
+            "source": 57,
+            "target": 60,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-12:fe:ed:7c:1e:fa_3",
+            "quality": "TT",
+            "source": 95,
+            "target": 99,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-12:fe:ed:7c:1e:fa_2",
+            "quality": "TT",
+            "source": 95,
+            "target": 98,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-12:fe:ed:7c:1e:fa_1",
+            "quality": "TT",
+            "source": 95,
+            "target": 97,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:1e:fa-12:fe:ed:7c:1e:fa_0",
+            "quality": "TT",
+            "source": 95,
+            "target": 96,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:81:6c-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 85,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:7c:81:6c-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 85,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fc:22-12:fe:ed:f5:fc:22_0",
+            "quality": "TT",
+            "source": 20,
+            "target": 21,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:85:54:b8-c2:4a:00:85:54:b8_2",
+            "quality": "TT",
+            "source": 132,
+            "target": 135,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:85:54:b8-c2:4a:00:85:54:b8_1",
+            "quality": "TT",
+            "source": 132,
+            "target": 134,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:43:2f:12-c2:4a:00:43:2f:12_0",
+            "quality": "TT",
+            "source": 32,
+            "target": 33,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:9a",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:43:2b:40",
+            "quality": "1.003, 1.000",
+            "source": 86,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:63:b2:38",
+            "quality": "1.011, 1.016",
+            "source": 57,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:43:2f:12",
+            "quality": "1.011, 1.000",
+            "source": 32,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:b8",
+            "quality": "1.000, 1.000",
+            "source": 132,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:de:55:24-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 71,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:cf:90-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 121,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:cf:90-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 121,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fe:94-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 26,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fe:94-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 26,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:47:03:c4-c2:4a:00:47:03:c4_1",
+            "quality": "TT",
+            "source": 6,
+            "target": 65,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:83:2c",
+            "quality": "1.000, 1.000",
+            "source": 115,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_7",
+            "quality": "TT",
+            "source": 86,
+            "target": 94,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:50:03:20-66:66:b3:50:03:20_0",
+            "quality": "TT",
+            "source": 119,
+            "target": 120,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:63:b2:38",
+            "quality": "1.000, 1.000",
+            "source": 57,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:43:2f:32",
+            "quality": "1.000, 1.000",
+            "source": 68,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:83:18",
+            "quality": "1.000, 1.000",
+            "source": 41,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:43:2f:12",
+            "quality": "1.000, 1.000",
+            "source": 32,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_5",
+            "quality": "TT",
+            "source": 86,
+            "target": 92,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:53:83:3e-c2:4a:00:53:83:3e_0",
+            "quality": "TT",
+            "source": 34,
+            "target": 35,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:47:03:c4-ea:94:f6:69:b8:6a",
+            "quality": "1.000, 1.128",
+            "source": 72,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:54:83:bc-c2:4a:00:54:83:bc_0",
             "quality": "TT",
             "source": 62,
             "target": 63,
             "type": "client"
         },
         {
-            "id": "66:66:b3:4c:a1:2c-66:66:b3:9c:c4:b0",
-            "quality": "1.049, 1.094",
-            "source": 18,
-            "target": 2,
-            "type": null
+            "id": "12:fe:ed:f5:fc:22-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 14,
+            "type": "vpn"
         },
         {
-            "id": "12:fe:ed:7c:1e:fa-12:fe:ed:7c:1e:fa_0",
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:16",
+            "quality": "1.000, 1.016",
+            "source": 101,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:8e:70",
+            "quality": "1.000, 1.000",
+            "source": 73,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:42-c0:ff:ee:ba:be:42_0",
             "quality": "TT",
-            "source": 42,
-            "target": 43,
+            "source": 16,
+            "target": 17,
             "type": "client"
         },
         {
-            "id": "c2:4a:00:84:54:96-c2:4a:00:84:54:96_1",
+            "id": "c2:4a:00:43:2b:40-c2:4a:00:43:2b:40_1",
             "quality": "TT",
-            "source": 44,
+            "source": 86,
+            "target": 88,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:53:83:3e-c2:4a:00:53:83:cc",
+            "quality": "1.054, 1.067",
+            "source": 7,
+            "target": 34,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:56:10:dc-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 137,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:fb:a4:50-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:fb:a4:50-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:cf:90-12:fe:ed:b0:cf:90_4",
+            "quality": "TT",
+            "source": 121,
+            "target": 126,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:4c:a1:2c-c2:4a:00:42:2f:08",
+            "quality": "1.143, 1.992",
+            "source": 61,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:2c:50:aa-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 80,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:2c:50:aa-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 80,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:2c:98:58-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 3,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:85:54:ca",
+            "quality": "1.000, 1.032",
+            "source": 31,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:9c:c4:b0-66:66:b3:9c:c4:b0_0",
+            "quality": "TT",
+            "source": 45,
             "target": 46,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:7c:81:6c-c0:ff:ee:ba:be:01",
-            "quality": "1.036, 1.118",
+            "id": "12:fe:ed:f5:fc:f2-12:fe:ed:f5:fc:f2_0",
+            "quality": "TT",
             "source": 39,
-            "target": 8,
+            "target": 40,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:85:54:b8-c2:4a:00:85:54:b8_0",
+            "quality": "TT",
+            "source": 132,
+            "target": 133,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:b7:4b:c6-12:fe:ed:b7:4b:c6_0",
+            "quality": "TT",
+            "source": 66,
+            "target": 67,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:42:0b:2e-66:66:b3:42:0b:2e_0",
+            "quality": "TT",
+            "source": 127,
+            "target": 128,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:50:03:20-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 119,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:50:03:20-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 119,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:43:2c:ee",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:0b:cc:ec",
+            "quality": "1.000, 1.000",
+            "source": 70,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:f2",
+            "quality": "1.000, 1.000",
+            "source": 36,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:43:2f:3a-c2:4a:00:43:2f:3a_0",
+            "quality": "TT",
+            "source": 50,
+            "target": 51,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fc:f2-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 39,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fc:f2-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 39,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:4d:a1:2c-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:42:82",
+            "quality": "1.000, 1.000",
+            "source": 140,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:a1:43:4c",
+            "quality": "1.000, 1.016",
+            "source": 9,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:a1:44:36-c2:4a:00:a1:44:36_1",
+            "quality": "TT",
+            "source": 81,
+            "target": 83,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:a1:44:36-c2:4a:00:a1:44:36_0",
+            "quality": "TT",
+            "source": 81,
+            "target": 82,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:43:2e:90",
+            "quality": "1.000, 1.000",
+            "source": 19,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:a7:62-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 56,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b0:a7:62-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 56,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b8:5a:dc-12:fe:ed:b8:5a:dc_0",
+            "quality": "TT",
+            "source": 129,
+            "target": 130,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:57:52",
+            "quality": "1.000, 1.000",
+            "source": 23,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c0:ff:ee:ba:be:02_0",
+            "quality": "TT",
+            "source": 14,
+            "target": 15,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:f5:ff:d4-c0:ff:ee:ba:be:01",
+            "quality": "1.015, 1.000",
+            "source": 77,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fb:36-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:fa:a4:4f-c2:4a:00:a0:44:14",
+            "quality": "1.133, 1.004",
+            "source": 11,
+            "target": 106,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:a1:42:16-c2:4a:00:a1:42:16_1",
+            "quality": "TT",
+            "source": 101,
+            "target": 103,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:a1:42:f2-c2:4a:00:a1:42:f2_0",
+            "quality": "TT",
+            "source": 36,
+            "target": 37,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:83:b6",
+            "quality": "1.000, 1.000",
+            "source": 136,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:e4:1e-12:fe:ed:f5:e4:1e_0",
+            "quality": "TT",
+            "source": 52,
+            "target": 53,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:f4:e6:e0-12:fe:ed:f4:e6:e0_0",
+            "quality": "TT",
+            "source": 108,
+            "target": 109,
+            "type": "client"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:54:7e:b4",
+            "quality": "1.000, 1.000",
+            "source": 25,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:2b:98:58-12:fe:ed:b7:4b:c6",
+            "quality": "1.000, 1.016",
+            "source": 66,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:85:54:f4",
+            "quality": "1.000, 1.000",
+            "source": 24,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:2c",
+            "quality": "1.000, 1.000",
+            "source": 115,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:f5:fb:1e-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.000",
+            "source": 111,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:a1:42:16-c2:4a:00:a1:42:16_0",
+            "quality": "TT",
+            "source": 101,
+            "target": 102,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:f4:e6:e0-66:66:b3:9a:93:c6",
+            "quality": "1.016, 1.012",
+            "source": 10,
+            "target": 108,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:f5:fb:1e-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.000",
+            "source": 111,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:56:10:dc-12:fe:ed:56:10:dc_0",
+            "quality": "TT",
+            "source": 137,
+            "target": 138,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:42:0b:2e-c0:ff:ee:ba:be:02",
+            "quality": "1.000, 1.032",
+            "source": 127,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:42:0b:2e-c0:ff:ee:ba:be:01",
+            "quality": "1.000, 1.049",
+            "source": 127,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:42:f2",
+            "quality": "1.000, 1.000",
+            "source": 36,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:a1:43:52",
+            "quality": "1.000, 1.000",
+            "source": 79,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "c0:ff:ee:ba:be:01-c2:4a:00:54:83:6c",
+            "quality": "1.000, 1.000",
+            "source": 48,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:54:83:18-c2:4a:00:54:83:18_0",
+            "quality": "TT",
+            "source": 41,
+            "target": 42,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:9c:c4:b0-c2:4a:00:84:54:96",
+            "quality": "1.474, 1.483",
+            "source": 105,
+            "target": 45,
+            "type": null
+        },
+        {
+            "id": "c0:ff:ee:ba:be:02-c2:4a:00:85:54:f4",
+            "quality": "1.000, 1.000",
+            "source": 24,
+            "target": 14,
             "type": "vpn"
         }
     ],
     "meta": {
-        "timestamp": "2014-03-13T23:54:07"
+        "timestamp": "2014-04-25T15:39:09"
     },
     "nodes": [
         {
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "legacy": true,
-                "online": true
-            },
-            "geo": [
-                51.72476861866662,
-                8.736340999603271
-            ],
-            "id": "fa:1a:67:5a:f2:aa",
-            "macs": "f8:1a:67:5a:f2:aa, fa:1a:67:5b:f2:aa, fa:1a:67:5a:f2:aa",
-            "name": "mai-kel"
-        },
-        {
-            "firmware": "iOS 8.3 (HIMEM.SYS loaded)",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "legacy": true,
-                "online": true
-            },
-            "geo": [
-                51.706315926814725,
-                8.75708520412445
-            ],
-            "id": "c0:ff:ee:ba:be:42",
-            "macs": "c0:ff:ee:ba:be:42, 96:b4:d9:cf:89:47",
-            "name": "morannon"
-        },
-        {
-            "firmware": "0.3.99-experimental20140205",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.721529,
-                8.75672
+                51.721528642314,
+                8.7567204236984
             ],
-            "id": "66:66:b3:4d:a1:2c",
+            "id": "66:66:b3:4c:a1:2c",
             "macs": "66:66:b3:4c:a1:2c, 64:66:b3:4c:a1:2c, 66:66:b3:4d:a1:2c",
             "name": "Bommel"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.806383,
-                8.832364
+                51.764932,
+                8.786134
             ],
-            "id": "12:fe:ed:af:a7:62",
-            "macs": "12:fe:ed:b0:a7:62, 10:fe:ed:af:a7:62, 12:fe:ed:af:a7:62",
-            "name": "spkl01"
+            "id": "26:a4:3c:94:bd:b4",
+            "macs": "26:a4:3c:95:bd:b4, 26:a4:3c:94:bd:b4, 24:a4:3c:94:bd:b4",
+            "name": "lupata-2"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.687830208553,
+                8.6939889192581
+            ],
+            "id": "c2:4a:00:42:2c:ee",
+            "macs": "c2:4a:00:42:2c:ee, c2:4a:00:43:2c:ee, c0:4a:00:42:2c:ee",
+            "name": "Callisto"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:2b:98:58",
+            "macs": "10:fe:ed:2b:98:58, 12:fe:ed:2b:98:58, 12:fe:ed:2c:98:58",
+            "name": "freifunk-MaisachBY1"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.68787,
+                8.6942
+            ],
+            "id": "12:fe:ed:f4:fb:36",
+            "macs": "10:fe:ed:f4:fb:36, 12:fe:ed:f5:fb:36, 12:fe:ed:f4:fb:36",
+            "name": "RoterOktober"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.73479612000067,
+                8.744291067123411
+            ],
+            "id": "c2:4a:00:a0:42:9a",
+            "macs": "c2:4a:00:a0:42:9a, c0:4a:00:a0:42:9a, c2:4a:00:a1:42:9a",
+            "name": "Sandweg01"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.756232490267,
+                8.7291955947876
+            ],
+            "id": "c2:4a:00:47:03:c4",
+            "macs": "c2:4a:00:47:03:c4, c0:4a:00:47:03:c4, c2:4a:00:48:03:c4",
+            "name": "freifunk-mastbruch-michaelis"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.808047581215575,
+                8.842309713363647
+            ],
+            "id": "c2:4a:00:53:83:cc",
+            "macs": "c2:4a:00:53:83:cc, c2:4a:00:54:83:cc, c0:4a:00:53:83:cc",
+            "name": "snakenet04"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -524,22 +1580,37 @@
             "name": "fex"
         },
         {
-            "firmware": "0.3.999-exp20140309",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.737165,
-                8.677225
+                51.70799133781,
+                8.7679427862167
             ],
-            "id": "66:66:b3:41:0b:2e",
-            "macs": "66:66:b3:42:0b:2e, 66:66:b3:41:0b:2e, 64:66:b3:41:0b:2e",
-            "name": "thardes2"
+            "id": "c2:4a:00:a0:43:4c",
+            "macs": "c0:4a:00:a0:43:4c, c2:4a:00:a0:43:4c, c2:4a:00:a1:43:4c",
+            "name": "eifunk"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.805122060748374,
+                8.837422728538513
+            ],
+            "id": "66:66:b3:9a:93:c6",
+            "macs": "66:66:b3:9b:93:c6, 64:66:b3:9a:93:c6, 66:66:b3:9a:93:c6",
+            "name": "snakenet01"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -556,18 +1627,6 @@
         {
             "firmware": null,
             "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "fa:1a:67:5a:f2:aa_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": null,
-            "flags": {
                 "client": false,
                 "gateway": true,
                 "legacy": true,
@@ -576,7 +1635,7 @@
             "geo": null,
             "id": "c0:ff:ee:ba:be:01",
             "macs": "c0:ff:ee:ba:be:01",
-            "name": "Gateway des C3PB e.V."
+            "name": "Gateway 1 des C3PB e.V."
         },
         {
             "firmware": null,
@@ -591,136 +1650,360 @@
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": true,
+                "legacy": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:ff:ee:ba:be:02",
+            "macs": "c0:ff:ee:ba:be:02",
+            "name": "Gateway 2 des C3PB e.V."
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:ff:ee:ba:be:02_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "legacy": true,
+                "online": true
+            },
+            "geo": [
+                51.706315926814725,
+                8.75708520412445
+            ],
+            "id": "c0:ff:ee:ba:be:42",
+            "macs": "c0:ff:ee:ba:be:42",
+            "name": "morannon"
+        },
+        {
+            "firmware": "iOS 8.3 (HIMEM.SYS loaded)",
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:ff:ee:ba:be:42_0",
+            "macs": "",
+            "name": "morannon"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.717245,
-                8.743325
+                51.71724487103152,
+                8.743325471878052
             ],
             "id": "66:66:b3:41:d3:58",
             "macs": "64:66:b3:40:d3:58, 66:66:b3:41:d3:58",
             "name": "Demokratische_Initiative_Paderborn"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2e:90",
+            "macs": "c0:4a:00:42:2e:90, c2:4a:00:43:2e:90",
+            "name": "carlos"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.654956,
-                8.721455
+                51.72941,
+                8.76636
+            ],
+            "id": "12:fe:ed:f5:fc:22",
+            "macs": "10:fe:ed:f4:fc:22, 12:fe:ed:f5:fc:22",
+            "name": "freifunk-10feedf4fc22"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:f5:fc:22_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.70946724370671,
+                8.766864538192749
+            ],
+            "id": "12:fe:ed:41:9f:32",
+            "macs": "12:fe:ed:41:9f:32, 10:fe:ed:40:9f:32",
+            "name": "arndot"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.654879898753,
+                8.7212777137756
             ],
             "id": "c2:4a:00:a1:57:52",
             "macs": "c2:4a:00:a1:57:52, c0:4a:00:a0:57:52",
             "name": "sesamfunk"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.818597,
-                8.670058
+                51.81859711582744,
+                8.670058250427246
             ],
             "id": "c2:4a:00:85:54:f4",
             "macs": "c2:4a:00:85:54:f4, c0:4a:00:84:54:f4",
             "name": "sofortkauf24"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.805527,
-                8.831023
+                51.80552673589234,
+                8.831022977828978
             ],
             "id": "c2:4a:00:54:7e:b4",
             "macs": "c2:4a:00:54:7e:b4, c0:4a:00:53:7e:b4",
             "name": "snakenet05"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.71888,
-                8.77826
+                51.747622407563,
+                8.7154787778854
             ],
-            "id": "c2:4a:00:a1:43:8a",
-            "macs": "c2:4a:00:a1:43:8a, c0:4a:00:a0:43:8a",
-            "name": "fxk8y"
+            "id": "12:fe:ed:f5:fe:94",
+            "macs": "12:fe:ed:f5:fe:94, 10:fe:ed:f4:fe:94",
+            "name": "Fava_Ambiente"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:f5:fe:94_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:f5:fe:94_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:f5:fe:94_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.713559,
-                8.751892
+                51.72476861866662,
+                8.736340999603271
             ],
+            "id": "fa:1a:67:5b:f2:aa",
+            "macs": "f8:1a:67:5a:f2:aa, fa:1a:67:5b:f2:aa",
+            "name": "mai-kel"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.713269030828904,
+                8.767105937004088
+            ],
+            "id": "c2:4a:00:85:54:ca",
+            "macs": "c0:4a:00:84:54:ca, c2:4a:00:85:54:ca",
+            "name": "Rewehaus"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.722522,
+                8.7424971
+            ],
+            "id": "c2:4a:00:43:2f:12",
+            "macs": "c2:4a:00:43:2f:12, c0:4a:00:42:2f:12",
+            "name": "Freifunk_von_Bitpage.de_dem_Technikblog"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2f:12_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.808107283737925,
+                8.842116594314575
+            ],
+            "id": "c2:4a:00:53:83:3e",
+            "macs": "c0:4a:00:53:83:3e, c2:4a:00:53:83:3e",
+            "name": "snakenet07"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:53:83:3e_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
             "id": "c2:4a:00:a1:42:f2",
             "macs": "c0:4a:00:a0:42:f2, c2:4a:00:a1:42:f2",
             "name": "KarlSpot2"
         },
         {
-            "firmware": "0.3.999-exp20140225",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:42:f2_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.765117596400174,
-                8.785935044288635
+                51.765058,
+                8.785903
             ],
-            "id": "fa:d1:11:a1:4d:8a",
-            "macs": "f8:d1:11:a0:4d:8a, fa:d1:11:a1:4d:8a",
+            "id": "fa:d1:11:a0:4d:8a",
+            "macs": "f8:d1:11:a0:4d:8a, fa:d1:11:a0:4d:8a",
             "name": "lupata"
         },
         {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "fa:d1:11:a1:4d:8a_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": "0.3.99-experimental20140205",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.721572,
-                8.756645
+                51.712839928934,
+                8.7491619586945
             ],
-            "id": "66:66:b3:9c:c4:b0",
-            "macs": "64:66:b3:9c:c4:b0, 66:66:b3:9c:c4:b0",
-            "name": "Svenja"
+            "id": "12:fe:ed:f5:fc:f2",
+            "macs": "12:fe:ed:f5:fc:f2, 10:fe:ed:f4:fc:f2",
+            "name": "Telehupe"
         },
         {
             "firmware": null,
@@ -730,11 +2013,26 @@
                 "online": true
             },
             "geo": null,
-            "id": "66:66:b3:9c:c4:b0_0",
+            "id": "12:fe:ed:f5:fc:f2_0",
             "macs": "",
             "name": ""
         },
         {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.71585,
+                8.756833
+            ],
+            "id": "c2:4a:00:54:83:18",
+            "macs": "c2:4a:00:54:83:18, c0:4a:00:53:83:18",
+            "name": "LiboriEck1"
+        },
+        {
             "firmware": null,
             "flags": {
                 "client": true,
@@ -742,7 +2040,7 @@
                 "online": true
             },
             "geo": null,
-            "id": "66:66:b3:9c:c4:b0_1",
+            "id": "c2:4a:00:54:83:18_0",
             "macs": "",
             "name": ""
         },
@@ -762,45 +2060,150 @@
             "name": "knaup01"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
                 "online": true
             },
-            "geo": [
-                51.734796,
-                8.744291
-            ],
-            "id": "c2:4a:00:a1:42:9a",
-            "macs": "c0:4a:00:a0:42:9a, c2:4a:00:a1:42:9a",
-            "name": "Sandweg01"
+            "geo": null,
+            "id": "c2:4a:00:85:54:72_0",
+            "macs": "",
+            "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.803732,
-                8.821619
+                51.721571843526,
+                8.756645321846
+            ],
+            "id": "66:66:b3:9c:c4:b0",
+            "macs": "64:66:b3:9c:c4:b0, 66:66:b3:9c:c4:b0",
+            "name": "Svenja"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "66:66:b3:9c:c4:b0_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.71134640553031,
+                8.726116418838501
+            ],
+            "id": "56:e6:fc:dd:cd:8e",
+            "macs": "56:e6:fc:dd:cd:8e, 54:e6:fc:dc:cd:8e",
+            "name": "Ahorn"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.80373220615603,
+                8.821619153022766
             ],
             "id": "c2:4a:00:54:83:6c",
             "macs": "c2:4a:00:54:83:6c, c0:4a:00:53:83:6c",
             "name": "snakenet06"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:54:83:6c_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.3.999-exp20140325",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.714674,
-                8.765545
+                51.706772460283,
+                8.7785965204239
+            ],
+            "id": "c2:4a:00:43:2f:3a",
+            "macs": "c2:4a:00:43:2f:3a, c0:4a:00:42:2f:3a",
+            "name": "kakrafoon"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2f:3a_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.7230918,
+                8.7416128
+            ],
+            "id": "12:fe:ed:f5:e4:1e",
+            "macs": "12:fe:ed:f5:e4:1e, 10:fe:ed:f4:e4:1e",
+            "name": "freifunk-10feedf4e41e"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:f5:e4:1e_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.3.999-exp20140416",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.7147,
+                8.76547
             ],
             "id": "12:fe:ed:41:99:64",
             "macs": "10:fe:ed:40:99:64, 12:fe:ed:41:99:64",
@@ -819,7 +2222,88 @@
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.80638582927853,
+                8.832369446754456
+            ],
+            "id": "12:fe:ed:b0:a7:62",
+            "macs": "12:fe:ed:b0:a7:62, 10:fe:ed:af:a7:62",
+            "name": "spkl01"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.714513990424116,
+                8.752289414405823
+            ],
+            "id": "c2:4a:00:63:b2:38",
+            "macs": "c0:4a:00:62:b2:38, c2:4a:00:63:b2:38",
+            "name": "leoloewe"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:63:b2:38_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:63:b2:38_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:63:b2:38_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.72184356711229,
+                8.757138848304749
+            ],
+            "id": "c2:4a:00:42:2f:08",
+            "macs": "c2:4a:00:42:2f:08, c0:4a:00:42:2f:08",
+            "name": "Pizza_Toni"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -846,115 +2330,148 @@
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140309",
+            "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
                 "online": true
             },
-            "geo": [
-                51.73747,
-                8.677863
-            ],
-            "id": "66:66:b3:40:e8:20",
-            "macs": "64:66:b3:40:e8:20, 66:66:b3:40:e8:20",
-            "name": "lulu1"
+            "geo": null,
+            "id": "c2:4a:00:47:03:c4_0",
+            "macs": "",
+            "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
                 "online": true
             },
-            "geo": [
-                51.808048,
-                8.84231
-            ],
-            "id": "c2:4a:00:54:83:cc",
-            "macs": "c2:4a:00:54:83:cc, c0:4a:00:53:83:cc",
-            "name": "snakenet04"
+            "geo": null,
+            "id": "c2:4a:00:47:03:c4_1",
+            "macs": "",
+            "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b7:4b:c6",
+            "macs": "12:fe:ed:b7:4b:c6, 10:fe:ed:b7:4b:c6",
+            "name": "freifunk-MaisachBY2"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b7:4b:c6_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.820219,
-                8.675058
+                51.7163630306,
+                8.740697
+            ],
+            "id": "c2:4a:00:43:2f:32",
+            "macs": "c2:4a:00:43:2f:32, c0:4a:00:42:2f:32",
+            "name": "Calippo"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2f:32_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.666667,
+                8.833333
+            ],
+            "id": "c2:4a:00:0b:cc:ec",
+            "macs": "c0:4a:00:0a:cc:ec, c2:4a:00:0b:cc:ec",
+            "name": "freifunk-doerenhagen"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.820218626613475,
+                8.675047159194946
             ],
             "id": "12:fe:ed:de:55:24",
             "macs": "10:fe:ed:dd:55:24, 12:fe:ed:de:55:24",
             "name": "Shelbyville"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.709494,
-                8.763653
+                51.75602,
+                8.72889
             ],
-            "id": "66:70:02:68:85:32",
-            "macs": "66:70:02:68:85:32, 64:70:02:67:85:32",
-            "name": "tioan"
+            "id": "ea:94:f6:69:b8:6a",
+            "macs": "ea:94:f6:69:b8:6a, e8:94:f6:69:b8:6a",
+            "name": "freifunk-mastbruch-michaelis-outdoor"
         },
         {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "66:70:02:68:85:32_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": [
-                51.806396,
-                8.832638
-            ],
-            "id": "66:66:b3:4c:8a:66",
-            "macs": "66:66:b3:4c:8a:66, 64:66:b3:4c:8a:66",
-            "name": "spkl02"
+            "geo": null,
+            "id": "c2:4a:00:a1:8e:70",
+            "macs": "c2:4a:00:a1:8e:70, c0:4a:00:a0:8e:70",
+            "name": "ffpb-dev"
         },
         {
-            "firmware": null,
+            "firmware": "0.4~beta1",
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "12:fe:ed:7d:a2:44_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:7d:a2:44_1",
-            "macs": "",
-            "name": ""
+            "id": "c2:4a:00:a1:43:c0",
+            "macs": "c2:4a:00:a1:43:c0, c0:4a:00:a0:43:c0",
+            "name": "Grevestrasse9"
         },
         {
             "firmware": "0.3.999-exp20140219",
@@ -964,27 +2481,96 @@
                 "online": true
             },
             "geo": [
-                51.70939,
-                8.76644
+                51.762948,
+                8.664541
             ],
-            "id": "12:fe:ed:41:92:c0",
-            "macs": "10:fe:ed:40:92:c0, 12:fe:ed:41:92:c0",
-            "name": "pirat1"
+            "id": "c2:4a:00:a1:43:c6",
+            "macs": "c0:4a:00:a0:43:c6, c2:4a:00:a1:43:c6",
+            "name": "sandhase"
         },
         {
-            "firmware": "0.3.999-exp20140309",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.737284,
-                8.677375
+                51.709637,
+                8.792253
             ],
-            "id": "12:fe:ed:f4:cd:9a",
-            "macs": "10:fe:ed:f4:cd:9a, 12:fe:ed:f4:cd:9a",
-            "name": "thardes2_02"
+            "id": "12:fe:ed:f5:e7:b6",
+            "macs": "10:fe:ed:f4:e7:b6, 12:fe:ed:f5:e7:b6",
+            "name": "Grundfunk"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.721096627924,
+                8.755561709404
+            ],
+            "id": "12:fe:ed:f5:ff:d4",
+            "macs": "12:fe:ed:f5:ff:d4, 10:fe:ed:f4:ff:d4",
+            "name": "heft"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.73517152664795,
+                8.74433398246765
+            ],
+            "id": "c2:4a:00:a0:44:16",
+            "macs": "c2:4a:00:a0:44:16, c0:4a:00:a0:44:16",
+            "name": "Sandweg02"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:43:52",
+            "macs": "c2:4a:00:a1:43:52, c0:4a:00:a0:43:52",
+            "name": "geseke_01"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.764939424465,
+                8.5632258653641
+            ],
+            "id": "12:fe:ed:2c:50:aa",
+            "macs": "10:fe:ed:2b:50:aa, 12:fe:ed:2c:50:aa",
+            "name": "freifunk-delbrueck"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:44:36",
+            "macs": "c0:4a:00:a0:44:36, c2:4a:00:a1:44:36",
+            "name": "FES_FFGW03"
         },
         {
             "firmware": null,
@@ -994,59 +2580,173 @@
                 "online": true
             },
             "geo": null,
-            "id": "12:fe:ed:f4:cd:9a_0",
+            "id": "c2:4a:00:a1:44:36_0",
             "macs": "",
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140309",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:44:36_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.757435,
-                8.664656
+                51.637568421235,
+                8.5093724727631
+            ],
+            "id": "c2:4a:00:63:b3:2a",
+            "macs": "c2:4a:00:63:b3:2a, c0:4a:00:62:b3:2a",
+            "name": "geseke_02"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.75743785941046,
+                8.66491913795471
             ],
             "id": "12:fe:ed:7c:81:6c",
             "macs": "10:fe:ed:7b:81:6c, 12:fe:ed:7c:81:6c",
             "name": "snowball"
         },
         {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:7c:81:6c_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:7c:81:6c_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.716432,
-                8.751699
+                51.717156244619,
+                8.7513506412506
+            ],
+            "id": "c2:4a:00:43:2b:40",
+            "macs": "c2:4a:00:43:2b:40, c0:4a:00:42:2b:40",
+            "name": "Eiscafe_Artusa"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_3",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_4",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_5",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_6",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:43:2b:40_7",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.71635084430507,
+                8.751747608184814
             ],
             "id": "12:fe:ed:7c:1e:fa",
             "macs": "12:fe:ed:7c:1e:fa, 10:fe:ed:7b:1e:fa",
@@ -1065,15 +2765,117 @@
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:7c:1e:fa_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:7c:1e:fa_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:7c:1e:fa_3",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:7c:1e:fa_4",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.721728,
-                8.756774
+                51.71752182738123,
+                8.751388192176819
+            ],
+            "id": "c2:4a:00:a1:42:16",
+            "macs": "c2:4a:00:a1:42:16, c0:4a:00:a0:42:16",
+            "name": "www.obere-etage.de_3"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:42:16_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:42:16_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.75598,
+                8.73049
+            ],
+            "id": "ea:94:f6:69:8c:a2",
+            "macs": "ea:94:f6:69:8c:a2, e8:94:f6:69:8c:a2",
+            "name": "freifunk-mastbruch-michaelis-sued"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.72172803217882,
+                8.756774067878723
             ],
             "id": "c2:4a:00:84:54:96",
             "macs": "c0:4a:00:84:54:96, c2:4a:00:84:54:96",
@@ -1082,13 +2884,13 @@
         {
             "firmware": null,
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "c2:4a:00:84:54:96_0",
-            "macs": "",
+            "id": "c2:4a:00:a0:44:14",
+            "macs": "c0:4a:00:a0:44:14, c2:4a:00:a0:44:14",
             "name": ""
         },
         {
@@ -1099,41 +2901,80 @@
                 "online": true
             },
             "geo": null,
-            "id": "c2:4a:00:84:54:96_1",
+            "id": "c2:4a:00:a0:44:14_0",
             "macs": "",
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.754301,
-                8.712443
+                51.805291228668,
+                8.837326169014
             ],
+            "id": "12:fe:ed:f4:e6:e0",
+            "macs": "12:fe:ed:f4:e6:e0, 10:fe:ed:f4:e6:e0",
+            "name": "snakenet02"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:f4:e6:e0_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.734421817626,
+                8.7473541498184
+            ],
+            "id": "12:fe:ed:f5:e5:f4",
+            "macs": "12:fe:ed:f5:e5:f4, 10:fe:ed:f4:e5:f4",
+            "name": "freifunk-erlenweg1"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.712323627471,
+                8.7652069330215
+            ],
+            "id": "12:fe:ed:f5:fb:1e",
+            "macs": "10:fe:ed:f4:fb:1e, 12:fe:ed:f5:fb:1e",
+            "name": "Die_PARTEI"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
             "id": "c2:4a:00:a0:43:ec",
             "macs": "c2:4a:00:a0:43:ec, c0:4a:00:a0:43:ec",
             "name": "fex-mesher"
         },
         {
-            "firmware": "0.3.99-experimental20140205",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.745509,
-                8.772148
-            ],
-            "id": "76:ea:3a:bf:21:82",
-            "macs": "74:ea:3a:be:21:82, 76:ea:3a:bf:21:82",
-            "name": "PandinusImperator"
-        },
-        {
             "firmware": null,
             "flags": {
                 "client": true,
@@ -1141,12 +2982,27 @@
                 "online": true
             },
             "geo": null,
-            "id": "76:ea:3a:bf:21:82_0",
+            "id": "c2:4a:00:a0:43:ec_0",
             "macs": "",
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.81934,
+                8.66318
+            ],
+            "id": "12:fe:ed:56:11:50",
+            "macs": "12:fe:ed:56:11:50, 10:fe:ed:55:11:50",
+            "name": "www.Bitpage.de_Technikblog_Zugang_Hoevelhof"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1158,15 +3014,51 @@
             "name": "ffpb-demo2"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": "0.3.999-exp20140325",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:43:58",
+            "macs": "c2:4a:00:a1:43:58, c0:4a:00:a0:43:58",
+            "name": "FES_FFGW02"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:a1:43:58_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "66:66:b3:9a:93:c6_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.706745,
-                8.776161
+                51.706744758156496,
+                8.776161074638367
             ],
             "id": "66:66:b3:50:03:20",
             "macs": "64:66:b3:4f:03:20, 66:66:b3:50:03:20",
@@ -1185,76 +3077,7 @@
             "name": ""
         },
         {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "66:66:b3:50:03:20_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": "0.3.999-exp20140219",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.805122,
-                8.837423
-            ],
-            "id": "66:66:b3:9b:93:c6",
-            "macs": "66:66:b3:9b:93:c6, 64:66:b3:9a:93:c6",
-            "name": "snakenet01"
-        },
-        {
-            "firmware": "0.3.999-exp20140219",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.707927,
-                8.767737
-            ],
-            "id": "c2:4a:00:a1:43:4c",
-            "macs": "c0:4a:00:a0:43:4c, c2:4a:00:a1:43:4c",
-            "name": "eifunk"
-        },
-        {
-            "firmware": "0.3.999-exp20140219",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.555974,
-                8.556413
-            ],
-            "id": "c2:4a:00:a1:43:be",
-            "macs": "c0:4a:00:a0:43:be, c2:4a:00:a1:43:be",
-            "name": "FES_FFGW01"
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "c2:4a:00:a1:43:be_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "firmware": "0.3.999-exp20140225",
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1276,7 +3099,7 @@
                 "online": true
             },
             "geo": null,
-            "id": "66:66:b3:41:0b:2e_0",
+            "id": "12:fe:ed:b0:cf:90_0",
             "macs": "",
             "name": ""
         },
@@ -1288,27 +3111,111 @@
                 "online": true
             },
             "geo": null,
-            "id": "66:66:b3:fa:a4:4f_0",
+            "id": "12:fe:ed:b0:cf:90_1",
             "macs": "",
             "name": ""
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b0:cf:90_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b0:cf:90_3",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b0:cf:90_4",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.804903,
-                8.840148
+                51.737165,
+                8.677225
             ],
-            "id": "c2:4a:00:54:83:b6",
-            "macs": "c0:4a:00:53:83:b6, c2:4a:00:54:83:b6",
-            "name": "snakenet03"
+            "id": "66:66:b3:42:0b:2e",
+            "macs": "66:66:b3:42:0b:2e, 64:66:b3:41:0b:2e",
+            "name": "thardes2"
         },
         {
-            "firmware": "0.3.999-exp20140219",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "66:66:b3:42:0b:2e_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b8:5a:dc",
+            "macs": "12:fe:ed:b8:5a:dc, 10:fe:ed:b7:5a:dc",
+            "name": "foobar-freifunk"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:b8:5a:dc_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "66:70:02:ab:bc:76",
+            "macs": "64:70:02:aa:bc:76, 66:70:02:ab:bc:76",
+            "name": "green"
+        },
+        {
+            "firmware": "0.4~beta1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1337,6 +3244,132 @@
         {
             "firmware": null,
             "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:85:54:b8_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c2:4a:00:85:54:b8_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.80490313661524,
+                8.840147852897642
+            ],
+            "id": "c2:4a:00:54:83:b6",
+            "macs": "c0:4a:00:53:83:b6, c2:4a:00:54:83:b6",
+            "name": "snakenet03"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.742429882776,
+                8.8277989625931
+            ],
+            "id": "12:fe:ed:56:10:dc",
+            "macs": "10:fe:ed:55:10:dc, 12:fe:ed:56:10:dc",
+            "name": "Skynet.Benhausen"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:56:10:dc_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.720476292334,
+                8.7500041723251
+            ],
+            "id": "12:fe:ed:ec:9a:4a",
+            "macs": "12:fe:ed:ec:9a:4a, 10:fe:ed:eb:9a:4a",
+            "name": "O"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.723698621385,
+                8.7562000751495
+            ],
+            "id": "c2:4a:00:a1:42:82",
+            "macs": "c2:4a:00:a1:42:82, c0:4a:00:a0:42:82",
+            "name": "NostroItaliano"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.708037876119,
+                8.7680339813232
+            ],
+            "id": "c2:4a:00:42:2e:14",
+            "macs": "c0:4a:00:42:2e:14, c2:4a:00:42:2e:14",
+            "name": "zweifunk"
+        },
+        {
+            "firmware": "0.4~beta1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.710839,
+                8.773109
+            ],
+            "id": "c2:4a:00:a1:42:c8",
+            "macs": "c0:4a:00:a0:42:c8, c2:4a:00:a1:42:c8",
+            "name": "www.healthandfitstore.de"
+        },
+        {
+            "firmware": null,
+            "flags": {
                 "client": false,
                 "gateway": false,
                 "online": false
@@ -1348,6 +3381,264 @@
             "id": "02:27:22:2b:69:8d",
             "macs": "02:27:22:2b:69:8d",
             "name": "www.obere-etage.de_1"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.73728437668934,
+                8.677375316619873
+            ],
+            "id": "10:fe:ed:f4:cd:9a",
+            "macs": "10:fe:ed:f4:cd:9a",
+            "name": "thardes2_02"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:0b:32:7e",
+            "macs": "c0:4a:00:0b:32:7e",
+            "name": "ffpb-dev2"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "d8:5d:4c:d7:c4:42",
+            "macs": "d8:5d:4c:d7:c4:42",
+            "name": "spaceWay"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:f4:fb:02",
+            "macs": "10:fe:ed:f4:fb:02",
+            "name": "naddi"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:eb:99:ea",
+            "macs": "10:fe:ed:eb:99:ea",
+            "name": "DG1MLC"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:40:92:c0",
+            "macs": "10:fe:ed:40:92:c0",
+            "name": "pirat1"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:84:5c:ae",
+            "macs": "c0:4a:00:84:5c:ae",
+            "name": "L-UniCo.de-Campusradio"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.715787,
+                8.756908
+            ],
+            "id": "c0:4a:00:53:83:56",
+            "macs": "c0:4a:00:53:83:56",
+            "name": "LiboriEck2"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "76:ea:3a:e5:44:fc",
+            "macs": "76:ea:3a:e5:44:fc",
+            "name": "ffpb-demo1"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:84:55:60",
+            "macs": "c0:4a:00:84:55:60",
+            "name": "PiratenparteiPB-HerHde"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:eb:9a:fe",
+            "macs": "10:fe:ed:eb:9a:fe",
+            "name": "FES_FFGW05"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2e:e4",
+            "macs": "c0:4a:00:42:2e:e4",
+            "name": "Vogel42"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.73747040906799,
+                8.677863478660583
+            ],
+            "id": "64:66:b3:40:e8:20",
+            "macs": "64:66:b3:40:e8:20",
+            "name": "lulu1"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:84:57:2e",
+            "macs": "c0:4a:00:84:57:2e",
+            "name": "Braunsimbiss"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "66:66:b3:4c:8a:66",
+            "macs": "66:66:b3:4c:8a:66",
+            "name": "spkl02"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.69055859874523,
+                8.683367371559143
+            ],
+            "id": "10:fe:ed:2b:6b:92",
+            "macs": "10:fe:ed:2b:6b:92",
+            "name": "queaker"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.721763811475746,
+                8.756951093673704
+            ],
+            "id": "c0:4a:00:42:2e:d8",
+            "macs": "c0:4a:00:42:2e:d8",
+            "name": "Lenz"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.709494,
+                8.763653
+            ],
+            "id": "64:70:02:67:85:32",
+            "macs": "64:70:02:67:85:32",
+            "name": "tioan"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:a0:42:42",
+            "macs": "c0:4a:00:a0:42:42",
+            "name": "FES_FFGW04"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:8d:8c:06",
+            "macs": "c0:4a:00:8d:8c:06",
+            "name": "spaceMobileFF"
         },
         {
             "firmware": null,
@@ -1371,22 +3662,13 @@
                 "gateway": false,
                 "online": false
             },
-            "geo": null,
-            "id": "c0:4a:00:a0:44:36",
-            "macs": "c0:4a:00:a0:44:36",
-            "name": "FES_FFGW03"
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "c0:4a:00:a0:8e:70",
-            "macs": "c0:4a:00:a0:8e:70",
-            "name": "ffpb-dev"
+            "geo": [
+                51.71798378682651,
+                8.751763701438904
+            ],
+            "id": "00:27:22:14:c3:88",
+            "macs": "00:27:22:14:c3:88",
+            "name": "www.obere-etage.de_2"
         },
         {
             "firmware": null,
@@ -1425,49 +3707,13 @@
                 "gateway": false,
                 "online": false
             },
-            "geo": null,
-            "id": "c0:4a:00:a0:43:58",
-            "macs": "c0:4a:00:a0:43:58",
-            "name": "FES_FFGW02"
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "76:ea:3a:e5:44:fc",
-            "macs": "76:ea:3a:e5:44:fc",
-            "name": "ffpb-demo1"
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "co:4a:00:53:7e:b4",
-            "macs": "co:4a:00:53:7e:b4",
-            "name": "snakenet05"
-        },
-        {
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
             "geo": [
-                51.808107283737925,
-                8.842116594314575
+                51.55597438228396,
+                8.556413054466248
             ],
-            "id": "c0:4a:00:53:83:3e",
-            "macs": "c0:4a:00:53:83:3e",
-            "name": "snakenet07"
+            "id": "c0:4a:00:a0:43:be",
+            "macs": "c0:4a:00:a0:43:be",
+            "name": "FES_FFGW01"
         },
         {
             "firmware": null,
@@ -1476,13 +3722,22 @@
                 "gateway": false,
                 "online": false
             },
-            "geo": [
-                51.66915506187785,
-                8.731014132499693
-            ],
-            "id": "d8:5d:4c:d7:c4:42",
-            "macs": "d8:5d:4c:d7:c4:42",
-            "name": "space"
+            "geo": null,
+            "id": "10:fe:ed:f4:ff:3e",
+            "macs": "10:fe:ed:f4:ff:3e",
+            "name": "Freifunk-EastLand"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:a0:43:8a",
+            "macs": "c0:4a:00:a0:43:8a",
+            "name": "fxk8y"
         },
         {
             "firmware": null,
@@ -1507,9 +3762,21 @@
                 "online": false
             },
             "geo": null,
-            "id": "c0:4a:00:a0:42:42",
-            "macs": "c0:4a:00:a0:42:42",
-            "name": "FES_FFGW04"
+            "id": "10:fe:ed:f4:ff:ec",
+            "macs": "10:fe:ed:f4:ff:ec",
+            "name": "MMW9"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:f1:76:fc",
+            "macs": "10:fe:ed:f1:76:fc",
+            "name": "Internethure"
         },
         {
             "firmware": null,
@@ -1519,12 +3786,24 @@
                 "online": false
             },
             "geo": [
-                51.70946724370671,
-                8.766864538192749
+                51.745508933793104,
+                8.772148489952087
             ],
-            "id": "10:fe:ed:40:9f:32",
-            "macs": "10:fe:ed:40:9f:32",
-            "name": "arndot"
+            "id": "74:ea:3a:be:21:82",
+            "macs": "74:ea:3a:be:21:82",
+            "name": "PandinusImperator"
+        },
+        {
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:f4:ff:36",
+            "macs": "10:fe:ed:f4:ff:36",
+            "name": "FES_FFGW06"
         }
     ]
 }
