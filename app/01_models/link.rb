@@ -20,4 +20,16 @@ class Link
   def in_valid?
     !valid?
   end
+
+  def self.from_json(json)
+      Array(json[:links]).map do |it|
+        link_id = it[:id]
+        quality = it[:quality]
+        source  = it[:source]
+        target  = it[:target]
+        type    = it[:type]
+
+        new(link_id, quality, source, target, type)
+      end
+  end
 end

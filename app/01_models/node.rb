@@ -46,4 +46,16 @@ class Node
   def in_valid?
     !valid?
   end
+
+  def self.from_json(json)
+    Array(json[:nodes]).map do |it|
+      node_id = it[:id]
+      name    = it[:name]
+      geo     = it[:geo]
+      flags   = it[:flags]
+      macs    = it[:macs]
+
+      new(node_id, name, geo, flags, macs)
+    end
+  end
 end

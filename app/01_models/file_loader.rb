@@ -42,29 +42,11 @@ class FileLoader
   end
 
   def load_nodes
-    load_json do |json|
-      json[:nodes].map do |it|
-        node_id = it[:id]
-        name    = it[:name]
-        geo     = it[:geo]
-        flags   = it[:flags]
-        macs    = it[:macs]
-        Node.new(node_id, name, geo, flags, macs)
-      end
-    end
+    load_json { |json| Node.from_json(json) }
   end
 
   def load_links
-    load_json do |json|
-      (json[:links] || []).map do |it|
-        link_id = it[:id]
-        quality = it[:quality]
-        source  = it[:source]
-        target  = it[:target]
-        type    = it[:type]
-        Link.new(link_id, quality, source, target, type)
-      end
-    end
+    load_json { |json| Link.from_json(json) }
   end
 
   def load_json
