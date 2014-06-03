@@ -77,6 +77,11 @@ class MapController < UIViewController
     map.selectAnnotation(node, animated: true)
   end
 
+  def reset_selection(index = 0)
+    @control.selectedSegmentIndex = index
+    filter_map
+  end
+
   def reload
     init_map
     filter_map
