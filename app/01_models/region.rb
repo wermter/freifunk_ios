@@ -10,8 +10,7 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:dresden,    "Dresden",       9, [51.08, 13.73], "http://info.ddmesh.de/info/nodes.json",                 "ddmesh",           "http://www.ddmesh.de/"),
     Region.new(:leipzig,    "Leipzig",      10, [51.33, 12.33], "http://ffmap.leipzig.freifunk.net/nodes.json",          "Freifunk_L",       "http://leipzig.freifunk.net/"),
     Region.new(:battlemesh, "BattleMesh v7",10, [51.33, 12.33], "http://battlemesh.rund.freifunk.net/ffmap/nodes.json",  "freifunk",         "http://battlemesh.org/"),
-    Region.new(:magdeburg,  "Magdeburg",    11, [52.1261, 11.6424], "http://map.md.freifunk.net/nodes.json",                "freifunkmd",         "http://md.freifunk.net"),
-
+    Region.new(:magdeburg,  "Magdeburg",    11, [52.14, 11.65], "http://map.md.freifunk.net/nodes.json",                 "freifunkmd",       "http://md.freifunk.net"),
   ]
 
   def self.all

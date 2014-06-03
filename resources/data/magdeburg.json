@@ -1,0 +1,263 @@
+{
+    "links": [
+        {
+            "id": "4e:00:ab:d1:9f:8c-4e:00:ab:d1:9f:8c_0",
+            "quality": "TT",
+            "source": 0,
+            "target": 1,
+            "type": "client"
+        }
+    ],
+    "meta": {
+        "timestamp": "2014-06-03T19:24:01"
+    },
+    "nodes": [
+        {
+            "clientcount": 1,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": true,
+                "legacy": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "4e:00:ab:d1:9f:8c",
+            "macs": "4e:00:ab:d1:9f:8c, c2:21:99:f6:1a:4f",
+            "model": null,
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "4e:00:ab:d1:9f:8c_0",
+            "macs": "",
+            "model": null,
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.11911503082797,
+                11.627574563026426
+            ],
+            "id": "10:fe:ed:2b:15:ae",
+            "macs": "10:fe:ed:2b:15:ae",
+            "model": null,
+            "name": "balkonx"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.11954740408073,
+                11.629175003618002
+            ],
+            "id": "10:fe:ed:cd:ae:be",
+            "macs": "10:fe:ed:cd:ae:be",
+            "model": null,
+            "name": "Netz39"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.147182,
+                11.642391
+            ],
+            "id": "10:fe:ed:2b:19:3e",
+            "macs": "10:fe:ed:2b:19:3e",
+            "model": null,
+            "name": "yomin"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.139276421086485,
+                11.640433073043823
+            ],
+            "id": "24:a4:3c:bb:e2:66",
+            "macs": "24:a4:3c:bb:e2:66",
+            "model": null,
+            "name": "Unitheke2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.14753777297661,
+                11.646645069122314
+            ],
+            "id": "10:fe:ed:2b:52:9e",
+            "macs": "10:fe:ed:2b:52:9e",
+            "model": null,
+            "name": "Hinterhof01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.208343027984704,
+                11.726510524749756
+            ],
+            "id": "f8:d1:11:88:6e:12",
+            "macs": "f8:d1:11:88:6e:12",
+            "model": null,
+            "name": "freifunk-lostau1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.13927312870625,
+                11.640384793281555
+            ],
+            "id": "24:a4:3c:bb:d3:36",
+            "macs": "24:a4:3c:bb:d3:36",
+            "model": null,
+            "name": "Unitheke1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.12234620038258,
+                11.631036400685844
+            ],
+            "id": "c0:4a:00:8d:75:80",
+            "macs": "c0:4a:00:8d:75:80",
+            "model": null,
+            "name": "freifunk-suedpol"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.15983171192567,
+                11.630483865628776
+            ],
+            "id": "10:fe:ed:2b:4f:be",
+            "macs": "10:fe:ed:2b:4f:be",
+            "model": null,
+            "name": "bastinat0r"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.147880115678966,
+                11.646687984466551
+            ],
+            "id": "10:fe:ed:2b:1b:9a",
+            "macs": "10:fe:ed:2b:1b:9a",
+            "model": null,
+            "name": "Hinterhof02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:2c:c0:ba",
+            "macs": "c0:4a:00:2c:c0:ba",
+            "model": null,
+            "name": "freifunk-c04a002cc0ba"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.147996,
+                11.649505
+            ],
+            "id": "f4:ec:38:e9:6d:14",
+            "macs": "f4:ec:38:e9:6d:14",
+            "model": null,
+            "name": "adreno"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.208336453439436,
+                11.726465933024883
+            ],
+            "id": "24:a4:3c:a3:13:a7",
+            "macs": "24:a4:3c:a3:13:a7",
+            "model": null,
+            "name": "freifunk-Lostau2"
+        }
+    ]
+}
