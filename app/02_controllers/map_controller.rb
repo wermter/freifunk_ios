@@ -2,7 +2,7 @@ class MapController < UIViewController
   include MapKit
 
   SPAN    = [3.1, 3.1]
-  NEAR_IN = 14
+  NEAR_IN = 12
 
   FILTER_ITEMS = ["Alle", "Online", "Offline", "Mesh"]
 

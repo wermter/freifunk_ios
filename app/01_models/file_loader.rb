@@ -6,8 +6,8 @@ class FileLoader
   end
 
   def download(&block)
-    BW::HTTP.get(region.data_url) do |response|
-      if state = response.ok?
+    AFMotion::HTTP.get(region.data_url) do |response|
+      if state = response.success?
         response.body.writeToFile(download_path, atomically: true)
       end
       block.call(state)
@@ -19,7 +19,7 @@ class FileLoader
   end
 
   def check_state(&block)
-    BubbleWrap::HTTP.head(region.data_url) do |response|
+    AFMotion::HTTP.head(region.data_url) do |response|
       if state = !!response.headers
         remote  = NSDate.dateWithNaturalLanguageString(response.headers["Last-Modified"])
         local   = File.mtime(file_path)

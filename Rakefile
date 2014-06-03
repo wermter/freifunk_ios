@@ -13,7 +13,6 @@ Motion::Project::App.setup do |app|
   app.device_family           = [:iphone, :ipad]
   app.deployment_target       = '7.0'
   app.icons                   = Dir['resources/Icon*'].map { |file| File.basename(file) }
-
   app.codesign_certificate    = 'iPhone Distribution: Peter Schroeder'
   app.identifier              = 'de.nofail.freifunk'
 
@@ -23,8 +22,7 @@ Motion::Project::App.setup do |app|
   app.development do
     app.version                                   = "build #{%x(git describe --tags).chomp}"
     app.info_plist['CFBundleShortVersionString']  = VERSION
-
-    app.provisioning_profile  = "#{ENV['HOME']}/Dropbox/ios_certs/ad_hoc_distribution_freifunk.mobileprovision"
+    app.provisioning_profile                      = "#{ENV['HOME']}/Dropbox/ios_certs/ad_hoc_distribution_freifunk.mobileprovision"
 
     app.testflight.api_token          = ENV['TESTFLIGHT_API_TOKEN']
     app.testflight.team_token         = ENV['TESTFLIGHT_TEAM_TOKEN_FREIFUNK']
