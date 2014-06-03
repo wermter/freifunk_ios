@@ -82,6 +82,7 @@ class DetailsController < UITableViewController
       if navigationController.tabBarController.selectedIndex == 1
         navigationController.tabBarController.viewControllers.first.popToRootViewControllerAnimated false
         navigationController.tabBarController.viewControllers.first.viewControllers.first.center node
+        navigationController.tabBarController.viewControllers.first.viewControllers.first.reset_selection
         navigationController.tabBarController.selectedIndex = 0
       end
 
