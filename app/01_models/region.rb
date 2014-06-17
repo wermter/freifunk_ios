@@ -7,7 +7,7 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:lueneburg,  "Lüneburg",      9, [53.24, 10.42], "http://freifunk-lueneburg.de/karte/nodes.json",         "freifunk",         "http://freifunk-lueneburg.de"),
     Region.new(:paderborn,  "Paderborn",     9, [51.70,  8.75], "http://map.paderborn.freifunk.net/nodes.json",          "FreifunkPB",       "http://paderborn.freifunk.net/"),
     Region.new(:wuppertal,  "Wuppertal",     9, [51.20,  7.15], "http://map.freifunk-wuppertal.net/nodes.json",          "ffwtal",           "http://freifunk-wuppertal.net/"),
-    Region.new(:dresden,    "Dresden",       9, [51.08, 13.73], "http://info.ddmesh.de/info/nodes.json",                 "ddmesh",           "http://www.ddmesh.de/"),
+    Region.new(:dresden,    "Dresden",       9, [51.08, 13.73], "http://info.freifunk-dresden.de/info/freifunk_ios.json","ddmesh",           "http://www.ddmesh.de/"),
     Region.new(:leipzig,    "Leipzig",      10, [51.33, 12.33], "http://ffmap.leipzig.freifunk.net/nodes.json",          "Freifunk_L",       "http://leipzig.freifunk.net/"),
     Region.new(:battlemesh, "BattleMesh v7",10, [51.33, 12.33], "http://battlemesh.rund.freifunk.net/ffmap/nodes.json",  "freifunk",         "http://battlemesh.org/"),
     Region.new(:magdeburg,  "Magdeburg",    11, [52.14, 11.65], "http://map.md.freifunk.net/nodes.json",                 "freifunkmd",       "http://md.freifunk.net"),
