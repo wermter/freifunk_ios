@@ -28,30 +28,24 @@ class SettingsController < UITableViewController
     case section
     when 0
       1
-    when 2
-      4
     when 1
       Region.all.size
+    when 2
+      Array(delegate.region.twitter).size + Array(delegate.region.homepage).size
+    when 3
+      2
     end
   end
 
   def tableView(tableView, cellForRowAtIndexPath: indexPath)
-    case indexPath.section
-    when 1
-      tableView.dequeueReusableCellWithIdentifier(:text_cell) || UITableViewCell.alloc.tap do |cell|
-        cell.initWithStyle(UITableViewCellStyleDefault, reuseIdentifier: :text_cell)
-        cell.accessoryType  = UITableViewCellAccessoryNone
-        cell.selectionStyle = UITableViewCellSelectionStyleNone
-      end
-    else
-      tableView.dequeueReusableCellWithIdentifier(:link_cell) || UITableViewCell.alloc.tap do |cell|
-        cell.initWithStyle(UITableViewCellStyleSubtitle, reuseIdentifier: :link_cell)
-        cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator
-      end
+    tableView.dequeueReusableCellWithIdentifier(:link_cell) || UITableViewCell.alloc.tap do |cell|
+      cell.initWithStyle(UITableViewCellStyleSubtitle, reuseIdentifier: :link_cell)
+      cell.accessoryType = UITableViewCellAccessoryDisclosureIndicator
     end
   end
 
   def tableView(tableView, willDisplayCell: cell, forRowAtIndexPath: indexPath)
+    cell.detailTextLabel.text = ""
     case indexPath.section
     when 0
       cell.textLabel.text       = "Knoten aktualisieren"
@@ -67,14 +61,15 @@ class SettingsController < UITableViewController
         cell.selectionStyle = UITableViewCellSelectionStyleGray
       end
     when 2
+      texts = Array(delegate.region.twitter).map { |handle|
+        "Twitter: @#{handle}"
+      } + Array(delegate.region.twitter).map { |site| "Website: #{site}" }
+      cell.textLabel.text = texts[indexPath.row]
+    when 3
       case indexPath.row
       when 0
-        cell.textLabel.text = "Freifunk #{delegate.region.name} auf Twitter"
-      when 1
-        cell.textLabel.text = "Freifunk #{delegate.region.name} Website"
-      when 2
         cell.textLabel.text = "Coding: @phoet"
-      when 3
+      when 1
         cell.textLabel.text = "Version: #{App.version}"
       end
     end
@@ -103,14 +98,15 @@ class SettingsController < UITableViewController
       delegate.region = Region.all[indexPath.row]
       reload_controllers
     when 2
+      urls = Array(delegate.region.twitter).map { |handle|
+        "http://twitter.com/#{handle}"
+      } + Array(delegate.region.twitter)
+      open_url(urls[indexPath.row])
+    when 3
       case indexPath.row
       when 0
-        open_url("http://twitter.com/#{delegate.region.twitter}")
-      when 1
-        open_url(delegate.region.homepage)
-      when 2
         open_url("http://twitter.com/phoet")
-      when 3
+      when 1
         open_url("https://www.github.com/phoet/freifunk_ios/")
       end
     end
