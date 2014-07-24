@@ -1,10 +1,8 @@
 # Freifunk iOS App
 
-The Support is currently limited to some Freifunk Regions (Hamburg, Jena, Kiel, Lübeck, Paderborn, Wuppertal, Dresden).
+[Get the App in the iOS AppStore](http://appstore.com/nofail/freifunk).
 
-[Get the App](http://appstore.com/nofail/freifunk) in the iOS AppStore.
-
-![screens](http://f.cl.ly/items/2A1z3r2b1s1B0Y392T3s/iOS%20Simulator%20Screen%20shot%2023.02.2014%2020.22.09.png)
+See `region.rb` for all the supported Freifunk communities.
 
 ## [GUIDE] add your region
 
@@ -19,8 +17,12 @@ YOUR PART:
   * Twitter handle ie `FreifunkHH`
 
 MY PART:
- 
+
 * build a new app version
 * push the version to the iTunes Store
 
-A new version might take [some time](http://appreviewtimes.com/) to be available through the AppStore!
+A new version might take [some time](http://appreviewtimes.com/) to be available through the AppStore due to the review process!
+
+# Screens
+
+![screens](http://f.cl.ly/items/2A1z3r2b1s1B0Y392T3s/iOS%20Simulator%20Screen%20shot%2023.02.2014%2020.22.09.png)
