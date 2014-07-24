@@ -10,9 +10,9 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:dresden,    "Dresden",         9, [51.08, 13.73], "http://info.freifunk-dresden.de/info/ios-app-freifunk.json", "ddmesh",           "http://www.ddmesh.de/"),
     Region.new(:leipzig,    "Leipzig",        10, [51.33, 12.33], "http://ffmap.leipzig.freifunk.net/nodes.json",               "Freifunk_L",       "http://leipzig.freifunk.net/"),
     Region.new(:magdeburg,  "Magdeburg",      11, [52.14, 11.65], "http://map.md.freifunk.net/nodes.json",                      "freifunkmd",       "http://md.freifunk.net"),
+    Region.new(:guetersloh, "Gütersloh",       9, [51.91,  8.38], "http://guetersloh.freifunk.net/map/nodes.json",              "FreifunkGT",       "http://guetersloh.freifunk.net/"),
+    Region.new(:bielefeld,  "Bielefeld",       9, [52.04,  8.53], "http://map.freifunk-bielefeld.quakente.net/nodes.json",      "FreifunkBI",       "http://freifunk-bielefeld.quakente.net/"),
     Region.new(:mzwi,       "Mainz/Wiesbaden",10, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                    ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
-    Region.new(:guetersloh, "Gütersloh"        9, [51.91,  8.38], "http://guetersloh.freifunk.net/map/nodes.json",              "FreifunkGT",       "http://guetersloh.freifunk.net/"),
-    Region.new(:bielefeld,  "Bielefeld"        9, [52.04,  8.53], "http://vpn1.freifunk-bielefeld.de/freifunk/ffapi.json",      "FreifunkBI",       "http://freifunk-bielefeld.quakente.net/"),
   ]
 
   def self.all
