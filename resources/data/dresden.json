@@ -102,7 +102,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": true
+                "online": false
             },
             "geo": [
                 51.136783,
@@ -399,6 +399,20 @@
                 "online": true
             },
             "geo": [
+                51.107293,
+                13.9154834
+            ],
+            "id": "r104",
+            "macs": "",
+            "name": "r104"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
                 51.162502,
                 13.485031
             ],
@@ -536,7 +550,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": true
+                "online": false
             },
             "geo": [
                 51.031233,

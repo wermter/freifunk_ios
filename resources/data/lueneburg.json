@@ -1,815 +1,891 @@
 {
     "links": [
         {
-            "id": "12:fe:ed:7b:1e:fc-12:fe:ed:f1:3c:5c",
-            "quality": "2.161, 4.474",
-            "source": 3,
-            "target": 23,
-            "type": null
-        },
-        {
-            "id": "c2:4a:00:a5:2f:7c-ea:94:f6:51:a9:c2",
-            "quality": "1.000, 1.016",
-            "source": 98,
-            "target": 9,
-            "type": null
-        },
-        {
-            "id": "60:d9:c7:a2:e3:f5-fa:1a:67:fa:91:de",
+            "id": "c8:d3:a3:6d:78:03-ea:94:f6:51:cf:a8",
             "quality": "TT",
-            "source": 37,
-            "target": 40,
+            "source": 3,
+            "target": 51,
             "type": "client"
         },
         {
-            "id": "26:a4:3c:7d:cf:7e-26:a4:3c:ac:3c:58",
-            "quality": "1.020, 1.104",
-            "source": 49,
-            "target": 2,
+            "id": "c2:4a:00:a5:2f:7c-ea:94:f6:51:a9:c2",
+            "quality": "1.000, 1.054",
+            "source": 117,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:39:a2:7e-66:66:b3:fa:35:30",
+            "quality": "1.016, 1.020",
+            "source": 15,
+            "target": 85,
             "type": null
         },
         {
             "id": "00:11:6b:b0:b9:1e-a2:f3:c1:06:77:1c",
             "quality": "TT",
-            "source": 106,
-            "target": 110,
+            "source": 121,
+            "target": 124,
+            "type": "client"
+        },
+        {
+            "id": "18:9e:fc:51:83:6f-ea:94:f6:6e:56:ac",
+            "quality": "TT",
+            "source": 1,
+            "target": 37,
             "type": "client"
         },
         {
             "id": "12:fe:ed:39:a2:7e-c2:4a:00:46:ff:c4",
-            "quality": "1.081, 1.062",
-            "source": 92,
-            "target": 76,
+            "quality": "1.094, 1.004",
+            "source": 104,
+            "target": 85,
             "type": null
         },
         {
             "id": "a2:f3:c1:36:ad:56-a2:f3:c1:b5:e9:7c",
-            "quality": "1.016, 1.000",
+            "quality": "1.000, 1.000",
             "source": 4,
-            "target": 32,
+            "target": 38,
             "type": null
         },
         {
-            "id": "12:fe:ed:39:a2:7e-66:66:b3:fa:35:30",
-            "quality": "1.090, 1.020",
-            "source": 13,
-            "target": 76,
-            "type": null
-        },
-        {
-            "id": "00:21:5d:10:ff:be-c2:4a:00:a5:2f:7c",
+            "id": "c8:14:79:db:12:46-ea:94:f6:51:cf:a8",
             "quality": "TT",
-            "source": 98,
-            "target": 99,
+            "source": 3,
+            "target": 49,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:7e:cf:7e-3c:df:bd:f8:ec:de",
+            "quality": "TT",
+            "source": 2,
+            "target": 48,
             "type": "client"
         },
         {
             "id": "24:a4:3c:7b:c2:36-a0:f3:c1:5e:cb:d8",
             "quality": "1.000, 1.000",
-            "source": 11,
+            "source": 13,
             "target": 6,
             "type": null
         },
         {
-            "id": "66:66:b3:fa:35:30-66:70:02:57:9a:92",
-            "quality": "1.000, 1.085",
-            "source": 13,
-            "target": 17,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:eb:5f:00-c2:4a:00:46:ff:c4",
-            "quality": "1.000, 1.085",
-            "source": 92,
-            "target": 60,
-            "type": null
-        },
-        {
-            "id": "00:1c:10:1c:79:64-66:70:02:57:9a:92",
+            "id": "26:a4:3c:f8:5f:1c-8c:71:f8:a1:a1:09",
             "quality": "TT",
-            "source": 17,
-            "target": 18,
-            "type": "client"
-        },
-        {
-            "id": "a0:f3:c1:05:77:f1-a0:f3:c1:49:2a:e6",
-            "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 10,
-            "type": null
-        },
-        {
-            "id": "a2:f3:c1:ac:28:18-ea:94:f6:51:cf:a8",
-            "quality": "1.000, 1.032",
-            "source": 5,
-            "target": 41,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:f8:5f:1c-a2:f3:c1:05:77:f2",
-            "quality": "1.071, 1.020",
-            "source": 10,
-            "target": 31,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:7b:1e:fc-80:ea:96:00:8d:99",
-            "quality": "TT",
-            "source": 23,
-            "target": 24,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:f8:5f:1c-a6:f3:c1:5e:cb:d9",
-            "quality": "1.000, 1.085",
-            "source": 6,
-            "target": 31,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:b0:a9:4c-40:b3:95:3e:5b:92",
-            "quality": "TT",
-            "source": 89,
-            "target": 90,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:fa:35:30-c2:4a:00:46:ff:c4",
-            "quality": "1.109",
-            "source": 13,
-            "target": 92,
-            "type": null
-        },
-        {
-            "id": "66:66:b3:d4:45:ca-fa:1a:67:8c:5c:30",
-            "quality": "1.000, 1.032",
-            "source": 48,
-            "target": 29,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:39:a2:7e-12:fe:ed:eb:5f:00",
-            "quality": "1.032, 1.032",
-            "source": 76,
-            "target": 60,
-            "type": null
-        },
-        {
-            "id": "18:20:32:ae:75:e3-26:a4:3c:71:c9:b7",
-            "quality": "TT",
-            "source": 61,
-            "target": 63,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:d4:40:a6-66:66:b3:d4:45:e0",
-            "quality": "1.000, 1.000",
-            "source": 105,
-            "target": 94,
-            "type": null
-        },
-        {
-            "id": "a0:f3:c1:05:77:f1-f8:1a:67:3e:84:31",
-            "quality": "1.000, 1.000",
-            "source": 10,
-            "target": 7,
-            "type": null
-        },
-        {
-            "id": "02:50:43:73:4c:df-fa:d1:11:73:9a:d2",
-            "quality": "TT",
-            "source": 15,
-            "target": 16,
-            "type": "client"
-        },
-        {
-            "id": "30:aa:bd:2b:7e:d6-fa:d1:11:57:50:00",
-            "quality": "TT",
-            "source": 54,
-            "target": 55,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:a4:39:c0-cc:3a:61:4d:c1:d5",
-            "quality": "TT",
-            "source": 81,
-            "target": 82,
-            "type": "client"
-        },
-        {
-            "id": "e8:94:f6:ff:b6:a0-ea:94:f6:52:a2:d0",
-            "quality": "TT",
-            "source": 43,
-            "target": 44,
-            "type": "client"
-        },
-        {
-            "id": "a0:f3:c1:5e:cb:d8-f8:1a:67:3e:84:31",
-            "quality": "1.000, 1.000",
-            "source": 7,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "a4:c3:61:20:5b:79-c2:4a:00:54:be:ca",
-            "quality": "TT",
-            "source": 14,
-            "target": 100,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:eb:5f:00-66:66:b3:fa:35:30",
-            "quality": "1.000, 1.041",
-            "source": 13,
-            "target": 60,
-            "type": null
-        },
-        {
-            "id": "a2:f3:c1:b5:e9:7c-e8:92:a4:69:12:e0",
-            "quality": "TT",
-            "source": 4,
-            "target": 46,
-            "type": "client"
-        },
-        {
-            "id": "24:a4:3c:7b:c2:36-38:e7:d8:ec:bb:6a",
-            "quality": "TT",
-            "source": 11,
-            "target": 69,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:a4:39:c0-a8:16:b2:93:e2:b7",
-            "quality": "TT",
-            "source": 81,
-            "target": 85,
-            "type": "client"
-        },
-        {
-            "id": "d4:20:6d:23:d8:3e-ea:94:f6:52:a9:c2",
-            "quality": "TT",
-            "source": 9,
-            "target": 65,
-            "type": "client"
-        },
-        {
-            "id": "a2:f3:c1:36:ad:56-e0:63:e5:80:ff:fd",
-            "quality": "TT",
-            "source": 32,
-            "target": 33,
-            "type": "client"
-        },
-        {
-            "id": "a2:f3:c1:b5:e9:7c-b4:52:7e:83:ba:1a",
-            "quality": "TT",
-            "source": 4,
-            "target": 47,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:d4:40:a6-66:66:b3:d4:45:ca",
-            "quality": "1.000",
-            "source": 48,
-            "target": 105,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:f8:5f:1c-fe:1a:67:3e:84:32",
-            "quality": "1.037",
-            "source": 31,
-            "target": 7,
-            "type": null
-        },
-        {
-            "id": "a2:f3:c1:36:ad:56-bc:b1:f3:77:e1:1c",
-            "quality": "TT",
-            "source": 32,
+            "source": 33,
             "target": 34,
             "type": "client"
         },
         {
-            "id": "24:a4:3c:7b:c2:36-be:e7:97:e6:c6:b6",
-            "quality": "TT",
-            "source": 11,
-            "target": 68,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:7c:2d:9a-48:5d:60:07:73:40",
-            "quality": "TT",
-            "source": 78,
-            "target": 80,
-            "type": "client"
-        },
-        {
-            "id": "fa:1a:67:8c:5c:30-fa:1a:67:8c:65:d0",
-            "quality": "1.016, 1.049",
-            "source": 53,
-            "target": 29,
+            "id": "66:66:b3:fa:35:30-66:70:02:57:9a:92",
+            "quality": "1.067, 1.000",
+            "source": 15,
+            "target": 19,
             "type": null
         },
         {
-            "id": "92:f6:52:3e:89:2c-da:5d:4c:f6:30:22",
-            "quality": "1.000, 1.128",
-            "source": 75,
-            "target": 36,
+            "id": "d8:d1:cb:c9:6d:09-ea:94:f6:51:cf:94",
+            "quality": "TT",
+            "source": 108,
+            "target": 112,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:eb:5f:00-c2:4a:00:46:ff:c4",
+            "quality": "1.032, 1.000",
+            "source": 104,
+            "target": 72,
             "type": null
         },
         {
-            "id": "9a:b3:e7:54:ab:c9-aa:d2:1f:3f:39:ba",
-            "quality": "TT",
-            "source": 6,
-            "target": 50,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:71:c9:b7-a4:c3:61:93:81:44",
-            "quality": "TT",
-            "source": 61,
-            "target": 62,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:d4:45:ca-fa:1a:67:8c:65:d0",
-            "quality": "1.028, 1.000",
-            "source": 53,
-            "target": 48,
-            "type": null
-        },
-        {
-            "id": "30:39:26:7f:19:ef-da:5d:4c:9c:27:8e",
-            "quality": "TT",
-            "source": 102,
-            "target": 104,
-            "type": "client"
-        },
-        {
-            "id": "d8:50:e6:86:04:30-ea:94:f6:52:cf:9e",
+            "id": "00:1c:10:1c:79:64-66:70:02:57:9a:92",
             "quality": "TT",
             "source": 19,
             "target": 20,
             "type": "client"
         },
         {
-            "id": "24:a4:3c:7b:c2:36-f8:1a:67:3e:84:31",
+            "id": "20:02:af:d1:71:65-a2:f3:c1:b5:e9:7c",
+            "quality": "TT",
+            "source": 4,
+            "target": 55,
+            "type": "client"
+        },
+        {
+            "id": "a0:f3:c1:05:77:f1-a0:f3:c1:49:2a:e6",
             "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:52:cf:9e-f0:5a:09:9e:05:fa",
+            "quality": "TT",
+            "source": 21,
+            "target": 22,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-a2:f3:c1:05:77:f2",
+            "quality": "1.090, 1.032",
             "source": 11,
-            "target": 7,
+            "target": 33,
             "type": null
         },
         {
-            "id": "24:77:03:7d:47:48-24:a4:3c:7b:c2:36",
-            "quality": "TT",
-            "source": 11,
-            "target": 70,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:f2:3c:5c-18:3f:47:97:27:b5",
-            "quality": "TT",
-            "source": 3,
-            "target": 42,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:eb:5f:00-92:f6:52:3e:89:2c",
-            "quality": "1.012, 1.000",
-            "source": 75,
-            "target": 60,
+            "id": "26:a4:3c:f8:5f:1c-a6:f3:c1:5e:cb:d9",
+            "quality": "1.028, 1.067",
+            "source": 6,
+            "target": 33,
             "type": null
         },
         {
-            "id": "26:a4:3c:7d:cf:a8-26:a4:3c:ac:3c:58",
-            "quality": "1.000, 1.000",
-            "source": 72,
-            "target": 49,
-            "type": null
-        },
-        {
-            "id": "a0:f3:c1:05:77:f1-a0:f3:c1:5e:cb:d8",
-            "quality": "1.000, 1.000",
-            "source": 10,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "a2:f3:c1:05:77:f2-a6:f3:c1:5e:cb:d9",
-            "quality": "1.041",
-            "source": 10,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "84:38:38:5e:5d:03-fa:1a:67:fa:91:de",
-            "quality": "TT",
-            "source": 37,
-            "target": 39,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:d4:45:e0-fa:1a:67:8c:65:d0",
-            "quality": "1.081",
-            "source": 94,
-            "target": 53,
-            "type": null
-        },
-        {
-            "id": "a0:f3:c1:49:2a:e6-a0:f3:c1:5e:cb:d8",
-            "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "66:70:02:57:9a:92-92:f6:52:3e:89:2c",
-            "quality": "1.000, 1.000",
-            "source": 75,
-            "target": 17,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:7b:1e:fc-40:b3:95:06:67:10",
-            "quality": "TT",
-            "source": 23,
-            "target": 26,
-            "type": "client"
-        },
-        {
-            "id": "00:25:9c:4b:10:7a-c2:4a:00:46:ff:c4",
+            "id": "26:a4:3c:a4:39:c0-8c:fa:ba:e8:d6:e7",
             "quality": "TT",
             "source": 92,
             "target": 93,
             "type": "client"
         },
         {
-            "id": "00:0d:b9:03:92:f9-a2:f3:c1:06:77:1c",
-            "quality": "TT",
-            "source": 106,
-            "target": 109,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:d4:45:e0-fa:1a:67:8c:5c:30",
-            "quality": "1.016, 1.016",
-            "source": 94,
-            "target": 29,
-            "type": null
-        },
-        {
-            "id": "40:b0:fa:d7:e0:70-a2:f3:c1:7b:2d:04",
-            "quality": "TT",
-            "source": 95,
-            "target": 96,
-            "type": "client"
-        },
-        {
-            "id": "00:21:63:bc:4a:b2-12:fe:ed:7c:2d:9a",
-            "quality": "TT",
-            "source": 78,
-            "target": 79,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:39:a2:7e-66:70:02:57:9a:92",
-            "quality": "1.000, 1.104",
-            "source": 76,
-            "target": 17,
-            "type": null
-        },
-        {
-            "id": "92:f6:52:3e:89:2c-c2:4a:00:46:ff:c4",
-            "quality": "1.020, 1.104",
-            "source": 92,
-            "target": 75,
-            "type": null
-        },
-        {
-            "id": "24:a4:3c:7b:c2:36-a0:f3:c1:05:77:f1",
-            "quality": "1.000, 1.000",
-            "source": 11,
-            "target": 10,
-            "type": null
-        },
-        {
-            "id": "66:66:b3:d4:40:a6-fa:1a:67:8c:60:82",
-            "quality": "1.058, 1.203",
-            "source": 105,
-            "target": 8,
-            "type": null
-        },
-        {
-            "id": "a0:82:1f:bb:b7:f8-fa:1a:67:58:d2:ae",
-            "quality": "TT",
-            "source": 57,
-            "target": 58,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:39:a2:7e-da:5d:4c:f6:30:22",
-            "quality": "1.020, 1.049",
-            "source": 76,
-            "target": 36,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:eb:5f:00-da:5d:4c:f6:30:22",
+            "id": "66:66:b3:d4:45:ca-fa:1a:67:8c:5c:30",
             "quality": "1.000, 1.016",
-            "source": 60,
-            "target": 36,
+            "source": 57,
+            "target": 28,
             "type": null
         },
         {
-            "id": "26:a4:3c:a4:39:c0-c8:14:79:b2:0f:c2",
-            "quality": "TT",
-            "source": 81,
-            "target": 83,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:c1:cc:d7-ea:94:f6:51:cf:a8",
-            "quality": "1.000, 1.008",
-            "source": 41,
-            "target": 22,
+            "id": "66:66:b3:d4:40:a6-fa:1a:67:8c:5c:30",
+            "quality": "1.159",
+            "source": 120,
+            "target": 28,
             "type": null
         },
         {
-            "id": "a6:f3:c1:49:2a:e7-a6:f3:c1:5e:cb:d9",
-            "quality": "1.085, 1.000",
-            "source": 12,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "66:66:b3:fa:35:30-da:5d:4c:f6:30:22",
-            "quality": "1.090, 1.058",
-            "source": 13,
-            "target": 36,
-            "type": null
-        },
-        {
-            "id": "00:11:32:27:e2:c6-c2:4a:00:54:be:ca",
-            "quality": "TT",
-            "source": 14,
-            "target": 101,
-            "type": "client"
-        },
-        {
-            "id": "06:d0:37:43:8e:8c-f8:1a:67:3e:84:31",
-            "quality": "TT",
-            "source": 7,
-            "target": 51,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:7b:1e:fc-9c:20:7b:1e:0d:92",
-            "quality": "TT",
-            "source": 23,
-            "target": 25,
-            "type": "client"
-        },
-        {
-            "id": "c2:4a:00:47:00:76-c2:4a:00:53:be:ca",
-            "quality": "1.000, 1.037",
-            "source": 14,
-            "target": 73,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:b0:a9:4c-4c:b1:99:90:c1:57",
-            "quality": "TT",
-            "source": 89,
-            "target": 91,
-            "type": "client"
-        },
-        {
-            "id": "a0:f3:c1:05:77:f1-be:b7:49:77:5c:85",
-            "quality": "TT",
-            "source": 10,
-            "target": 66,
-            "type": "client"
-        },
-        {
-            "id": "a6:f3:c1:49:2a:e7-fe:1a:67:3e:84:32",
-            "quality": "1.016, 1.000",
-            "source": 12,
-            "target": 7,
-            "type": null
-        },
-        {
-            "id": "24:a4:3c:7b:c2:36-a0:f3:c1:49:2a:e6",
+            "id": "12:fe:ed:39:a2:7e-12:fe:ed:eb:5f:00",
             "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 11,
+            "source": 85,
+            "target": 72,
             "type": null
         },
         {
-            "id": "f0:cb:a1:05:b5:d1-fa:1a:67:fa:91:de",
+            "id": "0c:30:21:e9:91:31-c2:4a:00:bf:80:36",
             "quality": "TT",
-            "source": 37,
-            "target": 38,
-            "type": "client"
-        },
-        {
-            "id": "a6:f3:c1:5e:cb:d9-fe:1a:67:3e:84:32",
-            "quality": "1.020, 1.081",
-            "source": 7,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:7a:c2:36-a2:f3:c1:05:77:f2",
-            "quality": "1.020, 1.045",
-            "source": 11,
-            "target": 10,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:a4:39:c0-8c:2d:aa:b6:d7:dd",
-            "quality": "TT",
-            "source": 81,
-            "target": 86,
-            "type": "client"
-        },
-        {
-            "id": "a4:c3:61:48:27:de-fa:1a:67:8d:60:82",
-            "quality": "TT",
-            "source": 8,
-            "target": 56,
-            "type": "client"
-        },
-        {
-            "id": "40:f3:08:93:93:35-a2:f3:c1:06:77:1c",
-            "quality": "TT",
-            "source": 106,
-            "target": 107,
-            "type": "client"
-        },
-        {
-            "id": "c2:4a:00:46:ff:c4-da:5d:4c:f6:30:22",
-            "quality": "1.175",
-            "source": 92,
-            "target": 36,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:c1:cc:d7-a2:f3:c1:ac:28:18",
-            "quality": "1.000, 1.000",
-            "source": 5,
-            "target": 22,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:f8:5f:1c-a6:f3:c1:49:2a:e7",
-            "quality": "1.000, 1.067",
-            "source": 12,
+            "source": 29,
             "target": 31,
-            "type": null
-        },
-        {
-            "id": "d6:bc:70:42:d9:84-fa:97:88:f8:b1:f2",
-            "quality": "TT",
-            "source": 12,
-            "target": 97,
             "type": "client"
         },
         {
-            "id": "26:a4:3c:a4:39:c0-d0:51:62:f7:03:48",
-            "quality": "TT",
-            "source": 81,
-            "target": 84,
-            "type": "client"
-        },
-        {
-            "id": "66:70:02:57:9a:92-da:5d:4c:f6:30:22",
-            "quality": "1.037, 1.000",
-            "source": 36,
-            "target": 17,
+            "id": "02:27:19:fc:89:6a-c2:4a:00:46:f4:fa",
+            "quality": "1.000, 1.032",
+            "source": 101,
+            "target": 0,
             "type": null
         },
         {
-            "id": "26:a4:3c:7a:c2:36-a6:f3:c1:5e:cb:d9",
-            "quality": "1.054, 1.104",
-            "source": 11,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "00:26:59:b1:f4:1d-a2:f3:c1:06:77:1c",
-            "quality": "TT",
-            "source": 106,
-            "target": 108,
-            "type": "client"
-        },
-        {
-            "id": "66:66:b3:fa:35:30-92:f6:52:3e:89:2c",
-            "quality": "1.032, 1.000",
-            "source": 13,
-            "target": 75,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:71:c9:b7-88:cb:87:00:e8:1d",
-            "quality": "TT",
-            "source": 61,
-            "target": 64,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:7a:c2:36-26:a4:3c:f8:5f:1c",
-            "quality": "1.004",
-            "source": 31,
-            "target": 11,
-            "type": null
-        },
-        {
-            "id": "a0:f3:c1:49:2a:e6-f8:1a:67:3e:84:31",
-            "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 7,
-            "type": null
-        },
-        {
-            "id": "a2:f3:c1:06:75:c6-c8:14:79:25:d5:c1",
-            "quality": "TT",
-            "source": 87,
-            "target": 88,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:af:63:bb-da:5d:4c:9c:27:8e",
-            "quality": "1.294, 1.058",
-            "source": 102,
-            "target": 1,
-            "type": null
-        },
-        {
-            "id": "24:a4:3c:7b:c2:36-d4:20:6d:0c:b6:52",
-            "quality": "TT",
-            "source": 11,
-            "target": 67,
-            "type": "client"
-        },
-        {
-            "id": "7c:fa:df:44:03:c5-da:5d:4c:9c:27:8e",
-            "quality": "TT",
-            "source": 102,
-            "target": 103,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:39:a2:7e-ac:36:13:e3:7d:1e",
-            "quality": "TT",
-            "source": 76,
-            "target": 77,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:7d:cf:7e-26:a4:3c:7d:cf:a8",
-            "quality": "1.000, 1.123",
-            "source": 72,
-            "target": 2,
-            "type": null
-        },
-        {
-            "id": "66:66:b3:d4:45:ca-66:66:b3:d4:45:e0",
-            "quality": "1.000, 1.000",
-            "source": 94,
-            "target": 48,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:39:a2:7e-92:f6:52:3e:89:2c",
-            "quality": "1.000, 1.000",
-            "source": 76,
-            "target": 75,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:eb:5f:00-66:70:02:57:9a:92",
-            "quality": "1.008",
-            "source": 17,
-            "target": 60,
-            "type": null
-        },
-        {
-            "id": "c2:4a:00:47:00:76-f8:a9:d0:3b:5b:b0",
+            "id": "18:20:32:ae:75:e3-26:a4:3c:71:c9:b7",
             "quality": "TT",
             "source": 73,
             "target": 74,
             "type": "client"
         },
         {
-            "id": "a2:f3:c1:05:77:f2-a6:f3:c1:49:2a:e7",
-            "quality": "1.049, 1.090",
-            "source": 12,
+            "id": "66:66:b3:d4:40:a6-66:66:b3:d4:45:e0",
+            "quality": "1.000, 1.032",
+            "source": 120,
+            "target": 113,
+            "type": null
+        },
+        {
+            "id": "a0:f3:c1:05:77:f1-f8:1a:67:3e:84:31",
+            "quality": "1.000, 1.016",
+            "source": 11,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "a4:d1:d2:47:cd:17-fa:1a:67:fa:91:de",
+            "quality": "TT",
+            "source": 42,
+            "target": 44,
+            "type": "client"
+        },
+        {
+            "id": "02:50:43:73:4c:df-fa:d1:11:73:9a:d2",
+            "quality": "TT",
+            "source": 17,
+            "target": 18,
+            "type": "client"
+        },
+        {
+            "id": "30:aa:bd:2b:7e:d6-fa:d1:11:57:50:00",
+            "quality": "TT",
+            "source": 9,
+            "target": 65,
+            "type": "client"
+        },
+        {
+            "id": "78:d6:f0:e6:31:d4-fa:d1:11:57:50:00",
+            "quality": "TT",
+            "source": 9,
+            "target": 67,
+            "type": "client"
+        },
+        {
+            "id": "a0:f3:c1:5e:cb:d8-f8:1a:67:3e:84:31",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:eb:5f:00-66:66:b3:fa:35:30",
+            "quality": "1.058, 1.000",
+            "source": 15,
+            "target": 72,
+            "type": null
+        },
+        {
+            "id": "d4:6e:5c:f1:ae:7d-ea:94:f6:51:ce:d8",
+            "quality": "TT",
+            "source": 87,
+            "target": 88,
+            "type": "client"
+        },
+        {
+            "id": "fa:1a:67:f9:93:2e-fa:d1:11:56:50:00",
+            "quality": "1.000, 1.085",
+            "source": 9,
+            "target": 25,
+            "type": null
+        },
+        {
+            "id": "94:ce:2c:b8:2e:a0-ea:94:f6:51:cf:a8",
+            "quality": "TT",
+            "source": 3,
+            "target": 52,
+            "type": "client"
+        },
+        {
+            "id": "a2:f3:c1:9f:16:02-a2:f3:c1:b5:e9:7c",
+            "quality": "1.000, 1.000",
+            "source": 95,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "98:0c:82:96:38:9d-ea:94:f6:52:8d:c0",
+            "quality": "TT",
+            "source": 63,
+            "target": 64,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:d4:40:a6-66:66:b3:d4:45:ca",
+            "quality": "1.012",
+            "source": 57,
+            "target": 120,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-fe:1a:67:3e:84:32",
+            "quality": "1.090",
+            "source": 33,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-28:ba:b5:03:11:a3",
+            "quality": "TT",
+            "source": 33,
+            "target": 35,
+            "type": "client"
+        },
+        {
+            "id": "32:65:52:62:b8:be-f8:1a:67:3e:84:31",
+            "quality": "TT",
+            "source": 8,
+            "target": 60,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-be:e7:97:e6:c6:b6",
+            "quality": "TT",
+            "source": 13,
+            "target": 79,
+            "type": "client"
+        },
+        {
+            "id": "a2:f3:c1:9f:16:02-d0:22:be:3e:fa:ae",
+            "quality": "TT",
+            "source": 95,
+            "target": 96,
+            "type": "client"
+        },
+        {
+            "id": "fa:1a:67:8c:5c:30-fa:1a:67:8c:65:d0",
+            "quality": "1.000, 1.016",
+            "source": 62,
+            "target": 28,
+            "type": null
+        },
+        {
+            "id": "92:f6:52:3e:89:2c-da:5d:4c:f6:30:22",
+            "quality": "1.012, 1.104",
+            "source": 86,
+            "target": 41,
+            "type": null
+        },
+        {
+            "id": "a2:f3:c1:9f:16:02-a8:44:81:62:de:b8",
+            "quality": "TT",
+            "source": 95,
+            "target": 97,
+            "type": "client"
+        },
+        {
+            "id": "a2:f3:c1:7b:2d:04-f0:27:65:59:ca:bb",
+            "quality": "TT",
+            "source": 114,
+            "target": 115,
+            "type": "client"
+        },
+        {
+            "id": "04:f7:e4:34:10:f5-fa:d1:11:57:50:00",
+            "quality": "TT",
+            "source": 9,
+            "target": 66,
+            "type": "client"
+        },
+        {
+            "id": "84:38:38:27:33:54-c2:4a:00:54:be:ca",
+            "quality": "TT",
+            "source": 16,
+            "target": 118,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:d4:45:ca-fa:1a:67:8c:65:d0",
+            "quality": "1.016, 1.000",
+            "source": 62,
+            "target": 57,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:51:ce:d8-ea:94:f6:51:cf:94",
+            "quality": "1.000, 1.000",
+            "source": 108,
+            "target": 87,
+            "type": null
+        },
+        {
+            "id": "a6:f3:c1:49:2a:e7-fe:1a:67:3e:84:32",
+            "quality": "1.058, 1.000",
+            "source": 14,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:a4:39:c0-8c:2d:aa:b6:d7:dd",
+            "quality": "TT",
+            "source": 92,
+            "target": 94,
+            "type": "client"
+        },
+        {
+            "id": "78:a3:e4:a1:0e:b9-a2:f3:c1:36:ad:56",
+            "quality": "TT",
+            "source": 38,
+            "target": 39,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:eb:5f:00-92:f6:52:3e:89:2c",
+            "quality": "1.062, 1.032",
+            "source": 86,
+            "target": 72,
+            "type": null
+        },
+        {
+            "id": "a0:f3:c1:05:77:f1-a0:f3:c1:5e:cb:d8",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "34:bb:26:08:67:91-ea:94:f6:6e:4f:6a",
+            "quality": "TT",
+            "source": 102,
+            "target": 103,
+            "type": "client"
+        },
+        {
+            "id": "84:38:38:5e:5d:03-fa:1a:67:fa:91:de",
+            "quality": "TT",
+            "source": 42,
+            "target": 45,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:51:cf:94-ea:94:f6:51:cf:a8",
+            "quality": "1.000, 1.049",
+            "source": 108,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:d4:45:e0-fa:1a:67:8c:65:d0",
+            "quality": "1.090, 1.016",
+            "source": 113,
+            "target": 62,
+            "type": null
+        },
+        {
+            "id": "a0:f3:c1:49:2a:e6-a0:f3:c1:5e:cb:d8",
+            "quality": "1.016, 1.008",
+            "source": 14,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "66:70:02:57:9a:92-92:f6:52:3e:89:2c",
+            "quality": "1.104, 1.000",
+            "source": 86,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "8c:64:22:4c:36:d5-ea:94:f6:51:cf:94",
+            "quality": "TT",
+            "source": 108,
+            "target": 109,
+            "type": "client"
+        },
+        {
+            "id": "00:25:9c:4b:10:7a-c2:4a:00:46:ff:c4",
+            "quality": "TT",
+            "source": 104,
+            "target": 105,
+            "type": "client"
+        },
+        {
+            "id": "00:0d:b9:03:92:f9-a2:f3:c1:06:77:1c",
+            "quality": "TT",
+            "source": 121,
+            "target": 123,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:d4:45:e0-fa:1a:67:8c:5c:30",
+            "quality": "1.099, 1.000",
+            "source": 113,
+            "target": 28,
+            "type": null
+        },
+        {
+            "id": "9a:b3:e7:54:ab:c9-aa:d2:1f:3f:39:ba",
+            "quality": "TT",
+            "source": 6,
+            "target": 58,
+            "type": "client"
+        },
+        {
+            "id": "b4:52:7d:b4:59:a1-fa:1a:67:fa:91:de",
+            "quality": "TT",
+            "source": 42,
+            "target": 46,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:7e:cf:7e-40:d3:2d:93:86:bb",
+            "quality": "TT",
+            "source": 2,
+            "target": 47,
+            "type": "client"
+        },
+        {
+            "id": "00:21:63:bc:4a:b2-12:fe:ed:7c:2d:9a",
+            "quality": "TT",
+            "source": 89,
+            "target": 91,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:39:a2:7e-66:70:02:57:9a:92",
+            "quality": "1.159, 1.000",
+            "source": 85,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "92:f6:52:3e:89:2c-c2:4a:00:46:ff:c4",
+            "quality": "1.000, 1.016",
+            "source": 104,
+            "target": 86,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-a0:f3:c1:05:77:f1",
+            "quality": "1.000, 1.000",
+            "source": 13,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:d4:40:a6-fa:1a:67:8c:60:82",
+            "quality": "1.041, 1.094",
+            "source": 120,
             "target": 10,
+            "type": null
+        },
+        {
+            "id": "a0:82:1f:bb:b7:f8-fa:1a:67:58:d2:ae",
+            "quality": "TT",
+            "source": 69,
+            "target": 70,
+            "type": "client"
+        },
+        {
+            "id": "38:e7:d8:eb:fa:9f-ea:94:f6:51:cf:a8",
+            "quality": "TT",
+            "source": 3,
+            "target": 50,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:39:a2:7e-da:5d:4c:f6:30:22",
+            "quality": "1.032, 1.000",
+            "source": 85,
+            "target": 41,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:eb:5f:00-da:5d:4c:f6:30:22",
+            "quality": "1.016, 1.016",
+            "source": 72,
+            "target": 41,
+            "type": null
+        },
+        {
+            "id": "5c:f8:a1:29:b7:19-a2:f3:c1:9f:16:02",
+            "quality": "TT",
+            "source": 95,
+            "target": 98,
+            "type": "client"
+        },
+        {
+            "id": "a2:f3:c1:36:ad:56-a2:f3:c1:9f:16:02",
+            "quality": "1.016, 1.000",
+            "source": 95,
+            "target": 38,
+            "type": null
+        },
+        {
+            "id": "a6:f3:c1:49:2a:e7-a6:f3:c1:5e:cb:d9",
+            "quality": "1.143",
+            "source": 6,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:fa:35:30-da:5d:4c:f6:30:22",
+            "quality": "1.037, 1.024",
+            "source": 15,
+            "target": 41,
+            "type": null
+        },
+        {
+            "id": "00:11:32:27:e2:c6-c2:4a:00:54:be:ca",
+            "quality": "TT",
+            "source": 16,
+            "target": 119,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:47:00:76-c2:4a:00:53:be:ca",
+            "quality": "1.090, 1.067",
+            "source": 16,
+            "target": 83,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:51:ce:d8-ea:94:f6:51:cf:a8",
+            "quality": "1.000, 1.032",
+            "source": 87,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "a0:f3:c1:05:77:f1-be:b7:49:77:5c:85",
+            "quality": "TT",
+            "source": 11,
+            "target": 76,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-f8:1a:67:3e:84:31",
+            "quality": "1.000, 1.000",
+            "source": 13,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-a0:f3:c1:49:2a:e6",
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "e4:8b:7f:d0:a4:42-ea:94:f6:51:cf:94",
+            "quality": "TT",
+            "source": 108,
+            "target": 110,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-38:e7:d8:ec:bb:6a",
+            "quality": "TT",
+            "source": 13,
+            "target": 80,
+            "type": "client"
+        },
+        {
+            "id": "f0:cb:a1:05:b5:d1-fa:1a:67:fa:91:de",
+            "quality": "TT",
+            "source": 42,
+            "target": 43,
+            "type": "client"
+        },
+        {
+            "id": "bc:76:70:4f:cd:88-c2:4a:00:63:cf:94",
+            "quality": "TT",
+            "source": 106,
+            "target": 107,
+            "type": "client"
+        },
+        {
+            "id": "a6:f3:c1:5e:cb:d9-fe:1a:67:3e:84:32",
+            "quality": "1.020, 1.067",
+            "source": 8,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:7a:c2:36-a2:f3:c1:05:77:f2",
+            "quality": "1.000, 1.049",
+            "source": 13,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "a4:c3:61:48:27:de-fa:1a:67:8d:60:82",
+            "quality": "TT",
+            "source": 10,
+            "target": 68,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:46:ff:c4-da:5d:4c:f6:30:22",
+            "quality": "1.020",
+            "source": 41,
+            "target": 104,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:c1:cc:d7-a2:f3:c1:ac:28:18",
+            "quality": "1.090, 1.054",
+            "source": 5,
+            "target": 24,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-a6:f3:c1:49:2a:e7",
+            "quality": "1.104, 1.058",
+            "source": 14,
+            "target": 33,
+            "type": null
+        },
+        {
+            "id": "d6:bc:70:42:d9:84-fa:97:88:f8:b1:f2",
+            "quality": "TT",
+            "source": 14,
+            "target": 116,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:d5:45:de-6c:3e:6d:90:be:a5",
+            "quality": "TT",
+            "source": 125,
+            "target": 126,
+            "type": "client"
+        },
+        {
+            "id": "66:70:02:57:9a:92-da:5d:4c:f6:30:22",
+            "quality": "1.085, 1.024",
+            "source": 41,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:7a:c2:36-a6:f3:c1:5e:cb:d9",
+            "quality": "1.071, 1.076",
+            "source": 13,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "98:0c:82:34:10:0c-c2:4a:00:bf:80:36",
+            "quality": "TT",
+            "source": 29,
+            "target": 30,
+            "type": "client"
+        },
+        {
+            "id": "00:26:59:b1:f4:1d-a2:f3:c1:06:77:1c",
+            "quality": "TT",
+            "source": 121,
+            "target": 122,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:fa:35:30-92:f6:52:3e:89:2c",
+            "quality": "1.000, 1.049",
+            "source": 15,
+            "target": 86,
+            "type": null
+        },
+        {
+            "id": "40:0e:85:35:82:ae-ea:94:f6:51:cf:94",
+            "quality": "TT",
+            "source": 108,
+            "target": 111,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:71:c9:b7-88:cb:87:00:e8:1d",
+            "quality": "TT",
+            "source": 73,
+            "target": 75,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:51:cd:ce-ea:94:f6:51:cf:94",
+            "quality": "1.037, 1.049",
+            "source": 108,
+            "target": 7,
+            "type": null
+        },
+        {
+            "id": "00:23:6c:8b:59:c1-ea:94:f6:6e:56:ac",
+            "quality": "TT",
+            "source": 1,
+            "target": 36,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:7a:c2:36-26:a4:3c:f8:5f:1c",
+            "quality": "1.123",
+            "source": 33,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "a0:f3:c1:49:2a:e6-f8:1a:67:3e:84:31",
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "00:66:4b:e2:44:a1-a2:f3:c1:b5:e9:7c",
+            "quality": "TT",
+            "source": 4,
+            "target": 56,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-d4:20:6d:0c:b6:52",
+            "quality": "TT",
+            "source": 13,
+            "target": 78,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7c:2d:9a-5c:ac:4c:a1:77:5d",
+            "quality": "TT",
+            "source": 89,
+            "target": 90,
+            "type": "client"
+        },
+        {
+            "id": "7c:dd:90:0c:2d:6d-f8:1a:67:3e:84:31",
+            "quality": "TT",
+            "source": 8,
+            "target": 59,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:d4:45:ca-66:66:b3:d4:45:e0",
+            "quality": "1.000, 1.020",
+            "source": 113,
+            "target": 57,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:39:a2:7e-92:f6:52:3e:89:2c",
+            "quality": "1.016, 1.000",
+            "source": 86,
+            "target": 85,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:eb:5f:00-66:70:02:57:9a:92",
+            "quality": "1.000",
+            "source": 72,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:47:00:76-f8:a9:d0:3b:5b:b0",
+            "quality": "TT",
+            "source": 83,
+            "target": 84,
+            "type": "client"
+        },
+        {
+            "id": "a2:f3:c1:05:77:f2-a6:f3:c1:49:2a:e7",
+            "quality": "1.041, 1.181",
+            "source": 14,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:51:cd:ce-ea:94:f6:51:cf:a8",
+            "quality": "1.000, 1.032",
+            "source": 7,
+            "target": 3,
             "type": null
         }
     ],
     "meta": {
-        "timestamp": "2014-07-24T02:30:03"
+        "timestamp": "2014-07-28T05:00:04"
     },
     "nodes": [
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:46:f4:fa",
+            "macs": "c2:4a:00:46:f4:fa, c2:4a:00:47:f4:fa, c0:4a:00:46:f4:fa",
+            "name": "Disibod-2"
+        },
         {
             "clientcount": 0,
             "firmware": "0.4.1a",
@@ -835,12 +911,12 @@
                 "online": true
             },
             "geo": [
-                53.2523433,
-                10.4001451
+                53.23872,
+                10.43466
             ],
-            "id": "10:fe:ed:af:63:bc",
-            "macs": "12:fe:ed:af:63:bb, 12:fe:ed:b0:63:bc, 10:fe:ed:af:63:bc",
-            "name": "Heisenberg-4"
+            "id": "24:a4:3c:7d:cf:7e",
+            "macs": "26:a4:3c:7d:cf:7e, 26:a4:3c:7e:cf:7e, 24:a4:3c:7d:cf:7e",
+            "name": "stephanus-seminar"
         },
         {
             "clientcount": 0,
@@ -851,28 +927,12 @@
                 "online": true
             },
             "geo": [
-                53.23872,
-                10.43466
+                53.2492499,
+                10.3937664
             ],
-            "id": "24:a4:3c:7d:cf:7e",
-            "macs": "26:a4:3c:7d:cf:7e, 26:a4:3c:7e:cf:7e, 24:a4:3c:7d:cf:7e",
-            "name": "stephanus-seminar"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.41",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                53.2474859,
-                10.4040002
-            ],
-            "id": "10:fe:ed:f1:3c:5c",
-            "macs": "12:fe:ed:f2:3c:5c, 10:fe:ed:f1:3c:5c, 12:fe:ed:f1:3c:5c",
-            "name": "NeueSuelze"
+            "id": "e8:94:f6:51:cf:a8",
+            "macs": "ea:94:f6:52:cf:a8, ea:94:f6:51:cf:a8, e8:94:f6:51:cf:a8",
+            "name": "Schnellenbergerweg-A"
         },
         {
             "clientcount": 0,
@@ -904,7 +964,7 @@
             ],
             "id": "a0:f3:c1:ac:28:18",
             "macs": "a0:f3:c1:ac:28:18, a2:f3:c1:ac:28:18, a2:f3:c1:ad:28:18",
-            "name": "RadioFreiesWendland"
+            "name": "Qaestor-WR841NDV81"
         },
         {
             "clientcount": 0,
@@ -921,6 +981,22 @@
             "id": "a0:f3:c1:5e:cb:da",
             "macs": "a0:f3:c1:5e:cb:d8, a6:f3:c1:5e:cb:d9, 9a:b3:e7:54:ab:c9",
             "name": "Uelzen-OW-2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.41",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                53.2492499,
+                10.3937664
+            ],
+            "id": "e8:94:f6:51:cd:ce",
+            "macs": "e8:94:f6:51:cd:ce, ea:94:f6:52:cd:ce, ea:94:f6:51:cd:ce",
+            "name": "Schnellenbergerweg-C"
         },
         {
             "clientcount": 0,
@@ -947,12 +1023,12 @@
                 "online": true
             },
             "geo": [
-                53.173804,
-                10.240733
+                52.955377629597,
+                10.560527443886
             ],
-            "id": "f8:1a:67:8c:60:82",
-            "macs": "f8:1a:67:8c:60:82, fa:1a:67:8c:60:82, fa:1a:67:8d:60:82",
-            "name": "WETZEN-REITERHOF-BUERO"
+            "id": "f8:d1:11:56:50:00",
+            "macs": "fa:d1:11:56:50:00, fa:d1:11:57:50:00, f8:d1:11:56:50:00",
+            "name": "UE-Koenigsberg-1043ND"
         },
         {
             "clientcount": 0,
@@ -962,10 +1038,13 @@
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
-            "id": "e8:94:f6:51:a9:c2",
-            "macs": "ea:94:f6:51:a9:c2, ea:94:f6:52:a9:c2, e8:94:f6:51:a9:c2",
-            "name": "freifunk-841_v9"
+            "geo": [
+                53.173804,
+                10.240733
+            ],
+            "id": "f8:1a:67:8c:60:82",
+            "macs": "f8:1a:67:8c:60:82, fa:1a:67:8c:60:82, fa:1a:67:8d:60:82",
+            "name": "WETZEN-REITERHOF-BUERO"
         },
         {
             "clientcount": 0,
@@ -982,6 +1061,19 @@
             "id": "a0:f3:c1:05:77:f2",
             "macs": "a0:f3:c1:05:77:f2, a2:f3:c1:05:77:f2, a0:f3:c1:05:77:f1",
             "name": "Uelzen-OW-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:51:a9:c2",
+            "macs": "ea:94:f6:51:a9:c2, ea:94:f6:52:a9:c2, e8:94:f6:51:a9:c2",
+            "name": "freifunk-841_v9"
         },
         {
             "clientcount": 0,
@@ -1101,7 +1193,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.1a",
+            "firmware": "0.4.1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1124,8 +1216,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "d8:50:e6:86:04:30",
-            "macs": "d8:50:e6:86:04:30",
+            "id": "f0:5a:09:9e:05:fa",
+            "macs": "f0:5a:09:9e:05:fa",
             "name": ""
         },
         {
@@ -1162,58 +1254,19 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.41",
+            "firmware": "0.4.1a",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                53.2475841,
-                10.4032281
+                52.955426105414,
+                10.560522079468
             ],
-            "id": "10:fe:ed:7b:1e:fc",
-            "macs": "10:fe:ed:7b:1e:fc, 12:fe:ed:7b:1e:fc",
-            "name": "Freiraum-1"
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "80:ea:96:00:8d:99",
-            "macs": "80:ea:96:00:8d:99",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "9c:20:7b:1e:0d:92",
-            "macs": "9c:20:7b:1e:0d:92",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "40:b3:95:06:67:10",
-            "macs": "40:b3:95:06:67:10",
-            "name": ""
+            "id": "f8:1a:67:f9:93:2e",
+            "macs": "fa:1a:67:f9:93:2e, f8:1a:67:f9:93:2e",
+            "name": "UE-Koenigsberg_wr740n"
         },
         {
             "clientcount": 0,
@@ -1278,6 +1331,48 @@
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "98:0c:82:34:10:0c",
+            "macs": "98:0c:82:34:10:0c",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "0c:30:21:e9:91:31",
+            "macs": "0c:30:21:e9:91:31",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                53.2523433,
+                10.4001451
+            ],
+            "id": "10:fe:ed:af:63:bc",
+            "macs": "12:fe:ed:b0:63:bc, 10:fe:ed:af:63:bc",
+            "name": "Heisenberg-4"
+        },
+        {
+            "clientcount": 0,
             "firmware": "0.4.1a",
             "flags": {
                 "client": false,
@@ -1291,6 +1386,58 @@
             "id": "24:a4:3c:f8:5f:1c",
             "macs": "24:a4:3c:f8:5f:1c, 26:a4:3c:f8:5f:1c",
             "name": "Uelzen-OW-5"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "8c:71:f8:a1:a1:09",
+            "macs": "8c:71:f8:a1:a1:09",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "28:ba:b5:03:11:a3",
+            "macs": "28:ba:b5:03:11:a3",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:23:6c:8b:59:c1",
+            "macs": "00:23:6c:8b:59:c1",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "18:9e:fc:51:83:6f",
+            "macs": "18:9e:fc:51:83:6f",
+            "name": ""
         },
         {
             "clientcount": 0,
@@ -1317,21 +1464,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "e0:63:e5:80:ff:fd",
-            "macs": "e0:63:e5:80:ff:fd",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "bc:b1:f3:77:e1:1c",
-            "macs": "bc:b1:f3:77:e1:1c",
+            "id": "78:a3:e4:a1:0e:b9",
+            "macs": "78:a3:e4:a1:0e:b9",
             "name": ""
         },
         {
@@ -1404,6 +1538,19 @@
                 "online": true
             },
             "geo": null,
+            "id": "a4:d1:d2:47:cd:17",
+            "macs": "a4:d1:d2:47:cd:17",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
             "id": "84:38:38:5e:5d:03",
             "macs": "84:38:38:5e:5d:03",
             "name": ""
@@ -1417,25 +1564,9 @@
                 "online": true
             },
             "geo": null,
-            "id": "60:d9:c7:a2:e3:f5",
-            "macs": "60:d9:c7:a2:e3:f5",
+            "id": "b4:52:7d:b4:59:a1",
+            "macs": "b4:52:7d:b4:59:a1",
             "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4a",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                53.2492499,
-                10.3937664
-            ],
-            "id": "e8:94:f6:51:cf:a8",
-            "macs": "ea:94:f6:51:cf:a8, e8:94:f6:51:cf:a8",
-            "name": "Schnellenbergerweg-A"
         },
         {
             "clientcount": 0,
@@ -1446,8 +1577,73 @@
                 "online": true
             },
             "geo": null,
-            "id": "18:3f:47:97:27:b5",
-            "macs": "18:3f:47:97:27:b5",
+            "id": "40:d3:2d:93:86:bb",
+            "macs": "40:d3:2d:93:86:bb",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "3c:df:bd:f8:ec:de",
+            "macs": "3c:df:bd:f8:ec:de",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c8:14:79:db:12:46",
+            "macs": "c8:14:79:db:12:46",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "38:e7:d8:eb:fa:9f",
+            "macs": "38:e7:d8:eb:fa:9f",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c8:d3:a3:6d:78:03",
+            "macs": "c8:d3:a3:6d:78:03",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "94:ce:2c:b8:2e:a0",
+            "macs": "94:ce:2c:b8:2e:a0",
             "name": ""
         },
         {
@@ -1462,19 +1658,6 @@
             "id": "e8:94:f6:51:a2:d0",
             "macs": "ea:94:f6:52:a2:d0, e8:94:f6:51:a2:d0",
             "name": "freifunk-e894f651a2d0"
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "e8:94:f6:ff:b6:a0",
-            "macs": "e8:94:f6:ff:b6:a0",
-            "name": ""
         },
         {
             "clientcount": 0,
@@ -1501,8 +1684,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "e8:92:a4:69:12:e0",
-            "macs": "e8:92:a4:69:12:e0",
+            "id": "20:02:af:d1:71:65",
+            "macs": "20:02:af:d1:71:65",
             "name": ""
         },
         {
@@ -1514,8 +1697,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "b4:52:7e:83:ba:1a",
-            "macs": "b4:52:7e:83:ba:1a",
+            "id": "00:66:4b:e2:44:a1",
+            "macs": "00:66:4b:e2:44:a1",
             "name": ""
         },
         {
@@ -1533,22 +1716,6 @@
             "id": "64:66:b3:d4:45:ca",
             "macs": "64:66:b3:d4:45:ca, 66:66:b3:d4:45:ca",
             "name": "WETZEN-REITERHOF-WERKSTATT"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.1a",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                53.23882,
-                10.43484
-            ],
-            "id": "24:a4:3c:ac:3c:58",
-            "macs": "24:a4:3c:ac:3c:58, 26:a4:3c:ac:3c:58",
-            "name": "stephanus-cafe"
         },
         {
             "clientcount": 0,
@@ -1572,8 +1739,21 @@
                 "online": true
             },
             "geo": null,
-            "id": "06:d0:37:43:8e:8c",
-            "macs": "06:d0:37:43:8e:8c",
+            "id": "7c:dd:90:0c:2d:6d",
+            "macs": "7c:dd:90:0c:2d:6d",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "32:65:52:62:b8:be",
+            "macs": "32:65:52:62:b8:be",
             "name": ""
         },
         {
@@ -1617,12 +1797,25 @@
                 "online": true
             },
             "geo": [
-                52.955377629597,
-                10.560527443886
+                53.21,
+                10.2959
             ],
-            "id": "f8:d1:11:56:50:00",
-            "macs": "fa:d1:11:57:50:00, f8:d1:11:56:50:00",
-            "name": "UE-Koenigsberg-1043ND"
+            "id": "e8:94:f6:51:8d:c0",
+            "macs": "e8:94:f6:51:8d:c0, ea:94:f6:52:8d:c0",
+            "name": "Apfelbaum"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "98:0c:82:96:38:9d",
+            "macs": "98:0c:82:96:38:9d",
+            "name": ""
         },
         {
             "clientcount": 0,
@@ -1635,6 +1828,32 @@
             "geo": null,
             "id": "30:aa:bd:2b:7e:d6",
             "macs": "30:aa:bd:2b:7e:d6",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "04:f7:e4:34:10:f5",
+            "macs": "04:f7:e4:34:10:f5",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "78:d6:f0:e6:31:d4",
+            "macs": "78:d6:f0:e6:31:d4",
             "name": ""
         },
         {
@@ -1730,19 +1949,6 @@
                 "online": true
             },
             "geo": null,
-            "id": "a4:c3:61:93:81:44",
-            "macs": "a4:c3:61:93:81:44",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
             "id": "18:20:32:ae:75:e3",
             "macs": "18:20:32:ae:75:e3",
             "name": ""
@@ -1769,22 +1975,25 @@
                 "online": true
             },
             "geo": null,
-            "id": "d4:20:6d:23:d8:3e",
-            "macs": "d4:20:6d:23:d8:3e",
+            "id": "be:b7:49:77:5c:85",
+            "macs": "be:b7:49:77:5c:85",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": null,
+            "firmware": "0.4",
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
-            "id": "be:b7:49:77:5c:85",
-            "macs": "be:b7:49:77:5c:85",
-            "name": ""
+            "geo": [
+                53.242358942291,
+                10.406042933464
+            ],
+            "id": "10:fe:ed:f4:e5:e6",
+            "macs": "10:fe:ed:f4:e5:e6, 12:fe:ed:f5:e5:e6",
+            "name": "funkFeld"
         },
         {
             "clientcount": 0,
@@ -1827,16 +2036,19 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
+            "firmware": "0.41",
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
-            "id": "24:77:03:7d:47:48",
-            "macs": "24:77:03:7d:47:48",
-            "name": ""
+            "geo": [
+                53.23873,
+                10.43447
+            ],
+            "id": "24:a4:3c:7d:d0:18",
+            "macs": "26:a4:3c:7e:d0:18, 24:a4:3c:7d:d0:18",
+            "name": "stephanus-1"
         },
         {
             "clientcount": 0,
@@ -1853,22 +2065,6 @@
             "id": "10:fe:ed:8a:5f:2a",
             "macs": "10:fe:ed:8a:5f:2a, 12:fe:ed:8b:5f:2a",
             "name": "freifunk-Speicherpunkt"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.1a",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                53.23888,
-                10.43448
-            ],
-            "id": "24:a4:3c:7d:cf:a8",
-            "macs": "24:a4:3c:7d:cf:a8, 26:a4:3c:7d:cf:a8",
-            "name": "stephanus-foyer"
         },
         {
             "clientcount": 0,
@@ -1907,6 +2103,19 @@
                 "gateway": false,
                 "online": true
             },
+            "geo": null,
+            "id": "10:fe:ed:39:a2:7e",
+            "macs": "12:fe:ed:39:a2:7e, 10:fe:ed:39:a2:7e",
+            "name": "Wulfsen03"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
             "geo": [
                 53.301015,
                 10.13433
@@ -1917,16 +2126,19 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.1a",
+            "firmware": "0.41",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
-            "id": "10:fe:ed:39:a2:7e",
-            "macs": "12:fe:ed:39:a2:7e, 10:fe:ed:39:a2:7e",
-            "name": "Wulfsen03"
+            "geo": [
+                53.2492499,
+                10.3937664
+            ],
+            "id": "e8:94:f6:51:ce:d8",
+            "macs": "ea:94:f6:51:ce:d8, e8:94:f6:51:ce:d8",
+            "name": "Schnellenbergerweg-B"
         },
         {
             "clientcount": 0,
@@ -1937,8 +2149,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "ac:36:13:e3:7d:1e",
-            "macs": "ac:36:13:e3:7d:1e",
+            "id": "d4:6e:5c:f1:ae:7d",
+            "macs": "d4:6e:5c:f1:ae:7d",
             "name": ""
         },
         {
@@ -1963,8 +2175,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "00:21:63:bc:4a:b2",
-            "macs": "00:21:63:bc:4a:b2",
+            "id": "5c:ac:4c:a1:77:5d",
+            "macs": "5c:ac:4c:a1:77:5d",
             "name": ""
         },
         {
@@ -1976,8 +2188,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "48:5d:60:07:73:40",
-            "macs": "48:5d:60:07:73:40",
+            "id": "00:21:63:bc:4a:b2",
+            "macs": "00:21:63:bc:4a:b2",
             "name": ""
         },
         {
@@ -2005,47 +2217,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "cc:3a:61:4d:c1:d5",
-            "macs": "cc:3a:61:4d:c1:d5",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "c8:14:79:b2:0f:c2",
-            "macs": "c8:14:79:b2:0f:c2",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "d0:51:62:f7:03:48",
-            "macs": "d0:51:62:f7:03:48",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "a8:16:b2:93:e2:b7",
-            "macs": "a8:16:b2:93:e2:b7",
+            "id": "8c:fa:ba:e8:d6:e7",
+            "macs": "8c:fa:ba:e8:d6:e7",
             "name": ""
         },
         {
@@ -2063,16 +2236,19 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.1a",
+            "firmware": "0.41",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
-            "id": "a0:f3:c1:05:75:c6",
-            "macs": "a0:f3:c1:05:75:c6, a2:f3:c1:06:75:c6",
-            "name": "Freifunk-Soek2"
+            "geo": [
+                53.092575495826,
+                10.730686783791
+            ],
+            "id": "a0:f3:c1:9f:16:02",
+            "macs": "a2:f3:c1:9f:16:02, a0:f3:c1:9f:16:02",
+            "name": "TH-Himbergen-01"
         },
         {
             "clientcount": 0,
@@ -2083,9 +2259,48 @@
                 "online": true
             },
             "geo": null,
-            "id": "c8:14:79:25:d5:c1",
-            "macs": "c8:14:79:25:d5:c1",
+            "id": "d0:22:be:3e:fa:ae",
+            "macs": "d0:22:be:3e:fa:ae",
             "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a8:44:81:62:de:b8",
+            "macs": "a8:44:81:62:de:b8",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "5c:f8:a1:29:b7:19",
+            "macs": "5c:f8:a1:29:b7:19",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a0:f3:c1:05:75:c6",
+            "macs": "a0:f3:c1:05:75:c6, a2:f3:c1:06:75:c6",
+            "name": "Freifunk-Soek2"
         },
         {
             "clientcount": 0,
@@ -2105,16 +2320,32 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
+            "firmware": "0.4.1a",
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "40:b3:95:3e:5b:92",
-            "macs": "40:b3:95:3e:5b:92",
-            "name": ""
+            "id": "00:27:19:fc:89:6a",
+            "macs": "00:27:19:fc:89:6a, 02:27:19:fc:89:6a",
+            "name": "Disibod-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                53.289143,
+                10.438163
+            ],
+            "id": "e8:94:f6:6d:4f:6a",
+            "macs": "ea:94:f6:6e:4f:6a, e8:94:f6:6d:4f:6a",
+            "name": "Johannes-Brahms-Str-11"
         },
         {
             "clientcount": 0,
@@ -2125,8 +2356,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "4c:b1:99:90:c1:57",
-            "macs": "4c:b1:99:90:c1:57",
+            "id": "34:bb:26:08:67:91",
+            "macs": "34:bb:26:08:67:91",
             "name": ""
         },
         {
@@ -2153,6 +2384,103 @@
             "geo": null,
             "id": "00:25:9c:4b:10:7a",
             "macs": "00:25:9c:4b:10:7a",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                53.229425,
+                10.398624
+            ],
+            "id": "c0:4a:00:62:cf:94",
+            "macs": "c2:4a:00:63:cf:94, c0:4a:00:62:cf:94",
+            "name": "freifunk-hoes-HDG-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "bc:76:70:4f:cd:88",
+            "macs": "bc:76:70:4f:cd:88",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1a",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                53.2492499,
+                10.3937664
+            ],
+            "id": "e8:94:f6:51:cf:94",
+            "macs": "e8:94:f6:51:cf:94, ea:94:f6:51:cf:94",
+            "name": "Schnellenbergerweg-D"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "8c:64:22:4c:36:d5",
+            "macs": "8c:64:22:4c:36:d5",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e4:8b:7f:d0:a4:42",
+            "macs": "e4:8b:7f:d0:a4:42",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "40:0e:85:35:82:ae",
+            "macs": "40:0e:85:35:82:ae",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "d8:d1:cb:c9:6d:09",
+            "macs": "d8:d1:cb:c9:6d:09",
             "name": ""
         },
         {
@@ -2193,8 +2521,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "40:b0:fa:d7:e0:70",
-            "macs": "40:b0:fa:d7:e0:70",
+            "id": "f0:27:65:59:ca:bb",
+            "macs": "f0:27:65:59:ca:bb",
             "name": ""
         },
         {
@@ -2232,21 +2560,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "00:21:5d:10:ff:be",
-            "macs": "00:21:5d:10:ff:be",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "a4:c3:61:20:5b:79",
-            "macs": "a4:c3:61:20:5b:79",
+            "id": "84:38:38:27:33:54",
+            "macs": "84:38:38:27:33:54",
             "name": ""
         },
         {
@@ -2261,48 +2576,6 @@
             "id": "00:11:32:27:e2:c6",
             "macs": "00:11:32:27:e2:c6",
             "name": "mumble.fflg"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.1a",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                53.2523433,
-                10.4001451
-            ],
-            "id": "d8:5d:4c:9c:27:8e",
-            "macs": "da:5d:4c:9c:27:8e, d8:5d:4c:9c:27:8e",
-            "name": "Heisenberg-2"
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "7c:fa:df:44:03:c5",
-            "macs": "7c:fa:df:44:03:c5",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "30:39:26:7f:19:ef",
-            "macs": "30:39:26:7f:19:ef",
-            "name": ""
         },
         {
             "clientcount": 0,
@@ -2335,19 +2608,6 @@
             "id": "a0:f3:c1:05:77:1c",
             "macs": "a2:f3:c1:06:77:1c, a0:f3:c1:05:77:1c",
             "name": "Bar-Lerchenweg23"
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "40:f3:08:93:93:35",
-            "macs": "40:f3:08:93:93:35",
-            "name": ""
         },
         {
             "clientcount": 0,
@@ -2408,17 +2668,14 @@
             "clientcount": 0,
             "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
-                "online": false
+                "online": true
             },
-            "geo": [
-                53.251434388411,
-                10.41111767292
-            ],
-            "id": "10:fe:ed:f1:3f:78",
-            "macs": "",
-            "name": "Hausbar"
+            "geo": null,
+            "id": "6c:3e:6d:90:be:a5",
+            "macs": "6c:3e:6d:90:be:a5",
+            "name": ""
         },
         {
             "clientcount": 0,
@@ -2441,10 +2698,106 @@
                 "gateway": false,
                 "online": false
             },
-            "geo": null,
-            "id": "c0:4a:00:46:f4:fa",
+            "geo": [
+                53.251434388411,
+                10.41111767292
+            ],
+            "id": "10:fe:ed:f1:3f:78",
             "macs": "",
-            "name": "Avenir"
+            "name": "Hausbar"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.955451959161,
+                10.560522079468
+            ],
+            "id": "e8:94:f6:51:89:6c",
+            "macs": "",
+            "name": "UE-Koenigsberg-Balkon"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:42:9b:6c",
+            "macs": "",
+            "name": "UE_VPN_Test_841nV9"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                53.25204,
+                10.39015
+            ],
+            "id": "a0:f3:c1:ac:27:80",
+            "macs": "",
+            "name": "Freifunk-claas3"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                53.2474859,
+                10.4040002
+            ],
+            "id": "10:fe:ed:f1:3c:5c",
+            "macs": "",
+            "name": "NeueSuelze"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                53.2475841,
+                10.4032281
+            ],
+            "id": "10:fe:ed:7b:1e:fc",
+            "macs": "",
+            "name": "Freiraum-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                53.2523433,
+                10.4001451
+            ],
+            "id": "d8:5d:4c:9c:27:8e",
+            "macs": "",
+            "name": "Heisenberg-2"
         },
         {
             "clientcount": 0,
@@ -2470,10 +2823,13 @@
                 "gateway": false,
                 "online": false
             },
-            "geo": null,
-            "id": "00:27:19:fc:89:6a",
+            "geo": [
+                53.23882,
+                10.43484
+            ],
+            "id": "24:a4:3c:ac:3c:58",
             "macs": "",
-            "name": "Disibod-1"
+            "name": "stephanus-cafe"
         },
         {
             "clientcount": 0,
@@ -2484,12 +2840,51 @@
                 "online": false
             },
             "geo": [
-                53.23873,
-                10.43447
+                53.23888,
+                10.43448
             ],
-            "id": "24:a4:3c:7d:d0:18",
+            "id": "24:a4:3c:7d:cf:a8",
             "macs": "",
-            "name": "stephanus-1"
+            "name": "stephanus-foyer"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "da:5d:4c:9c:27:8e",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "a2:f3:c1:06:77:1c",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "a2:f3:c1:36:ad:56",
+            "macs": "",
+            "name": ""
         }
     ]
 }
