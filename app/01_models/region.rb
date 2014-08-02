@@ -14,6 +14,8 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:bielefeld,  "Bielefeld",       9, [52.04,  8.53], "http://map.freifunk-bielefeld.quakente.net/nodes.json",          "FreifunkBI",       "http://freifunk-bielefeld.quakente.net/"),
     Region.new(:chemnitz,   "Chemnitz",       10, [50.82, 12.89], "http://curie.routers.chemnitz.freifunk.net/ffmap-d3/nodes.json", "FreifunkC",        "http://chemnitz.freifunk.net/"),
     Region.new(:mzwi,       "Mainz/Wiesbaden",10, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                        ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
+    Region.new(:ffrn,       "Rhein-Neckar",   10, [49.51,   8.5], "http://map.freifunk-rhein-neckar.de/nodes.json",                 "FFRheinNeckar",    "https://www.freifunk-rhein-neckar.de/"),
+
   ]
 
   def self.all
