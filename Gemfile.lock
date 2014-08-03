@@ -66,6 +66,7 @@ PLATFORMS
 DEPENDENCIES
   afmotion (= 2.1.5)
   bubble-wrap (= 1.6.0)
+  cocoapods
   map-kit-wrapper (= 0.0.5)
   motion-testflight (= 1.5.1)
   rake
