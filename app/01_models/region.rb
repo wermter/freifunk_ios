@@ -1,7 +1,7 @@
 class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :homepage)
   ALL = [
     Region.new(:hamburg,    "Hamburg",         7, [53.50, 10.00], "http://graph.hamburg.freifunk.net/nodes.json",                   "FreifunkHH",       "http://hamburg.freifunk.net/"),
-    Region.new(:jena,       "Jena",            9, [50.90, 11.60], "http://map.freifunk-jena.de/ffmap/nodes.json",                   "freifunkjena",     "http://freifunk-jena.de/"),
+    Region.new(:jena,       "Jena",            9, [50.90, 11.60], "http://freifunk-jena.de/ffmap/nodes.json",                   "freifunkjena",     "http://freifunk-jena.de/"),
     Region.new(:kiel,       "Kiel",            9, [54.30, 10.10], "http://freifunk.in-kiel.de/ffmap/nodes.json",                    "freifunkkiel",     "http://freifunk.in-kiel.de/"),
     Region.new(:luebeck,    "Lübeck",          8, [53.80, 10.70], "http://luebeck.freifunk.net/map/nodes.json",                     "freifunkluebeck",  "http://freifunk.metameute.de/"),
     Region.new(:lueneburg,  "Lüneburg",        9, [53.24, 10.42], "http://freifunk-lueneburg.de/karte/nodes.json",                  "freifunk",         "http://freifunk-lueneburg.de"),
