@@ -23,6 +23,10 @@ class Node
     LocationCoordinate.new(geo.first, geo.last).api
   end
 
+  def geo?
+    !geo.nil?
+  end
+
   def online?
     flags["online"]
   end
@@ -40,15 +44,11 @@ class Node
   end
 
   def valid?
-    !node_id.nil? && !name.nil? && !geo.nil?
-  end
-
-  def in_valid?
-    !valid?
+    !node_id.nil? && !name.nil? && name.length > 0
   end
 
   def self.from_json(json)
-    Array(json[:nodes]).map do |it|
+    Array(json[:nodes]).map { |it|
       node_id = it[:id]
       name    = it[:name]
       geo     = it[:geo]
@@ -56,6 +56,6 @@ class Node
       macs    = it[:macs]
 
       new(node_id, name, geo, flags, macs)
-    end
+    }.select(&:valid?)
   end
 end

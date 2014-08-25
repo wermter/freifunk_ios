@@ -14,7 +14,7 @@ class DetailsController < UITableViewController
   end
 
   def numberOfSectionsInTableView(tableView)
-    4
+    node.geo? ? 4 : 3
   end
 
   def tableView(tableView, titleForHeaderInSection: section)
@@ -27,7 +27,9 @@ class DetailsController < UITableViewController
 
   def tableView(tableView, numberOfRowsInSection: section)
     case section
-    when 0, 1
+    when 0
+      node.geo? ? 3 : 2
+    when 1
       3
     when 2
       node.macs.size

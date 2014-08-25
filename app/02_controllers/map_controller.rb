@@ -56,7 +56,7 @@ class MapController < UIViewController
         it.rightCalloutAccessoryView = button
       end
     end
-    view.animatesDrop = mapView.zoom_level >= NEAR_IN - 1
+    view.animatesDrop = false
     view.pinColor     = annotation.online? ? MKPinAnnotationColorGreen : MKPinAnnotationColorRed
     view
   end
@@ -135,13 +135,13 @@ class MapController < UIViewController
     map.removeOverlays(map.overlays)
     case @control.selectedSegmentIndex
     when 0
-      map.addAnnotations(delegate.node_repo.all)
+      map.addAnnotations(delegate.node_repo.all.select(&:geo?))
     when 1
-      map.addAnnotations(delegate.node_repo.online)
+      map.addAnnotations(delegate.node_repo.online.select(&:geo?))
     when 2
-      map.addAnnotations(delegate.node_repo.offline)
+      map.addAnnotations(delegate.node_repo.offline.select(&:geo?))
     when 3
-      connections = delegate.link_repo.connections(delegate.node_repo.all)
+      connections = delegate.link_repo.connections(delegate.node_repo.all.select(&:geo?))
       map.addAnnotations(connections.flatten.uniq)
       connections.each do |source, target|
         coords = Pointer.new(CLLocationCoordinate2D.type, 2)

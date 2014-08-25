@@ -28,7 +28,7 @@ class NodeRepository
   end
 
   def all
-    @nodes.reject(&:in_valid?)
+    @nodes
   end
 
   private
