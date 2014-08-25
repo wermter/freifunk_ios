@@ -1,6 +1,6 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
 bundle install
-pod setup
+pod setup --silent
 rake pod:install
 bundle exec rake spec
