@@ -101,7 +101,7 @@
         {
             "flags": {
                 "client": false,
-                "gateway": true,
+                "gateway": false,
                 "online": true
             },
             "geo": [
@@ -298,7 +298,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
                 51.057493,
@@ -438,7 +438,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
                 51.0242538,
@@ -466,7 +466,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
                 51.033189,
