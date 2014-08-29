@@ -101,7 +101,7 @@
         {
             "flags": {
                 "client": false,
-                "gateway": false,
+                "gateway": true,
                 "online": true
             },
             "geo": [
@@ -181,6 +181,20 @@
             "id": "r125",
             "macs": "",
             "name": "r125"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.0471661,
+                13.7470897
+            ],
+            "id": "r150",
+            "macs": "",
+            "name": "r150"
         },
         {
             "flags": {
@@ -535,8 +549,8 @@
         {
             "flags": {
                 "client": false,
-                "gateway": true,
-                "online": true
+                "gateway": false,
+                "online": false
             },
             "geo": [
                 51.037053,

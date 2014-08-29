@@ -1,53 +1,46 @@
 {
     "links": [
         {
-            "id": "6e:70:02:e2:97:d3-84:85:06:07:fa:cd",
+            "id": "12:fe:ed:eb:99:3a-1a:fe:ed:eb:99:3a",
             "quality": "TT",
-            "source": 2,
+            "source": 3,
             "target": 14,
             "type": "client"
         },
         {
-            "id": "06:0d:f6:97:61:94-1a:9c:d2:bc:57:35",
-            "quality": "1.000, 1.000",
-            "source": 2,
-            "target": 11,
-            "type": null
-        },
-        {
             "id": "06:0d:f6:97:61:94-0e:ca:b8:7e:21:a5",
-            "quality": "1.000, 1.000",
+            "quality": "1.000, 1.003",
             "source": 3,
-            "target": 11,
+            "target": 10,
             "type": null
         },
         {
-            "id": "6e:70:02:e2:97:cd-6e:70:02:e2:97:d3",
-            "quality": "31.875, 21.250",
-            "source": 2,
-            "target": 1,
-            "type": null
-        },
-        {
-            "id": "64:70:02:e2:97:d4-6e:70:02:e2:97:d3",
+            "id": "24:69:a5:d8:45:06-6e:70:02:d3:23:fd",
             "quality": "TT",
-            "source": 2,
-            "target": 15,
-            "type": "client"
-        },
-        {
-            "id": "68:a8:6d:0f:4e:42-6e:70:02:d3:23:6b",
-            "quality": "TT",
-            "source": 4,
-            "target": 6,
+            "source": 0,
+            "target": 7,
             "type": "client"
         },
         {
             "id": "1a:a0:29:f5:89:2c-64:70:02:e2:97:cc",
             "quality": "TT",
             "source": 1,
-            "target": 9,
+            "target": 8,
             "type": "client"
+        },
+        {
+            "id": "1a:fe:ed:eb:99:3a-22:29:b2:37:73:62",
+            "quality": "TT",
+            "source": 3,
+            "target": 15,
+            "type": "client"
+        },
+        {
+            "id": "6e:70:02:e2:97:cd-6e:70:02:e2:97:d3",
+            "quality": "12.750, 5.930",
+            "source": 2,
+            "target": 1,
+            "type": null
         },
         {
             "id": "6e:70:02:d3:23:6b-72:b5:54:45:7b:69",
@@ -57,37 +50,37 @@
             "type": "client"
         },
         {
-            "id": "50:2e:5c:46:53:cb-64:70:02:e2:97:cc",
-            "quality": "TT",
-            "source": 1,
+            "id": "06:0d:f6:97:61:94-1a:9c:d2:bc:57:35",
+            "quality": "1.000, 1.003",
+            "source": 2,
             "target": 10,
-            "type": "client"
-        },
-        {
-            "id": "1a:fe:ed:eb:99:3a-22:29:b2:37:73:62",
-            "quality": "TT",
-            "source": 3,
-            "target": 16,
-            "type": "client"
+            "type": null
         },
         {
             "id": "6e:70:02:d3:23:6b-6e:70:02:e2:97:d3",
-            "quality": "1.015, 1.011",
+            "quality": "1.011, 1.020",
             "source": 2,
             "target": 4,
             "type": null
         },
         {
-            "id": "64:70:02:d3:23:fc-6e:70:02:d3:23:fd",
+            "id": "6e:70:02:e2:97:d3-e4:92:fb:e4:95:07",
             "quality": "TT",
-            "source": 0,
-            "target": 8,
+            "source": 2,
+            "target": 13,
+            "type": "client"
+        },
+        {
+            "id": "64:70:02:e2:97:cc-d8:96:95:b1:7d:44",
+            "quality": "TT",
+            "source": 1,
+            "target": 9,
             "type": "client"
         },
         {
             "id": "06:0d:f6:97:61:94-f2:94:fd:3e:25:f5",
             "quality": "1.000, 1.000",
-            "source": 11,
+            "source": 10,
             "target": 0,
             "type": null
         },
@@ -95,26 +88,26 @@
             "id": "6e:70:02:e2:97:d3-96:92:28:d2:bf:95",
             "quality": "TT",
             "source": 2,
-            "target": 13,
+            "target": 12,
             "type": "client"
         },
         {
             "id": "6e:70:02:d3:23:fd-ae:e6:bc:87:f5:c2",
             "quality": "TT",
             "source": 0,
-            "target": 7,
+            "target": 6,
             "type": "client"
         },
         {
             "id": "02:77:ca:94:62:8f-06:0d:f6:97:61:94",
             "quality": "TT",
-            "source": 11,
-            "target": 12,
+            "source": 10,
+            "target": 11,
             "type": "client"
         }
     ],
     "meta": {
-        "timestamp": "2014-08-25T16:34:35"
+        "timestamp": "2014-08-29T10:10:39"
     },
     "nodes": [
         {
@@ -196,17 +189,6 @@
                 "online": true
             },
             "geo": null,
-            "id": "68:a8:6d:0f:4e:42",
-            "macs": "68:a8:6d:0f:4e:42",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
             "id": "ae:e6:bc:87:f5:c2",
             "macs": "ae:e6:bc:87:f5:c2",
             "name": ""
@@ -218,8 +200,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "64:70:02:d3:23:fc",
-            "macs": "64:70:02:d3:23:fc",
+            "id": "24:69:a5:d8:45:06",
+            "macs": "24:69:a5:d8:45:06",
             "name": ""
         },
         {
@@ -240,8 +222,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "50:2e:5c:46:53:cb",
-            "macs": "50:2e:5c:46:53:cb",
+            "id": "d8:96:95:b1:7d:44",
+            "macs": "d8:96:95:b1:7d:44",
             "name": ""
         },
         {
@@ -284,8 +266,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "84:85:06:07:fa:cd",
-            "macs": "84:85:06:07:fa:cd",
+            "id": "e4:92:fb:e4:95:07",
+            "macs": "e4:92:fb:e4:95:07",
             "name": ""
         },
         {
@@ -295,8 +277,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "64:70:02:e2:97:d4",
-            "macs": "64:70:02:e2:97:d4",
+            "id": "12:fe:ed:eb:99:3a",
+            "macs": "12:fe:ed:eb:99:3a",
             "name": ""
         },
         {
