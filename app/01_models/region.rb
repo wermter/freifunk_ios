@@ -12,7 +12,7 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:magdeburg,    "Magdeburg",      11, [52.14, 11.65], "http://map.md.freifunk.net/nodes.json",                          "freifunkmd",       "http://md.freifunk.net"),
     Region.new(:guetersloh,   "Gütersloh",       9, [51.91,  8.38], "http://guetersloh.freifunk.net/map/nodes.json",                  "FreifunkGT",       "http://guetersloh.freifunk.net/"),
     Region.new(:bielefeld,    "Bielefeld",       9, [52.04,  8.53], "http://map.freifunk-bielefeld.de/nodes.json",                    "FreifunkBI",       "http://freifunk-bielefeld.quakente.net/"),
-    Region.new(:chemnitz,     "Chemnitz",       10, [50.82, 12.89], "http://info.freifunk-dresden.de/info/ios-app-freifunk.json",     "FreifunkC",        "http://chemnitz.freifunk.net/"),
+    Region.new(:chemnitz,     "Chemnitz",       10, [50.82, 12.89], "http://curie.routers.chemnitz.freifunk.net/ffmap-d3/nodes.json", "FreifunkC",        "http://chemnitz.freifunk.net/"),
     Region.new(:ffrn,         "Rhein-Neckar",    9, [49.51,  8.56], "http://map.freifunk-rhein-neckar.de/nodes.json",                 "FFRheinNeckar",    "https://www.freifunk-rhein-neckar.de/"),
     # Region.new(:braunschweig, "Braunschweig",   10, [52.27, 10.52], "http://map.freifunk-bs.de/nodes.json",                           "freifunk_bs",      "http://freifunk-bs.de"),
     Region.new(:essen,        "Essen",           8, [51.45, 7.01],  "http://map.freifunk-ruhrgebiet.de/nodes.json",                   "ffruhr",           "http://freifunk-ruhrgebiet.de/"),
