@@ -17,6 +17,7 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     # Region.new(:braunschweig, "Braunschweig",   10, [52.27, 10.52], "http://freifunk-bs.de/nodes.json",                             "freifunk_bs",      "http://freifunk-bs.de"),
     Region.new(:mzwi,         "Mainz/Wiesbaden",10, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                        ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
     Region.new(:essen,        "Essen",           8, [51.45, 7.01],  "map.freifunk-ruhrgebiet.de/E/nodes.json",                        "ffruhr",           "http://freifunk-ruhrgebiet.de/"),
+    Region.new(:bochum,       "Bochum",          8, [51.48, 7.21],  "map.freifunk-ruhrgebiet.de/BO/nodes.json",                       "ffruhr",           "http://freifunk-ruhrgebiet.de/"),
   ]
 
   def self.all
