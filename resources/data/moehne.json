@@ -1,0 +1,5277 @@
+{
+    "links": [
+        {
+            "id": "08:08:c2:b6:c3:4b-ea:94:f6:50:cd:5c",
+            "quality": "TT",
+            "source": 181,
+            "target": 183,
+            "type": "client"
+        },
+        {
+            "id": "4c:3c:16:ec:bc:23-c2:4a:00:2c:a5:cc",
+            "quality": "TT",
+            "source": 35,
+            "target": 211,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e4:47-c2:4a:00:42:30:68",
+            "quality": "1.356, 1.269",
+            "source": 18,
+            "target": 108,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-c2:4a:00:42:30:68",
+            "quality": "1.393, 1.335",
+            "source": 26,
+            "target": 108,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-c2:4a:00:42:30:22",
+            "quality": "1.128",
+            "source": 3,
+            "target": 169,
+            "type": null
+        },
+        {
+            "id": "60:21:c0:03:8b:17-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 52,
+            "type": "client"
+        },
+        {
+            "id": "48:74:6e:6f:d8:a5-c2:4a:00:42:2f:66",
+            "quality": "TT",
+            "source": 78,
+            "target": 79,
+            "type": "client"
+        },
+        {
+            "id": "44:d4:e0:9b:66:4e-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 58,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:62:17:90-f0:27:65:3a:2e:5d",
+            "quality": "TT",
+            "source": 47,
+            "target": 61,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e4:27-12:fe:ed:e6:06:ab",
+            "quality": "1.000",
+            "source": 22,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e3:5f-78:ca:39:dd:fe:52",
+            "quality": "TT",
+            "source": 124,
+            "target": 125,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:42:26:be-c2:4a:00:be:81:51",
+            "quality": "1.037, 1.054",
+            "source": 32,
+            "target": 189,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:20:57-c2:4a:00:42:2e:c2",
+            "quality": "1.000, 1.016",
+            "source": 186,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:4e-c2:4a:00:42:30:82",
+            "quality": "1.594, 1.545",
+            "source": 118,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:68-c2:4a:00:42:30:82",
+            "quality": "1.527, 1.536",
+            "source": 108,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:42:9f:5a-ea:94:f6:42:a3:3a",
+            "quality": "1.037, 1.058",
+            "source": 156,
+            "target": 39,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:32:35:89-fa:1a:67:2e:ee:ac",
+            "quality": "4.554, 9.444",
+            "source": 33,
+            "target": 31,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:46:4e:2a-fa:1a:67:ed:b6:cf",
+            "quality": "28.333",
+            "source": 21,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-66:66:b3:2e:de:74",
+            "quality": "1.269",
+            "source": 97,
+            "target": 192,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:42:24:35-66:70:02:3a:c0:c6",
+            "quality": "1.090, 1.020",
+            "source": 150,
+            "target": 133,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:2e:86-fa:1a:67:2e:f5:85",
+            "quality": "1.000, 1.032",
+            "source": 173,
+            "target": 23,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e4:28-12:fe:ed:e6:06:ac",
+            "quality": "1.000, 1.016",
+            "source": 22,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-6c:f3:73:75:60:a4",
+            "quality": "TT",
+            "source": 97,
+            "target": 98,
+            "type": "client"
+        },
+        {
+            "id": "00:73:e0:82:7d:0b-12:fe:ed:af:80:37",
+            "quality": "TT",
+            "source": 20,
+            "target": 141,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:a4:ec:42-9c:e6:e7:e9:a8:ac",
+            "quality": "TT",
+            "source": 5,
+            "target": 72,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e6:06:ab-fa:1a:67:2e:ee:ab",
+            "quality": "1.275, 1.197",
+            "source": 33,
+            "target": 22,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:f9-66:66:b3:2e:dc:f0",
+            "quality": "1.159",
+            "source": 87,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "00:25:4b:62:0a:da-12:fe:ed:e5:e3:5f",
+            "quality": "TT",
+            "source": 124,
+            "target": 126,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1c:01-c2:4a:00:42:2e:c2",
+            "quality": "1.114, 1.000",
+            "source": 186,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:62:f1:fa-dc:86:d8:88:a3:a1",
+            "quality": "TT",
+            "source": 199,
+            "target": 200,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:a5:ec:42-c0:4a:00:0b:8c:95",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1c:01-c2:4a:00:42:17:3a",
+            "quality": "1.008",
+            "source": 14,
+            "target": 119,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e6:06:ab-c2:4a:00:42:2f:4e",
+            "quality": "1.288",
+            "source": 166,
+            "target": 22,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:42:24:35-a0:e4:53:8d:ff:03",
+            "quality": "TT",
+            "source": 133,
+            "target": 134,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:42:26:be-94:ce:2c:34:80:bf",
+            "quality": "TT",
+            "source": 189,
+            "target": 190,
+            "type": "client"
+        },
+        {
+            "id": "88:63:df:88:6e:d7-ea:94:f6:42:a3:3a",
+            "quality": "TT",
+            "source": 156,
+            "target": 158,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dd:b4-c2:4a:00:42:30:68",
+            "quality": "1.226, 1.004",
+            "source": 149,
+            "target": 108,
+            "type": null
+        },
+        {
+            "id": "50:3c:c4:f9:0e:46-fa:1a:67:ed:b6:d0",
+            "quality": "TT",
+            "source": 21,
+            "target": 148,
+            "type": "client"
+        },
+        {
+            "id": "60:21:c0:20:5e:f2-ea:94:f6:42:a2:58",
+            "quality": "TT",
+            "source": 109,
+            "target": 111,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:f1:e6:38-c8:3d:97:26:74:42",
+            "quality": "TT",
+            "source": 159,
+            "target": 161,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:78:37:50-94:db:c9:c5:b2:de",
+            "quality": "TT",
+            "source": 99,
+            "target": 102,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:20:57-c2:4a:00:42:17:3a",
+            "quality": "1.170, 1.054",
+            "source": 119,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:d9:55:ab-ea:94:f6:42:9f:5a",
+            "quality": "1.054, 1.000",
+            "source": 7,
+            "target": 39,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:47:4e:2a-40:0e:85:fe:6c:de",
+            "quality": "TT",
+            "source": 8,
+            "target": 80,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1c:01-c2:4a:00:42:2e:06",
+            "quality": "1.045, 1.000",
+            "source": 140,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:2f:4e-c2:4a:00:42:30:22",
+            "quality": "1.054, 1.049",
+            "source": 169,
+            "target": 166,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:50:02:74-ea:94:f6:50:02:a0",
+            "quality": "1.008, 1.076",
+            "source": 171,
+            "target": 82,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4f:cb:9a-ea:94:f6:50:02:a0",
+            "quality": "1.037, 1.020",
+            "source": 203,
+            "target": 171,
+            "type": null
+        },
+        {
+            "id": "a4:eb:d3:76:11:f2-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 48,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:0b:c9:e0-ea:94:f6:4f:cd:80",
+            "quality": "1.062, 1.796",
+            "source": 24,
+            "target": 152,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-66:66:b3:2e:dd:b4",
+            "quality": "1.275",
+            "source": 149,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e4:28-fa:1a:67:ed:b6:d0",
+            "quality": "1.417, 1.138",
+            "source": 21,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "78:4b:87:60:59:71-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 57,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-c2:4a:00:42:2f:66",
+            "quality": "1.783, 1.090",
+            "source": 97,
+            "target": 78,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:2c:a5:cb-c2:4a:00:42:30:60",
+            "quality": "1.256, 1.024",
+            "source": 35,
+            "target": 131,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:c9-fa:1a:67:ed:bd:0b",
+            "quality": "1.037, 1.238",
+            "source": 143,
+            "target": 84,
+            "type": null
+        },
+        {
+            "id": "08:fd:0e:4a:86:17-66:66:b3:2e:de:74",
+            "quality": "TT",
+            "source": 192,
+            "target": 195,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:42:2f:4e-c2:4a:00:42:30:68",
+            "quality": "1.256",
+            "source": 108,
+            "target": 166,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-66:66:b3:2e:dd:b2",
+            "quality": "1.466, 1.197",
+            "source": 205,
+            "target": 26,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-c2:4a:00:42:30:4e",
+            "quality": "2.406",
+            "source": 118,
+            "target": 97,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:05:ec:dc-ea:94:f6:6c:f2:ea",
+            "quality": "1.071, 1.067",
+            "source": 175,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:ed:b8:e4-ea:94:f6:4f:9e:9a",
+            "quality": "1.037, 1.071",
+            "source": 147,
+            "target": 16,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e6:06:ab-fa:1a:67:eb:c9:67",
+            "quality": "1.049",
+            "source": 22,
+            "target": 29,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e3:5f-c2:4a:00:42:30:4e",
+            "quality": "1.081, 1.181",
+            "source": 124,
+            "target": 118,
+            "type": null
+        },
+        {
+            "id": "64:76:ba:00:e6:98-6a:72:51:11:be:df",
+            "quality": "TT",
+            "source": 105,
+            "target": 106,
+            "type": "client"
+        },
+        {
+            "id": "fa:1a:67:ed:b6:d0-fa:1a:67:ed:bf:ca",
+            "quality": "1.032, 1.020",
+            "source": 21,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "88:e3:ab:2c:ce:98-ea:94:f6:4f:d2:5a",
+            "quality": "TT",
+            "source": 27,
+            "target": 168,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e4:47-f0:7d:68:6c:ac:51",
+            "quality": "TT",
+            "source": 18,
+            "target": 135,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-c2:4a:00:42:30:4e",
+            "quality": "1.536",
+            "source": 118,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b2-fa:1a:67:2e:ec:d9",
+            "quality": "1.474, 1.058",
+            "source": 205,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:63:1c:b2-d0:51:62:81:ab:24",
+            "quality": "TT",
+            "source": 2,
+            "target": 42,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:a5:ec:99-60:fa:cd:5e:d2:85",
+            "quality": "TT",
+            "source": 30,
+            "target": 187,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dc:f0-c2:4a:00:42:2f:4e",
+            "quality": "1.164, 1.104",
+            "source": 166,
+            "target": 87,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-fa:1a:67:2e:ec:d9",
+            "quality": "1.094",
+            "source": 97,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:17:3a-c2:4a:00:42:2e:06",
+            "quality": "1.085, 1.037",
+            "source": 140,
+            "target": 119,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:62:17:14-ea:94:f6:50:02:74",
+            "quality": "1.000, 1.000",
+            "source": 34,
+            "target": 82,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:46:4e:2a-c2:4a:00:42:32:c6",
+            "quality": "1.536",
+            "source": 163,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-c2:4a:00:42:30:82",
+            "quality": "1.037, 1.037",
+            "source": 26,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:2c:a5:cb-c2:4a:00:42:2e:d6",
+            "quality": "1.262, 1.209",
+            "source": 35,
+            "target": 154,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:16-fa:1a:67:2f:02:75",
+            "quality": "1.016, 1.000",
+            "source": 129,
+            "target": 74,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-12:fe:ed:e6:06:ab",
+            "quality": "1.275, 1.118",
+            "source": 22,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "30:a8:db:a5:7a:7b-fa:1a:67:2e:ec:d9",
+            "quality": "TT",
+            "source": 19,
+            "target": 139,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-c2:4a:00:42:2e:06",
+            "quality": "1.203",
+            "source": 97,
+            "target": 140,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:fa-12:fe:ed:e5:e4:28",
+            "quality": "1.016, 1.000",
+            "source": 12,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-fa:1a:67:2e:ec:d9",
+            "quality": "1.466",
+            "source": 19,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:2f:66-c2:4a:00:42:30:82",
+            "quality": "1.192",
+            "source": 78,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b4-c2:4a:00:42:30:4e",
+            "quality": "1.094, 1.045",
+            "source": 149,
+            "target": 118,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:fc:fb:84-66:70:02:52:4d:d6",
+            "quality": "1.012, 1.314",
+            "source": 146,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b2-c2:4a:00:42:17:3a",
+            "quality": "1.321",
+            "source": 119,
+            "target": 205,
+            "type": null
+        },
+        {
+            "id": "30:10:e4:5e:b8:b6-ea:94:f6:ce:6a:70",
+            "quality": "TT",
+            "source": 75,
+            "target": 76,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:2c:a5:cb-c2:4a:00:42:2d:5e",
+            "quality": "1.220, 1.209",
+            "source": 35,
+            "target": 196,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1f:56-c2:4a:00:2c:a5:cc",
+            "quality": "1.000, 1.000",
+            "source": 35,
+            "target": 207,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:2d:5e-c2:4a:00:42:32:c6",
+            "quality": "1.037, 1.000",
+            "source": 196,
+            "target": 163,
+            "type": null
+        },
+        {
+            "id": "bc:72:b1:74:10:fc-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 60,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:a4:ec:42-ea:94:f6:4f:8f:42",
+            "quality": "1.220, 1.238",
+            "source": 121,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:32:c6-fa:1a:67:2e:ee:ab",
+            "quality": "1.335",
+            "source": 33,
+            "target": 163,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b2-c2:4a:00:42:2e:06",
+            "quality": "1.294, 1.159",
+            "source": 205,
+            "target": 140,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:22-fa:1a:67:ed:bf:c9",
+            "quality": "1.118, 1.067",
+            "source": 169,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:16-c2:4a:00:42:17:3a",
+            "quality": "1.417",
+            "source": 74,
+            "target": 119,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e6:06:ab-66:66:b3:2e:dc:f0",
+            "quality": "1.138, 1.138",
+            "source": 22,
+            "target": 87,
+            "type": null
+        },
+        {
+            "id": "b0:c4:e7:2e:38:17-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 63,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:78:37:50-ea:94:f6:42:d9:24",
+            "quality": "1.032, 1.000",
+            "source": 28,
+            "target": 99,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:62:17:90-e0:f5:c6:4f:0e:2f",
+            "quality": "TT",
+            "source": 47,
+            "target": 56,
+            "type": "client"
+        },
+        {
+            "id": "40:16:7e:54:66:f0-c2:4a:00:42:2e:d6",
+            "quality": "TT",
+            "source": 154,
+            "target": 155,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e3:5f-c2:4a:00:42:30:68",
+            "quality": "1.085, 1.024",
+            "source": 124,
+            "target": 108,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:47:4e:2a-88:32:9b:42:c6:2c",
+            "quality": "TT",
+            "source": 8,
+            "target": 81,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dd:b2-c2:4a:00:42:30:82",
+            "quality": "1.509",
+            "source": 67,
+            "target": 205,
+            "type": null
+        },
+        {
+            "id": "30:39:26:26:8a:e3-ea:94:f6:52:4f:4c",
+            "quality": "TT",
+            "source": 208,
+            "target": 209,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:62:17:90-e4:40:e2:e2:06:66",
+            "quality": "TT",
+            "source": 47,
+            "target": 54,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:42:a2:58-ea:94:f6:52:60:c4",
+            "quality": "1.000, 1.000",
+            "source": 114,
+            "target": 109,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:46:4e:2a-66:66:b3:2e:dd:b4",
+            "quality": "5.930",
+            "source": 149,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "a4:9a:58:11:18:d0-ea:94:f6:ab:4b:70",
+            "quality": "TT",
+            "source": 36,
+            "target": 37,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:20:57-c2:4a:00:42:2e:06",
+            "quality": "1.054, 1.000",
+            "source": 140,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "9c:e6:e7:10:d4:8e-fa:1a:67:2e:ee:ac",
+            "quality": "TT",
+            "source": 33,
+            "target": 204,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e4:47-5c:8d:4e:27:55:5a",
+            "quality": "TT",
+            "source": 18,
+            "target": 136,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:4f:cd:88-ea:94:f6:50:03:0e",
+            "quality": "1.000, 1.164",
+            "source": 198,
+            "target": 197,
+            "type": null
+        },
+        {
+            "id": "78:4b:87:ca:ad:a4-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 51,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-fa:1a:67:2e:ee:ab",
+            "quality": "1.262, 1.220",
+            "source": 33,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:42:d9:24-ea:94:f6:69:87:f6",
+            "quality": "1.024, 1.049",
+            "source": 28,
+            "target": 164,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-c2:4a:00:42:2e:06",
+            "quality": "1.164, 1.032",
+            "source": 140,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1c:01-12:fe:ed:89:20:57",
+            "quality": "1.123, 1.000",
+            "source": 14,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:a5:ec:99-38:aa:3c:13:a9:e0",
+            "quality": "TT",
+            "source": 30,
+            "target": 188,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-66:66:b3:2e:dd:b4",
+            "quality": "1.401, 1.409",
+            "source": 26,
+            "target": 149,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:a4:ec:42-ea:94:f6:52:4f:4c",
+            "quality": "1.041, 1.401",
+            "source": 208,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "00:21:97:92:cf:0a-ea:94:f6:51:02:7a",
+            "quality": "TT",
+            "source": 25,
+            "target": 167,
+            "type": "client"
+        },
+        {
+            "id": "ae:ca:05:f6:47:49-c2:4a:00:62:10:72",
+            "quality": "TT",
+            "source": 122,
+            "target": 123,
+            "type": "client"
+        },
+        {
+            "id": "60:21:c0:49:c8:78-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 59,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dd:b2-c2:4a:00:42:2f:4e",
+            "quality": "2.802",
+            "source": 166,
+            "target": 205,
+            "type": null
+        },
+        {
+            "id": "14:f4:2a:39:ea:6b-26:a4:3c:a4:ec:42",
+            "quality": "TT",
+            "source": 5,
+            "target": 73,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:0b:8c:94-ea:94:f6:40:d4:18",
+            "quality": "1.004, 1.049",
+            "source": 66,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:82-fa:1a:67:2e:ec:d9",
+            "quality": "1.133",
+            "source": 19,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1f:06-12:fe:ed:e5:e2:dc",
+            "quality": "1.000, 1.016",
+            "source": 26,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4f:cb:9a-ea:94:f6:4f:ff:24",
+            "quality": "1.220, 1.016",
+            "source": 203,
+            "target": 112,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-fa:1a:67:ed:bd:0b",
+            "quality": "1.081, 1.527",
+            "source": 143,
+            "target": 97,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:17:3a-c2:4a:00:42:2e:c2",
+            "quality": "1.081, 1.109",
+            "source": 186,
+            "target": 119,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:ed:b6:ee-c2:4a:00:ed:b8:e4",
+            "quality": "1.049, 1.032",
+            "source": 162,
+            "target": 147,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-66:66:b3:2e:dc:f0",
+            "quality": "1.076",
+            "source": 3,
+            "target": 87,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3c-fa:1a:67:ed:bf:ca",
+            "quality": "1.020, 1.016",
+            "source": 4,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1f:06-fa:1a:67:2e:ec:da",
+            "quality": "1.000, 1.000",
+            "source": 19,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-c2:4a:00:42:2d:5e",
+            "quality": "1.094",
+            "source": 3,
+            "target": 196,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:c9-68:96:7b:f2:27:83",
+            "quality": "TT",
+            "source": 84,
+            "target": 85,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:46:4e:2a-26:a4:3c:a4:ec:99",
+            "quality": "1.209, 1.004",
+            "source": 30,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:78:37:50-ea:94:f6:69:87:f6",
+            "quality": "1.037, 1.000",
+            "source": 164,
+            "target": 99,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:42:26:be-88:32:9b:78:bf:81",
+            "quality": "TT",
+            "source": 189,
+            "target": 191,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1c:02-12:fe:ed:89:1e:30",
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:32:35:89-c2:4a:00:2c:a5:cc",
+            "quality": "1.016, 1.062",
+            "source": 35,
+            "target": 31,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:62:10:72-ea:94:f6:50:02:74",
+            "quality": "1.045",
+            "source": 122,
+            "target": 82,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:20:05-c2:4a:00:42:2e:d6",
+            "quality": "1.000, 1.020",
+            "source": 172,
+            "target": 154,
+            "type": null
+        },
+        {
+            "id": "10:68:3f:62:43:d1-a2:f3:c1:7a:2e:96",
+            "quality": "TT",
+            "source": 127,
+            "target": 128,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:ed:b7:2a-ea:94:f6:4f:9e:9a",
+            "quality": "1.090, 1.041",
+            "source": 16,
+            "target": 45,
+            "type": null
+        },
+        {
+            "id": "14:10:9f:ce:e7:dd-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 53,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:42:26:be-a2:f3:c1:7a:2e:96",
+            "quality": "1.000, 1.016",
+            "source": 189,
+            "target": 127,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:af:80:38-fa:1a:67:2e:ec:da",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:17:3a-fa:1a:67:2f:02:75",
+            "quality": "1.049, 1.441",
+            "source": 129,
+            "target": 119,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:0b:8c:94-c2:4a:00:ed:b8:26",
+            "quality": "1.000, 1.085",
+            "source": 145,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "84:38:38:fe:22:fa-c2:4a:00:63:1c:b2",
+            "quality": "TT",
+            "source": 2,
+            "target": 44,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-c2:4a:00:42:17:3a",
+            "quality": "1.000, 1.000",
+            "source": 119,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-c2:4a:00:42:2f:66",
+            "quality": "1.020, 1.058",
+            "source": 17,
+            "target": 78,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-66:66:b3:2e:dd:16",
+            "quality": "1.441, 1.062",
+            "source": 11,
+            "target": 74,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-c2:4a:00:42:30:68",
+            "quality": "1.564",
+            "source": 108,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:20:05-c2:4a:00:2c:a5:cb",
+            "quality": "1.186, 1.170",
+            "source": 35,
+            "target": 172,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:c9-c2:4a:00:42:30:4c",
+            "quality": "1.000, 1.032",
+            "source": 142,
+            "target": 84,
+            "type": null
+        },
+        {
+            "id": "50:f5:20:e0:4e:f5-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 49,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:af:67:21-c2:4a:00:42:2e:86",
+            "quality": "6.892, 3.750",
+            "source": 185,
+            "target": 173,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4f:ff:24-ea:94:f6:50:02:a0",
+            "quality": "1.085, 1.012",
+            "source": 171,
+            "target": 112,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:62:10:72-ea:94:f6:50:02:a0",
+            "quality": "1.094, 1.114",
+            "source": 171,
+            "target": 122,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:69:87:f6-f8:1e:df:db:1c:35",
+            "quality": "TT",
+            "source": 164,
+            "target": 165,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:42:30:4e-c2:4a:00:42:30:68",
+            "quality": "1.020, 1.000",
+            "source": 118,
+            "target": 108,
+            "type": null
+        },
+        {
+            "id": "40:f3:08:94:bf:9f-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 55,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:62:17:90-c2:4a:00:62:1c:b2",
+            "quality": "1.032, 1.000",
+            "source": 47,
+            "target": 2,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:de-fa:1a:67:2f:02:75",
+            "quality": "1.032, 1.049",
+            "source": 201,
+            "target": 129,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:2e:06-c2:4a:00:42:2e:c2",
+            "quality": "1.000, 1.024",
+            "source": 186,
+            "target": 140,
+            "type": null
+        },
+        {
+            "id": "a2:f3:c1:7a:2e:96-c2:4a:00:be:81:51",
+            "quality": "1.041, 1.054",
+            "source": 32,
+            "target": 127,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:33:35:89-24:a4:3c:47:4e:2a",
+            "quality": "1.016, 1.016",
+            "source": 31,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "04:f7:e4:ba:21:fb-66:66:b3:2e:de:74",
+            "quality": "TT",
+            "source": 192,
+            "target": 193,
+            "type": "client"
+        },
+        {
+            "id": "00:22:f4:cb:80:40-fa:1a:67:ed:bf:c9",
+            "quality": "TT",
+            "source": 4,
+            "target": 70,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-c2:4a:00:42:2f:4e",
+            "quality": "1.771",
+            "source": 166,
+            "target": 26,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:40:d4:18-ea:94:f6:4f:8f:42",
+            "quality": "1.054, 1.067",
+            "source": 121,
+            "target": 66,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4f:cd:80-ea:94:f6:4f:d2:5a",
+            "quality": "1.164, 1.301",
+            "source": 27,
+            "target": 152,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-12:fe:ed:89:20:57",
+            "quality": "1.109",
+            "source": 11,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "00:ee:bd:c8:8b:26-ea:94:f6:6c:f2:ea",
+            "quality": "TT",
+            "source": 175,
+            "target": 176,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:4f:cb:9a-ea:94:f6:50:03:0e",
+            "quality": "1.104, 1.067",
+            "source": 203,
+            "target": 197,
+            "type": null
+        },
+        {
+            "id": "fa:1a:67:eb:c9:67-fa:1a:67:ed:bf:c9",
+            "quality": "1.109",
+            "source": 4,
+            "target": 29,
+            "type": null
+        },
+        {
+            "id": "68:48:98:0f:2b:51-fa:1a:67:ed:bf:c9",
+            "quality": "TT",
+            "source": 4,
+            "target": 69,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-66:66:b3:2e:dd:90",
+            "quality": "1.118",
+            "source": 97,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3c-26:a4:3c:32:35:89",
+            "quality": "1.054",
+            "source": 31,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3c-fa:1a:67:eb:c9:68",
+            "quality": "1.000, 1.000",
+            "source": 29,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:47:4e:2a-24:a4:3c:a5:ec:99",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "98:0d:2e:00:53:9d-ea:94:f6:50:cd:3e",
+            "quality": "TT",
+            "source": 90,
+            "target": 91,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e4:47-c2:4a:00:2c:a4:95",
+            "quality": "2.090, 1.711",
+            "source": 18,
+            "target": 104,
+            "type": null
+        },
+        {
+            "id": "00:1a:4f:48:88:1d-c2:4a:00:42:30:82",
+            "quality": "TT",
+            "source": 67,
+            "target": 68,
+            "type": "client"
+        },
+        {
+            "id": "00:23:12:d8:e0:7c-66:66:b3:2e:dc:f0",
+            "quality": "TT",
+            "source": 87,
+            "target": 88,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:42:a2:58-ea:94:f6:42:a3:3a",
+            "quality": "1.000, 1.143",
+            "source": 156,
+            "target": 109,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3c-fa:1a:67:ed:b6:d0",
+            "quality": "1.067, 1.020",
+            "source": 21,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e3:5f-12:fe:ed:e5:e4:47",
+            "quality": "1.364",
+            "source": 124,
+            "target": 18,
+            "type": null
+        },
+        {
+            "id": "ac:36:13:22:11:10-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 50,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:ed:b6:ee-ea:94:f6:4f:9e:9a",
+            "quality": "1.186, 1.232",
+            "source": 162,
+            "target": 16,
+            "type": null
+        },
+        {
+            "id": "6c:b7:f4:34:0c:5d-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 62,
+            "type": "client"
+        },
+        {
+            "id": "66:70:02:3a:c0:c6-e0:b9:a5:1e:99:91",
+            "quality": "TT",
+            "source": 150,
+            "target": 151,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:42:2f:4e-fa:1a:67:ed:bf:c9",
+            "quality": "1.045, 1.016",
+            "source": 166,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b2-fa:1a:67:ed:bd:0b",
+            "quality": "1.314, 1.090",
+            "source": 205,
+            "target": 143,
+            "type": null
+        },
+        {
+            "id": "00:22:f4:3a:a2:4a-fa:1a:67:ed:bd:0b",
+            "quality": "TT",
+            "source": 143,
+            "target": 144,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:62:1c:4a-ea:94:f6:f5:6a:50",
+            "quality": "1.000, 1.049",
+            "source": 6,
+            "target": 71,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:46:4e:2a-c2:4a:00:2c:a5:cb",
+            "quality": "1.262",
+            "source": 35,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:78:37:50-34:4d:f7:68:79:56",
+            "quality": "TT",
+            "source": 99,
+            "target": 101,
+            "type": "client"
+        },
+        {
+            "id": "50:2e:5c:c8:e1:58-c2:4a:00:63:1c:b2",
+            "quality": "TT",
+            "source": 2,
+            "target": 43,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e3:5f-66:66:b3:2e:dd:b4",
+            "quality": "1.244, 1.067",
+            "source": 149,
+            "target": 124,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:f9-12:fe:ed:e6:06:ab",
+            "quality": "1.067, 1.118",
+            "source": 22,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "00:09:34:2c:2e:78-c2:4a:00:ed:b7:2a",
+            "quality": "TT",
+            "source": 45,
+            "target": 46,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:eb:3b-c2:4a:00:42:32:c6",
+            "quality": "1.054, 1.020",
+            "source": 163,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:0b:c9:e0-ea:94:f6:4f:d2:5a",
+            "quality": "1.308, 1.197",
+            "source": 27,
+            "target": 24,
+            "type": null
+        },
+        {
+            "id": "6c:ad:f8:44:44:25-ea:94:f6:6d:ff:52",
+            "quality": "TT",
+            "source": 115,
+            "target": 117,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:87:36:fe-24:a4:3c:a5:ec:42",
+            "quality": "1.000, 1.000",
+            "source": 95,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:16-66:66:b3:2e:dd:de",
+            "quality": "1.000, 1.054",
+            "source": 201,
+            "target": 74,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e3:5f-c2:4a:00:42:2f:4e",
+            "quality": "1.301, 1.262",
+            "source": 166,
+            "target": 124,
+            "type": null
+        },
+        {
+            "id": "cc:3a:61:5d:a9:15-fa:1a:67:ec:d7:6a",
+            "quality": "TT",
+            "source": 179,
+            "target": 180,
+            "type": "client"
+        },
+        {
+            "id": "08:fd:0e:4a:b3:f7-66:66:b3:2e:de:74",
+            "quality": "TT",
+            "source": 192,
+            "target": 194,
+            "type": "client"
+        },
+        {
+            "id": "34:e2:fd:6a:43:fd-ea:94:f6:42:a3:3a",
+            "quality": "TT",
+            "source": 156,
+            "target": 157,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-12:fe:ed:af:80:37",
+            "quality": "1.128",
+            "source": 17,
+            "target": 20,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:4c-fa:1a:67:ed:bd:0b",
+            "quality": "1.149, 1.209",
+            "source": 143,
+            "target": 142,
+            "type": null
+        },
+        {
+            "id": "04:54:53:f0:e0:ee-ea:94:f6:42:9f:5a",
+            "quality": "TT",
+            "source": 39,
+            "target": 40,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-12:fe:ed:e5:e3:5f",
+            "quality": "1.364",
+            "source": 124,
+            "target": 26,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-c2:4a:00:42:30:82",
+            "quality": "1.000, 1.049",
+            "source": 17,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e4:27-c2:4a:00:42:2f:4e",
+            "quality": "1.288",
+            "source": 166,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:78:37:50-1c:7b:21:10:c4:31",
+            "quality": "TT",
+            "source": 99,
+            "target": 103,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:dc:f0-fa:1a:67:ed:bf:c9",
+            "quality": "1.000, 1.045",
+            "source": 87,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:af:80:37-66:66:b3:2e:dd:b2",
+            "quality": "1.288, 1.186",
+            "source": 205,
+            "target": 20,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e4:27-fa:1a:67:eb:c9:67",
+            "quality": "1.049, 1.058",
+            "source": 29,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "c0:14:3d:ca:22:b9-ea:94:f6:ce:6a:70",
+            "quality": "TT",
+            "source": 75,
+            "target": 77,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-c2:4a:00:42:2e:c2",
+            "quality": "1.012, 1.081",
+            "source": 186,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e6:06:ab-fa:1a:67:ed:bf:c9",
+            "quality": "1.209, 1.192",
+            "source": 22,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:6c:ea:56-ea:94:f6:6c:f3:56",
+            "quality": "12.750, 6.711",
+            "source": 174,
+            "target": 15,
+            "type": null
+        },
+        {
+            "id": "d8:9e:3f:07:f8:0f-fa:1a:67:2e:ec:d9",
+            "quality": "TT",
+            "source": 19,
+            "target": 138,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:87:36:fe-c0:4a:00:0b:8c:95",
+            "quality": "1.000, 1.000",
+            "source": 95,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:de:74-fa:1a:67:2e:ec:d9",
+            "quality": "1.149, 1.203",
+            "source": 192,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:33:35:89-24:a4:3c:a5:ec:99",
+            "quality": "1.000, 1.000",
+            "source": 31,
+            "target": 30,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e4:27-66:66:b3:2e:dc:f0",
+            "quality": "1.186, 1.037",
+            "source": 12,
+            "target": 87,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:af:80:37-66:66:b3:2e:dd:90",
+            "quality": "1.238, 1.192",
+            "source": 20,
+            "target": 97,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:78:37:50-28:47:aa:ad:c9:c4",
+            "quality": "TT",
+            "source": 99,
+            "target": 100,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e5:e2:f9-fa:1a:67:eb:c9:67",
+            "quality": "1.159",
+            "source": 29,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "20:08:ed:9f:6c:9f-ea:94:f6:50:cd:5c",
+            "quality": "TT",
+            "source": 181,
+            "target": 182,
+            "type": "client"
+        },
+        {
+            "id": "24:a2:e1:4d:70:f8-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 65,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:af:80:37-66:66:b3:2e:de:74",
+            "quality": "1.020, 1.054",
+            "source": 192,
+            "target": 20,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:90-66:66:b3:2e:dd:b2",
+            "quality": "1.049, 1.037",
+            "source": 205,
+            "target": 97,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:42:a3:3a-ea:94:f6:52:60:c4",
+            "quality": "1.000, 1.133",
+            "source": 156,
+            "target": 114,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e2:db-c2:4a:00:42:30:4c",
+            "quality": "1.094, 1.170",
+            "source": 26,
+            "target": 142,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:32:35:89-fa:1a:67:ed:b1:ce",
+            "quality": "1.054, 1.041",
+            "source": 31,
+            "target": 83,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:e4:47-c2:4a:00:42:30:4e",
+            "quality": "1.594",
+            "source": 118,
+            "target": 18,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:af:67:21-fa:1a:67:2e:f5:85",
+            "quality": "6.892",
+            "source": 23,
+            "target": 185,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:2c:a5:cb-c2:4a:00:42:32:c6",
+            "quality": "1.118",
+            "source": 35,
+            "target": 163,
+            "type": null
+        },
+        {
+            "id": "4c:72:b9:d9:49:4c-ea:94:f6:50:cd:b4",
+            "quality": "TT",
+            "source": 93,
+            "target": 94,
+            "type": "client"
+        },
+        {
+            "id": "60:33:4b:f9:26:49-ea:94:f6:6d:ff:52",
+            "quality": "TT",
+            "source": 115,
+            "target": 116,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-66:66:b3:2e:dd:90",
+            "quality": "1.128",
+            "source": 97,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:50:02:a0-ea:94:f6:50:03:0e",
+            "quality": "1.128, 1.081",
+            "source": 197,
+            "target": 171,
+            "type": null
+        },
+        {
+            "id": "5c:0a:5b:1c:18:2a-ea:94:f6:42:a2:58",
+            "quality": "TT",
+            "source": 109,
+            "target": 110,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-fa:1a:67:2f:02:75",
+            "quality": "1.054, 1.594",
+            "source": 129,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:e5:ea:17-fa:1a:67:2e:f5:85",
+            "quality": "2.198, 1.545",
+            "source": 177,
+            "target": 23,
+            "type": null
+        },
+        {
+            "id": "a0:ed:cd:60:29:b1-c2:4a:00:be:81:51",
+            "quality": "TT",
+            "source": 32,
+            "target": 202,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:89:1f:05-66:66:b3:2e:dd:b2",
+            "quality": "1.164",
+            "source": 205,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "a4:db:30:e9:c6:ff-c2:4a:00:42:30:22",
+            "quality": "TT",
+            "source": 169,
+            "target": 170,
+            "type": "client"
+        },
+        {
+            "id": "84:fc:fe:c9:6f:99-c2:4a:00:f1:e6:38",
+            "quality": "TT",
+            "source": 159,
+            "target": 160,
+            "type": "client"
+        },
+        {
+            "id": "66:66:b3:2e:de:74-c2:4a:00:42:2f:66",
+            "quality": "1.164, 1.000",
+            "source": 192,
+            "target": 78,
+            "type": null
+        },
+        {
+            "id": "94:35:0a:e4:4f:be-c2:4a:00:63:1c:b2",
+            "quality": "TT",
+            "source": 2,
+            "target": 41,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:42:24:35-26:a4:3c:42:26:be",
+            "quality": "1.262, 1.164",
+            "source": 189,
+            "target": 133,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dc:f0-c2:4a:00:42:30:22",
+            "quality": "1.301",
+            "source": 87,
+            "target": 169,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:32:35:89-fa:1a:67:ed:b6:d0",
+            "quality": "1.020, 1.032",
+            "source": 31,
+            "target": 21,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4f:cb:9a-ea:94:f6:4f:cd:88",
+            "quality": "1.085, 1.000",
+            "source": 203,
+            "target": 198,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b4-c2:4a:00:42:2f:4e",
+            "quality": "1.049, 1.232",
+            "source": 166,
+            "target": 149,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:22-c2:4a:00:42:32:c6",
+            "quality": "1.262",
+            "source": 163,
+            "target": 169,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:62:1c:4a-ea:94:f6:4f:cd:a0",
+            "quality": "1.000, 1.016",
+            "source": 6,
+            "target": 38,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:6c:ea:56-ea:94:f6:6c:f2:b6",
+            "quality": "1.085, 1.133",
+            "source": 184,
+            "target": 15,
+            "type": null
+        },
+        {
+            "id": "74:2f:68:28:e7:ac-c2:4a:00:62:17:90",
+            "quality": "TT",
+            "source": 47,
+            "target": 64,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:42:2d:5e-c2:4a:00:42:2f:4e",
+            "quality": "1.564",
+            "source": 196,
+            "target": 166,
+            "type": null
+        },
+        {
+            "id": "bc:5f:f4:f0:1d:1a-c2:4a:00:63:17:14",
+            "quality": "TT",
+            "source": 34,
+            "target": 206,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:d9:55:ab-ea:94:f6:42:a3:3a",
+            "quality": "1.000, 1.104",
+            "source": 156,
+            "target": 7,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:2e:dd:b4-c2:4a:00:42:30:82",
+            "quality": "1.574, 1.457",
+            "source": 149,
+            "target": 67,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:89:1e:2f-66:66:b3:2e:dd:b2",
+            "quality": "1.159, 1.000",
+            "source": 205,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:42:30:4c-c2:4a:00:42:30:82",
+            "quality": "1.109",
+            "source": 142,
+            "target": 67,
+            "type": null
+        }
+    ],
+    "meta": {
+        "timestamp": "2014-08-31T09:02:01"
+    },
+    "nodes": [
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497777,
+                8.161463
+            ],
+            "id": "c0:4a:00:0b:8c:94",
+            "macs": "c0:4a:00:0b:8c:95, c0:4a:00:0b:8c:94, c2:4a:00:0b:8c:94",
+            "name": "ff-moehne-kalk-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.452848,
+                7.966576
+            ],
+            "id": "c0:4a:00:05:ec:dc",
+            "macs": "c0:4a:00:05:ec:dc, c2:4a:00:05:ec:dc, c2:4a:00:06:ec:dc",
+            "name": "ff-abg-neheim-011"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.565348683161,
+                8.1077706813812
+            ],
+            "id": "c0:4a:00:62:1c:b2",
+            "macs": "c2:4a:00:63:1c:b2, c2:4a:00:62:1c:b2, c0:4a:00:62:1c:b2",
+            "name": "ff-soest-schlachthof-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397457,
+                8.064378
+            ],
+            "id": "10:fe:ed:e5:eb:3c",
+            "macs": "12:fe:ed:e5:eb:3b, 12:fe:ed:e5:eb:3c, 10:fe:ed:e5:eb:3c",
+            "name": "freifunk-arnsberg-63"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:1a:67:ed:bf:ca",
+            "macs": "fa:1a:67:ed:bf:c9, fa:1a:67:ed:bf:ca, f8:1a:67:ed:bf:ca",
+            "name": "freifunk-arnsberg-26"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497777,
+                8.161463
+            ],
+            "id": "24:a4:3c:a4:ec:42",
+            "macs": "24:a4:3c:a4:ec:42, 24:a4:3c:a5:ec:42, 26:a4:3c:a4:ec:42",
+            "name": "ff-moehne-kalk-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.558663,
+                8.125171
+            ],
+            "id": "c0:4a:00:62:1c:4a",
+            "macs": "c2:4a:00:62:1c:4a, c0:4a:00:62:1c:4a, c2:4a:00:63:1c:4a",
+            "name": "ff-soest-sos-18"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497289,
+                8.128881
+            ],
+            "id": "24:a4:3c:d9:55:ab",
+            "macs": "26:a4:3c:da:55:ab, 24:a4:3c:d9:55:ab, 26:a4:3c:d9:55:ab",
+            "name": "ff-moehne-rathaus-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397794,
+                8.06363
+            ],
+            "id": "24:a4:3c:46:4e:2a",
+            "macs": "24:a4:3c:47:4e:2a, 26:a4:3c:46:4e:2a, 24:a4:3c:46:4e:2a",
+            "name": "ff-arnsberg-glockenturm-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397219,
+                8.063985
+            ],
+            "id": "10:fe:ed:e5:e2:fa",
+            "macs": "12:fe:ed:e5:e2:f9, 10:fe:ed:e5:e2:fa, 12:fe:ed:e5:e2:fa",
+            "name": "freifunk-arnsberg-56"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:89:20:58",
+            "macs": "10:fe:ed:89:20:58, 12:fe:ed:89:20:57, 12:fe:ed:8a:20:58",
+            "name": "freifunk-arnsberg-73"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.39522813271,
+                8.0639946833253
+            ],
+            "id": "10:fe:ed:89:1e:30",
+            "macs": "12:fe:ed:89:1e:30, 12:fe:ed:89:1e:2f, 10:fe:ed:89:1e:30",
+            "name": "freifunk-arnsberg-77"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397209,
+                8.064063
+            ],
+            "id": "10:fe:ed:e5:e4:28",
+            "macs": "12:fe:ed:e5:e4:28, 12:fe:ed:e5:e4:27, 10:fe:ed:e5:e4:28",
+            "name": "freifunk-arnsberg-54"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.221,
+                8.23847
+            ],
+            "id": "64:66:b3:fc:fb:84",
+            "macs": "66:66:b3:fd:fb:84, 66:66:b3:fc:fb:84, 64:66:b3:fc:fb:84",
+            "name": "freifunk-dorlar-001"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395237281437,
+                8.0642116069794
+            ],
+            "id": "10:fe:ed:89:1c:02",
+            "macs": "12:fe:ed:89:1c:02, 12:fe:ed:89:1c:01, 10:fe:ed:89:1c:02",
+            "name": "freifunk-arnsberg-76"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:6c:ea:56",
+            "macs": "e8:94:f6:6c:ea:56, ea:94:f6:6c:ea:56, ea:94:f6:6d:ea:56",
+            "name": "ff-abg-neheim-001"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:4f:9e:9a",
+            "macs": "ea:94:f6:4f:9e:9a, ea:94:f6:50:9e:9a, e8:94:f6:4f:9e:9a",
+            "name": "ff-abg-jaegerkaserne-002"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:89:1f:06",
+            "macs": "10:fe:ed:89:1f:06, 12:fe:ed:89:1f:05, 12:fe:ed:89:1f:06",
+            "name": "freifunk-arnsberg-69"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:e5:e4:48",
+            "macs": "12:fe:ed:e6:e4:48, 12:fe:ed:e5:e4:47, 10:fe:ed:e5:e4:48",
+            "name": "freifunk-arnsberg-74"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:1a:67:2e:ec:da",
+            "macs": "fa:1a:67:2e:ec:d9, f8:1a:67:2e:ec:da, fa:1a:67:2e:ec:da",
+            "name": "freifunk-arnsberg-6"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:af:80:38",
+            "macs": "10:fe:ed:af:80:38, 12:fe:ed:af:80:38, 12:fe:ed:af:80:37",
+            "name": "freifunk-arnsberg-64"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:1a:67:ed:b6:d0",
+            "macs": "f8:1a:67:ed:b6:d0, fa:1a:67:ed:b6:d0, fa:1a:67:ed:b6:cf",
+            "name": "freifunk-arnsberg-27"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397209,
+                8.064063
+            ],
+            "id": "10:fe:ed:e6:06:ac",
+            "macs": "12:fe:ed:e6:06:ab, 12:fe:ed:e6:06:ac, 10:fe:ed:e6:06:ac, 12:fe:ed:e7:06:ac",
+            "name": "freifunk-arnsberg-72"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:1a:67:2e:f5:86",
+            "macs": "fa:1a:67:2e:f5:85, f8:1a:67:2e:f5:86, fa:1a:67:2f:f5:86",
+            "name": "freifunk-arnsberg-05"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.557887,
+                8.123542
+            ],
+            "id": "c0:4a:00:0b:c9:e0",
+            "macs": "c2:4a:00:0c:c9:e0, c0:4a:00:0b:c9:e0, c2:4a:00:0b:c9:e0",
+            "name": "ff-soest-sos-14"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.553545,
+                8.106969
+            ],
+            "id": "e8:94:f6:50:02:7a",
+            "macs": "e8:94:f6:50:02:7a, ea:94:f6:51:02:7a, ea:94:f6:50:02:7a",
+            "name": "ff-soest-ensi-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.396096194882,
+                8.0646575242281
+            ],
+            "id": "10:fe:ed:e5:e2:dc",
+            "macs": "12:fe:ed:e5:e2:dc, 12:fe:ed:e5:e2:db, 10:fe:ed:e5:e2:dc",
+            "name": "freifunk-arnsberg-67"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.557587,
+                8.123713
+            ],
+            "id": "e8:94:f6:4f:d2:5a",
+            "macs": "e8:94:f6:4f:d2:5a, ea:94:f6:4f:d2:5a, ea:94:f6:50:d2:5a",
+            "name": "ff-soest-sos-16"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.567228268767,
+                8.1265139579773
+            ],
+            "id": "e8:94:f6:42:d9:24",
+            "macs": "ea:94:f6:43:d9:24, e8:94:f6:42:d9:24, ea:94:f6:42:d9:24",
+            "name": "ff-soest-rigaring-13"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397209,
+                8.064063
+            ],
+            "id": "f8:1a:67:eb:c9:68",
+            "macs": "fa:1a:67:eb:c9:68, f8:1a:67:eb:c9:68, fa:1a:67:eb:c9:67",
+            "name": "freifunk-arnsberg-30"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397874719763,
+                8.0635786056519
+            ],
+            "id": "24:a4:3c:a4:ec:99",
+            "macs": "24:a4:3c:a5:ec:99, 24:a4:3c:a4:ec:99, 26:a4:3c:a4:ec:99",
+            "name": "ff-arnsberg-glockenturm-03"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397817822318,
+                8.0636858940125
+            ],
+            "id": "24:a4:3c:32:35:89",
+            "macs": "26:a4:3c:32:35:89, 24:a4:3c:32:35:89, 24:a4:3c:33:35:89",
+            "name": "ff-arnsberg-glockenturm-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.45987,
+                7.93681
+            ],
+            "id": "c0:4a:00:be:81:52",
+            "macs": "c0:4a:00:be:81:52, c2:4a:00:be:81:51, c2:4a:00:bf:81:52",
+            "name": "ff-abg-bergheim-10"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:1a:67:2e:ee:ac",
+            "macs": "f8:1a:67:2e:ee:ac, fa:1a:67:2e:ee:ac, fa:1a:67:2e:ee:ab",
+            "name": "freifunk-arnsberg-12"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.561141,
+                8.091545
+            ],
+            "id": "c0:4a:00:62:17:14",
+            "macs": "c2:4a:00:62:17:14, c2:4a:00:63:17:14, c0:4a:00:62:17:14",
+            "name": "ff-soest-adam-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:2c:a5:cc",
+            "macs": "c0:4a:00:2c:a5:cc, c2:4a:00:2c:a5:cc, c2:4a:00:2c:a5:cb",
+            "name": "freifunk-arnsberg-8"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.582561050026,
+                8.1208276748657
+            ],
+            "id": "e8:94:f6:aa:4b:70",
+            "macs": "e8:94:f6:aa:4b:70, ea:94:f6:ab:4b:70",
+            "name": "ff-soest-danzigerring-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a4:9a:58:11:18:d0",
+            "macs": "a4:9a:58:11:18:d0",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.558684,
+                8.12513
+            ],
+            "id": "e8:94:f6:4f:cd:a0",
+            "macs": "ea:94:f6:4f:cd:a0, e8:94:f6:4f:cd:a0",
+            "name": "ff-soest-sos-08"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497325,
+                8.128869
+            ],
+            "id": "e8:94:f6:42:9f:5a",
+            "macs": "ea:94:f6:42:9f:5a, e8:94:f6:42:9f:5a",
+            "name": "ff-moehne-rathaus-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "04:54:53:f0:e0:ee",
+            "macs": "04:54:53:f0:e0:ee",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "94:35:0a:e4:4f:be",
+            "macs": "94:35:0a:e4:4f:be",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "d0:51:62:81:ab:24",
+            "macs": "d0:51:62:81:ab:24",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "50:2e:5c:c8:e1:58",
+            "macs": "50:2e:5c:c8:e1:58",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "84:38:38:fe:22:fa",
+            "macs": "84:38:38:fe:22:fa",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:ed:b7:2a",
+            "macs": "c2:4a:00:ed:b7:2a, c0:4a:00:ed:b7:2a",
+            "name": "ff-abg-jaegerkaserne-003"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:09:34:2c:2e:78",
+            "macs": "00:09:34:2c:2e:78",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.56554209177,
+                8.107738494873
+            ],
+            "id": "c0:4a:00:62:17:90",
+            "macs": "c2:4a:00:62:17:90, c0:4a:00:62:17:90",
+            "name": "ff-soest-schlachthof-2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a4:eb:d3:76:11:f2",
+            "macs": "a4:eb:d3:76:11:f2",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "50:f5:20:e0:4e:f5",
+            "macs": "50:f5:20:e0:4e:f5",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ac:36:13:22:11:10",
+            "macs": "ac:36:13:22:11:10",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "78:4b:87:ca:ad:a4",
+            "macs": "78:4b:87:ca:ad:a4",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "60:21:c0:03:8b:17",
+            "macs": "60:21:c0:03:8b:17",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "14:10:9f:ce:e7:dd",
+            "macs": "14:10:9f:ce:e7:dd",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e4:40:e2:e2:06:66",
+            "macs": "e4:40:e2:e2:06:66",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "40:f3:08:94:bf:9f",
+            "macs": "40:f3:08:94:bf:9f",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e0:f5:c6:4f:0e:2f",
+            "macs": "e0:f5:c6:4f:0e:2f",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "78:4b:87:60:59:71",
+            "macs": "78:4b:87:60:59:71",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "44:d4:e0:9b:66:4e",
+            "macs": "44:d4:e0:9b:66:4e",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "60:21:c0:49:c8:78",
+            "macs": "60:21:c0:49:c8:78",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "bc:72:b1:74:10:fc",
+            "macs": "bc:72:b1:74:10:fc",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f0:27:65:3a:2e:5d",
+            "macs": "f0:27:65:3a:2e:5d",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "6c:b7:f4:34:0c:5d",
+            "macs": "6c:b7:f4:34:0c:5d",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "b0:c4:e7:2e:38:17",
+            "macs": "b0:c4:e7:2e:38:17",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "74:2f:68:28:e7:ac",
+            "macs": "74:2f:68:28:e7:ac",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "24:a2:e1:4d:70:f8",
+            "macs": "24:a2:e1:4d:70:f8",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497777,
+                8.161463
+            ],
+            "id": "e8:94:f6:40:d4:18",
+            "macs": "ea:94:f6:40:d4:18, e8:94:f6:40:d4:18",
+            "name": "ff-moehne-kalk-03"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.39595,
+                8.064082
+            ],
+            "id": "c0:4a:00:42:30:82",
+            "macs": "c2:4a:00:42:30:82, c0:4a:00:42:30:82",
+            "name": "freifunk-arnsberg-45"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:1a:4f:48:88:1d",
+            "macs": "00:1a:4f:48:88:1d",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "68:48:98:0f:2b:51",
+            "macs": "68:48:98:0f:2b:51",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:22:f4:cb:80:40",
+            "macs": "00:22:f4:cb:80:40",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.558134,
+                8.125113
+            ],
+            "id": "e8:94:f6:f5:6a:50",
+            "macs": "e8:94:f6:f5:6a:50, ea:94:f6:f5:6a:50",
+            "name": "ff-soest-sos-13"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "9c:e6:e7:e9:a8:ac",
+            "macs": "9c:e6:e7:e9:a8:ac",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "14:f4:2a:39:ea:6b",
+            "macs": "14:f4:2a:39:ea:6b",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395440254687,
+                8.0642682686448
+            ],
+            "id": "64:66:b3:2e:dd:16",
+            "macs": "66:66:b3:2e:dd:16, 64:66:b3:2e:dd:16",
+            "name": "freifunk-arnsberg-34"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.510943779902,
+                8.0878257751465
+            ],
+            "id": "e8:94:f6:cd:6a:70",
+            "macs": "e8:94:f6:cd:6a:70, ea:94:f6:ce:6a:70",
+            "name": "ff-moehne-wippringsen-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "30:10:e4:5e:b8:b6",
+            "macs": "30:10:e4:5e:b8:b6",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:14:3d:ca:22:b9",
+            "macs": "c0:14:3d:ca:22:b9",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2f:66",
+            "macs": "c2:4a:00:42:2f:66, c0:4a:00:42:2f:66",
+            "name": "freifunk-arnsberg-17"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "48:74:6e:6f:d8:a5",
+            "macs": "48:74:6e:6f:d8:a5",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "40:0e:85:fe:6c:de",
+            "macs": "40:0e:85:fe:6c:de",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:32:9b:42:c6:2c",
+            "macs": "88:32:9b:42:c6:2c",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.56112572349,
+                8.0917900800705
+            ],
+            "id": "e8:94:f6:50:02:74",
+            "macs": "e8:94:f6:50:02:74, ea:94:f6:50:02:74",
+            "name": "ff-soest-adam-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.3965928,
+                8.064426
+            ],
+            "id": "f8:1a:67:ed:b1:ce",
+            "macs": "f8:1a:67:ed:b1:ce, fa:1a:67:ed:b1:ce",
+            "name": "freifunk-arnsberg-9"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.396070255341,
+                8.0644576996565
+            ],
+            "id": "10:fe:ed:89:1e:ca",
+            "macs": "12:fe:ed:89:1e:c9, 10:fe:ed:89:1e:ca",
+            "name": "freifunk-arnsberg-60"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "68:96:7b:f2:27:83",
+            "macs": "68:96:7b:f2:27:83",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:2f:03:c2",
+            "macs": "64:66:b3:2f:03:c2, 66:66:b3:2f:03:c2",
+            "name": "freifunk-lippetal-demo"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:2e:dc:f0",
+            "macs": "66:66:b3:2e:dc:f0, 64:66:b3:2e:dc:f0",
+            "name": "freifunk-arnsberg-49"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:23:12:d8:e0:7c",
+            "macs": "00:23:12:d8:e0:7c",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.578819737291,
+                8.1152808666229
+            ],
+            "id": "c0:4a:00:62:1c:96",
+            "macs": "c0:4a:00:62:1c:96, c2:4a:00:63:1c:96",
+            "name": "ff-soe-schwarz01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.55665,
+                8.118195
+            ],
+            "id": "e8:94:f6:4f:cd:3e",
+            "macs": "ea:94:f6:50:cd:3e, e8:94:f6:4f:cd:3e",
+            "name": "ff-soest-sos-17"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "98:0d:2e:00:53:9d",
+            "macs": "98:0d:2e:00:53:9d",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.437327760452,
+                7.9804033041
+            ],
+            "id": "c0:4a:00:53:8a:94",
+            "macs": "c0:4a:00:53:8a:94, c2:4a:00:54:8a:94",
+            "name": "freifunk-huesten-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.557658,
+                8.111086
+            ],
+            "id": "e8:94:f6:4f:cd:b4",
+            "macs": "ea:94:f6:50:cd:b4, e8:94:f6:4f:cd:b4",
+            "name": "ff-soest-ensi-03"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "4c:72:b9:d9:49:4c",
+            "macs": "4c:72:b9:d9:49:4c",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "24:a4:3c:86:36:fe",
+            "macs": "24:a4:3c:87:36:fe, 24:a4:3c:86:36:fe",
+            "name": "ff-moehne-kalk-06"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.557466,
+                8.12515
+            ],
+            "id": "c0:4a:00:62:1c:6e",
+            "macs": "c2:4a:00:63:1c:6e, c0:4a:00:62:1c:6e",
+            "name": "ff-soest-sos-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:2e:dd:90",
+            "macs": "64:66:b3:2e:dd:90, 66:66:b3:2e:dd:90",
+            "name": "freifunk-arnsberg-39"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "6c:f3:73:75:60:a4",
+            "macs": "6c:f3:73:75:60:a4",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:78:37:50",
+            "macs": "10:fe:ed:78:37:50, 12:fe:ed:78:37:50",
+            "name": "ff-soest-rigaring-15"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "28:47:aa:ad:c9:c4",
+            "macs": "28:47:aa:ad:c9:c4",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "34:4d:f7:68:79:56",
+            "macs": "34:4d:f7:68:79:56",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "94:db:c9:c5:b2:de",
+            "macs": "94:db:c9:c5:b2:de",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "1c:7b:21:10:c4:31",
+            "macs": "1c:7b:21:10:c4:31",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:2c:a4:96",
+            "macs": "c2:4a:00:2c:a4:95, c0:4a:00:2c:a4:96",
+            "name": "freifunk-arnsberg-29"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.665413119171,
+                8.0361503362656
+            ],
+            "id": "68:72:51:10:be:df",
+            "macs": "68:72:51:10:be:df, 6a:72:51:11:be:df",
+            "name": "freifunk-lippborg-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:76:ba:00:e6:98",
+            "macs": "64:76:ba:00:e6:98",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.564367177387,
+                8.082686662674
+            ],
+            "id": "c0:4a:00:af:3e:c4",
+            "macs": "c2:4a:00:b0:3e:c4, c0:4a:00:af:3e:c4",
+            "name": "ff-soest-senatorring-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:30:68",
+            "macs": "c2:4a:00:42:30:68, c0:4a:00:42:30:68",
+            "name": "freifunk-arnsberg-42"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:42:a2:58",
+            "macs": "e8:94:f6:42:a2:58, ea:94:f6:42:a2:58",
+            "name": "ff-moehne-rathaus-04"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "5c:0a:5b:1c:18:2a",
+            "macs": "5c:0a:5b:1c:18:2a",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "60:21:c0:20:5e:f2",
+            "macs": "60:21:c0:20:5e:f2",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.561426979442,
+                8.0897033214569
+            ],
+            "id": "e8:94:f6:4f:ff:24",
+            "macs": "e8:94:f6:4f:ff:24, ea:94:f6:4f:ff:24",
+            "name": "ff-soest-adam-13"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.568484802346,
+                8.0797147750855
+            ],
+            "id": "e8:94:f6:52:29:3e",
+            "macs": "ea:94:f6:53:29:3e, e8:94:f6:52:29:3e",
+            "name": "ff-soest-paradiese-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:52:60:c4",
+            "macs": "e8:94:f6:52:60:c4, ea:94:f6:52:60:c4",
+            "name": "ff-moehne-rathaus-03"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.460736580015,
+                7.9603940248489
+            ],
+            "id": "e8:94:f6:6c:ff:52",
+            "macs": "e8:94:f6:6c:ff:52, ea:94:f6:6d:ff:52",
+            "name": "ff-abg-neheim-004"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "60:33:4b:f9:26:49",
+            "macs": "60:33:4b:f9:26:49",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "6c:ad:f8:44:44:25",
+            "macs": "6c:ad:f8:44:44:25",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:30:4e",
+            "macs": "c0:4a:00:42:30:4e, c2:4a:00:42:30:4e",
+            "name": "freifunk-arnsberg-23"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:17:3a",
+            "macs": "c2:4a:00:42:17:3a, c0:4a:00:42:17:3a",
+            "name": "freifunk-arnsberg-13"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.454115,
+                7.926012
+            ],
+            "id": "64:66:b3:f4:21:b4",
+            "macs": "66:66:b3:f5:21:b4, 64:66:b3:f4:21:b4",
+            "name": "ff-abg-SV-Bachum-Bergheim-001"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497777,
+                8.161463
+            ],
+            "id": "e8:94:f6:4f:8f:42",
+            "macs": "e8:94:f6:4f:8f:42, ea:94:f6:4f:8f:42",
+            "name": "ff-moehne-kalk-04"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.561156,
+                8.091392
+            ],
+            "id": "c0:4a:00:62:10:72",
+            "macs": "c0:4a:00:62:10:72, c2:4a:00:62:10:72",
+            "name": "ff-soest-adam-3"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ae:ca:05:f6:47:49",
+            "macs": "ae:ca:05:f6:47:49",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:e5:e3:60",
+            "macs": "10:fe:ed:e5:e3:60, 12:fe:ed:e5:e3:5f",
+            "name": "freifunk-arnsberg-71"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "78:ca:39:dd:fe:52",
+            "macs": "78:ca:39:dd:fe:52",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:25:4b:62:0a:da",
+            "macs": "00:25:4b:62:0a:da",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.459827,
+                7.936851
+            ],
+            "id": "a0:f3:c1:7a:2e:96",
+            "macs": "a2:f3:c1:7a:2e:96, a0:f3:c1:7a:2e:96",
+            "name": "ff-abg-bergheim-5"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:68:3f:62:43:d1",
+            "macs": "10:68:3f:62:43:d1",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395178,
+                8.064215
+            ],
+            "id": "f8:1a:67:2f:02:76",
+            "macs": "fa:1a:67:2f:02:75, f8:1a:67:2f:02:76",
+            "name": "freifunk-arnsberg-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.41985,
+                7.998408
+            ],
+            "id": "e8:94:f6:51:9c:ac",
+            "macs": "ea:94:f6:52:9c:ac, e8:94:f6:51:9c:ac",
+            "name": "ff-huesten-flammberg-002"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397647520038,
+                8.0636034160852
+            ],
+            "id": "c0:4a:00:42:30:60",
+            "macs": "c2:4a:00:42:30:60, c0:4a:00:42:30:60",
+            "name": "freifunk-arnsberg-28"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.557883,
+                8.124777
+            ],
+            "id": "e8:94:f6:50:01:1a",
+            "macs": "e8:94:f6:50:01:1a, ea:94:f6:51:01:1a",
+            "name": "ff-soest-sos-05"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.458442,
+                7.937116
+            ],
+            "id": "24:a4:3c:42:24:35",
+            "macs": "24:a4:3c:42:24:35, 26:a4:3c:42:24:35",
+            "name": "ff-abg-bergheim-008"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a0:e4:53:8d:ff:03",
+            "macs": "a0:e4:53:8d:ff:03",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f0:7d:68:6c:ac:51",
+            "macs": "f0:7d:68:6c:ac:51",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "5c:8d:4e:27:55:5a",
+            "macs": "5c:8d:4e:27:55:5a",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.563413440252,
+                8.0979645252228
+            ],
+            "id": "c0:4a:00:af:2c:b2",
+            "macs": "c2:4a:00:b0:2c:b2, c0:4a:00:af:2c:b2",
+            "name": "ff-soest-wisbyring-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "d8:9e:3f:07:f8:0f",
+            "macs": "d8:9e:3f:07:f8:0f",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "30:a8:db:a5:7a:7b",
+            "macs": "30:a8:db:a5:7a:7b",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2e:06",
+            "macs": "c2:4a:00:42:2e:06, c0:4a:00:42:2e:06",
+            "name": "freifunk-arnsberg-10"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:73:e0:82:7d:0b",
+            "macs": "00:73:e0:82:7d:0b",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395962145859,
+                8.0637462437153
+            ],
+            "id": "c0:4a:00:42:30:4c",
+            "macs": "c2:4a:00:42:30:4c, c0:4a:00:42:30:4c",
+            "name": "freifunk-arnsberg-20"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395778,
+                8.064122
+            ],
+            "id": "f8:1a:67:ed:bd:0c",
+            "macs": "fa:1a:67:ed:bd:0b, f8:1a:67:ed:bd:0c",
+            "name": "freifunk-arnsberg-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:22:f4:3a:a2:4a",
+            "macs": "00:22:f4:3a:a2:4a",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:ed:b8:26",
+            "macs": "c2:4a:00:ed:b8:26, c0:4a:00:ed:b8:26",
+            "name": "ff-moehne-kalk-07"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.22103,
+                8.23802
+            ],
+            "id": "64:70:02:52:4d:d6",
+            "macs": "66:70:02:52:4d:d6, 64:70:02:52:4d:d6",
+            "name": "freifunk-dorlar-002"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:ed:b8:e4",
+            "macs": "c2:4a:00:ed:b8:e4, c0:4a:00:ed:b8:e4",
+            "name": "ff-abg-jaegerkaserne-001"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "50:3c:c4:f9:0e:46",
+            "macs": "50:3c:c4:f9:0e:46",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.396866,
+                8.064094
+            ],
+            "id": "64:66:b3:2e:dd:b4",
+            "macs": "66:66:b3:2e:dd:b4, 64:66:b3:2e:dd:b4",
+            "name": "freifunk-arnsberg-46"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.458442,
+                7.937116
+            ],
+            "id": "64:70:02:3a:c0:c6",
+            "macs": "66:70:02:3a:c0:c6, 64:70:02:3a:c0:c6",
+            "name": "ff-abg-bergheim-4"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e0:b9:a5:1e:99:91",
+            "macs": "e0:b9:a5:1e:99:91",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.55742,
+                8.123869
+            ],
+            "id": "e8:94:f6:4f:cd:80",
+            "macs": "e8:94:f6:4f:cd:80, ea:94:f6:4f:cd:80",
+            "name": "ff-soest-sos-15"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395701,
+                8.565763
+            ],
+            "id": "f8:1a:67:b4:a9:28",
+            "macs": "f8:1a:67:b4:a9:28, fa:1a:67:b5:a9:28",
+            "name": "ff-brilon-spkplatz"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397684,
+                8.063713
+            ],
+            "id": "c0:4a:00:42:2e:d6",
+            "macs": "c0:4a:00:42:2e:d6, c2:4a:00:42:2e:d6",
+            "name": "freifunk-arnsberg-31"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "40:16:7e:54:66:f0",
+            "macs": "40:16:7e:54:66:f0",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5+0-exp20140806",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.497389,
+                8.1287723
+            ],
+            "id": "e8:94:f6:42:a3:3a",
+            "macs": "ea:94:f6:42:a3:3a, e8:94:f6:42:a3:3a",
+            "name": "ff-moehne-rathaus-05"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "34:e2:fd:6a:43:fd",
+            "macs": "34:e2:fd:6a:43:fd",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:63:df:88:6e:d7",
+            "macs": "88:63:df:88:6e:d7",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.556531,
+                8.089414
+            ],
+            "id": "c0:4a:00:f0:e6:38",
+            "macs": "c2:4a:00:f1:e6:38, c0:4a:00:f0:e6:38",
+            "name": "ff-soest-b50-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "84:fc:fe:c9:6f:99",
+            "macs": "84:fc:fe:c9:6f:99",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c8:3d:97:26:74:42",
+            "macs": "c8:3d:97:26:74:42",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:ed:b6:ee",
+            "macs": "c0:4a:00:ed:b6:ee, c2:4a:00:ed:b6:ee",
+            "name": "ff-abg-jaegerkaserne-004"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397261,
+                8.06402
+            ],
+            "id": "c0:4a:00:42:32:c6",
+            "macs": "c0:4a:00:42:32:c6, c2:4a:00:42:32:c6",
+            "name": "freifunk-arnsberg-04"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.567214930763,
+                8.1265997886658
+            ],
+            "id": "e8:94:f6:69:87:f6",
+            "macs": "e8:94:f6:69:87:f6, ea:94:f6:69:87:f6",
+            "name": "ff-soest-rigaring-14"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:1e:df:db:1c:35",
+            "macs": "f8:1e:df:db:1c:35",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2f:4e",
+            "macs": "c2:4a:00:42:2f:4e, c0:4a:00:42:2f:4e",
+            "name": "freifunk-arnsberg-21"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:21:97:92:cf:0a",
+            "macs": "00:21:97:92:cf:0a",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:e3:ab:2c:ce:98",
+            "macs": "88:e3:ab:2c:ce:98",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.39694,
+                8.064123
+            ],
+            "id": "c0:4a:00:42:30:22",
+            "macs": "c0:4a:00:42:30:22, c2:4a:00:42:30:22",
+            "name": "freifunk-arnsberg-32"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a4:db:30:e9:c6:ff",
+            "macs": "a4:db:30:e9:c6:ff",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.560961,
+                8.088927
+            ],
+            "id": "e8:94:f6:50:02:a0",
+            "macs": "e8:94:f6:50:02:a0, ea:94:f6:50:02:a0",
+            "name": "ff-soest-adam-12"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:89:20:06",
+            "macs": "12:fe:ed:89:20:05, 10:fe:ed:89:20:06",
+            "name": "freifunk-arnsberg-59"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2e:86",
+            "macs": "c2:4a:00:42:2e:86, c0:4a:00:42:2e:86",
+            "name": "freifunk-arnsberg-16"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:6c:f3:56",
+            "macs": "ea:94:f6:6c:f3:56, e8:94:f6:6c:f3:56",
+            "name": "ff-abg-neheim-009"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:6c:f2:ea",
+            "macs": "ea:94:f6:6c:f2:ea, e8:94:f6:6c:f2:ea",
+            "name": "ff-abg-neheim-006"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:ee:bd:c8:8b:26",
+            "macs": "00:ee:bd:c8:8b:26",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:e5:ea:18",
+            "macs": "12:fe:ed:e5:ea:17, 10:fe:ed:e5:ea:18",
+            "name": "freifunk-arnsberg-61"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.458373,
+                7.937118
+            ],
+            "id": "c0:4a:00:42:2b:0a",
+            "macs": "c2:4a:00:43:2b:0a, c0:4a:00:42:2b:0a",
+            "name": "ff-abg-bergheim-3"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.397593132506,
+                8.0636932700872
+            ],
+            "id": "f8:1a:67:eb:d7:6a",
+            "macs": "fa:1a:67:ec:d7:6a, f8:1a:67:eb:d7:6a",
+            "name": "freifunk-arnsberg-11"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "cc:3a:61:5d:a9:15",
+            "macs": "cc:3a:61:5d:a9:15",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.557156,
+                8.123317
+            ],
+            "id": "e8:94:f6:4f:cd:5c",
+            "macs": "e8:94:f6:4f:cd:5c, ea:94:f6:50:cd:5c",
+            "name": "ff-soest-sos-04"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "20:08:ed:9f:6c:9f",
+            "macs": "20:08:ed:9f:6c:9f",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "08:08:c2:b6:c3:4b",
+            "macs": "08:08:c2:b6:c3:4b",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:6c:f2:b6",
+            "macs": "e8:94:f6:6c:f2:b6, ea:94:f6:6c:f2:b6",
+            "name": "ff-abg-neheim-008"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:af:67:22",
+            "macs": "10:fe:ed:af:67:22, 12:fe:ed:af:67:21",
+            "name": "freifunk-arnsberg-70"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.394934,
+                8.064148
+            ],
+            "id": "c0:4a:00:42:2e:c2",
+            "macs": "c0:4a:00:42:2e:c2, c2:4a:00:42:2e:c2",
+            "name": "freifunk-arnsberg-07"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "60:fa:cd:5e:d2:85",
+            "macs": "60:fa:cd:5e:d2:85",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "38:aa:3c:13:a9:e0",
+            "macs": "38:aa:3c:13:a9:e0",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.45984,
+                7.93686
+            ],
+            "id": "24:a4:3c:42:26:be",
+            "macs": "24:a4:3c:42:26:be, 26:a4:3c:42:26:be",
+            "name": "ff-abg-bergheim-009"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "94:ce:2c:34:80:bf",
+            "macs": "94:ce:2c:34:80:bf",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:32:9b:78:bf:81",
+            "macs": "88:32:9b:78:bf:81",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:2e:de:74",
+            "macs": "66:66:b3:2e:de:74, 64:66:b3:2e:de:74",
+            "name": "freifunk-arnsberg-43"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "04:f7:e4:ba:21:fb",
+            "macs": "04:f7:e4:ba:21:fb",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "08:fd:0e:4a:b3:f7",
+            "macs": "08:fd:0e:4a:b3:f7",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "08:fd:0e:4a:86:17",
+            "macs": "08:fd:0e:4a:86:17",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2d:5e",
+            "macs": "c2:4a:00:42:2d:5e, c0:4a:00:42:2d:5e",
+            "name": "freifunk-arnsberg-22"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.561096,
+                8.089737
+            ],
+            "id": "e8:94:f6:50:03:0e",
+            "macs": "e8:94:f6:50:03:0e, ea:94:f6:50:03:0e",
+            "name": "ff-soest-adam-11"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.561313591821,
+                8.089724779129
+            ],
+            "id": "e8:94:f6:4f:cd:88",
+            "macs": "e8:94:f6:4f:cd:88, ea:94:f6:4f:cd:88",
+            "name": "ff-soest-adam-15"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:61:f1:fa",
+            "macs": "c2:4a:00:62:f1:fa, c0:4a:00:61:f1:fa",
+            "name": "ff-brilon-tba"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "dc:86:d8:88:a3:a1",
+            "macs": "dc:86:d8:88:a3:a1",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395512133267,
+                8.0642967671156
+            ],
+            "id": "64:66:b3:2e:dd:de",
+            "macs": "64:66:b3:2e:dd:de, 66:66:b3:2e:dd:de",
+            "name": "freifunk-arnsberg-35"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a0:ed:cd:60:29:b1",
+            "macs": "a0:ed:cd:60:29:b1",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.561313591821,
+                8.089724779129
+            ],
+            "id": "e8:94:f6:4f:cb:9a",
+            "macs": "ea:94:f6:4f:cb:9a, e8:94:f6:4f:cb:9a",
+            "name": "ff-soest-adam-14"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "9c:e6:e7:10:d4:8e",
+            "macs": "9c:e6:e7:10:d4:8e",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.395555,
+                8.063986
+            ],
+            "id": "64:66:b3:2e:dd:b2",
+            "macs": "64:66:b3:2e:dd:b2, 66:66:b3:2e:dd:b2",
+            "name": "freifunk-arnsberg-37"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "bc:5f:f4:f0:1d:1a",
+            "macs": "bc:5f:f4:f0:1d:1a",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:89:1f:56",
+            "macs": "12:fe:ed:89:1f:56, 10:fe:ed:89:1f:56",
+            "name": "freifunk-arnsberg-68"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.49815,
+                8.158859
+            ],
+            "id": "e8:94:f6:52:4f:4c",
+            "macs": "e8:94:f6:52:4f:4c, ea:94:f6:52:4f:4c",
+            "name": "ff-moehne-kalk-05"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "30:39:26:26:8a:e3",
+            "macs": "30:39:26:26:8a:e3",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:52:1b:7e",
+            "macs": "ea:94:f6:53:1b:7e, e8:94:f6:52:1b:7e",
+            "name": "freifunk-e894f6521b7e"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "4c:3c:16:ec:bc:23",
+            "macs": "4c:3c:16:ec:bc:23",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4+0-exp20140606",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.559399299303,
+                8.1118047237396
+            ],
+            "id": "10:fe:ed:cd:93:38",
+            "macs": "10:fe:ed:cd:93:38, 12:fe:ed:ce:93:38",
+            "name": "ff-soest-campus-1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.635676,
+                8.098322
+            ],
+            "id": "64:66:b3:2e:e4:40",
+            "macs": "",
+            "name": "freifunk-lippetal-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:89:13:90",
+            "macs": "",
+            "name": "freifunk-arnsberg-65"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "64:66:b3:99:e6:c6",
+            "macs": "",
+            "name": "ff-soest-demo-fizz"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2f:72",
+            "macs": "",
+            "name": "freifunk-arnsberg-41"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.395762,
+                8.064077
+            ],
+            "id": "c0:4a:00:42:2e:94",
+            "macs": "",
+            "name": "freifunk-arnsberg-14"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.5535013,
+                8.1070947
+            ],
+            "id": "c0:4a:00:62:15:70",
+            "macs": "",
+            "name": "ff-soest-ensi-02"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "66:66:b3:99:e6:c6",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:6c:f3:70",
+            "macs": "",
+            "name": "ff-abg-neheim-007"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:af:7f:6e",
+            "macs": "",
+            "name": "freifunk-arnsberg-66"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "ea:94:f6:4f:9e:9a",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:42:2e:f2",
+            "macs": "",
+            "name": "freifunk-arnsberg-15"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "64:66:b3:2e:dd:e4",
+            "macs": "",
+            "name": "freifunk-arnsberg-33"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.419846,
+                7.998373
+            ],
+            "id": "64:70:02:be:28:82",
+            "macs": "",
+            "name": "ff-huesten-flammberg-001"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.559488,
+                8.107025
+            ],
+            "id": "e8:94:f6:4f:cd:2e",
+            "macs": "",
+            "name": "ff-soest-ensi-04"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "64:66:b3:c6:ec:ec",
+            "macs": "",
+            "name": "ff-neheim-rathaus-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:4f:9f:34",
+            "macs": "",
+            "name": "ff-abg-jaegerkaserne-005"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "12:fe:ed:af:63:37",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "10:fe:ed:af:63:38",
+            "macs": "",
+            "name": "freifunk-arnsberg-75"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "12:fe:ed:89:1e:c9",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "66:66:b3:2e:dd:de",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.557645016241,
+                8.1242287158966
+            ],
+            "id": "c0:4a:00:62:00:70",
+            "macs": "",
+            "name": "ff-soest-sos-09"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.556744,
+                8.123003
+            ],
+            "id": "e8:94:f6:50:02:d4",
+            "macs": "",
+            "name": "ff-soest-sos-03-lange"
+        }
+    ]
+}

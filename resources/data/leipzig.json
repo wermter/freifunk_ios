@@ -8,18 +8,18 @@
             "type": "client"
         },
         {
+            "id": "02:77:ca:94:62:8f-06:0d:f6:97:61:94",
+            "quality": "TT",
+            "source": 10,
+            "target": 11,
+            "type": "client"
+        },
+        {
             "id": "06:0d:f6:97:61:94-0e:ca:b8:7e:21:a5",
-            "quality": "1.000, 1.003",
+            "quality": "1.000, 1.000",
             "source": 3,
             "target": 10,
             "type": null
-        },
-        {
-            "id": "24:69:a5:d8:45:06-6e:70:02:d3:23:fd",
-            "quality": "TT",
-            "source": 0,
-            "target": 7,
-            "type": "client"
         },
         {
             "id": "1a:a0:29:f5:89:2c-64:70:02:e2:97:cc",
@@ -29,18 +29,11 @@
             "type": "client"
         },
         {
-            "id": "1a:fe:ed:eb:99:3a-22:29:b2:37:73:62",
+            "id": "64:70:02:e2:97:d4-6e:70:02:e2:97:d3",
             "quality": "TT",
-            "source": 3,
-            "target": 15,
-            "type": "client"
-        },
-        {
-            "id": "6e:70:02:e2:97:cd-6e:70:02:e2:97:d3",
-            "quality": "12.750, 5.930",
             "source": 2,
-            "target": 1,
-            "type": null
+            "target": 13,
+            "type": "client"
         },
         {
             "id": "6e:70:02:d3:23:6b-72:b5:54:45:7b:69",
@@ -51,31 +44,52 @@
         },
         {
             "id": "06:0d:f6:97:61:94-1a:9c:d2:bc:57:35",
-            "quality": "1.000, 1.003",
+            "quality": "1.000, 1.000",
             "source": 2,
             "target": 10,
             "type": null
         },
         {
+            "id": "10:9a:dd:1a:9b:93-64:70:02:e2:97:cc",
+            "quality": "TT",
+            "source": 1,
+            "target": 9,
+            "type": "client"
+        },
+        {
+            "id": "1a:fe:ed:eb:99:3a-22:29:b2:37:73:62",
+            "quality": "TT",
+            "source": 3,
+            "target": 15,
+            "type": "client"
+        },
+        {
             "id": "6e:70:02:d3:23:6b-6e:70:02:e2:97:d3",
-            "quality": "1.011, 1.020",
+            "quality": "1.015, 1.000",
             "source": 2,
             "target": 4,
             "type": null
         },
         {
-            "id": "6e:70:02:e2:97:d3-e4:92:fb:e4:95:07",
+            "id": "64:70:02:d3:23:fc-6e:70:02:d3:23:fd",
             "quality": "TT",
-            "source": 2,
-            "target": 13,
+            "source": 0,
+            "target": 7,
             "type": "client"
         },
         {
-            "id": "64:70:02:e2:97:cc-d8:96:95:b1:7d:44",
+            "id": "18:87:96:81:df:21-1a:fe:ed:eb:99:3a",
             "quality": "TT",
-            "source": 1,
-            "target": 9,
+            "source": 3,
+            "target": 16,
             "type": "client"
+        },
+        {
+            "id": "6e:70:02:d3:23:6b-6e:70:02:e2:97:cd",
+            "quality": "1.931, 2.217",
+            "source": 1,
+            "target": 4,
+            "type": null
         },
         {
             "id": "06:0d:f6:97:61:94-f2:94:fd:3e:25:f5",
@@ -97,17 +111,10 @@
             "source": 0,
             "target": 6,
             "type": "client"
-        },
-        {
-            "id": "02:77:ca:94:62:8f-06:0d:f6:97:61:94",
-            "quality": "TT",
-            "source": 10,
-            "target": 11,
-            "type": "client"
         }
     ],
     "meta": {
-        "timestamp": "2014-08-29T10:10:39"
+        "timestamp": "2014-08-31T09:04:49"
     },
     "nodes": [
         {
@@ -200,8 +207,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "24:69:a5:d8:45:06",
-            "macs": "24:69:a5:d8:45:06",
+            "id": "64:70:02:d3:23:fc",
+            "macs": "64:70:02:d3:23:fc",
             "name": ""
         },
         {
@@ -222,8 +229,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "d8:96:95:b1:7d:44",
-            "macs": "d8:96:95:b1:7d:44",
+            "id": "10:9a:dd:1a:9b:93",
+            "macs": "10:9a:dd:1a:9b:93",
             "name": ""
         },
         {
@@ -266,8 +273,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "e4:92:fb:e4:95:07",
-            "macs": "e4:92:fb:e4:95:07",
+            "id": "64:70:02:e2:97:d4",
+            "macs": "64:70:02:e2:97:d4",
             "name": ""
         },
         {
@@ -290,6 +297,17 @@
             "geo": null,
             "id": "22:29:b2:37:73:62",
             "macs": "22:29:b2:37:73:62",
+            "name": ""
+        },
+        {
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "18:87:96:81:df:21",
+            "macs": "18:87:96:81:df:21",
             "name": ""
         },
         {

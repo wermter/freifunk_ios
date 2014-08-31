@@ -14,8 +14,8 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:bielefeld,    "Bielefeld",       9, [52.04,  8.53], "http://map.freifunk-bielefeld.de/nodes.json",                    "FreifunkBI",       "http://freifunk-bielefeld.quakente.net/"),
     Region.new(:chemnitz,     "Chemnitz",       10, [50.82, 12.89], "http://curie.routers.chemnitz.freifunk.net/ffmap-d3/nodes.json", "FreifunkC",        "http://chemnitz.freifunk.net/"),
     Region.new(:ffrn,         "Rhein-Neckar",    9, [49.51,  8.56], "http://map.freifunk-rhein-neckar.de/nodes.json",                 "FFRheinNeckar",    "https://www.freifunk-rhein-neckar.de/"),
-    # Region.new(:braunschweig, "Braunschweig",   10, [52.27, 10.52], "http://map.freifunk-bs.de/nodes.json",                           "freifunk_bs",      "http://freifunk-bs.de"),
-    Region.new(:essen,        "Essen",           8, [51.45, 7.01],  "http://map.freifunk-ruhrgebiet.de/nodes.json",                   "ffruhr",           "http://freifunk-ruhrgebiet.de/"),
+    Region.new(:ruhr,         "Ruhrgebiet",      8, [51.47,  7.11], "http://map.freifunk-ruhrgebiet.de/nodes.json",                   "ffruhr",           "http://freifunk-ruhrgebiet.de/"),
+    Region.new(:moehne,       "Soest+HSK",       8, [51.49,  8.13], "http://moehne-vis.freifunk-rheinland.net/nodes.json",            "FFMoehne",         "http://freifunk-moehne.de/"),
     Region.new(:mzwi,         "Mainz/Wiesbaden",10, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                        ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
   ]
 
