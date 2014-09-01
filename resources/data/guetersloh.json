@@ -2,415 +2,359 @@
     "links": [
         {
             "id": "fa:1a:67:2e:ed:bf-fa:d1:11:bd:68:16",
-            "quality": "1.192, 1.000",
+            "quality": "1.128, 1.000",
             "source": 0,
-            "target": 19,
+            "target": 21,
             "type": null
         },
         {
             "id": "de:ca:fb:ad:03:01-ea:94:f6:ac:65:46",
             "quality": "1.000, 1.000",
-            "source": 1,
-            "target": 13,
+            "source": 2,
+            "target": 17,
             "type": "vpn"
         },
         {
             "id": "de:ca:fb:ad:03:01-ea:94:f6:68:f4:ea",
             "quality": "1.000, 1.000",
-            "source": 7,
-            "target": 13,
+            "source": 9,
+            "target": 17,
             "type": "vpn"
         },
         {
             "id": "de:ca:fb:ad:03:01-de:ca:fb:ad:03:01_0",
             "quality": "TT",
-            "source": 13,
-            "target": 14,
+            "source": 17,
+            "target": 18,
             "type": "client"
         },
         {
             "id": "ea:94:f6:4b:12:9c-ea:94:f6:4b:12:9c_0",
-            "quality": "TT",
-            "source": 55,
-            "target": 56,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:4c:3c:9a-ea:94:f6:4c:3c:9a_0",
-            "quality": "TT",
-            "source": 24,
-            "target": 25,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:11:28",
-            "quality": "1.000, 1.000",
-            "source": 64,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:3c:94",
-            "quality": "1.000, 1.000",
-            "source": 8,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:52:4b:54-fa:d1:11:bd:68:16",
-            "quality": "1.071, 1.054",
-            "source": 6,
-            "target": 19,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:63:eb:98-ea:94:f6:63:eb:98_0",
-            "quality": "TT",
-            "source": 20,
-            "target": 21,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:64:04:a2",
-            "quality": "1.000, 1.004, 1.000",
-            "source": 9,
-            "target": 68,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:53:4b:54-ea:94:f6:53:4b:54_0",
-            "quality": "TT",
-            "source": 6,
-            "target": 67,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:cd:92:be-ea:94:f6:4b:12:9c",
-            "quality": "1.049, 1.000",
-            "source": 55,
-            "target": 2,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:6e:56:ae-ea:94:f6:6e:56:ae_4",
-            "quality": "TT",
-            "source": 29,
-            "target": 34,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:12:be",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 37,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-de:ad:be:ef:00:00_0",
-            "quality": "TT",
-            "source": 9,
-            "target": 10,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:3c:9a",
-            "quality": "1.000, 1.000",
-            "source": 24,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "fa:d1:11:bd:5e:24-fa:d1:11:bd:69:be",
-            "quality": "1.020, 1.301",
-            "source": 85,
-            "target": 4,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:4c:12:be-ea:94:f6:4c:12:be_2",
-            "quality": "TT",
-            "source": 37,
-            "target": 40,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:4c:12:be-ea:94:f6:4c:12:be_1",
-            "quality": "TT",
-            "source": 37,
-            "target": 39,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:4c:12:be-ea:94:f6:4c:12:be_0",
-            "quality": "TT",
-            "source": 37,
-            "target": 38,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:63:ec:52",
-            "quality": "1.000, 1.000",
-            "source": 65,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:64:10:80-ea:94:f6:64:10:80_0",
-            "quality": "TT",
-            "source": 86,
-            "target": 87,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:52:d3:4c-ea:94:f6:52:d3:4c_2",
-            "quality": "TT",
-            "source": 81,
-            "target": 84,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:53:4b:54",
-            "quality": "1.000, 1.000",
-            "source": 6,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:53:50:78",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 28,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:64:10:80",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 86,
-            "target": 9,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:52:d3:4c-ea:94:f6:52:d3:4c_0",
-            "quality": "TT",
-            "source": 81,
-            "target": 82,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:84:6a",
-            "quality": "1.000, 1.000",
-            "source": 57,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:4b:36:b8-ea:94:f6:4b:36:b8_1",
-            "quality": "TT",
-            "source": 76,
-            "target": 78,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:4b:36:b8-ea:94:f6:4b:36:b8_0",
-            "quality": "TT",
-            "source": 76,
-            "target": 77,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:f4:06:8e",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 73,
-            "target": 9,
-            "type": "vpn"
-        },
-        {
-            "id": "c2:4a:00:ee:33:da-ea:94:f6:4b:37:4a",
-            "quality": "1.049, 1.037",
-            "source": 5,
-            "target": 47,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:52:4b:54-fe:1a:67:51:5f:9a",
-            "quality": "1.114",
-            "source": 6,
-            "target": 3,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_0",
-            "quality": "TT",
-            "source": 90,
-            "target": 91,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:37:4a",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "fe:1a:67:51:5f:9a-fe:1a:67:51:5f:9a_1",
-            "quality": "TT",
-            "source": 3,
-            "target": 50,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:4c:12:be",
-            "quality": "1.000, 1.000",
-            "source": 37,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "fa:d1:11:a0:16:ca-fa:d1:11:bd:68:16",
-            "quality": "1.090, 1.220",
-            "source": 80,
-            "target": 19,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:52:4b:54-fa:d1:11:a0:16:ca",
-            "quality": "1.041, 1.099",
-            "source": 80,
-            "target": 6,
-            "type": null
-        },
-        {
-            "id": "de:ad:be:ef:04:01-de:ad:be:ef:04:01_0",
-            "quality": "TT",
-            "source": 11,
-            "target": 12,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:53:4b:54",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 6,
-            "type": "vpn"
-        },
-        {
-            "id": "66:66:b3:2e:ed:be-ea:94:f6:ab:65:46",
-            "quality": "1.175, 1.301",
-            "source": 1,
-            "target": 15,
-            "type": null
-        },
-        {
-            "id": "fa:1a:67:2e:ed:bf-fa:d1:11:a0:16:ca",
-            "quality": "1.032, 1.164",
-            "source": 80,
-            "target": 0,
-            "type": null
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:84:8e",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 23,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:6b:4e:f0",
-            "quality": "1.000, 1.000",
-            "source": 41,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:6e:56:b2",
-            "quality": "1.000, 1.000",
-            "source": 22,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:84:48",
-            "quality": "1.000, 1.000",
-            "source": 99,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "fa:d1:11:bd:5e:24-fe:1a:67:51:5f:9a",
-            "quality": "1.058",
-            "source": 4,
-            "target": 3,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:4b:12:24-ea:94:f6:67:f4:e9",
-            "quality": "1.037, 1.049",
-            "source": 7,
-            "target": 69,
-            "type": null
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:f4:06:8e",
-            "quality": "1.000, 1.000",
-            "source": 73,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:64:11:fe",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 60,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:68:f4:ea-ea:94:f6:68:f4:ea_0",
-            "quality": "TT",
-            "source": 7,
-            "target": 70,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-de:ad:be:ef:04:01",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:52:4b:54-fa:d1:11:bd:69:be",
-            "quality": "1.104",
-            "source": 6,
-            "target": 85,
-            "type": null
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:37:4a",
-            "quality": "1.000, 1.000",
-            "source": 5,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:4c:85:5c-ea:94:f6:4c:85:5c_0",
             "quality": "TT",
             "source": 52,
             "target": 53,
             "type": "client"
         },
         {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:63:14:64",
+            "id": "ea:94:f6:52:48:6c-ea:94:f6:52:4b:54",
+            "quality": "1.000, 1.016",
+            "source": 8,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:52:48:6c-fa:d1:11:bd:69:be",
+            "quality": "1.123",
+            "source": 81,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:11:28",
+            "quality": "1.000, 1.000",
+            "source": 61,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:3c:94",
+            "quality": "1.000, 1.000",
+            "source": 10,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:44:44:be",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 37,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:52:48:6c-fa:1a:67:2e:ed:bf",
+            "quality": "1.067, 1.000",
+            "source": 1,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:53:4b:54-ea:94:f6:53:4b:54_0",
+            "quality": "TT",
+            "source": 8,
+            "target": 65,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:cd:92:be-ea:94:f6:4b:12:9c",
+            "quality": "1.000, 1.067",
+            "source": 52,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:12:be",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 41,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:63:16:00-ea:94:f6:67:f4:e9",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 66,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:00:00-de:ad:be:ef:00:00_0",
+            "quality": "TT",
+            "source": 13,
+            "target": 14,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:90:7f:08-ea:94:f6:90:7f:5c",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 51,
+            "type": null
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:3c:9a",
+            "quality": "1.000, 1.000",
+            "source": 32,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:64:04:a2-ea:94:f6:64:04:a2_0",
+            "quality": "TT",
+            "source": 67,
+            "target": 68,
+            "type": "client"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:53:4b:54",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:44:44:be",
+            "quality": "1.000, 1.000",
+            "source": 37,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:53:50:78",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 36,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:64:10:80",
+            "quality": "1.000, 1.000, 1.004",
+            "source": 11,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:84:6a",
+            "quality": "1.000, 1.000",
+            "source": 54,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b8:46:1e-de:ad:be:ef:04:01",
+            "quality": "1.000, 1.000",
+            "source": 56,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:f4:06:8e",
             "quality": "1.000, 1.000, 1.000",
             "source": 72,
-            "target": 9,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:ee:33:da-ea:94:f6:4b:37:4a",
+            "quality": "1.288, 1.037",
+            "source": 6,
+            "target": 47,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_0",
+            "quality": "TT",
+            "source": 83,
+            "target": 84,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:52:48:6c-fa:d1:11:bd:68:16",
+            "quality": "1.220, 1.004",
+            "source": 1,
+            "target": 21,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:6e:56:b2",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:37:4a",
+            "quality": "1.015, 1.000, 1.016",
+            "source": 13,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "fe:1a:67:51:5f:9a-fe:1a:67:51:5f:9a_0",
+            "quality": "TT",
+            "source": 4,
+            "target": 49,
+            "type": "client"
+        },
+        {
+            "id": "fa:d1:11:a0:16:ca-fa:d1:11:bd:68:16",
+            "quality": "1.256",
+            "source": 78,
+            "target": 21,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:52:4b:54-fa:d1:11:a0:16:ca",
+            "quality": "1.000, 1.214",
+            "source": 78,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:04:01-de:ad:be:ef:04:01_0",
+            "quality": "TT",
+            "source": 15,
+            "target": 16,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:53:4b:54",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 8,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:2e:ed:be-ea:94:f6:ab:65:46",
+            "quality": "1.203, 1.032",
+            "source": 2,
+            "target": 19,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:52:4b:54-fa:d1:11:bd:68:16",
+            "quality": "1.226, 1.008",
+            "source": 8,
+            "target": 21,
+            "type": null
+        },
+        {
+            "id": "fa:1a:67:2e:ed:bf-fa:d1:11:a0:16:ca",
+            "quality": "1.008, 1.281",
+            "source": 78,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:84:8e",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 25,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:6b:4e:f0",
+            "quality": "1.000, 1.000",
+            "source": 42,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:6e:56:b2",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:84:48",
+            "quality": "1.000, 1.000",
+            "source": 85,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:f4:06:8e",
+            "quality": "1.000, 1.000",
+            "source": 72,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:64:11:fe",
+            "quality": "1.000, 1.016, 1.000",
+            "source": 13,
+            "target": 7,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:68:f4:ea-ea:94:f6:68:f4:ea_0",
+            "quality": "TT",
+            "source": 9,
+            "target": 69,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-de:ad:be:ef:04:01",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:37:4a",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:63:56:94",
+            "quality": "1.123, 1.012",
+            "source": 76,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:63:14:64",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 70,
+            "target": 13,
             "type": "vpn"
         },
         {
             "id": "de:ad:be:ef:00:00-ea:94:f6:ac:65:46",
             "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 1,
+            "source": 13,
+            "target": 2,
             "type": "vpn"
         },
         {
@@ -421,629 +365,608 @@
             "type": "client"
         },
         {
-            "id": "ea:94:f6:6b:4e:f0-ea:94:f6:6b:4e:f0_1",
+            "id": "ea:94:f6:6b:4e:f0-ea:94:f6:6b:4e:f0_0",
             "quality": "TT",
-            "source": 41,
+            "source": 42,
             "target": 43,
             "type": "client"
         },
         {
-            "id": "ea:94:f6:6b:4e:f0-ea:94:f6:6b:4e:f0_0",
-            "quality": "TT",
-            "source": 41,
-            "target": 42,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:6b:4e:f0",
-            "quality": "1.000, 1.000",
-            "source": 41,
-            "target": 11,
-            "type": "vpn"
+            "id": "c2:4a:00:ee:33:da-ea:94:f6:52:4f:ea",
+            "quality": "1.000, 1.016",
+            "source": 47,
+            "target": 45,
+            "type": null
         },
         {
             "id": "de:ca:fb:ad:03:01-ea:94:f6:44:40:e8",
             "quality": "1.000, 1.000",
-            "source": 62,
-            "target": 13,
+            "source": 59,
+            "target": 17,
             "type": "vpn"
-        },
-        {
-            "id": "fe:1a:67:51:5f:9a-fe:1a:67:51:5f:9a_2",
-            "quality": "TT",
-            "source": 3,
-            "target": 51,
-            "type": "client"
         },
         {
             "id": "fa:d1:11:bd:69:be-fe:1a:67:51:5f:9a",
-            "quality": "1.020, 1.209",
-            "source": 85,
-            "target": 3,
+            "quality": "1.012, 1.288",
+            "source": 81,
+            "target": 4,
             "type": null
         },
         {
-            "id": "fe:1a:67:51:5f:9a-fe:1a:67:51:5f:9a_0",
-            "quality": "TT",
-            "source": 3,
-            "target": 49,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:4b:37:4a-ea:94:f6:52:4f:ea",
-            "quality": "1.016, 1.067",
-            "source": 5,
-            "target": 44,
-            "type": null
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:91:7f:08",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 17,
+            "type": "vpn"
         },
         {
             "id": "de:ad:be:ef:00:00-ea:94:f6:4c:23:1e",
-            "quality": "1.011, 1.000, 1.012",
-            "source": 9,
-            "target": 26,
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 33,
             "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:63:ec:52",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 64,
+            "type": "vpn"
+        },
+        {
+            "id": "66:70:02:8f:63:26-66:70:02:8f:63:26_0",
+            "quality": "TT",
+            "source": 62,
+            "target": 63,
+            "type": "client"
         },
         {
             "id": "de:ca:fb:ad:03:01-ea:94:f6:64:11:fe",
             "quality": "1.000, 1.000",
-            "source": 60,
-            "target": 13,
+            "source": 7,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:44:44:a2",
+            "quality": "1.000, 1.000",
+            "source": 38,
+            "target": 17,
             "type": "vpn"
         },
         {
             "id": "de:ad:be:ef:00:00-ea:94:f6:4c:3c:52",
             "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 36,
+            "source": 13,
+            "target": 40,
             "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:4c:84:48",
-            "quality": "1.000, 1.000",
-            "source": 99,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:53:50:78",
-            "quality": "1.000, 1.000",
-            "source": 28,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:63:ec:52-ea:94:f6:63:ec:52_0",
-            "quality": "TT",
-            "source": 65,
-            "target": 66,
-            "type": "client"
-        },
-        {
-            "id": "c2:4a:00:ee:33:da-ea:94:f6:52:4f:ea",
-            "quality": "1.000, 1.000",
-            "source": 47,
-            "target": 44,
-            "type": null
         },
         {
             "id": "de:ad:be:ef:00:00-ea:94:f6:6e:56:ae",
             "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 29,
+            "source": 13,
+            "target": 39,
             "type": "vpn"
         },
         {
             "id": "de:ad:be:ef:00:00-ea:94:f6:4c:13:06",
             "quality": "1.000, 1.000, 1.000",
-            "source": 75,
-            "target": 9,
+            "source": 73,
+            "target": 13,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_3",
-            "quality": "TT",
-            "source": 90,
-            "target": 94,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_2",
-            "quality": "TT",
-            "source": 90,
-            "target": 93,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_1",
-            "quality": "TT",
-            "source": 90,
-            "target": 92,
-            "type": "client"
+            "id": "66:70:02:8f:63:26-ea:94:f6:63:10:80",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 62,
+            "type": null
         },
         {
             "id": "12:fe:ed:b8:46:1e-de:ca:fb:ad:03:01",
             "quality": "1.000, 1.000",
-            "source": 59,
-            "target": 13,
+            "source": 56,
+            "target": 17,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_7",
-            "quality": "TT",
-            "source": 90,
-            "target": 98,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_6",
-            "quality": "TT",
-            "source": 90,
-            "target": 97,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_5",
-            "quality": "TT",
-            "source": 90,
-            "target": 96,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-12:fe:ed:bb:d3:a6_4",
-            "quality": "TT",
-            "source": 90,
-            "target": 95,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:ce:92:be-de:ca:fb:ad:03:01",
-            "quality": "1.000, 1.000",
-            "source": 2,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:43:93:fe",
+            "id": "de:ad:be:ef:00:00-ea:94:f6:44:40:e8",
             "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 54,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:23:1e",
-            "quality": "1.000, 1.000",
-            "source": 26,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:63:ec:52",
-            "quality": "1.000, 1.000",
-            "source": 65,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:4c:84:6a",
-            "quality": "1.000, 1.000",
-            "source": 57,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:3c:52",
-            "quality": "1.000, 1.000",
-            "source": 36,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:bb:d3:a6-de:ca:fb:ad:03:01",
-            "quality": "1.000, 1.000",
-            "source": 90,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:68:f4:ea",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 7,
-            "target": 9,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-fa:1a:67:2f:ed:c0",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 0,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:4c:3c:94-ea:94:f6:4c:3c:94_0",
-            "quality": "TT",
-            "source": 8,
-            "target": 79,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-fa:1a:67:52:5f:9a",
-            "quality": "1.000, 1.000",
-            "source": 3,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:11:28",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 64,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:b8:46:1e-de:ad:be:ef:00:00",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
+            "source": 13,
             "target": 59,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:bb:d3:a6-de:ad:be:ef:00:00",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 90,
-            "target": 9,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:64:11:fe-ea:94:f6:64:11:fe_0",
-            "quality": "TT",
-            "source": 60,
-            "target": 61,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-de:ca:fb:ad:03:01",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:43:93:fe",
+            "id": "12:fe:ed:ce:92:be-de:ca:fb:ad:03:01",
             "quality": "1.000, 1.000",
-            "source": 54,
-            "target": 13,
+            "source": 3,
+            "target": 17,
             "type": "vpn"
         },
         {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:64:04:a2",
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:52:d3:4c",
             "quality": "1.000, 1.000",
-            "source": 68,
-            "target": 11,
+            "source": 79,
+            "target": 17,
             "type": "vpn"
         },
         {
-            "id": "ea:94:f6:4c:23:1e-ea:94:f6:4c:23:1e_0",
-            "quality": "TT",
-            "source": 26,
-            "target": 27,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:68:f4:ea-ea:94:f6:68:f4:ea_1",
-            "quality": "TT",
-            "source": 7,
-            "target": 71,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:52:d2:74",
-            "quality": "1.000, 1.000",
-            "source": 63,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:85:5c",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 52,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:4c:84:6a-ea:94:f6:4c:84:6a_0",
-            "quality": "TT",
-            "source": 57,
-            "target": 58,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-fa:1a:67:2f:ed:c0",
-            "quality": "1.000, 1.000",
-            "source": 0,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-fa:d1:11:be:5e:24",
-            "quality": "1.000, 1.000",
-            "source": 4,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:63:eb:98",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "66:66:b3:2e:ed:be-66:66:b3:2e:ed:be_0",
-            "quality": "TT",
-            "source": 15,
-            "target": 16,
-            "type": "client"
-        },
-        {
-            "id": "6a:be:f5:69:40:f6-de:ad:be:ef:00:00",
-            "quality": "TT",
-            "source": 9,
-            "target": 10,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:4c:3c:9a",
-            "quality": "1.000, 1.000",
-            "source": 24,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-fa:d1:11:be:5e:24",
-            "quality": "1.000, 1.000",
-            "source": 4,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:64:10:80",
-            "quality": "1.000, 1.000",
-            "source": 86,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:6e:56:b2",
-            "quality": "1.000, 1.000",
-            "source": 22,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-de:ca:fb:ad:03:01",
-            "quality": "1.000, 1.000",
-            "source": 13,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "c2:4a:00:fa:86:54-c2:4a:00:fa:86:54_0",
-            "quality": "TT",
-            "source": 17,
-            "target": 18,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:52:d2:74",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 63,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:85:5c",
-            "quality": "1.000, 1.000",
-            "source": 52,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:52:4f:ea-ea:94:f6:52:4f:ea_1",
-            "quality": "TT",
-            "source": 44,
-            "target": 46,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:52:4f:ea-ea:94:f6:52:4f:ea_0",
-            "quality": "TT",
-            "source": 44,
-            "target": 45,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:6e:56:ae-ea:94:f6:6e:56:ae_3",
-            "quality": "TT",
-            "source": 29,
-            "target": 33,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:6e:56:ae-ea:94:f6:6e:56:ae_2",
-            "quality": "TT",
-            "source": 29,
-            "target": 32,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:6e:56:ae-ea:94:f6:6e:56:ae_1",
-            "quality": "TT",
-            "source": 29,
-            "target": 31,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:6e:56:ae-ea:94:f6:6e:56:ae_0",
-            "quality": "TT",
-            "source": 29,
-            "target": 30,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:ce:92:be-de:ad:be:ef:00:00",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 9,
-            "target": 2,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:6e:56:ae-ea:94:f6:6e:56:ae_5",
-            "quality": "TT",
-            "source": 29,
-            "target": 35,
-            "type": "client"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:44:40:e8",
-            "quality": "1.000, 1.000",
-            "source": 62,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:64:10:80-ea:94:f6:64:10:80_2",
-            "quality": "TT",
-            "source": 86,
-            "target": 89,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:64:10:80-ea:94:f6:64:10:80_1",
-            "quality": "TT",
-            "source": 86,
-            "target": 88,
-            "type": "client"
-        },
-        {
-            "id": "ea:94:f6:52:4b:54-fa:1a:67:2e:ed:bf",
-            "quality": "1.008, 1.000",
-            "source": 6,
-            "target": 0,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:52:d3:4c-ea:94:f6:52:d3:4c_1",
-            "quality": "TT",
-            "source": 81,
-            "target": 83,
-            "type": "client"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:6e:56:ae",
-            "quality": "1.000, 1.000",
-            "source": 29,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:13:06",
-            "quality": "1.007, 1.000",
-            "source": 75,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:63:eb:98",
-            "quality": "1.000, 1.000",
-            "source": 20,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "c2:4a:00:fa:86:54-de:ca:fb:ad:03:01",
-            "quality": "1.000, 1.000",
-            "source": 17,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:3c:94",
-            "quality": "1.000, 1.000, 1.000",
-            "source": 8,
-            "target": 9,
-            "type": "vpn"
-        },
-        {
-            "id": "fa:d1:11:bd:68:16-fa:d1:11:bd:69:be",
-            "quality": "1.349, 1.143",
-            "source": 85,
-            "target": 19,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:4b:36:b8-ea:94:f6:4b:3c:94",
-            "quality": "1.016, 1.000",
-            "source": 8,
-            "target": 76,
-            "type": null
-        },
-        {
-            "id": "de:ad:be:ef:00:00-ea:94:f6:52:d3:4c",
-            "quality": "1.000, 1.000, 1.024",
-            "source": 81,
-            "target": 9,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ad:be:ef:04:01-ea:94:f6:52:d3:4c",
-            "quality": "1.000, 1.000",
-            "source": 81,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:84:8e",
-            "quality": "1.000, 1.000",
-            "source": 23,
-            "target": 13,
-            "type": "vpn"
-        },
-        {
-            "id": "c2:4a:00:fa:86:54-de:ad:be:ef:04:01",
-            "quality": "1.000, 1.000",
-            "source": 17,
-            "target": 11,
-            "type": "vpn"
-        },
-        {
-            "id": "fa:1a:67:2e:ed:bf-fa:d1:11:bd:69:be",
-            "quality": "1.049, 1.491",
-            "source": 85,
-            "target": 0,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:f4:06:8e-ea:94:f6:f4:06:8e_0",
+            "id": "ea:94:f6:4c:13:06-ea:94:f6:4c:13:06_0",
             "quality": "TT",
             "source": 73,
             "target": 74,
             "type": "client"
         },
         {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:43:93:fe",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 50,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:44:40:e8-ea:94:f6:44:40:e8_0",
+            "quality": "TT",
+            "source": 59,
+            "target": 60,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:84:6a",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 54,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:23:1e",
+            "quality": "1.000, 1.000",
+            "source": 33,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:63:ec:52",
+            "quality": "1.011, 1.000",
+            "source": 64,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:63:14:64-ea:94:f6:63:14:64_0",
+            "quality": "TT",
+            "source": 70,
+            "target": 71,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:63:56:94-ea:94:f6:63:56:94_0",
+            "quality": "TT",
+            "source": 76,
+            "target": 77,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:44:44:a2",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 38,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:3c:52",
+            "quality": "1.000, 1.000",
+            "source": 40,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:bb:d3:a6-de:ca:fb:ad:03:01",
+            "quality": "1.000, 1.000",
+            "source": 83,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:ac:65:46-ea:94:f6:ac:65:46_0",
+            "quality": "TT",
+            "source": 2,
+            "target": 44,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:68:f4:ea",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 9,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-fa:1a:67:2f:ed:c0",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 0,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:4c:84:8e-ea:94:f6:4c:84:8e_1",
+            "quality": "TT",
+            "source": 25,
+            "target": 27,
+            "type": "client"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-fa:1a:67:52:5f:9a",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:11:28",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 61,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:bb:d3:a6-de:ad:be:ef:00:00",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 83,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:64:11:fe-ea:94:f6:64:11:fe_0",
+            "quality": "TT",
+            "source": 7,
+            "target": 57,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-de:ca:fb:ad:03:01",
+            "quality": "1.000, 1.015, 1.000",
+            "source": 13,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:43:93:fe",
+            "quality": "1.000, 1.000",
+            "source": 50,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "fa:d1:11:a0:16:ca-fe:1a:67:51:5f:9a",
+            "quality": "1.275",
+            "source": 78,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:53:48:6c",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:4c:23:1e-ea:94:f6:4c:23:1e_1",
+            "quality": "TT",
+            "source": 33,
+            "target": 35,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:4c:23:1e-ea:94:f6:4c:23:1e_0",
+            "quality": "TT",
+            "source": 33,
+            "target": 34,
+            "type": "client"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:52:d2:74",
+            "quality": "1.000, 1.000",
+            "source": 58,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:fa:99:28-de:ad:be:ef:00:00",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 31,
+            "type": "vpn"
+        },
+        {
+            "id": "fa:d1:11:bd:68:16-fa:d1:11:bd:68:16_1",
+            "quality": "TT",
+            "source": 21,
+            "target": 23,
+            "type": "client"
+        },
+        {
+            "id": "fa:d1:11:bd:68:16-fa:d1:11:bd:68:16_0",
+            "quality": "TT",
+            "source": 21,
+            "target": 22,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:04:01-ea:94:f6:63:eb:98",
+            "quality": "1.000, 1.000",
+            "source": 24,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:3c:9a",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 32,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-fa:1a:67:2f:ed:c0",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:04:01-fa:d1:11:be:5e:24",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:4c:37:4a-ea:94:f6:4c:37:4a_0",
+            "quality": "TT",
+            "source": 6,
+            "target": 55,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:04:01-ea:94:f6:52:d2:74",
+            "quality": "1.000, 1.000",
+            "source": 58,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "6a:be:f5:69:40:f6-de:ad:be:ef:00:00",
+            "quality": "TT",
+            "source": 13,
+            "target": 14,
+            "type": "client"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-fa:d1:11:be:5e:24",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:64:10:80",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:04:01-de:ca:fb:ad:03:01",
+            "quality": "1.000, 1.000",
+            "source": 17,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:53:50:78",
+            "quality": "1.000, 1.000",
+            "source": 36,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "fa:d1:11:bd:5e:24-fa:d1:11:bd:69:be",
+            "quality": "1.000, 1.154",
+            "source": 81,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:52:4f:ea-ea:94:f6:52:4f:ea_0",
+            "quality": "TT",
+            "source": 45,
+            "target": 46,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:52:d3:4c-ea:94:f6:52:d3:4c_0",
+            "quality": "TT",
+            "source": 79,
+            "target": 80,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:ce:92:be-de:ad:be:ef:00:00",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 3,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:52:4b:54-fa:1a:67:2e:ed:bf",
+            "quality": "1.020, 1.032",
+            "source": 8,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:6e:56:ae",
+            "quality": "1.000, 1.000",
+            "source": 39,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:13:06",
+            "quality": "1.000, 1.000",
+            "source": 73,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:63:eb:98",
+            "quality": "1.000, 1.000",
+            "source": 24,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:fa:86:54-de:ca:fb:ad:03:01",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:3c:94",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 10,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "fa:d1:11:bd:68:16-fa:d1:11:bd:69:be",
+            "quality": "1.356, 1.203",
+            "source": 81,
+            "target": 21,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4b:36:b8-ea:94:f6:4b:3c:94",
+            "quality": "1.020, 1.000",
+            "source": 10,
+            "target": 75,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:52:48:6c-fa:d1:11:a0:16:ca",
+            "quality": "1.004, 1.186",
+            "source": 78,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:4c:84:8e-ea:94:f6:4c:84:8e_3",
+            "quality": "TT",
+            "source": 25,
+            "target": 29,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:4c:84:8e-ea:94:f6:4c:84:8e_2",
+            "quality": "TT",
+            "source": 25,
+            "target": 28,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:52:d3:4c",
+            "quality": "1.000, 1.000, 1.016",
+            "source": 79,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:4c:84:8e-ea:94:f6:4c:84:8e_0",
+            "quality": "TT",
+            "source": 25,
+            "target": 26,
+            "type": "client"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:64:04:a2",
+            "quality": "1.000, 1.000",
+            "source": 67,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:84:8e",
+            "quality": "1.000, 1.000",
+            "source": 25,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:6b:4e:f0",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 42,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:04:01-ea:94:f6:64:04:a2",
+            "quality": "1.000, 1.000",
+            "source": 67,
+            "target": 15,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:00:00-ea:94:f6:4c:84:48",
+            "quality": "1.000, 1.000, 1.004",
+            "source": 85,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:fa:99:28-de:ca:fb:ad:03:01",
+            "quality": "1.000, 1.000",
+            "source": 31,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ca:fb:ad:03:01-ea:94:f6:4c:12:be",
+            "quality": "1.000, 1.000",
+            "source": 41,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:90:7f:08-ea:94:f6:90:7f:08_0",
+            "quality": "TT",
+            "source": 12,
+            "target": 82,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:fa:86:54-de:ad:be:ef:00:00",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 13,
+            "target": 20,
+            "type": "vpn"
+        },
+        {
             "id": "de:ca:fb:ad:03:01-ea:94:f6:63:14:64",
             "quality": "1.000, 1.000",
-            "source": 72,
-            "target": 13,
+            "source": 70,
+            "target": 17,
             "type": "vpn"
         }
     ],
     "meta": {
-        "timestamp": "2014-08-25T16:34:02"
+        "timestamp": "2014-08-31T09:04:02"
     },
     "nodes": [
         {
             "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1059,7 +982,23 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.3",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.89283,
+                8.3838455
+            ],
+            "id": "e8:94:f6:52:48:6c",
+            "macs": "ea:94:f6:52:48:6c, ea:94:f6:53:48:6c, e8:94:f6:52:48:6c",
+            "name": "ffgt-e894f652486c"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1075,7 +1014,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1090,7 +1029,7 @@
             "name": "ffgt_CafeVerstaerkeramt1"
         },
         {
-            "clientcount": 3,
+            "clientcount": 1,
             "firmware": null,
             "flags": {
                 "client": false,
@@ -1107,7 +1046,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1123,7 +1062,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1139,7 +1078,23 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.904068009551,
+                8.375122547
+            ],
+            "id": "e8:94:f6:63:11:fe",
+            "macs": "ea:94:f6:64:11:fe, e8:94:f6:63:11:fe, ea:94:f6:63:11:fe",
+            "name": "ffgt-HiFiCorner"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1155,7 +1110,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1171,7 +1126,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1184,6 +1139,38 @@
             "id": "e8:94:f6:4b:3c:94",
             "macs": "e8:94:f6:4b:3c:94, ea:94:f6:4c:3c:94, ea:94:f6:4b:3c:94",
             "name": "ffgt_Miners"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.909604199162,
+                8.4318244457245
+            ],
+            "id": "e8:94:f6:63:10:80",
+            "macs": "e8:94:f6:63:10:80, ea:94:f6:64:10:80, ea:94:f6:63:10:80",
+            "name": "freifunk-hpw"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.9321928,
+                8.3673942
+            ],
+            "id": "e8:94:f6:90:7f:08",
+            "macs": "ea:94:f6:90:7f:08, ea:94:f6:91:7f:08, e8:94:f6:90:7f:08",
+            "name": "ffgt-Hopkins"
         },
         {
             "clientcount": 2,
@@ -1268,7 +1255,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1284,20 +1271,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "66:66:b3:2e:ed:be_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1313,20 +1287,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "c2:4a:00:fa:86:54_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1342,7 +1303,33 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "fa:d1:11:bd:68:16_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "fa:d1:11:bd:68:16_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1358,36 +1345,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:63:eb:98_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.909394607745,
-                8.376978635788
-            ],
-            "id": "e8:94:f6:6d:56:b2",
-            "macs": "e8:94:f6:6d:56:b2, ea:94:f6:6e:56:b2",
-            "name": "ffgt_HDI_Hartkaemper"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1403,7 +1361,91 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:4c:84:8e_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:4c:84:8e_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:4c:84:8e_2",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:4c:84:8e_3",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.909394607745,
+                8.376978635788
+            ],
+            "id": "e8:94:f6:6d:56:b2",
+            "macs": "e8:94:f6:6d:56:b2, ea:94:f6:6e:56:b2",
+            "name": "ffgt_HDI_Hartkaemper"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.90723024321,
+                8.3778530359268
+            ],
+            "id": "c0:4a:00:f9:99:28",
+            "macs": "c0:4a:00:f9:99:28, c2:4a:00:fa:99:28",
+            "name": "ffgt_Foto_Schorcht_Moltkestr"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1419,20 +1461,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:4c:3c:9a_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1461,7 +1490,20 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:4c:23:1e_1",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1477,7 +1519,36 @@
         },
         {
             "clientcount": 0,
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.906958862928,
+                8.3747202157974
+            ],
+            "id": "e8:94:f6:43:44:be",
+            "macs": "ea:94:f6:44:44:be, e8:94:f6:43:44:be",
+            "name": "ffgt_Musikgalerie"
+        },
+        {
+            "clientcount": 0,
             "firmware": "0.4.9+6-exp20140713",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:43:44:a2",
+            "macs": "e8:94:f6:43:44:a2, ea:94:f6:44:44:a2",
+            "name": "ffgt_online"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1493,85 +1564,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:6e:56:ae_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:6e:56:ae_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:6e:56:ae_2",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:6e:56:ae_3",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:6e:56:ae_4",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:6e:56:ae_5",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1587,7 +1580,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1603,46 +1596,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:4c:12:be_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:4c:12:be_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:4c:12:be_2",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1678,13 +1632,13 @@
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:6b:4e:f0_1",
+            "id": "ea:94:f6:ac:65:46_0",
             "macs": "",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1713,20 +1667,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:52:4f:ea_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1755,20 +1696,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "fe:1a:67:51:5f:9a_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": true,
                 "gateway": false,
@@ -1778,55 +1706,13 @@
                 51.8928896,
                 8.383698
             ],
-            "id": "fe:1a:67:51:5f:9a_1",
+            "id": "fe:1a:67:51:5f:9a_0",
             "macs": "",
             "name": "ffgt-schalueck-ha1"
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "fe:1a:67:51:5f:9a_2",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.9098022,
-                8.3648514
-            ],
-            "id": "e8:94:f6:4b:85:5c",
-            "macs": "ea:94:f6:4c:85:5c, e8:94:f6:4b:85:5c",
-            "name": "ffgt-episode1"
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:4c:85:5c_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1842,7 +1728,23 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.9321878,
+                8.3673993
+            ],
+            "id": "e8:94:f6:90:7f:5c",
+            "macs": "ea:94:f6:90:7f:5c, e8:94:f6:90:7f:5c",
+            "name": "ffgt-Hopkins1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1871,7 +1773,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1894,13 +1796,13 @@
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:4c:84:6a_0",
+            "id": "ea:94:f6:4c:37:4a_0",
             "macs": "",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1913,22 +1815,6 @@
             "id": "10:fe:ed:b7:46:1e",
             "macs": "12:fe:ed:b8:46:1e, 10:fe:ed:b7:46:1e",
             "name": "freifunk-aurora"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.904068009551,
-                8.375122547
-            ],
-            "id": "e8:94:f6:63:11:fe",
-            "macs": "ea:94:f6:64:11:fe, e8:94:f6:63:11:fe",
-            "name": "ffgt-HiFiCorner"
         },
         {
             "clientcount": 0,
@@ -1945,23 +1831,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.909427701194,
-                8.3738887310028
-            ],
-            "id": "e8:94:f6:43:40:e8",
-            "macs": "ea:94:f6:44:40:e8, e8:94:f6:43:40:e8",
-            "name": "freifunk-BillSystem"
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1977,7 +1847,36 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.909427701194,
+                8.3738887310028
+            ],
+            "id": "e8:94:f6:43:40:e8",
+            "macs": "ea:94:f6:44:40:e8, e8:94:f6:43:40:e8",
+            "name": "freifunk-BillSystem"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:44:40:e8_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1993,7 +1892,36 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.909703478973,
+                8.4321302175522
+            ],
+            "id": "64:70:02:8f:63:26",
+            "macs": "66:70:02:8f:63:26, 64:70:02:8f:63:26",
+            "name": "freifunk-hpw2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "66:70:02:8f:63:26_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2016,22 +1944,22 @@
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:63:ec:52_0",
+            "id": "ea:94:f6:53:4b:54_0",
             "macs": "",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": null,
+            "firmware": "0.5.2",
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:53:4b:54_0",
-            "macs": "",
-            "name": ""
+            "id": "e8:94:f6:63:16:00",
+            "macs": "ea:94:f6:63:16:00, e8:94:f6:63:16:00",
+            "name": "ffgt-Kerschensteinerweg_cl2"
         },
         {
             "clientcount": 0,
@@ -2051,16 +1979,16 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "e8:94:f6:4b:12:24",
-            "macs": "ea:94:f6:4b:12:24, e8:94:f6:4b:12:24",
-            "name": "ffgt-Kerschensteinerweg_cl1"
+            "id": "ea:94:f6:64:04:a2_0",
+            "macs": "",
+            "name": ""
         },
         {
             "clientcount": 0,
@@ -2077,45 +2005,22 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:68:f4:ea_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
+            "geo": [
+                51.9436601,
+                7.9786436
+            ],
             "id": "e8:94:f6:62:14:64",
             "macs": "ea:94:f6:63:14:64, e8:94:f6:62:14:64",
             "name": "ffwaf-psi1"
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "e8:94:f6:f3:06:8e",
-            "macs": "e8:94:f6:f3:06:8e, ea:94:f6:f4:06:8e",
-            "name": "ffgt-tbals-test"
-        },
-        {
-            "clientcount": 0,
             "firmware": null,
             "flags": {
                 "client": true,
@@ -2123,13 +2028,29 @@
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:f4:06:8e_0",
+            "id": "ea:94:f6:63:14:64_0",
             "macs": "",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.8829866,
+                8.4013588
+            ],
+            "id": "e8:94:f6:f3:06:8e",
+            "macs": "e8:94:f6:f3:06:8e, ea:94:f6:f4:06:8e",
+            "name": "ffgt-tbals-test"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2145,7 +2066,20 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "ea:94:f6:4c:13:06_0",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2161,16 +2095,19 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
+            "firmware": "0.5.2",
             "flags": {
-                "client": true,
+                "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": null,
-            "id": "ea:94:f6:4b:36:b8_0",
-            "macs": "",
-            "name": ""
+            "geo": [
+                51.957639895657,
+                7.9751837253571
+            ],
+            "id": "e8:94:f6:62:56:94",
+            "macs": "e8:94:f6:62:56:94, ea:94:f6:63:56:94",
+            "name": "ffwaf-psi3"
         },
         {
             "clientcount": 0,
@@ -2181,26 +2118,13 @@
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:4b:36:b8_1",
+            "id": "ea:94:f6:63:56:94_0",
             "macs": "",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:4c:3c:94_0",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2216,7 +2140,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2245,33 +2169,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:52:d3:4c_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:52:d3:4c_2",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.5.1+2-exp20140824",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2287,22 +2185,6 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.909604199162,
-                8.4318244457245
-            ],
-            "id": "e8:94:f6:63:10:80",
-            "macs": "e8:94:f6:63:10:80, ea:94:f6:64:10:80",
-            "name": "freifunk-hpw"
-        },
-        {
-            "clientcount": 0,
             "firmware": null,
             "flags": {
                 "client": true,
@@ -2310,39 +2192,13 @@
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:64:10:80_0",
+            "id": "ea:94:f6:90:7f:08_0",
             "macs": "",
             "name": ""
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:64:10:80_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:64:10:80_2",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2371,98 +2227,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_1",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_2",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_3",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_4",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_5",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_6",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "12:fe:ed:bb:d3:a6_7",
-            "macs": "",
-            "name": ""
-        },
-        {
-            "clientcount": 0,
-            "firmware": "0.4.9+6-exp20140713",
+            "firmware": "0.5.2",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2475,6 +2240,22 @@
             "id": "e8:94:f6:4b:84:48",
             "macs": "e8:94:f6:4b:84:48, ea:94:f6:4c:84:48",
             "name": "ffgt_SalonHaartolle"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.9098022,
+                8.3648514
+            ],
+            "id": "e8:94:f6:4b:85:5c",
+            "macs": "",
+            "name": "ffgt-episode1"
         },
         {
             "clientcount": 0,
@@ -2500,13 +2281,91 @@
                 "gateway": false,
                 "online": false
             },
-            "geo": [
-                51.814793,
-                8.439685
-            ],
-            "id": "e8:94:f6:b9:ad:26",
+            "geo": null,
+            "id": "fa:d1:11:bd:5e:24",
             "macs": "",
-            "name": "rietberg-6ba"
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "fa:1a:67:52:5f:9a",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:4b:12:24",
+            "macs": "",
+            "name": "ffgt-Kerschensteinerweg_cl1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:62:e3:d0",
+            "macs": "",
+            "name": "ffgt-Kerschensteinerweg_cl3"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "ea:94:f6:90:7f:5c",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "ea:94:f6:52:48:6c",
+            "macs": "",
+            "name": ""
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.9099198,
+                8.3649099
+            ],
+            "id": "e8:94:f6:6c:d4:c0",
+            "macs": "",
+            "name": "ffgt-schalueck-fwtest"
         }
     ]
 }

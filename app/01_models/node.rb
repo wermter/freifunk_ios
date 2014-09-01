@@ -8,7 +8,7 @@ class Node
     @name       = name
     @geo        = geo
     @flags      = flags
-    @macs       = macs.split(", ")
+    @macs       = macs.nil? ? [] : macs.split(", ")
   end
 
   def title

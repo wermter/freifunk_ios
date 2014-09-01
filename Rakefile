@@ -6,7 +6,7 @@ Bundler.require :default
 require 'bubble-wrap/location'
 require 'bubble-wrap/reactor'
 
-VERSION = "2.11.0"
+VERSION = "2.13.0"
 
 Motion::Project::App.setup do |app|
   app.name                    = 'freifunk'
@@ -42,7 +42,7 @@ Motion::Project::App.setup do |app|
 end
 
 desc "download latest node json"
-task :update_json, [:name] do |t, args|
+task :nodes, [:name] do |t, args|
   require_relative 'app/01_models/region.rb'
   if name = args[:name]
     regions = [Region.find(name.to_sym)]
