@@ -1,10 +1,10 @@
 {
     "links": [
         {
-            "id": "12:fe:ed:eb:99:3a-1a:fe:ed:eb:99:3a",
+            "id": "6e:70:02:d3:23:fd-bc:d1:d3:04:74:92",
             "quality": "TT",
-            "source": 3,
-            "target": 14,
+            "source": 0,
+            "target": 8,
             "type": "client"
         },
         {
@@ -16,7 +16,7 @@
         },
         {
             "id": "06:0d:f6:97:61:94-0e:ca:b8:7e:21:a5",
-            "quality": "1.000, 1.000",
+            "quality": "1.000, 1.015",
             "source": 3,
             "target": 10,
             "type": null
@@ -25,7 +25,7 @@
             "id": "1a:a0:29:f5:89:2c-64:70:02:e2:97:cc",
             "quality": "TT",
             "source": 1,
-            "target": 8,
+            "target": 9,
             "type": "client"
         },
         {
@@ -33,6 +33,20 @@
             "quality": "TT",
             "source": 2,
             "target": 13,
+            "type": "client"
+        },
+        {
+            "id": "00:26:b6:5a:90:40-1a:fe:ed:eb:99:3a",
+            "quality": "TT",
+            "source": 3,
+            "target": 16,
+            "type": "client"
+        },
+        {
+            "id": "1a:fe:ed:eb:99:3a-f0:cb:a1:ce:85:c3",
+            "quality": "TT",
+            "source": 3,
+            "target": 14,
             "type": "client"
         },
         {
@@ -50,13 +64,6 @@
             "type": null
         },
         {
-            "id": "10:9a:dd:1a:9b:93-64:70:02:e2:97:cc",
-            "quality": "TT",
-            "source": 1,
-            "target": 9,
-            "type": "client"
-        },
-        {
             "id": "1a:fe:ed:eb:99:3a-22:29:b2:37:73:62",
             "quality": "TT",
             "source": 3,
@@ -65,7 +72,7 @@
         },
         {
             "id": "6e:70:02:d3:23:6b-6e:70:02:e2:97:d3",
-            "quality": "1.015, 1.000",
+            "quality": "1.000, 1.020",
             "source": 2,
             "target": 4,
             "type": null
@@ -78,22 +85,15 @@
             "type": "client"
         },
         {
-            "id": "18:87:96:81:df:21-1a:fe:ed:eb:99:3a",
-            "quality": "TT",
-            "source": 3,
-            "target": 16,
-            "type": "client"
-        },
-        {
             "id": "6e:70:02:d3:23:6b-6e:70:02:e2:97:cd",
-            "quality": "1.931, 2.217",
+            "quality": "2.040, 3.984",
             "source": 1,
             "target": 4,
             "type": null
         },
         {
             "id": "06:0d:f6:97:61:94-f2:94:fd:3e:25:f5",
-            "quality": "1.000, 1.000",
+            "quality": "1.015, 1.032",
             "source": 10,
             "target": 0,
             "type": null
@@ -114,7 +114,7 @@
         }
     ],
     "meta": {
-        "timestamp": "2014-08-31T09:04:49"
+        "timestamp": "2014-08-31T17:36:31"
     },
     "nodes": [
         {
@@ -218,8 +218,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "1a:a0:29:f5:89:2c",
-            "macs": "1a:a0:29:f5:89:2c",
+            "id": "bc:d1:d3:04:74:92",
+            "macs": "bc:d1:d3:04:74:92",
             "name": ""
         },
         {
@@ -229,8 +229,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "10:9a:dd:1a:9b:93",
-            "macs": "10:9a:dd:1a:9b:93",
+            "id": "1a:a0:29:f5:89:2c",
+            "macs": "1a:a0:29:f5:89:2c",
             "name": ""
         },
         {
@@ -284,8 +284,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "12:fe:ed:eb:99:3a",
-            "macs": "12:fe:ed:eb:99:3a",
+            "id": "f0:cb:a1:ce:85:c3",
+            "macs": "f0:cb:a1:ce:85:c3",
             "name": ""
         },
         {
@@ -306,8 +306,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "18:87:96:81:df:21",
-            "macs": "18:87:96:81:df:21",
+            "id": "00:26:b6:5a:90:40",
+            "macs": "00:26:b6:5a:90:40",
             "name": ""
         },
         {

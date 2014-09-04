@@ -17,6 +17,7 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:ruhr,         "Ruhrgebiet",      8, [51.47,  7.11], "http://map.freifunk-ruhrgebiet.de/nodes.json",                   "ffruhr",           "http://freifunk-ruhrgebiet.de/"),
     Region.new(:moehne,       "Soest+HSK",       8, [51.49,  8.13], "http://moehne-vis.freifunk-rheinland.net/nodes.json",            "FFMoehne",         "http://freifunk-moehne.de/"),
     Region.new(:muenster,     "Münster",         8, [51.95,  7.62], "http://freifunk-muenster.de/map/nodes.json",                     "Freifunk_MS",      "http://freifunk-muenster.de/"),
+    Region.new(:braunschweig, "Braunschweig",   10, [52.27, 10.53], "http://freifunk-bs.de/nodes_compat.json",                        "freifunk_bs",      "http://freifunk-bs.de/"),
     Region.new(:mzwi,         "Mainz/Wiesbaden",10, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                        ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
   ]
 

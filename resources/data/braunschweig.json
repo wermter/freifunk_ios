@@ -1,0 +1,439 @@
+{
+    "nodes": [
+        {
+            "clientcount": 1,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.278585,
+                10.521182
+            ],
+            "id": "e8:94:f6:6a:55:52",
+            "macs": "e8:94:f6:6a:55:52",
+            "name": "purgatorium"
+        },
+        {
+            "clientcount": 6,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.274382,
+                10.530213
+            ],
+            "id": "e8:94:f6:52:07:20",
+            "macs": "e8:94:f6:52:07:20",
+            "name": "larspace"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.25284,
+                10.51009
+            ],
+            "id": "e8:94:f6:f5:7d:42",
+            "macs": "e8:94:f6:f5:7d:42",
+            "name": "voctri"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.3587,
+                10.590032
+            ],
+            "id": "64:66:b3:2f:18:40",
+            "macs": "64:66:b3:2f:18:40",
+            "name": "TL-WR841NDv8_DooM_01"
+        },
+        {
+            "clientcount": 4,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2650334,
+                10.514524
+            ],
+            "id": "c0:4a:00:2d:11:48",
+            "macs": "c0:4a:00:2d:11:48",
+            "name": "FFBS_jay"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.267622,
+                10.508669
+            ],
+            "id": "e8:94:f6:52:03:2a",
+            "macs": "e8:94:f6:52:03:2a",
+            "name": "Gibts_da_keine_DIN_fuer"
+        },
+        {
+            "clientcount": null,
+            "firmware": "OpenWRT Attitude adjustment, salted with select Gluon parts",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.27896824949,
+                10.557797350164
+            ],
+            "id": "00:0D:B9:1B:54:B1",
+            "macs": "00:0D:B9:1B:54:B1",
+            "name": "FFBSIBR1"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.4715,
+                10.3614
+            ],
+            "id": "e8:94:f6:4b:64:e4",
+            "macs": "e8:94:f6:4b:64:e4",
+            "name": "avh_meinersen"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.256,
+                10.5437
+            ],
+            "id": "e8:94:f6:52:04:ec",
+            "macs": "e8:94:f6:52:04:ec",
+            "name": "Konsumtempel"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2937,
+                10.51226
+            ],
+            "id": "e8:94:f6:51:fc:08",
+            "macs": "e8:94:f6:51:fc:08",
+            "name": "dead-parrot"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.1-76-g16230f7",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2258,
+                10.5026
+            ],
+            "id": "64:66:b3:50:04:10",
+            "macs": "64:66:b3:50:04:10",
+            "name": "Rueningen-Nord"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2354,
+                10.5324
+            ],
+            "id": "a0:f3:c1:48:cf:0e",
+            "macs": "a0:f3:c1:48:cf:0e",
+            "name": "freifunk-a0f3c148cf0e"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.228153,
+                10.542734
+            ],
+            "id": "54:e6:fc:f1:20:60",
+            "macs": "54:e6:fc:f1:20:60",
+            "name": "Stolpstrasse-17-pmde_ffbs2"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.26591,
+                10.54461
+            ],
+            "id": "64:66:b3:78:14:24",
+            "macs": "64:66:b3:78:14:24",
+            "name": "nussnode"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.143757,
+                11.0144
+            ],
+            "id": "e8:94:f6:2a:5c:3e",
+            "macs": "e8:94:f6:2a:5c:3e",
+            "name": "freifunk-wintermind"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.32433,
+                10.55723
+            ],
+            "id": "e8:94:f6:b9:4f:1a",
+            "macs": "e8:94:f6:b9:4f:1a",
+            "name": "JensNDS"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.155454,
+                10.324936
+            ],
+            "id": "e8:94:f6:52:29:f2",
+            "macs": "e8:94:f6:52:29:f2",
+            "name": "freifunk_interbusch"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.356976,
+                10.5890553
+            ],
+            "id": "64:66:b3:2f:0a:22",
+            "macs": "64:66:b3:2f:0a:22",
+            "name": "TL-WR841NDv8_DooM_02"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.38765,
+                10.74809
+            ],
+            "id": "e8:94:f6:6a:34:f2",
+            "macs": "e8:94:f6:6a:34:f2",
+            "name": "chrissidach_WOB_ZzZ"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-21-gcfe4858",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2385,
+                10.4903
+            ],
+            "id": "64:66:b3:4f:f7:80",
+            "macs": "64:66:b3:4f:f7:80",
+            "name": "Kocherstrasse"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.22115,
+                11.02449
+            ],
+            "id": "e8:94:f6:62:4c:6e",
+            "macs": "e8:94:f6:62:4c:6e",
+            "name": "MaJa-Freifunk"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.312058,
+                10.516155
+            ],
+            "id": "e8:94:f6:52:05:54",
+            "macs": "e8:94:f6:52:05:54",
+            "name": "unkreativ"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.27949,
+                10.51824
+            ],
+            "id": "e8:94:f6:52:06:ea",
+            "macs": "e8:94:f6:52:06:ea",
+            "name": "kssnrd"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.23596,
+                11.00092
+            ],
+            "id": "74:ea:3a:e4:f0:e8",
+            "macs": "74:ea:3a:e4:f0:e8",
+            "name": "Transversalwelle_West"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.23595,
+                11.00105
+            ],
+            "id": "e8:94:f6:f5:80:e8",
+            "macs": "e8:94:f6:f5:80:e8",
+            "name": "Mikrowellenresonator_Ost"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "gluon-v2014.2-32-ge831099",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.357013,
+                10.589023
+            ],
+            "id": "24:a4:3c:9e:2e:99",
+            "macs": "24:a4:3c:9e:2e:99",
+            "name": "Bullet_M2_DooM_01"
+        },
+        {
+            "clientcount": 3,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2785658,
+                10.5211247
+            ],
+            "id": "e8:94:f6:6a:34:c0",
+            "macs": "e8:94:f6:6a:34:c0",
+            "name": "stratum0-1"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.38765,
+                10.74812
+            ],
+            "id": "e8:94:f6:51:eb:90",
+            "macs": "e8:94:f6:51:eb:90",
+            "name": "chrissi_WOB_work"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.22816,
+                10.542775
+            ],
+            "id": "b0:48:7a:be:f4:40",
+            "macs": "b0:48:7a:be:f4:40",
+            "name": "Stolpstrasse-17-pmde_ffbs1"
+        }
+    ]
+}
