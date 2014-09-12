@@ -1,0 +1,305 @@
+{
+    "links": [
+        {
+            "id": "00:00:ff:fd:00:02-26:a4:3c:67:a7:64",
+            "quality": "1.000, 1.000",
+            "source": 3,
+            "target": 1,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:01-26:a4:3c:67:a7:64",
+            "quality": "1.000, 1.008",
+            "source": 5,
+            "target": 3,
+            "type": "vpn"
+        },
+        {
+            "id": "6a:72:51:10:ac:07-ea:94:f6:cd:43:05",
+            "quality": "1.500, 1.081",
+            "source": 6,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "00:00:ff:fd:00:02-ea:94:f6:53:65:06",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 1,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:01-ea:94:f6:53:65:06",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 2,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:02-ea:94:f6:ce:43:06",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 1,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:01-00:00:ff:fd:00:02",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 1,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:01-ea:94:f6:44:44:b0",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 4,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:01-ea:94:f6:ce:43:06",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 0,
+            "type": "vpn"
+        },
+        {
+            "id": "00:00:ff:fd:00:02-ea:94:f6:44:44:b0",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 1,
+            "type": "vpn"
+        }
+    ],
+    "meta": {
+        "timestamp": "2014-09-12T11:50:01"
+    },
+    "nodes": [
+        {
+            "clientcount": 0,
+            "firmware": "0.1",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                50.549620461788,
+                9.6760207414627
+            ],
+            "id": "e8:94:f6:cd:43:06",
+            "name": "fffd-e894f6cd4306"
+        },
+        {
+            "clientcount": 1,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:00:ff:fd:00:02",
+            "name": "fffd-gw2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.1",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                50.566617,
+                9.664092
+            ],
+            "id": "e8:94:f6:52:65:06",
+            "name": "niesig-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.4.1+0-exp20140901",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                50.552525,
+                9.672998
+            ],
+            "id": "24:a4:3c:66:a7:64",
+            "name": "fffd-Hexenturm"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.1",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                50.545945,
+                9.699469
+            ],
+            "id": "e8:94:f6:43:44:b0",
+            "name": "fffd-e894f64344b0"
+        },
+        {
+            "clientcount": 1,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:00:ff:fd:00:01",
+            "name": "fffd-gw1"
+        },
+        {
+            "clientcount": 2,
+            "firmware": "0.1",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                50.549620461788,
+                9.6760207414627
+            ],
+            "id": "68:72:51:10:ac:07",
+            "name": "FreifunkAltstadt1"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.14833160701,
+                8.861052989926
+            ],
+            "id": "e8:94:f6:29:77:de",
+            "name": "HotelWaldschlossHanau"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.14833160701,
+                8.861052989926
+            ],
+            "id": "e8:94:f6:40:ef:b2",
+            "name": "HotelWaldschlossHanau2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.54776,
+                9.674563
+            ],
+            "id": "e8:94:f6:78:7c:d6",
+            "name": "fffd-p7mX-00010001"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c0:4a:00:3d:dc:e2",
+            "name": "Jossgrund-01"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.552778,
+                9.677526
+            ],
+            "id": "e8:de:27:30:44:d2",
+            "name": "fffd-fooker-e8de273044d2"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.552778,
+                9.677526
+            ],
+            "id": "e8:de:27:30:44:0c",
+            "name": "fffd-fooker-e8de2730440c"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.552778,
+                9.677526
+            ],
+            "id": "e8:de:27:30:4f:62",
+            "name": "fffd-fooker-e8de27304f62"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.552778,
+                9.677526
+            ],
+            "id": "e8:de:27:30:44:06",
+            "name": "fffd-fooker-e8de27304406"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                50.552778,
+                9.677526
+            ],
+            "id": "e8:de:27:30:43:32",
+            "name": "fffd-fooker-e8de27304332"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "00:00:ff:fd:00:00",
+            "name": ""
+        }
+    ]
+}
