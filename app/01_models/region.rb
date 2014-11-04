@@ -2,13 +2,13 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
   ALL = [
     Region.new(:hamburg,      "Hamburg",         7, [53.50, 10.00], "http://graph.hamburg.freifunk.net/nodes.json",                   "FreifunkHH",       "http://hamburg.freifunk.net/"),
     Region.new(:jena,         "Jena",            9, [50.90, 11.60], "http://freifunk-jena.de/ffmap/nodes.json",                       "freifunkjena",     "http://freifunk-jena.de/"),
-    Region.new(:kiel,         "Kiel",            9, [54.30, 10.10], "http://freifunk.in-kiel.de/ffmap/nodes.json",                    "freifunkkiel",     "http://freifunk.in-kiel.de/"),
+    Region.new(:kiel,         "Kiel",            9, [54.30, 10.10], "http://map.freifunk.in-kiel.de/json/nodes.json",                 "ff_Kiel",          "http://freifunk.in-kiel.de/"),
     Region.new(:luebeck,      "Lübeck",          8, [53.80, 10.70], "http://luebeck.freifunk.net/map/nodes.json",                     "freifunkluebeck",  "http://freifunk.metameute.de/"),
     Region.new(:lueneburg,    "Lüneburg",        9, [53.24, 10.42], "http://freifunk-lueneburg.de/karte/nodes.json",                  "FreifunkLG",       "http://freifunk-lueneburg.de"),
     Region.new(:paderborn,    "Paderborn",       9, [51.70,  8.75], "http://map.paderborn.freifunk.net/nodes.json",                   "FreifunkPB",       "http://paderborn.freifunk.net/"),
     Region.new(:wuppertal,    "Wuppertal",       9, [51.20,  7.15], "http://map.freifunk-wuppertal.net/nodes.json",                   "ffwtal",           "http://freifunk-wuppertal.net/"),
     Region.new(:dresden,      "Dresden",         9, [51.08, 13.73], "http://info.freifunk-dresden.de/info/ios-app-freifunk.json",     "ddmesh",           "http://www.ddmesh.de/"),
-    Region.new(:leipzig,      "Leipzig",        10, [51.33, 12.33], "http://ffmap.leipzig.freifunk.net/nodes.json",                   "Freifunk_L",       "http://leipzig.freifunk.net/"),
+    # Region.new(:leipzig,      "Leipzig",        10, [51.33, 12.33], "http://ffmap.leipzig.freifunk.net/nodes.json",                   "Freifunk_L",       "http://leipzig.freifunk.net/"),
     Region.new(:magdeburg,    "Magdeburg",      11, [52.14, 11.65], "http://map.md.freifunk.net/nodes.json",                          "freifunkmd",       "http://md.freifunk.net"),
     Region.new(:guetersloh,   "Gütersloh",       9, [51.91,  8.38], "http://guetersloh.freifunk.net/map/nodes.json",                  "FreifunkGT",       "http://guetersloh.freifunk.net/"),
     Region.new(:bielefeld,    "Bielefeld",       9, [52.04,  8.53], "http://map.freifunk-bielefeld.de/nodes.json",                    "FreifunkBI",       "http://freifunk-bielefeld.quakente.net/"),
@@ -20,8 +20,8 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:braunschweig, "Braunschweig",   10, [52.27, 10.53], "http://freifunk-bs.de/nodes_compat.json",                        "freifunk_bs",      "http://freifunk-bs.de/"),
     Region.new(:fulda,        "Fulda",           9, [50.55,  9.68], "http://map.freifunk-fulda.de/nodes.json",                        "FreifunkFulda",    "http://freifunk-fulda.de/"),
     Region.new(:darmstadt,    "Darmstadt",      10, [49.87,  8.65], "http://map.freifunk-darmstadt.de/nodes.json",                    "freifunkda",       "http://darmstadt.freifunk.net"),
+    Region.new(:ff3l,         "Dreiländereck",   7, [47.58,  7.74], "http://gw2.freifunk-3laendereck.de/nodes.json",                  "Freifunk3L",       "http://freifunk-3laendereck.net"),
     Region.new(:mzwi,         "Mainz/Wiesbaden",11, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                        ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
-    Region.new(:ff3l,         "Dreiländereck (DE,FR,CH)",7, [47.58, 7.74], "http://map.freifunk-3laendereck.de/nodes.json",            "Freifunk3L",      "http://freifunk-3laendereck.net"),
   ]
 
   def self.all

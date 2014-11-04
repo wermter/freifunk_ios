@@ -1,0 +1,853 @@
+{
+    "links": [
+        {
+            "id": "88:e6:40:20:17:18-92:f6:52:fe:35:5a",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "6a:72:51:06:54:b9-ea:94:f6:90:88:f2",
+            "quality": "1.000, 1.071",
+            "source": 17,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:cd:b2:70-26:a4:3c:e4:c5:1f",
+            "quality": "1.114, 1.062",
+            "source": 2,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "88:e6:40:20:17:18-ea:de:27:f4:20:f2",
+            "quality": "1.000, 1.000",
+            "source": 23,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:18-ea:94:f6:ce:53:18",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:2c:74:04-88:e6:40:20:17:17",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-ea:de:27:bc:70:a0",
+            "quality": "1.000, 1.000",
+            "source": 18,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:e4:c5:1f-26:a4:3c:e4:c5:2e",
+            "quality": "1.250, 1.090",
+            "source": 24,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:cd:b2:70-ea:94:f6:a2:18:06",
+            "quality": "1.054, 1.000",
+            "source": 2,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:a8:58:56-26:a4:3c:e4:c5:2e",
+            "quality": "1.000, 1.214",
+            "source": 24,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:ce:b2:70-88:e6:40:20:17:18",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:33:87:65-ea:94:f6:a2:18:06",
+            "quality": "1.109",
+            "source": 10,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "88:e6:40:20:17:18-ea:94:f6:91:88:d0",
+            "quality": "1.000, 1.000",
+            "source": 16,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-c2:4a:00:0c:d4:22",
+            "quality": "1.000, 1.000",
+            "source": 22,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "6a:72:51:06:54:b9-ea:94:f6:78:cb:20",
+            "quality": "1.062, 1.164",
+            "source": 21,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "88:e6:40:20:17:17-ea:94:f6:91:88:d0",
+            "quality": "1.000, 1.000",
+            "source": 16,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-92:f6:52:b5:29:c0",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:19-92:f6:52:fe:35:5a",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 7,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-92:f6:52:fe:35:5a",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:cd:b2:70-ea:94:f6:33:87:65",
+            "quality": "1.028, 1.000",
+            "source": 2,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:78:cb:20-ea:94:f6:90:88:f2",
+            "quality": "1.016, 1.133",
+            "source": 21,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "6a:72:51:06:54:b9-ea:94:f6:cd:34:91",
+            "quality": "1.049",
+            "source": 0,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:2c:74:04-88:e6:40:20:17:18",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "92:f6:52:b4:29:c0-ea:de:27:7f:cf:42",
+            "quality": "1.000, 1.071",
+            "source": 4,
+            "target": 12,
+            "type": null
+        },
+        {
+            "id": "88:e6:40:20:17:18-ea:94:f6:ce:34:92",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-ea:94:f6:ce:34:92",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-ea:94:f6:ce:53:18",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:79:23:32-88:e6:40:20:17:17",
+            "quality": "1.000, 1.000",
+            "source": 15,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:79:23:32-88:e6:40:20:17:19",
+            "quality": "1.000, 1.000",
+            "source": 15,
+            "target": 7,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:79:23:32-88:e6:40:20:17:18",
+            "quality": "1.000, 1.000",
+            "source": 15,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-88:e6:40:20:17:19",
+            "quality": "1.000, 1.000",
+            "source": 7,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-88:e6:40:20:17:18",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:17-ea:94:f6:ce:4f:30",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:90:88:f2-ea:94:f6:cd:34:91",
+            "quality": "1.032, 1.000",
+            "source": 17,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "88:e6:40:20:17:17-a2:f3:c1:85:cb:7a",
+            "quality": "1.000, 1.000",
+            "source": 19,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:18-88:e6:40:20:17:19",
+            "quality": "1.000, 1.000",
+            "source": 7,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:e4:c5:1f-ea:94:f6:a2:18:06",
+            "quality": "1.041",
+            "source": 1,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:e4:c5:1f-ea:94:f6:33:87:65",
+            "quality": "1.004, 1.175",
+            "source": 1,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "88:e6:40:20:17:17-ea:de:27:f4:20:f2",
+            "quality": "1.000, 1.000",
+            "source": 23,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:e5:c5:1f-88:e6:40:20:17:17",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:e5:c5:1f-88:e6:40:20:17:18",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:e5:c5:1f-88:e6:40:20:17:19",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 7,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:a9:58:56-88:e6:40:20:17:17",
+            "quality": "1.000, 1.000",
+            "source": 3,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:18-ea:de:27:bc:70:a0",
+            "quality": "1.000, 1.000",
+            "source": 18,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:18-92:f6:52:b5:29:c0",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:a9:58:56-88:e6:40:20:17:18",
+            "quality": "1.000, 1.000",
+            "source": 3,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:18-a2:f3:c1:85:cb:7a",
+            "quality": "1.000, 1.000",
+            "source": 19,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "88:e6:40:20:17:18-c2:4a:00:0c:d4:22",
+            "quality": "1.000, 1.000",
+            "source": 22,
+            "target": 6,
+            "type": "vpn"
+        }
+    ],
+    "meta": {
+        "timestamp": "2014-11-04T14:01:01"
+    },
+    "nodes": [
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.60116,
+                7.65722
+            ],
+            "id": "e8:94:f6:cd:34:92",
+            "macs": "ea:94:f6:ce:34:92, ea:94:f6:cd:34:91, e8:94:f6:cd:34:92",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "freifunk-e894f6cd3492"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": "0.6~exp20140814",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.565408,
+                7.7848327
+            ],
+            "id": "24:a4:3c:e4:c5:1f",
+            "macs": "26:a4:3c:e4:c5:1f, 24:a4:3c:e4:c5:1f, 26:a4:3c:e5:c5:1f",
+            "model": "Ubiquiti Nanostation M",
+            "name": "freifunk-24a43ce4c51f"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 4,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.565416,
+                7.78526
+            ],
+            "id": "10:fe:ed:cd:b2:70",
+            "macs": "48:60:bc:3f:f1:8d, d0:23:db:de:11:49, 12:fe:ed:cd:b2:70, 00:0c:29:fd:07:74, 10:fe:ed:cd:b2:70, 12:fe:ed:ce:b2:70, 00:0c:29:5d:3c:4c",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "freifunk-10feedcdb270"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 3,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.563421,
+                7.777644
+            ],
+            "id": "10:fe:ed:a8:58:56",
+            "macs": "70:de:e2:a0:c7:56, 12:fe:ed:a8:58:56, 24:db:ed:da:51:fc, 10:fe:ed:a8:58:56, 12:fe:ed:a9:58:56, 84:7a:88:69:37:36",
+            "model": "TP-Link TL-WR741N/ND v4",
+            "name": "freifunk-fecampring"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 4,
+            "firmware": "0.6~exp20140814",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.5965095,
+                8.0605343
+            ],
+            "id": "90:f6:52:b4:29:c0",
+            "macs": "b8:27:eb:a8:ca:f7, 90:f6:52:b4:29:c0, 30:75:12:a8:c3:aa, b8:27:eb:ea:94:e2, 92:f6:52:b5:29:c0, 30:3a:64:4f:ce:f5, 92:f6:52:b4:29:c0",
+            "model": "TP-Link TL-WR1043N/ND v1",
+            "name": "freifunk-rotzel"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:e6:40:20:17:17",
+            "macs": "88:e6:40:20:17:17, 7a:e9:0a:a4:fe:81",
+            "model": null,
+            "name": "Gateway Weil am Rhein"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:e6:40:20:17:18",
+            "macs": "a2:a6:2a:29:31:03, 88:e6:40:20:17:18",
+            "model": null,
+            "name": "Gateway Rheinfelden"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:e6:40:20:17:19",
+            "macs": "88:e6:40:20:17:19, ae:83:3c:76:be:4a",
+            "model": null,
+            "name": "Gateway Schopfheim"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 1,
+            "firmware": "0.6~exp20140811",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.59188,
+                7.63765
+            ],
+            "id": "10:fe:ed:2b:74:04",
+            "macs": "f0:25:b7:b2:00:8e, 10:fe:ed:2b:74:04, 12:fe:ed:2c:74:04",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "freifunk-10feed2b7404"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 3,
+            "firmware": "Q3.10.14.BL-exp20141019",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.5491197,
+                7.4750617
+            ],
+            "id": "90:f6:52:fd:35:5a",
+            "macs": "00:21:86:2c:04:c6, 92:f6:52:fe:35:5a, dc:85:de:5b:c3:63, 5c:f8:a1:cd:57:26, 90:f6:52:fd:35:5a",
+            "model": "TP-Link TL-WR1043N/ND v1",
+            "name": "freifunk-90f652fd355a"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.56416,
+                7.78497
+            ],
+            "id": "e8:94:f6:33:87:66",
+            "macs": "e8:94:f6:33:87:66, ea:94:f6:33:87:65",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "freifunk-lorenz-it"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 1,
+            "firmware": "0.6~exp20140814",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.58907,
+                7.63151
+            ],
+            "id": "e8:94:f6:cd:4f:30",
+            "macs": "e8:94:f6:cd:4f:30, ea:94:f6:ce:4f:30, b8:27:eb:95:ff:cf",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "freifunk-schutzacker"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 1,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:de:27:7f:cf:42",
+            "macs": "20:7d:74:8c:f3:75, e8:de:27:7f:cf:42, ea:de:27:7f:cf:42",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e8de277fcf42"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "68:72:51:06:54:b9",
+            "macs": "6a:72:51:06:54:b9, 68:72:51:06:54:b9",
+            "model": "Ubiquiti Nanostation M",
+            "name": "freifunk-6872510654b9"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 1,
+            "firmware": "0.6~exp20140814",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:a2:18:06",
+            "macs": "90:b9:31:c3:e6:a3, ea:94:f6:a2:18:06, e8:94:f6:a2:18:06",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "freifunk-e894f6a21806"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.65229,
+                7.83034
+            ],
+            "id": "10:fe:ed:78:23:32",
+            "macs": "10:fe:ed:78:23:32, 12:fe:ed:79:23:32",
+            "model": "TP-Link TL-WR1043N/ND v1",
+            "name": "freifunk-de-bl00-1"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.64419,
+                7.6915
+            ],
+            "id": "e8:94:f6:90:88:d0",
+            "macs": "ea:94:f6:91:88:d0, e8:94:f6:90:88:d0",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e894f69088d0"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.60116,
+                7.65722
+            ],
+            "id": "e8:94:f6:90:88:f2",
+            "macs": "ea:94:f6:90:88:f2, e8:94:f6:90:88:f2",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e894f69088f2"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.554825,
+                7.66071
+            ],
+            "id": "e8:de:27:bb:70:a0",
+            "macs": "e8:de:27:bb:70:a0, ea:de:27:bc:70:a0",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e8de27bb70a0"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": "0.6~exp20140814",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.569514,
+                7.592619
+            ],
+            "id": "a0:f3:c1:84:cb:7a",
+            "macs": "a2:f3:c1:85:cb:7a, a0:f3:c1:84:cb:7a",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "freifunk-a0f3c184cb7a"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.59309,
+                7.61485
+            ],
+            "id": "e8:94:f6:cd:53:18",
+            "macs": "ea:94:f6:ce:53:18, e8:94:f6:cd:53:18",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "freifunk-e894f6cd5318"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.60116,
+                7.65722
+            ],
+            "id": "e8:94:f6:78:cb:20",
+            "macs": "ea:94:f6:78:cb:20, e8:94:f6:78:cb:20",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e894f678cb20"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 0,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.55575,
+                7.94186
+            ],
+            "id": "c0:4a:00:0b:d4:22",
+            "macs": "c2:4a:00:0c:d4:22, c0:4a:00:0b:d4:22",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-c04a000bd422"
+        },
+        {
+            "autoupdate": true,
+            "clientcount": 1,
+            "firmware": "0.6~exp20141004",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.59223,
+                7.61285
+            ],
+            "id": "e8:de:27:f3:20:f2",
+            "macs": "10:a5:d0:22:8f:d0, e8:de:27:f3:20:f2, ea:de:27:f4:20:f2",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e8de27f320f2"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": "0.6~exp20140814",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                47.563492,
+                7.777559
+            ],
+            "id": "24:a4:3c:e4:c5:2e",
+            "macs": "24:a4:3c:e4:c5:2e, 26:a4:3c:e4:c5:2e",
+            "model": "Ubiquiti Nanostation M",
+            "name": "freifunk-24a43ce4c52e"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:de:27:7f:ce:56",
+            "macs": "",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e8de277fce56"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                47.56860342,
+                7.5786835
+            ],
+            "id": "64:66:b3:2e:c1:da",
+            "macs": "",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "freifunk-6466b32ec1da"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:a4:83:64",
+            "macs": "",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e894f6a48364"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:de:27:bb:c8:4c",
+            "macs": "",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "freifunk-e8de27bbc84c"
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "ea:de:27:7f:cf:42",
+            "macs": "",
+            "model": null,
+            "name": ""
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "be:e7:e7:e7:e2:9e",
+            "macs": "",
+            "model": null,
+            "name": ""
+        },
+        {
+            "autoupdate": false,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "aa:2e:81:48:e4:f7",
+            "macs": "",
+            "model": null,
+            "name": ""
+        }
+    ]
+}

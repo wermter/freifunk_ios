@@ -35,12 +35,12 @@
                 "online": false
             },
             "geo": [
-                51.0242538,
-                13.7966345
+                51.065649,
+                13.758367
             ],
-            "id": "r115",
+            "id": "r1028",
             "macs": "",
-            "name": "r115"
+            "name": "r1028"
         },
         {
             "flags": {
@@ -52,23 +52,9 @@
                 51.107293,
                 13.9154834
             ],
-            "id": "r116",
+            "id": "r1016",
             "macs": "",
-            "name": "r116"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.065649,
-                13.758367
-            ],
-            "id": "r1028",
-            "macs": "",
-            "name": "r1028"
+            "name": "r1016"
         },
         {
             "flags": {
@@ -172,15 +158,29 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
-                51.0471661,
-                13.7470897
+                51.16011,
+                13.473476
             ],
-            "id": "r150",
+            "id": "r1009",
             "macs": "",
-            "name": "r150"
+            "name": "r1009"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                48.61395642058001,
+                8.842288255691528
+            ],
+            "id": "r1010",
+            "macs": "",
+            "name": "r1010"
         },
         {
             "flags": {
@@ -203,12 +203,26 @@
                 "online": true
             },
             "geo": [
-                51.056823,
-                13.761468
+                51.063316,
+                13.757663
             ],
             "id": "r131",
             "macs": "",
             "name": "r131"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.0339107,
+                13.642679
+            ],
+            "id": "r1019",
+            "macs": "",
+            "name": "r1019"
         },
         {
             "flags": {
@@ -223,20 +237,6 @@
             "id": "r128",
             "macs": "",
             "name": "r128"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.068758,
-                13.740242
-            ],
-            "id": "r174",
-            "macs": "",
-            "name": "r174"
         },
         {
             "flags": {
@@ -273,20 +273,6 @@
                 "online": true
             },
             "geo": [
-                51.037057,
-                13.7888
-            ],
-            "id": "r130",
-            "macs": "",
-            "name": "r130"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
                 51.057493,
                 13.711167
             ],
@@ -307,20 +293,6 @@
             "id": "r162",
             "macs": "",
             "name": "r162"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                51.08829532,
-                13.73297989
-            ],
-            "id": "r123",
-            "macs": "",
-            "name": "r123"
         },
         {
             "flags": {
@@ -360,9 +332,9 @@
                 51.107293,
                 13.9154834
             ],
-            "id": "r104",
+            "id": "r1021",
             "macs": "",
-            "name": "r104"
+            "name": "r1021"
         },
         {
             "flags": {
@@ -483,6 +455,20 @@
                 "online": true
             },
             "geo": [
+                51.125263,
+                13.59141
+            ],
+            "id": "r1027",
+            "macs": "",
+            "name": "r1027"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
                 51.109847,
                 13.91918
             ],
@@ -497,8 +483,8 @@
                 "online": true
             },
             "geo": [
-                51.031233,
-                13.731877
+                51.03123,
+                13.731886
             ],
             "id": "r103",
             "macs": "",
@@ -521,16 +507,16 @@
         {
             "flags": {
                 "client": false,
-                "gateway": true,
+                "gateway": false,
                 "online": true
             },
             "geo": [
-                51.037053,
-                13.788802
+                51.0339107,
+                13.642679
             ],
-            "id": "r164",
+            "id": "r1031",
             "macs": "",
-            "name": "r164"
+            "name": "r1031"
         },
         {
             "flags": {
@@ -553,12 +539,40 @@
                 "online": true
             },
             "geo": [
-                51.107293,
-                13.9154834
+                51.07134,
+                13.73703
             ],
-            "id": "r118",
+            "id": "r1005",
             "macs": "",
-            "name": "r118"
+            "name": "r1005"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.074691,
+                13.749067
+            ],
+            "id": "r1029",
+            "macs": "",
+            "name": "r1029"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.08829532,
+                13.73297989
+            ],
+            "id": "r1026",
+            "macs": "",
+            "name": "r1026"
         },
         {
             "flags": {
@@ -609,6 +623,20 @@
                 "online": true
             },
             "geo": [
+                51.07057,
+                13.75706
+            ],
+            "id": "r1013",
+            "macs": "",
+            "name": "r1013"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
                 51.063609,
                 13.759153
             ],
@@ -623,18 +651,32 @@
                 "online": true
             },
             "geo": [
-                51.037074,
-                13.788781
+                48.61395642058001,
+                8.842288255691528
             ],
-            "id": "r133",
+            "id": "r1011",
             "macs": "",
-            "name": "r133"
+            "name": "r1011"
         },
         {
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": false
+            },
+            "geo": [
+                51.0339107,
+                13.642679
+            ],
+            "id": "r1017",
+            "macs": "",
+            "name": "r1017"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
             },
             "geo": [
                 51.156352,
@@ -662,6 +704,20 @@
             "flags": {
                 "client": false,
                 "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.037081,
+                13.78877
+            ],
+            "id": "r1002",
+            "macs": "",
+            "name": "r1002"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
                 "online": true
             },
             "geo": [
@@ -676,7 +732,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": true
+                "online": false
             },
             "geo": [
                 51.0097,
@@ -685,6 +741,34 @@
             "id": "r139",
             "macs": "",
             "name": "r139"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.0339107,
+                13.642679
+            ],
+            "id": "r1033",
+            "macs": "",
+            "name": "r1033"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.10607,
+                13.65854
+            ],
+            "id": "r1014",
+            "macs": "",
+            "name": "r1014"
         },
         {
             "flags": {
@@ -703,16 +787,16 @@
         {
             "flags": {
                 "client": false,
-                "gateway": true,
+                "gateway": false,
                 "online": true
             },
             "geo": [
-                51.0339107,
-                13.642679
+                51.15618,
+                13.455355
             ],
-            "id": "r1029",
+            "id": "r147",
             "macs": "",
-            "name": "r1029"
+            "name": "r147"
         },
         {
             "flags": {
@@ -721,8 +805,78 @@
                 "online": true
             },
             "geo": [
-                51.0339107,
-                13.642679
+                51.159996,
+                13.470783
+            ],
+            "id": "r1007",
+            "macs": "",
+            "name": "r1007"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.107293,
+                13.9154834
+            ],
+            "id": "r1020",
+            "macs": "",
+            "name": "r1020"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.037057,
+                13.7888
+            ],
+            "id": "r1008",
+            "macs": "",
+            "name": "r1008"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.037041,
+                13.788854
+            ],
+            "id": "r1012",
+            "macs": "",
+            "name": "r1012"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                51.037053,
+                13.788802
+            ],
+            "id": "r1003",
+            "macs": "",
+            "name": "r1003"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.03599,
+                13.73598
             ],
             "id": "r1001",
             "macs": "",

@@ -1,8 +1,12 @@
 {
+    "links": [],
+    "meta": {
+        "timestamp": "2014-11-04T14:01:39.352410"
+    },
     "nodes": [
         {
-            "clientcount": 1,
-            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -16,7 +20,7 @@
             "name": "purgatorium"
         },
         {
-            "clientcount": 3,
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -47,7 +51,7 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
                 "online": true
@@ -61,7 +65,64 @@
             "name": "Willy--Linus"
         },
         {
-            "clientcount": 1,
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.231740052614,
+                10.547400712967
+            ],
+            "id": "e8:de:27:d6:11:f4",
+            "macs": "e8:de:27:d6:11:f4",
+            "name": "HSC-Leu_Freifunk"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2341888083,
+                10.530341863632
+            ],
+            "id": "e8:de:27:d6:18:a0",
+            "macs": "e8:de:27:d6:18:a0",
+            "name": "Biogreen"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:de:27:55:a2:56",
+            "macs": "e8:de:27:55:a2:56",
+            "name": "TL-WR841N_DooM_01"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.250768,
+                10.483054
+            ],
+            "id": "e8:de:27:d5:e4:0a",
+            "macs": "e8:de:27:d5:e4:0a",
+            "name": "Piratenpartei-Braunschweig"
+        },
+        {
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -76,7 +137,7 @@
             "name": "TL-WR841NDv8_DooM_01"
         },
         {
-            "clientcount": 2,
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -98,16 +159,31 @@
                 "online": true
             },
             "geo": [
-                52.27073,
-                10.52343
+                52.270685,
+                10.523255
             ],
             "id": "e8:94:f6:2a:5d:ac",
             "macs": "e8:94:f6:2a:5d:ac",
-            "name": "freifunk-gecko"
+            "name": "freufunk-gecko"
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2451,
+                10.5394
+            ],
+            "id": "e8:de:27:d5:e2:c6",
+            "macs": "e8:de:27:d5:e2:c6",
+            "name": "freifunk-e8de27d5e2c6"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -143,15 +219,87 @@
                 "online": true
             },
             "geo": [
-                52.27896824949,
-                10.557797350164
+                52.273340683093,
+                10.524961352348
             ],
             "id": "00:0D:B9:1B:54:B1",
             "macs": "00:0D:B9:1B:54:B1",
             "name": "FFBSIBR1"
         },
         {
-            "clientcount": 0,
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.27335,
+                10.5334
+            ],
+            "id": "e8:de:27:55:a1:94",
+            "macs": "e8:de:27:55:a1:94",
+            "name": "nv-bdizc-1"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.25384,
+                10.51223
+            ],
+            "id": "e8:de:27:d5:e3:5a",
+            "macs": "e8:de:27:d5:e3:5a",
+            "name": "ponyville"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:de:27:d5:e0:4c",
+            "macs": "e8:de:27:d5:e0:4c",
+            "name": "freifunk-Karlstr"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.26696,
+                10.54748
+            ],
+            "id": "c4:6e:1f:42:0d:ea",
+            "macs": "c4:6e:1f:42:0d:ea",
+            "name": "freifunk-justeazy"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                50.3542947,
+                7.9521465
+            ],
+            "id": "e8:94:f6:4a:d9:06",
+            "macs": "e8:94:f6:4a:d9:06",
+            "name": "freifunk-langenscheid-01"
+        },
+        {
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -167,6 +315,30 @@
         },
         {
             "clientcount": null,
+            "firmware": "gluon-v2014.1-76-g16230f7",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:51:f8:3a",
+            "macs": "e8:94:f6:51:f8:3a",
+            "name": "bw_knoten"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:eb:61:a2",
+            "macs": "10:fe:ed:eb:61:a2",
+            "name": "MeschNode-BS2"
+        },
+        {
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -179,6 +351,36 @@
             "id": "e8:94:f6:52:06:7a",
             "macs": "e8:94:f6:52:06:7a",
             "name": "freifunk-3p4o6n2i5e6s3"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.269098,
+                10.540692
+            ],
+            "id": "e8:94:f6:51:fc:08",
+            "macs": "e8:94:f6:51:fc:08",
+            "name": "bayan"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.1664,
+                10.31883
+            ],
+            "id": "e8:de:27:d5:e4:76",
+            "macs": "e8:de:27:d5:e4:76",
+            "name": "freifunk-e8de27d5e476"
         },
         {
             "clientcount": null,
@@ -212,7 +414,7 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -232,32 +434,14 @@
                 "client": false,
                 "online": true
             },
-            "geo": [
-                52.228153,
-                10.542734
-            ],
-            "id": "54:e6:fc:f1:20:60",
-            "macs": "54:e6:fc:f1:20:60",
-            "name": "Stolpstrasse-17-pmde_ffbs2"
+            "geo": null,
+            "id": "e8:de:27:55:a2:5e",
+            "macs": "e8:de:27:55:a2:5e",
+            "name": "freifunk-bs-wanderknoten-008"
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-33-gd9f1e7a",
-            "flags": {
-                "client": false,
-                "online": true
-            },
-            "geo": [
-                52.143757,
-                11.0144
-            ],
-            "id": "e8:94:f6:2a:5c:3e",
-            "macs": "e8:94:f6:2a:5c:3e",
-            "name": "freifunk-wintermind"
-        },
-        {
-            "clientcount": null,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -278,6 +462,21 @@
                 "online": true
             },
             "geo": [
+                52.243802,
+                11.000308
+            ],
+            "id": "e8:94:f6:2a:5c:3e",
+            "macs": "e8:94:f6:2a:5c:3e",
+            "name": "freifunk-wintermind"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.32433,
                 10.55723
             ],
@@ -286,23 +485,35 @@
             "name": "Waggum"
         },
         {
-            "clientcount": 0,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
             },
             "geo": [
-                52.356976,
-                10.5890553
+                52.155454,
+                10.324936
             ],
-            "id": "64:66:b3:2f:0a:22",
-            "macs": "64:66:b3:2f:0a:22",
-            "name": "TL-WR841NDv8_DooM_02"
+            "id": "e8:94:f6:52:29:f2",
+            "macs": "e8:94:f6:52:29:f2",
+            "name": "freifunk_interbusch"
         },
         {
             "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:2f:19:78",
+            "macs": "64:66:b3:2f:19:78",
+            "name": "freifunk-jfk-south"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -317,18 +528,33 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-21-gcfe4858",
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
                 "online": true
             },
             "geo": [
-                52.2385,
-                10.4903
+                50.354295,
+                7.9521465
+            ],
+            "id": "c0:4a:00:0b:ca:64",
+            "macs": "c0:4a:00:0b:ca:64",
+            "name": "freifunk-nueneun"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2386,
+                10.49
             ],
             "id": "64:66:b3:4f:f7:80",
             "macs": "64:66:b3:4f:f7:80",
-            "name": "Kocherstrasse"
+            "name": "Kocherstrasse1"
         },
         {
             "clientcount": null,
@@ -338,12 +564,12 @@
                 "online": true
             },
             "geo": [
-                52.286231,
-                10.530516
+                52.2733882,
+                10.5383275
             ],
-            "id": "c0:4a:00:0b:ca:58",
-            "macs": "c0:4a:00:0b:ca:58",
-            "name": "flying-cat-ball"
+            "id": "e8:94:f6:52:07:02",
+            "macs": "e8:94:f6:52:07:02",
+            "name": "PeterFunk"
         },
         {
             "clientcount": null,
@@ -352,16 +578,13 @@
                 "client": false,
                 "online": true
             },
-            "geo": [
-                52.3834456,
-                10.5355117
-            ],
-            "id": "e8:94:f6:2a:5b:bc",
-            "macs": "e8:94:f6:2a:5b:bc",
-            "name": "Der_Frisuren_Keller_Baake"
+            "geo": null,
+            "id": "e8:de:27:55:a2:9e",
+            "macs": "e8:de:27:55:a2:9e",
+            "name": "freifunk-bs-wanderknoten-007"
         },
         {
-            "clientcount": 0,
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -374,6 +597,21 @@
             "id": "e8:94:f6:29:84:1e",
             "macs": "e8:94:f6:29:84:1e",
             "name": "Flower-Power"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.312058,
+                10.516155
+            ],
+            "id": "e8:94:f6:52:05:54",
+            "macs": "e8:94:f6:52:05:54",
+            "name": "unkreativ"
         },
         {
             "clientcount": null,
@@ -398,12 +636,12 @@
                 "online": true
             },
             "geo": [
-                52.312058,
-                10.516155
+                52.27896824949,
+                10.557797350164
             ],
-            "id": "e8:94:f6:52:05:54",
-            "macs": "e8:94:f6:52:05:54",
-            "name": "unkreativ"
+            "id": "68:72:51:06:50:59",
+            "macs": "68:72:51:06:50:59",
+            "name": "FarpointStation"
         },
         {
             "clientcount": null,
@@ -436,7 +674,34 @@
             "name": "nv-bdizc"
         },
         {
-            "clientcount": 0,
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.28509,
+                10.451507
+            ],
+            "id": "74:ea:3a:e4:3b:3a",
+            "macs": "74:ea:3a:e4:3b:3a",
+            "name": "Leuschnerstr-pmde_ffbs6"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:de:27:d5:e4:66",
+            "macs": "e8:de:27:d5:e4:66",
+            "name": "no_node_left_behind"
+        },
+        {
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -451,7 +716,34 @@
             "name": "kssnrd"
         },
         {
-            "clientcount": 2,
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.274151,
+                10.40639
+            ],
+            "id": "e8:de:27:55:a2:8c",
+            "macs": "e8:de:27:55:a2:8c",
+            "name": "freifunk-wedtlenstedt"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:7a:3d:6e",
+            "macs": "10:fe:ed:7a:3d:6e",
+            "name": "MeschNode-BS3"
+        },
+        {
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -466,7 +758,7 @@
             "name": "Transversalwelle_West"
         },
         {
-            "clientcount": 0,
+            "clientcount": null,
             "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
@@ -482,7 +774,7 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -496,8 +788,8 @@
             "name": "TL-WDR3600v1_DooM_02"
         },
         {
-            "clientcount": 1,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
                 "online": true
@@ -511,8 +803,8 @@
             "name": "Bullet_M2_DooM_01"
         },
         {
-            "clientcount": 1,
-            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-174-g34c9453",
             "flags": {
                 "client": false,
                 "online": true
@@ -533,6 +825,21 @@
                 "online": true
             },
             "geo": [
+                52.263987198412,
+                10.525376200567
+            ],
+            "id": "e8:de:27:d6:11:00",
+            "macs": "e8:de:27:d6:11:00",
+            "name": "Chateau_Freifunk"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-174-g34c9453",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.38765,
                 10.74812
             ],
@@ -542,7 +849,7 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "firmware": "gluon-v2014.2-175-g34f464c",
             "flags": {
                 "client": false,
                 "online": true
@@ -557,7 +864,7 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-32-ge831099",
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
             "flags": {
                 "client": false,
                 "online": true
@@ -569,6 +876,21 @@
             "id": "64:66:b3:2f:1a:2a",
             "macs": "64:66:b3:2f:1a:2a",
             "name": "Uhlandstra\u00dfe"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-33-gd9f1e7a",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.22312,
+                11.02393
+            ],
+            "id": "e8:de:27:55:a1:70",
+            "macs": "e8:de:27:55:a1:70",
+            "name": "freifunk-dgf"
         }
     ]
 }
