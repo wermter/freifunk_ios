@@ -18,7 +18,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": true
+                "online": false
             },
             "geo": [
                 51.06588,
@@ -424,7 +424,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": true
+                "online": false
             },
             "geo": [
                 51.033189,
@@ -550,7 +550,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
                 51.074691,
@@ -805,12 +805,40 @@
                 "online": true
             },
             "geo": [
+                51.037081,
+                13.78877
+            ],
+            "id": "r1035",
+            "macs": "",
+            "name": "r1035"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
                 51.159996,
                 13.470783
             ],
             "id": "r1007",
             "macs": "",
             "name": "r1007"
+        },
+        {
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.037041,
+                13.788854
+            ],
+            "id": "r1034",
+            "macs": "",
+            "name": "r1034"
         },
         {
             "flags": {
@@ -844,7 +872,7 @@
             "flags": {
                 "client": false,
                 "gateway": false,
-                "online": true
+                "online": false
             },
             "geo": [
                 51.037041,
@@ -857,8 +885,8 @@
         {
             "flags": {
                 "client": false,
-                "gateway": false,
-                "online": false
+                "gateway": true,
+                "online": true
             },
             "geo": [
                 51.037053,

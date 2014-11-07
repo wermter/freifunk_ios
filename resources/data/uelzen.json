@@ -1,0 +1,3049 @@
+{
+    "links": [
+        {
+            "id": "98:0d:2e:a9:a9:fb-ea:94:f6:52:89:6c",
+            "quality": "TT",
+            "source": 1,
+            "target": 27,
+            "type": "client"
+        },
+        {
+            "id": "ea:de:27:b2:ee:e8-ec:cb:30:91:62:73",
+            "quality": "TT",
+            "source": 78,
+            "target": 82,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-fa:1a:67:88:3c:3d",
+            "quality": "1.000, 1.000",
+            "source": 53,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "20:64:32:b0:9f:c0-ea:de:27:b2:ee:e8",
+            "quality": "TT",
+            "source": 78,
+            "target": 79,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:de:27:59:9c:36",
+            "quality": "1.000, 1.000",
+            "source": 56,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a7:3d:7a:c2:36-6a:75:52:06:4d:ac",
+            "quality": "1.425, 1.500",
+            "source": 8,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:cd:6e:17-fa:1a:67:f9:93:2e",
+            "quality": "1.085, 1.008",
+            "source": 4,
+            "target": 33,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:cd:6c:1d-ea:de:27:b2:ee:e8",
+            "quality": "1.314, 1.250",
+            "source": 78,
+            "target": 10,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:63:cf:94-cc:3a:61:49:8b:80",
+            "quality": "TT",
+            "source": 68,
+            "target": 69,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-a2:f4:c1:5e:cb:da",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:b7:80:2a",
+            "quality": "1.000, 1.000",
+            "source": 57,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "06:18:d6:68:66:55-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 88,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "66:67:b3:e8:3a:1f-68:72:51:07:4d:ac",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-a2:f4:c1:49:2a:e8",
+            "quality": "1.000, 1.000",
+            "source": 5,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "66:66:b3:17:4b:3a-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.037",
+            "source": 51,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:52:89:6c",
+            "quality": "1.032, 1.000",
+            "source": 30,
+            "target": 1,
+            "type": "vpn"
+        },
+        {
+            "id": "66:69:b5:e8:3a:1f-a2:f6:c2:5e:cb:da",
+            "quality": "1.321, 1.012",
+            "source": 9,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:51:89:6c-ea:94:f6:cd:66:2f",
+            "quality": "2.257, 4.474",
+            "source": 77,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "24:69:a5:a3:fe:d5-fa:1a:67:fa:91:de",
+            "quality": "TT",
+            "source": 43,
+            "target": 44,
+            "type": "client"
+        },
+        {
+            "id": "60:be:b5:30:4c:09-ea:de:27:56:45:7c",
+            "quality": "TT",
+            "source": 19,
+            "target": 23,
+            "type": "client"
+        },
+        {
+            "id": "c2:4a:00:05:70:8a-ea:94:f6:40:71:78",
+            "quality": "1.032, 1.045",
+            "source": 67,
+            "target": 2,
+            "type": null
+        },
+        {
+            "id": "ea:de:27:56:45:7c-f0:27:65:5c:35:bd",
+            "quality": "TT",
+            "source": 19,
+            "target": 20,
+            "type": "client"
+        },
+        {
+            "id": "34:23:ba:fc:6a:5d-ea:de:27:b2:ee:e8",
+            "quality": "TT",
+            "source": 78,
+            "target": 80,
+            "type": "client"
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-66:67:b3:e8:3a:1f",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:43:89-fa:1e:67:a6:05:cf",
+            "quality": "1.000, 1.000",
+            "source": 3,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:ce:d6:50",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 17,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:63:cf:94-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 68,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:40:70:e2-ea:94:f6:40:71:78",
+            "quality": "1.000, 1.016",
+            "source": 2,
+            "target": 34,
+            "type": null
+        },
+        {
+            "id": "66:67:b3:e8:3a:1f-a2:f4:c1:49:2a:e8",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "0c:14:20:43:8d:54-26:a4:3c:d9:92:df",
+            "quality": "TT",
+            "source": 12,
+            "target": 84,
+            "type": "client"
+        },
+        {
+            "id": "c2:4e:00:a4:25:7c-de:ad:be:ef:43:89",
+            "quality": "1.104, 1.000",
+            "source": 45,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "20:68:9d:26:7d:89-26:a7:3d:7a:c2:36",
+            "quality": "TT",
+            "source": 0,
+            "target": 26,
+            "type": "client"
+        },
+        {
+            "id": "78:fd:94:8e:97:98-ea:94:f6:40:70:e2",
+            "quality": "TT",
+            "source": 34,
+            "target": 35,
+            "type": "client"
+        },
+        {
+            "id": "66:70:02:65:b4:46-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 32,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9c:2a:3e-40:6f:2a:fa:41:40",
+            "quality": "TT",
+            "source": 74,
+            "target": 76,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:d9:92:df-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "66:69:b5:e8:3a:1f-6a:75:52:06:4d:ac",
+            "quality": "1.747",
+            "source": 9,
+            "target": 8,
+            "type": null
+        },
+        {
+            "id": "68:72:51:07:4d:ac-c0:9f:42:9d:65:ec",
+            "quality": "TT",
+            "source": 8,
+            "target": 62,
+            "type": "client"
+        },
+        {
+            "id": "68:72:51:07:4d:ac-a2:f4:c1:5e:cb:da",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-6a:75:52:06:4d:ac",
+            "quality": "1.917, 1.314",
+            "source": 8,
+            "target": 38,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:2b:11:00-f8:a9:d0:65:90:60",
+            "quality": "TT",
+            "source": 14,
+            "target": 15,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:ce:6c:1e",
+            "quality": "1.000, 1.016",
+            "source": 10,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:2a:83:b2",
+            "quality": "1.000, 1.000",
+            "source": 70,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a7:3d:7a:c2:36-66:69:b5:e8:3a:1f",
+            "quality": "1.214, 1.328",
+            "source": 9,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "a2:f7:c1:5e:cb:da-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.067",
+            "source": 6,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "48:74:6e:58:b8:e2-ea:94:f6:52:89:6c",
+            "quality": "TT",
+            "source": 1,
+            "target": 28,
+            "type": "client"
+        },
+        {
+            "id": "84:7a:88:20:d8:75-ea:de:27:b2:ee:e8",
+            "quality": "TT",
+            "source": 78,
+            "target": 81,
+            "type": "client"
+        },
+        {
+            "id": "78:d6:f0:e6:31:d4-ea:94:f6:ce:6e:18",
+            "quality": "TT",
+            "source": 4,
+            "target": 41,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:ce:d6:50-fc:c2:de:97:29:19",
+            "quality": "TT",
+            "source": 17,
+            "target": 18,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:de:27:b3:92:3e",
+            "quality": "1.000, 1.000",
+            "source": 63,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "68:72:51:07:4d:ac-a2:f4:c1:49:2a:e8",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-66:69:b5:e8:3a:1f",
+            "quality": "1.037",
+            "source": 38,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:9c:2a:3e-66:69:b5:de:fd:b3",
+            "quality": "1.037, 1.054",
+            "source": 74,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-a2:f6:c2:49:2a:e8",
+            "quality": "1.062, 1.328",
+            "source": 5,
+            "target": 38,
+            "type": null
+        },
+        {
+            "id": "66:6a:b3:e8:3a:1f-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.016",
+            "source": 9,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9c:2a:3e-f0:27:65:45:3f:df",
+            "quality": "TT",
+            "source": 74,
+            "target": 75,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:d5:4c:36-f0:25:b7:df:15:da",
+            "quality": "TT",
+            "source": 47,
+            "target": 48,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:9f:8a:c1-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 83,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:05:70:8a-ea:94:f6:40:70:e2",
+            "quality": "1.071, 1.037",
+            "source": 67,
+            "target": 34,
+            "type": null
+        },
+        {
+            "id": "e0:06:e6:9b:f5:1b-ea:94:f6:ce:6e:18",
+            "quality": "TT",
+            "source": 4,
+            "target": 40,
+            "type": "client"
+        },
+        {
+            "id": "44:4c:0c:c9:51:6e-ea:de:27:56:45:7c",
+            "quality": "TT",
+            "source": 19,
+            "target": 24,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:2a:85:e0",
+            "quality": "1.000, 1.000",
+            "source": 52,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4e:00:b3:eb:c0-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 29,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:cd:6c:1d-fa:1d:69:a6:05:cf",
+            "quality": "1.012, 1.342",
+            "source": 10,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "34:23:ba:86:6e:15-66:6a:b3:de:fd:b3",
+            "quality": "TT",
+            "source": 11,
+            "target": 72,
+            "type": "client"
+        },
+        {
+            "id": "00:e0:4c:bd:70:b0-ea:94:f6:b7:80:2a",
+            "quality": "TT",
+            "source": 57,
+            "target": 60,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:9c:2a:3e-fa:1d:69:a6:09:8c",
+            "quality": "1.000, 1.049",
+            "source": 74,
+            "target": 7,
+            "type": null
+        },
+        {
+            "id": "52:64:d3:d8:21:8f-de:ad:be:ef:43:89",
+            "quality": "TT",
+            "source": 30,
+            "target": 31,
+            "type": "client"
+        },
+        {
+            "id": "70:73:cb:a9:11:a8-ea:de:27:b3:92:3e",
+            "quality": "TT",
+            "source": 63,
+            "target": 64,
+            "type": "client"
+        },
+        {
+            "id": "10:30:47:26:8d:57-ea:94:f6:40:70:e2",
+            "quality": "TT",
+            "source": 34,
+            "target": 36,
+            "type": "client"
+        },
+        {
+            "id": "a2:f4:c1:49:2a:e8-a2:f4:c1:5e:cb:da",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:0c:89:da-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 50,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "66:69:b5:de:fd:b3-fa:1d:69:a6:09:8c",
+            "quality": "1.020, 1.020",
+            "source": 11,
+            "target": 7,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:d8:92:df-fa:1a:67:f9:93:2e",
+            "quality": "1.164, 1.000",
+            "source": 12,
+            "target": 33,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:6e:59:c0",
+            "quality": "1.000, 1.000",
+            "source": 13,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-f6:ec:38:fe:b0:e8",
+            "quality": "1.000, 1.000",
+            "source": 86,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "a2:f3:c1:3d:ed:5e-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 49,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:41:71:78",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:b7:73:66",
+            "quality": "1.000, 1.000",
+            "source": 55,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:de:27:b2:ee:e8-fa:1d:69:a6:05:cf",
+            "quality": "1.008, 1.232",
+            "source": 78,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:d5:4c:36",
+            "quality": "1.000, 1.000",
+            "source": 47,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "84:85:06:a4:92:ab-ea:de:27:56:45:7c",
+            "quality": "TT",
+            "source": 19,
+            "target": 21,
+            "type": "client"
+        },
+        {
+            "id": "48:02:2a:41:00:8d-ea:94:f6:b7:80:2a",
+            "quality": "TT",
+            "source": 57,
+            "target": 59,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-fa:1a:67:fa:91:de",
+            "quality": "1.000, 1.000",
+            "source": 43,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "c6:6e:1f:3c:5b:a2-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 73,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:06:fe:36-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.016",
+            "source": 42,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:ce:6e:18",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:d5:4a:d8",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 25,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:de:27:b2:ee:e8-ea:de:27:b2:f3:a0",
+            "quality": "1.037, 1.154",
+            "source": 78,
+            "target": 37,
+            "type": null
+        },
+        {
+            "id": "66:69:b4:de:fd:b3-fa:1d:68:a6:09:8c",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 7,
+            "type": null
+        },
+        {
+            "id": "64:20:0c:22:af:84-66:6a:b3:de:fd:b3",
+            "quality": "TT",
+            "source": 11,
+            "target": 71,
+            "type": "client"
+        },
+        {
+            "id": "40:b3:95:13:cd:3d-ea:de:27:56:45:7c",
+            "quality": "TT",
+            "source": 19,
+            "target": 22,
+            "type": "client"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:d5:4e:a8",
+            "quality": "1.016, 1.000",
+            "source": 30,
+            "target": 16,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:d8:92:df-ea:94:f6:cd:6e:17",
+            "quality": "1.071, 1.085",
+            "source": 12,
+            "target": 4,
+            "type": null
+        },
+        {
+            "id": "00:e0:4c:bd:70:64-ea:94:f6:b7:80:2a",
+            "quality": "TT",
+            "source": 57,
+            "target": 61,
+            "type": "client"
+        },
+        {
+            "id": "00:26:e8:8c:22:b4-26:a4:3c:d9:92:df",
+            "quality": "TT",
+            "source": 12,
+            "target": 85,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:42:9b:6c-ea:94:f6:6d:59:c0",
+            "quality": "1.032, 1.000",
+            "source": 13,
+            "target": 87,
+            "type": null
+        },
+        {
+            "id": "66:67:b3:e8:3a:1f-a2:f4:c1:5e:cb:da",
+            "quality": "1.000, 1.000",
+            "source": 9,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "66:69:b5:e8:3a:1f-a2:f6:c2:49:2a:e8",
+            "quality": "1.364",
+            "source": 5,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:de:27:56:45:7c",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 19,
+            "type": "vpn"
+        },
+        {
+            "id": "6a:75:52:06:4d:ac-a2:f6:c2:49:2a:e8",
+            "quality": "2.297, 1.378",
+            "source": 8,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:9f:81:e8-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 54,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "de:ad:be:ef:43:89-ea:94:f6:2b:11:00",
+            "quality": "1.000, 1.000",
+            "source": 30,
+            "target": 14,
+            "type": "vpn"
+        },
+        {
+            "id": "00:e0:4c:bd:70:30-ea:94:f6:b7:80:2a",
+            "quality": "TT",
+            "source": 57,
+            "target": 58,
+            "type": "client"
+        },
+        {
+            "id": "a2:f6:c2:49:2a:e8-a2:f6:c2:5e:cb:da",
+            "quality": "1.020, 1.000",
+            "source": 6,
+            "target": 5,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-f8:84:f2:af:89:fd",
+            "quality": "TT",
+            "source": 38,
+            "target": 39,
+            "type": "client"
+        },
+        {
+            "id": "20:02:af:ab:ed:cd-ea:de:27:b3:92:3e",
+            "quality": "TT",
+            "source": 63,
+            "target": 66,
+            "type": "client"
+        },
+        {
+            "id": "66:6a:b3:de:fd:b3-de:ad:be:ef:43:89",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 30,
+            "type": "vpn"
+        },
+        {
+            "id": "a4:77:60:14:13:58-ea:de:27:b3:92:3e",
+            "quality": "TT",
+            "source": 63,
+            "target": 65,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:f8:5f:1c-26:a7:3d:7a:c2:36",
+            "quality": "1.466",
+            "source": 38,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "24:a4:3c:7b:c2:36-68:72:51:07:4d:ac",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "c2:4e:00:a4:25:7c-d4:20:6d:23:d8:3e",
+            "quality": "TT",
+            "source": 45,
+            "target": 46,
+            "type": "client"
+        }
+    ],
+    "meta": {
+        "timestamp": "2014-11-07T00:50:01"
+    },
+    "nodes": [
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141020",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.978192958763,
+                10.572817325592
+            ],
+            "hardware": "Ubiquiti Nanostation M",
+            "id": "24:a4:3c:7a:c2:36",
+            "loadavg": 0.01,
+            "macs": "24:a4:3c:7a:c2:36, 24:a4:3c:7b:c2:36, 26:a7:3d:7a:c2:36",
+            "name": "Uelzen-OW-6",
+            "rx_bytes": 29461893843,
+            "tx_bytes": 7517909089,
+            "uptime": 1289697.2
+        },
+        {
+            "autoupdater": true,
+            "branch": "testing",
+            "clientcount": 0,
+            "firmware": "0.52",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.966225162801,
+                10.561868548393
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:51:89:6c",
+            "loadavg": 0.03,
+            "macs": "ea:94:f6:52:89:6c, ea:94:f6:51:89:6c, e8:94:f6:51:89:6c",
+            "name": "FFUE-Leihknoten-2",
+            "rx_bytes": 2104925630,
+            "tx_bytes": 204496865,
+            "uptime": 96579.72
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.908238,
+                10.426647
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:40:71:78",
+            "loadavg": 0.08,
+            "macs": "ea:94:f6:41:71:78, ea:94:f6:40:71:78, e8:94:f6:40:71:78",
+            "name": "Elmo-Stanne1",
+            "rx_bytes": 1483563025,
+            "tx_bytes": 188599056,
+            "uptime": 1676763.96
+        },
+        {
+            "autoupdater": false,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.5+6exp20140916",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.899215,
+                10.444981
+            ],
+            "hardware": "TP-Link TL-WDR4900 v1",
+            "id": "f8:1a:67:a6:05:cf",
+            "loadavg": 0.07,
+            "macs": "fa:1d:69:a6:05:cf, fa:1e:67:a6:05:cf, f8:1a:67:a6:05:cf",
+            "name": "Elmo-Superburg1-WDR4900",
+            "rx_bytes": 4709083799,
+            "tx_bytes": 392312059,
+            "uptime": 3744816.44
+        },
+        {
+            "autoupdater": true,
+            "branch": "testing",
+            "clientcount": 0,
+            "firmware": "0.52",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:cd:6e:18",
+            "loadavg": 0.13,
+            "macs": "ea:94:f6:ce:6e:18, ea:94:f6:cd:6e:17, e8:94:f6:cd:6e:18",
+            "name": "UE-Test_WDR4300",
+            "rx_bytes": 777833482,
+            "tx_bytes": 29111756,
+            "uptime": 98496.23
+        },
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141020",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.978073447942,
+                10.572779774666
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "a0:f3:c1:49:2a:e8",
+            "loadavg": 0.32,
+            "macs": "a2:f6:c2:49:2a:e8, a0:f3:c1:49:2a:e8, a2:f4:c1:49:2a:e8",
+            "name": "Uelzen-OW-3",
+            "rx_bytes": 136972194,
+            "tx_bytes": 17855441,
+            "uptime": 885220.98
+        },
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141020",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.978110054879,
+                10.572817325592
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "a0:f3:c1:5e:cb:da",
+            "loadavg": 0.05,
+            "macs": "a2:f7:c1:5e:cb:da, a2:f4:c1:5e:cb:da, a0:f3:c1:5e:cb:da, a2:f6:c2:5e:cb:da",
+            "name": "Uelzen-OW-4",
+            "rx_bytes": 136225884,
+            "tx_bytes": 17560745,
+            "uptime": 885190.38
+        },
+        {
+            "autoupdater": false,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141022",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.9709032,
+                10.5442471
+            ],
+            "hardware": "TP-Link TL-WDR4900 v1",
+            "id": "f8:1a:67:a6:09:8c",
+            "loadavg": 0.03,
+            "macs": "fa:1d:68:a6:09:8c, fa:1d:69:a6:09:8c, f8:1a:67:a6:09:8c",
+            "name": "freifunk-adben2",
+            "rx_bytes": 14070675,
+            "tx_bytes": 2571253,
+            "uptime": 110051.07
+        },
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141020",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.97812835836,
+                10.572892427444
+            ],
+            "hardware": "Ubiquiti Nanostation M",
+            "id": "68:72:51:06:4d:ac",
+            "loadavg": 0.11,
+            "macs": "68:72:51:06:4d:ac, 68:72:51:07:4d:ac, 6a:75:52:06:4d:ac",
+            "name": "Uelzen-OW-1",
+            "rx_bytes": 8494375333,
+            "tx_bytes": 420571846,
+            "uptime": 1290536.57
+        },
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141022",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.978154198533,
+                10.572854876518
+            ],
+            "hardware": "TP-Link TL-WDR4900 v1",
+            "id": "64:66:b3:e8:3a:1f",
+            "loadavg": 0.12,
+            "macs": "64:66:b3:e8:3a:1f, 66:69:b5:e8:3a:1f, 66:67:b3:e8:3a:1f, 66:6a:b3:e8:3a:1f",
+            "name": "Uelzen-OW-2",
+            "rx_bytes": 810557066,
+            "tx_bytes": 39558000,
+            "uptime": 884717.12
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.900112,
+                10.445328
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:cd:6c:1e",
+            "loadavg": 0.27,
+            "macs": "e8:94:f6:cd:6c:1e, ea:94:f6:ce:6c:1e, ea:94:f6:cd:6c:1d",
+            "name": "Elmo-Birk-WDR4300",
+            "rx_bytes": 2666972804,
+            "tx_bytes": 260822006,
+            "uptime": 3744556.98
+        },
+        {
+            "autoupdater": false,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141022",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.9711165,
+                10.5440957
+            ],
+            "hardware": "TP-Link TL-WDR4900 v1",
+            "id": "64:66:b3:de:fd:b3",
+            "loadavg": 0.13,
+            "macs": "66:69:b4:de:fd:b3, 64:66:b3:de:fd:b3, 66:6a:b3:de:fd:b3, 66:69:b5:de:fd:b3",
+            "name": "freifunk-adben",
+            "rx_bytes": 232074845,
+            "tx_bytes": 18402046,
+            "uptime": 110684.09
+        },
+        {
+            "autoupdater": true,
+            "branch": "testing",
+            "clientcount": 0,
+            "firmware": "0.52",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.955384093042,
+                10.560527443886
+            ],
+            "hardware": "Ubiquiti Nanostation M",
+            "id": "24:a4:3c:d8:92:df",
+            "loadavg": 0.05,
+            "macs": "26:a4:3c:d9:92:df, 26:a4:3c:d8:92:df, 24:a4:3c:d8:92:df",
+            "name": "UE-Koenigsberg_Balkon_LocoM2",
+            "rx_bytes": 5620626746,
+            "tx_bytes": 234303626,
+            "uptime": 279946.58
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.963488,
+                10.559324
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:6d:59:c0",
+            "loadavg": 0.1,
+            "macs": "e8:94:f6:6d:59:c0, ea:94:f6:6e:59:c0, ea:94:f6:6d:59:c0",
+            "name": "Nordkurve",
+            "rx_bytes": 25519718121,
+            "tx_bytes": 2513131808,
+            "uptime": 2366302.2
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.959,
+                10.552
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:2a:11:00",
+            "loadavg": 0.25,
+            "macs": "e8:94:f6:2a:11:00, ea:94:f6:2b:11:00",
+            "name": "SchneckiKnoten",
+            "rx_bytes": 13408802237,
+            "tx_bytes": 2627309905,
+            "uptime": 2279896.04
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "f8:a9:d0:65:90:60",
+            "loadavg": 0.0,
+            "macs": "f8:a9:d0:65:90:60",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.964784,
+                10.563112
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:d4:4e:a8",
+            "loadavg": 0.19,
+            "macs": "e8:94:f6:d4:4e:a8, ea:94:f6:d5:4e:a8",
+            "name": "freifunk-mobile-evolutions",
+            "rx_bytes": 7882985724,
+            "tx_bytes": 1092110613,
+            "uptime": 4360394.33
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.95842,
+                10.6656
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:cd:d6:50",
+            "loadavg": 0,
+            "macs": "e8:94:f6:cd:d6:50, ea:94:f6:ce:d6:50",
+            "name": "freifunk-2342133708154711",
+            "rx_bytes": 3869092916,
+            "tx_bytes": 286297259,
+            "uptime": 2531980.59
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "fc:c2:de:97:29:19",
+            "loadavg": 0.0,
+            "macs": "fc:c2:de:97:29:19",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.974829,
+                10.546083
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:de:27:55:45:7c",
+            "loadavg": 0.1,
+            "macs": "ea:de:27:56:45:7c, e8:de:27:55:45:7c",
+            "name": "Channel80",
+            "rx_bytes": 2791126084,
+            "tx_bytes": 319783068,
+            "uptime": 36557.22
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "f0:27:65:5c:35:bd",
+            "loadavg": 0.0,
+            "macs": "f0:27:65:5c:35:bd",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "84:85:06:a4:92:ab",
+            "loadavg": 0.0,
+            "macs": "84:85:06:a4:92:ab",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "40:b3:95:13:cd:3d",
+            "loadavg": 0.0,
+            "macs": "40:b3:95:13:cd:3d",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "60:be:b5:30:4c:09",
+            "loadavg": 0.0,
+            "macs": "60:be:b5:30:4c:09",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "44:4c:0c:c9:51:6e",
+            "loadavg": 0.0,
+            "macs": "44:4c:0c:c9:51:6e",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.90386,
+                10.43569
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:d4:4a:d8",
+            "loadavg": 0.06,
+            "macs": "ea:94:f6:d5:4a:d8, e8:94:f6:d4:4a:d8",
+            "name": "freifunk-POMMERIENS1",
+            "rx_bytes": 6392800315,
+            "tx_bytes": 988896914,
+            "uptime": 1236386.61
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "20:68:9d:26:7d:89",
+            "loadavg": 0.0,
+            "macs": "20:68:9d:26:7d:89",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "98:0d:2e:a9:a9:fb",
+            "loadavg": 0.0,
+            "macs": "98:0d:2e:a9:a9:fb",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "48:74:6e:58:b8:e2",
+            "loadavg": 0.0,
+            "macs": "48:74:6e:58:b8:e2",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141020",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.963987,
+                10.567648
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v8",
+            "id": "c0:4a:00:b3:eb:c0",
+            "loadavg": 0,
+            "macs": "c2:4e:00:b3:eb:c0, c0:4a:00:b3:eb:c0",
+            "name": "freifunk-spielkiste",
+            "rx_bytes": 10944308727,
+            "tx_bytes": 1980536325,
+            "uptime": 1288695.58
+        },
+        {
+            "autoupdater": false,
+            "branch": "stable",
+            "clientcount": 1,
+            "firmware": "Debian 7",
+            "flags": {
+                "client": false,
+                "gateway": true,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "KVM",
+            "id": "de:ad:be:ef:43:89",
+            "loadavg": 0.0,
+            "macs": "de:ad:be:ef:43:89",
+            "name": "UEGW1",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "52:64:d3:d8:21:8f",
+            "loadavg": 0.0,
+            "macs": "52:64:d3:d8:21:8f",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.953875,
+                10.544864
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v7",
+            "id": "64:70:02:64:b4:46",
+            "loadavg": 0.02,
+            "macs": "64:70:02:64:b4:46, 66:70:02:65:b4:46",
+            "name": "freifunk-gitti",
+            "rx_bytes": 1236225387,
+            "tx_bytes": 486747789,
+            "uptime": 1687550.17
+        },
+        {
+            "autoupdater": true,
+            "branch": "testing",
+            "clientcount": 0,
+            "firmware": "0.52",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.955426105414,
+                10.560522079468
+            ],
+            "hardware": "TP-Link TL-WR740N/ND v4",
+            "id": "f8:1a:67:f9:93:2e",
+            "loadavg": 0,
+            "macs": "fa:1a:67:f9:93:2e, f8:1a:67:f9:93:2e",
+            "name": "Balkon_WR740n",
+            "rx_bytes": 1537795019,
+            "tx_bytes": 526101669,
+            "uptime": 98329.34
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.90831,
+                10.426589
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:40:70:e2",
+            "loadavg": 0.31,
+            "macs": "ea:94:f6:40:70:e2, e8:94:f6:40:70:e2",
+            "name": "Elmo-Stanne2",
+            "rx_bytes": 45671299651,
+            "tx_bytes": 8848194960,
+            "uptime": 3824408.74
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "78:fd:94:8e:97:98",
+            "loadavg": 0.0,
+            "macs": "78:fd:94:8e:97:98",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "10:30:47:26:8d:57",
+            "loadavg": 0.0,
+            "macs": "10:30:47:26:8d:57",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.899551,
+                10.444305
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:de:27:b2:f3:a0",
+            "loadavg": 0.15,
+            "macs": "e8:de:27:b2:f3:a0, ea:de:27:b2:f3:a0",
+            "name": "Elmo-Mojito",
+            "rx_bytes": 783040747,
+            "tx_bytes": 103011477,
+            "uptime": 3399829.53
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.978119744949,
+                10.572978258133
+            ],
+            "hardware": "Ubiquiti Bullet M",
+            "id": "24:a4:3c:f8:5f:1c",
+            "loadavg": 0.09,
+            "macs": "24:a4:3c:f8:5f:1c, 26:a4:3c:f8:5f:1c",
+            "name": "Uelzen-OW-5",
+            "rx_bytes": 1079134746,
+            "tx_bytes": 336072735,
+            "uptime": 430979.33
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "f8:84:f2:af:89:fd",
+            "loadavg": 0.0,
+            "macs": "f8:84:f2:af:89:fd",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "e0:06:e6:9b:f5:1b",
+            "loadavg": 0.0,
+            "macs": "e0:06:e6:9b:f5:1b",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "78:d6:f0:e6:31:d4",
+            "loadavg": 0.0,
+            "macs": "78:d6:f0:e6:31:d4",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.992872,
+                10.516057
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c0:4a:00:05:fe:36",
+            "loadavg": 0.02,
+            "macs": "c0:4a:00:05:fe:36, c2:4a:00:06:fe:36",
+            "name": "freifunk-arktis1",
+            "rx_bytes": 198599480,
+            "tx_bytes": 21804162,
+            "uptime": 894256.75
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.97012469801,
+                10.560323596001
+            ],
+            "hardware": "TP-Link TL-WR740N/ND v4",
+            "id": "f8:1a:67:f9:91:de",
+            "loadavg": 0.01,
+            "macs": "f8:1a:67:f9:91:de, fa:1a:67:fa:91:de",
+            "name": "FeierOpa",
+            "rx_bytes": 19595717,
+            "tx_bytes": 9458531,
+            "uptime": 98094.46
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "24:69:a5:a3:fe:d5",
+            "loadavg": 0.0,
+            "macs": "24:69:a5:a3:fe:d5",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141022",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                53.227046586077,
+                10.150771737099
+            ],
+            "hardware": "TP-Link TL-WDR4900 v1",
+            "id": "c0:4a:00:a4:25:7c",
+            "loadavg": 0.09,
+            "macs": "c0:4a:00:a4:25:7c, c2:4e:00:a4:25:7c",
+            "name": "freifunk-heini66-wdr4900",
+            "rx_bytes": 3184018390,
+            "tx_bytes": 231962051,
+            "uptime": 838559.51
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "d4:20:6d:23:d8:3e",
+            "loadavg": 0.0,
+            "macs": "d4:20:6d:23:d8:3e",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.964767,
+                10.563527
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:d4:4c:36",
+            "loadavg": 0.1,
+            "macs": "e8:94:f6:d4:4c:36, ea:94:f6:d5:4c:36",
+            "name": "freifunk-mobile-evolutions-2",
+            "rx_bytes": 125697145,
+            "tx_bytes": 14363412,
+            "uptime": 57174.56
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "f0:25:b7:df:15:da",
+            "loadavg": 0.0,
+            "macs": "f0:25:b7:df:15:da",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.966703335171,
+                10.561702251434
+            ],
+            "hardware": "TP-Link TL-WR1043N/ND v1",
+            "id": "a0:f3:c1:3c:ed:5e",
+            "loadavg": 0,
+            "macs": "a2:f3:c1:3d:ed:5e, a0:f3:c1:3c:ed:5e",
+            "name": "Cafe_Komma",
+            "rx_bytes": 509424379,
+            "tx_bytes": 130371726,
+            "uptime": 97767.25
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c0:4a:00:0b:89:da",
+            "loadavg": 0,
+            "macs": "c0:4a:00:0b:89:da, c2:4a:00:0c:89:da",
+            "name": "Elmo-c04a000b89da",
+            "rx_bytes": 1050932326,
+            "tx_bytes": 105065166,
+            "uptime": 1956483.58
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.964973,
+                10.560752
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "64:66:b3:16:4b:3a",
+            "loadavg": 0.02,
+            "macs": "64:66:b3:16:4b:3a, 66:66:b3:17:4b:3a",
+            "name": "freifunk-BIERNAT-HAUS1-RGB-WZ",
+            "rx_bytes": 3863295803,
+            "tx_bytes": 267618797,
+            "uptime": 1063672.35
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.89312,
+                10.43796
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:29:85:e0",
+            "loadavg": 0.04,
+            "macs": "e8:94:f6:29:85:e0, ea:94:f6:2a:85:e0",
+            "name": "freifunk-Sommerfeld-1",
+            "rx_bytes": 2470972434,
+            "tx_bytes": 153428502,
+            "uptime": 1170316.81
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.956632,
+                10.664602
+            ],
+            "hardware": "TP-Link TL-MR3020 v1",
+            "id": "f8:1a:67:87:3c:3d",
+            "loadavg": 0.09,
+            "macs": "f8:1a:67:87:3c:3d, fa:1a:67:88:3c:3d",
+            "name": "freifunk-f81a67873c3d",
+            "rx_bytes": 890216258,
+            "tx_bytes": 82263867,
+            "uptime": 1414539.28
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.964391,
+                10.555054
+            ],
+            "hardware": "Ubiquiti Nanostation M",
+            "id": "24:a4:3c:9e:81:e8",
+            "loadavg": 0,
+            "macs": "26:a4:3c:9f:81:e8, 24:a4:3c:9e:81:e8",
+            "name": "freifunk-Bokelmann-P-RAUM",
+            "rx_bytes": 2645908314,
+            "tx_bytes": 197415653,
+            "uptime": 1883667.83
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.9661,
+                10.56237
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:b6:73:66",
+            "loadavg": 0.11,
+            "macs": "ea:94:f6:b7:73:66, e8:94:f6:b6:73:66",
+            "name": "Unikum",
+            "rx_bytes": 545094184,
+            "tx_bytes": 40299053,
+            "uptime": 309091.4
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:de:27:58:9c:36",
+            "loadavg": 0.18,
+            "macs": "ea:de:27:59:9c:36, e8:de:27:58:9c:36",
+            "name": "freifunk-eschenkamp1",
+            "rx_bytes": 759906189,
+            "tx_bytes": 59895504,
+            "uptime": 721900.66
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.96376,
+                10.56328
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:b6:80:2a",
+            "loadavg": 0.04,
+            "macs": "ea:94:f6:b7:80:2a, e8:94:f6:b6:80:2a",
+            "name": "Alcatraz",
+            "rx_bytes": 15719894943,
+            "tx_bytes": 2278483864,
+            "uptime": 1960769.3
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "00:e0:4c:bd:70:30",
+            "loadavg": 0.0,
+            "macs": "00:e0:4c:bd:70:30",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "48:02:2a:41:00:8d",
+            "loadavg": 0.0,
+            "macs": "48:02:2a:41:00:8d",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "00:e0:4c:bd:70:b0",
+            "loadavg": 0.0,
+            "macs": "00:e0:4c:bd:70:b0",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "00:e0:4c:bd:70:64",
+            "loadavg": 0.0,
+            "macs": "00:e0:4c:bd:70:64",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "c0:9f:42:9d:65:ec",
+            "loadavg": 0.0,
+            "macs": "c0:9f:42:9d:65:ec",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.900346,
+                10.443276
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:de:27:b2:92:3e",
+            "loadavg": 0.08,
+            "macs": "ea:de:27:b3:92:3e, e8:de:27:b2:92:3e",
+            "name": "Elmo-Zoll",
+            "rx_bytes": 8996757555,
+            "tx_bytes": 358875374,
+            "uptime": 1599808.77
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "70:73:cb:a9:11:a8",
+            "loadavg": 0.0,
+            "macs": "70:73:cb:a9:11:a8",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "a4:77:60:14:13:58",
+            "loadavg": 0.0,
+            "macs": "a4:77:60:14:13:58",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "20:02:af:ab:ed:cd",
+            "loadavg": 0.0,
+            "macs": "20:02:af:ab:ed:cd",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.907707,
+                10.426936
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c0:4a:00:05:70:8a",
+            "loadavg": 0.05,
+            "macs": "c2:4a:00:05:70:8a, c0:4a:00:05:70:8a",
+            "name": "Elmo-Jessi",
+            "rx_bytes": 5020943278,
+            "tx_bytes": 530763636,
+            "uptime": 2564166.77
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.95682,
+                10.66395
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v8",
+            "id": "c0:4a:00:62:cf:94",
+            "loadavg": 0.05,
+            "macs": "c2:4a:00:63:cf:94, c0:4a:00:62:cf:94",
+            "name": "freifunk-hamanns-ohl",
+            "rx_bytes": 119132905,
+            "tx_bytes": 66086701,
+            "uptime": 676354.59
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "cc:3a:61:49:8b:80",
+            "loadavg": 0.0,
+            "macs": "cc:3a:61:49:8b:80",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.900806,
+                10.435726
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:29:83:b2",
+            "loadavg": 0.03,
+            "macs": "e8:94:f6:29:83:b2, ea:94:f6:2a:83:b2",
+            "name": "freifunk-Riemer-1",
+            "rx_bytes": 5355133,
+            "tx_bytes": 680031,
+            "uptime": 38630.7
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "64:20:0c:22:af:84",
+            "loadavg": 0.0,
+            "macs": "64:20:0c:22:af:84",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "34:23:ba:86:6e:15",
+            "loadavg": 0.0,
+            "macs": "34:23:ba:86:6e:15",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.958921,
+                10.553848
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c4:6e:1f:3b:5b:a2",
+            "loadavg": 0,
+            "macs": "c4:6e:1f:3b:5b:a2, c6:6e:1f:3c:5b:a2",
+            "name": "freifunk-DALMACIJA",
+            "rx_bytes": 2513082159,
+            "tx_bytes": 199088329,
+            "uptime": 216372.52
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WR841N/ND v8",
+            "id": "10:fe:ed:9c:2a:3e",
+            "loadavg": 0.03,
+            "macs": "10:fe:ed:9c:2a:3e, 12:fe:ed:9c:2a:3e",
+            "name": "freifunk-adben1",
+            "rx_bytes": 15785718,
+            "tx_bytes": 1408432,
+            "uptime": 36028.31
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "f0:27:65:45:3f:df",
+            "loadavg": 0.0,
+            "macs": "f0:27:65:45:3f:df",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "40:6f:2a:fa:41:40",
+            "loadavg": 0.0,
+            "macs": "40:6f:2a:fa:41:40",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.965783,
+                10.561975
+            ],
+            "hardware": "TP-Link TL-WDR4300 v1",
+            "id": "e8:94:f6:cd:66:30",
+            "loadavg": 0.32,
+            "macs": "e8:94:f6:cd:66:30, ea:94:f6:cd:66:2f",
+            "name": "Abendkis",
+            "rx_bytes": 2956869693,
+            "tx_bytes": 187548249,
+            "uptime": 623047.09
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.899131,
+                10.445013
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:de:27:b2:ee:e8",
+            "loadavg": 0.19,
+            "macs": "e8:de:27:b2:ee:e8, ea:de:27:b2:ee:e8",
+            "name": "Elmo-Superburg2",
+            "rx_bytes": 44006578,
+            "tx_bytes": 7618362,
+            "uptime": 31968.84
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "20:64:32:b0:9f:c0",
+            "loadavg": 0.0,
+            "macs": "20:64:32:b0:9f:c0",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "34:23:ba:fc:6a:5d",
+            "loadavg": 0.0,
+            "macs": "34:23:ba:fc:6a:5d",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "84:7a:88:20:d8:75",
+            "loadavg": 0.0,
+            "macs": "84:7a:88:20:d8:75",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "ec:cb:30:91:62:73",
+            "loadavg": 0.0,
+            "macs": "ec:cb:30:91:62:73",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.964448,
+                10.554567
+            ],
+            "hardware": "Ubiquiti Nanostation M",
+            "id": "24:a4:3c:9e:8a:c1",
+            "loadavg": 0.01,
+            "macs": "26:a4:3c:9f:8a:c1, 24:a4:3c:9e:8a:c1",
+            "name": "freifunk-Bokelmann-Halle1",
+            "rx_bytes": 777898430,
+            "tx_bytes": 44228120,
+            "uptime": 544023.92
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "0c:14:20:43:8d:54",
+            "loadavg": 0.0,
+            "macs": "0c:14:20:43:8d:54",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "00:26:e8:8c:22:b4",
+            "loadavg": 0.0,
+            "macs": "00:26:e8:8c:22:b4",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.928652,
+                10.531758
+            ],
+            "hardware": "TP-Link TL-WR1043N/ND v1",
+            "id": "f4:ec:38:fd:b0:e8",
+            "loadavg": 0,
+            "macs": "f6:ec:38:fe:b0:e8, f4:ec:38:fd:b0:e8",
+            "name": "Freifunk-Holdenstedt-1",
+            "rx_bytes": 92834058,
+            "tx_bytes": 10791858,
+            "uptime": 545172.07
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.963549,
+                10.559232
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:42:9b:6c",
+            "loadavg": 0,
+            "macs": "e8:94:f6:42:9b:6c, ea:94:f6:42:9b:6c",
+            "name": "LaPiazza",
+            "rx_bytes": 832573982,
+            "tx_bytes": 182482681,
+            "uptime": 291098.49
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.9651,
+                10.56013
+            ],
+            "hardware": "Ubiquiti UniFi",
+            "id": "04:18:d6:67:66:55",
+            "loadavg": 0.02,
+            "macs": "06:18:d6:68:66:55, 04:18:d6:67:66:55",
+            "name": "freifunk-POMMES-STOP",
+            "rx_bytes": 2223763386,
+            "tx_bytes": 290237735,
+            "uptime": 1327386.36
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.978639775554,
+                10.573632717133
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v8",
+            "id": "a0:f3:c1:05:77:f2",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "Uelzen-OW-7",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.98085,
+                10.553079
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c4:6e:1f:67:28:cc",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "WatWillsteNochSagen",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.980977,
+                10.552643
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:de:27:62:a6:d0",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "Weihnachtsrolf",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:2a:d3:34",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "Elmo-e894f62ad334",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "",
+            "geo": null,
+            "hardware": "",
+            "id": "ea:94:f6:cd:66:2f",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "e8:94:f6:2a:39:aa",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "Elmo-e894f62a39aa",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.967716,
+                10.539084
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c0:4a:00:0b:e8:52",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "Elmo-Frieden",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.992872,
+                10.516057
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c0:4a:00:05:fe:92",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "freifunk-arktis2",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141020",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "Ubiquiti Nanostation M",
+            "id": "24:a4:3c:ec:a0:ef",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "freifunk-heini66-m2-loco-02",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": true,
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.51",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": [
+                52.955657,
+                10.550276
+            ],
+            "hardware": "TP-Link TL-WR841N/ND v9",
+            "id": "c0:4a:00:0b:e7:7c",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "C-Lounge",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        },
+        {
+            "autoupdater": false,
+            "branch": "experimental",
+            "clientcount": 0,
+            "firmware": "0.5+9exp20141016",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "gateway": "de:ad:be:ef:43:89",
+            "geo": null,
+            "hardware": "TP-Link TL-WDR4900 v1",
+            "id": "64:66:b3:c7:1d:93",
+            "loadavg": 0.0,
+            "macs": "",
+            "name": "freifunk-IN",
+            "rx_bytes": 0,
+            "tx_bytes": 0,
+            "uptime": 0.0
+        }
+    ]
+}
