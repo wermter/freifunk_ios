@@ -1,901 +1,1017 @@
 {
     "links": [
         {
-            "id": "12:fe:ed:2c:4f:be-64:20:0c:11:86:f0",
+            "id": "ea:94:f6:63:c7:36-f4:1b:a1:5a:03:df",
             "quality": "TT",
-            "source": 74,
-            "target": 75,
-            "type": "client"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:94:f6:50:ce:40",
-            "quality": "1.004, 1.000",
-            "source": 66,
-            "target": 41,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:2c:4f:54-4c:8d:79:10:53:85",
-            "quality": "TT",
-            "source": 8,
-            "target": 68,
+            "source": 47,
+            "target": 48,
             "type": "client"
         },
         {
             "id": "12:fe:ed:3c:2e:14-be:98:1f:07:ff:a3",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 11,
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 94,
             "type": "vpn"
         },
         {
+            "id": "66:70:02:ef:1b:00-f0:25:b7:4d:57:a9",
+            "quality": "TT",
+            "source": 4,
+            "target": 37,
+            "type": "client"
+        },
+        {
             "id": "66:70:02:f0:1b:00-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 32,
+            "quality": "1.000, 1.016",
+            "source": 77,
+            "target": 4,
             "type": "vpn"
         },
         {
             "id": "be:98:1f:07:ff:a3-ea:94:f6:0d:a5:50",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 30,
+            "source": 94,
+            "target": 31,
             "type": "vpn"
         },
         {
-            "id": "be:98:1f:07:ff:a3-fa:d1:11:57:58:48",
-            "quality": "1.000, 1.004",
-            "source": 91,
-            "target": 81,
-            "type": "vpn"
-        },
-        {
-            "id": "a2:f3:c1:67:a1:b4-be:98:1f:07:ff:a3",
+            "id": "c2:4a:00:e5:5c:dc-d2:f4:29:99:68:61",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 49,
+            "source": 77,
+            "target": 9,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:3c:2e:14-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 11,
-            "target": 66,
+            "id": "be:98:1f:07:ff:a3-c2:4a:00:e5:5c:dc",
+            "quality": "1.000, 1.008",
+            "source": 94,
+            "target": 9,
             "type": "vpn"
-        },
-        {
-            "id": "26:a4:3c:bb:d3:36-48:60:bc:be:f7:b9",
-            "quality": "TT",
-            "source": 22,
-            "target": 23,
-            "type": "client"
-        },
-        {
-            "id": "28:ba:b5:d8:17:4e-66:70:02:f0:1b:00",
-            "quality": "TT",
-            "source": 32,
-            "target": 33,
-            "type": "client"
-        },
-        {
-            "id": "84:38:38:f4:29:c6-ea:94:f6:50:d3:28",
-            "quality": "TT",
-            "source": 85,
-            "target": 86,
-            "type": "client"
         },
         {
             "id": "10:fe:ed:2b:1b:9a-12:01:ee:2b:1b:9a",
             "quality": "TT",
-            "source": 6,
-            "target": 51,
+            "source": 7,
+            "target": 61,
             "type": "client"
         },
         {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:ce:51:a0",
-            "quality": "1.000, 1.004",
-            "source": 91,
-            "target": 12,
+            "id": "12:fe:ed:e7:fb:1a-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 71,
             "type": "vpn"
         },
         {
-            "id": "ac:7f:3e:32:58:e8-ea:94:f6:50:ce:40",
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:ce:51:a0",
+            "quality": "1.000, 1.000",
+            "source": 15,
+            "target": 94,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:ec:ac:4d-28:9a:fa:1f:8d:0e",
             "quality": "TT",
-            "source": 41,
-            "target": 43,
+            "source": 64,
+            "target": 66,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:2c:52:00-20:7d:74:6c:75:61",
+            "id": "26:a4:3c:ec:ac:4d-70:de:e2:e6:56:2f",
             "quality": "TT",
-            "source": 35,
-            "target": 37,
+            "source": 64,
+            "target": 67,
             "type": "client"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:de:27:30:7a:76",
             "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 64,
+            "source": 77,
+            "target": 75,
             "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:94:f6:50:d3:28",
-            "quality": "1.008, 1.004",
-            "source": 85,
-            "target": 66,
+            "quality": "1.000, 1.000",
+            "source": 98,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:94:f6:2b:91:80",
+            "quality": "1.000, 1.000",
+            "source": 101,
+            "target": 77,
             "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:94:f6:ce:51:a0",
-            "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 66,
+            "quality": "1.012, 1.000",
+            "source": 15,
+            "target": 77,
             "type": "vpn"
         },
         {
             "id": "be:98:1f:07:ff:a3-ea:e2:27:2f:75:0a",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 14,
+            "source": 17,
+            "target": 94,
             "type": "vpn"
         },
         {
             "id": "be:98:1f:07:ff:a3-c2:4e:00:fc:22:06",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 13,
+            "quality": "1.012, 1.004",
+            "source": 16,
+            "target": 94,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:3c:2e:14-88:32:9b:aa:ca:42",
-            "quality": "TT",
-            "source": 11,
-            "target": 83,
-            "type": "client"
+            "id": "12:fe:ed:b1:20:34-66:70:02:ef:1b:00",
+            "quality": "1.085, 1.409",
+            "source": 4,
+            "target": 20,
+            "type": null
         },
         {
             "id": "ea:94:f6:50:ce:40-ec:f3:5b:ad:99:9c",
             "quality": "TT",
-            "source": 41,
-            "target": 44,
+            "source": 54,
+            "target": 56,
             "type": "client"
-        },
-        {
-            "id": "74:de:2b:d9:63:af-a2:f3:c1:67:a1:b4",
-            "quality": "TT",
-            "source": 49,
-            "target": 50,
-            "type": "client"
-        },
-        {
-            "id": "c2:4d:01:fc:22:06-ea:97:f7:0c:a5:e4",
-            "quality": "4.474",
-            "source": 13,
-            "target": 80,
-            "type": null
         },
         {
             "id": "26:a4:3c:ec:a0:b5-fa:d1:11:73:73:88",
-            "quality": "1.262, 1.203",
-            "source": 88,
-            "target": 77,
+            "quality": "1.090, 1.635",
+            "source": 102,
+            "target": 85,
             "type": null
         },
         {
             "id": "c2:4e:00:fc:22:06-d2:f4:29:99:68:61",
             "quality": "1.000, 1.000",
-            "source": 13,
-            "target": 66,
+            "source": 16,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:a4:13:a7-be:98:1f:07:ff:a3",
+            "quality": "1.000, 1.004",
+            "source": 94,
+            "target": 0,
             "type": "vpn"
         },
         {
             "id": "be:98:1f:07:ff:a3-ea:94:f6:0d:a5:52",
-            "quality": "1.004, 1.000",
-            "source": 91,
-            "target": 63,
-            "type": "vpn"
-        },
-        {
-            "id": "26:a4:3c:bc:e2:66-78:4b:87:de:45:55",
-            "quality": "TT",
-            "source": 0,
-            "target": 21,
-            "type": "client"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:94:f6:50:ce:14",
-            "quality": "1.000, 1.004",
-            "source": 66,
-            "target": 29,
-            "type": "vpn"
-        },
-        {
-            "id": "12:01:ee:2b:52:9e-20:54:76:8a:87:7c",
-            "quality": "TT",
-            "source": 46,
-            "target": 47,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:ec:a0:b5-26:a4:3c:ec:ac:4d",
-            "quality": "1.466, 1.262",
-            "source": 77,
-            "target": 54,
-            "type": null
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:0d:a6:4c",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 71,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:94:f6:4f:ce:3a-ea:94:f6:4f:ce:52",
-            "quality": "1.000, 1.071",
-            "source": 76,
-            "target": 9,
-            "type": null
-        },
-        {
-            "id": "12:02:ed:cd:ae:be-d2:f4:29:99:68:61",
-            "quality": "1.004, 1.000",
-            "source": 66,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:94:f6:63:c7:36",
-            "quality": "1.000, 1.016",
-            "source": 66,
-            "target": 38,
-            "type": "vpn"
-        },
-        {
-            "id": "26:a4:3c:d9:52:64-cc:07:ab:f1:f6:bb",
-            "quality": "TT",
-            "source": 39,
-            "target": 40,
-            "type": "client"
-        },
-        {
-            "id": "ea:e1:28:2f:75:0a-fe:d1:11:88:6e:12",
-            "quality": "1.016, 1.000",
-            "source": 14,
-            "target": 2,
-            "type": null
-        },
-        {
-            "id": "ea:94:f6:50:ce:40-f8:e0:79:0c:38:3c",
-            "quality": "TT",
-            "source": 41,
-            "target": 42,
-            "type": "client"
-        },
-        {
-            "id": "00:26:82:ad:1a:5f-26:a4:3c:bc:e2:66",
-            "quality": "TT",
-            "source": 0,
-            "target": 20,
-            "type": "client"
-        },
-        {
-            "id": "24:69:a5:94:f0:36-c2:4a:00:b4:05:94",
-            "quality": "TT",
-            "source": 3,
-            "target": 34,
-            "type": "client"
-        },
-        {
-            "id": "12:01:ee:2b:1b:9a-12:01:ee:2b:52:9e",
-            "quality": "1.000, 1.032",
-            "source": 6,
-            "target": 46,
-            "type": null
-        },
-        {
-            "id": "00:04:4b:25:2a:8e-ea:94:f6:50:c7:bc",
-            "quality": "TT",
-            "source": 16,
-            "target": 17,
-            "type": "client"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:94:f6:50:cb:5a",
-            "quality": "1.004, 1.000",
-            "source": 66,
-            "target": 7,
-            "type": "vpn"
-        },
-        {
-            "id": "30:a8:db:8b:82:43-c2:4e:00:fc:22:06",
-            "quality": "TT",
-            "source": 13,
-            "target": 87,
-            "type": "client"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:de:27:4b:33:06",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 4,
-            "type": "vpn"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:d3:28",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 85,
-            "type": "vpn"
-        },
-        {
-            "id": "12:02:ed:2b:1b:9a-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 6,
-            "type": "vpn"
-        },
-        {
-            "id": "78:4b:87:6c:f9:60-fa:d1:11:73:73:88",
-            "quality": "TT",
-            "source": 88,
-            "target": 89,
-            "type": "client"
-        },
-        {
-            "id": "10:fe:ed:cd:ae:be-12:02:ed:cd:ae:be",
-            "quality": "TT",
-            "source": 5,
-            "target": 45,
-            "type": "client"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:94:f6:50:ce:3a",
-            "quality": "1.000, 1.000",
-            "source": 9,
-            "target": 66,
-            "type": "vpn"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:ce:14",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 29,
-            "type": "vpn"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:de:27:30:79:ec",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 53,
-            "type": "vpn"
-        },
-        {
-            "id": "c6:4a:00:8d:75:7f-f6:ec:38:e5:a3:8c",
-            "quality": "1.094, 1.067",
-            "source": 10,
-            "target": 27,
-            "type": null
-        },
-        {
-            "id": "cc:07:ab:b0:84:6a-fa:d1:11:73:73:88",
-            "quality": "TT",
-            "source": 88,
-            "target": 90,
-            "type": "client"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:de:27:30:7a:4e",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 62,
-            "type": "vpn"
-        },
-        {
-            "id": "20:6e:9c:0c:a3:d7-ea:94:f6:50:c7:bc",
-            "quality": "TT",
-            "source": 16,
-            "target": 19,
-            "type": "client"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:de:27:4b:33:06",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 4,
-            "type": "vpn"
-        },
-        {
-            "id": "a2:f3:c1:67:a1:b4-d2:f4:29:99:68:61",
-            "quality": "1.004, 1.000",
-            "source": 66,
-            "target": 49,
-            "type": "vpn"
-        },
-        {
-            "id": "a4:ee:57:71:47:23-ea:94:f6:0d:a6:4c",
-            "quality": "TT",
-            "source": 71,
+            "quality": "1.000, 1.012",
+            "source": 94,
             "target": 73,
-            "type": "client"
+            "type": "vpn"
         },
         {
-            "id": "90:72:40:6c:25:89-ea:94:f6:ce:51:a0",
+            "id": "10:68:3f:fb:66:2e-26:a4:3c:bc:e2:66",
             "quality": "TT",
-            "source": 12,
-            "target": 84,
+            "source": 1,
+            "target": 23,
             "type": "client"
         },
         {
-            "id": "be:98:1f:07:ff:a3-c2:4a:00:b5:05:94",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 3,
-            "type": "vpn"
-        },
-        {
-            "id": "58:a2:b5:9d:0c:56-c2:4a:00:e4:5c:db",
-            "quality": "TT",
-            "source": 56,
-            "target": 57,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:2c:19:3e-f0:27:65:5d:4a:19",
-            "quality": "TT",
-            "source": 60,
-            "target": 61,
-            "type": "client"
-        },
-        {
-            "id": "12:fe:ed:2c:52:00-be:98:1f:07:ff:a3",
-            "quality": "1.000, 1.004",
-            "source": 91,
-            "target": 35,
-            "type": "vpn"
-        },
-        {
-            "id": "ea:97:f7:0c:a5:e4-ea:de:27:4a:33:06",
-            "quality": "5.312",
-            "source": 4,
-            "target": 80,
-            "type": null
-        },
-        {
-            "id": "c2:4a:00:b5:05:94-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.004",
-            "source": 66,
-            "target": 3,
-            "type": "vpn"
-        },
-        {
-            "id": "a0:88:b4:a4:d4:98-ea:94:f6:50:c7:bc",
-            "quality": "TT",
-            "source": 16,
-            "target": 18,
-            "type": "client"
-        },
-        {
-            "id": "12:01:ee:cd:ae:be-ea:94:f6:a2:1a:7a",
-            "quality": "1.000, 1.016",
-            "source": 79,
-            "target": 5,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:2c:4f:be-be:98:1f:07:ff:a3",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 74,
-            "type": "vpn"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 66,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:2c:4f:54-be:98:1f:07:ff:a3",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 8,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:2c:52:00-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 35,
-            "type": "vpn"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-ea:de:27:30:7a:4e",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 62,
-            "type": "vpn"
-        },
-        {
-            "id": "54:26:96:94:d6:03-ea:de:27:30:7a:76",
+            "id": "26:a4:3c:ec:ac:4d-d0:2d:b3:6b:0e:8b",
             "quality": "TT",
             "source": 64,
             "target": 65,
             "type": "client"
         },
         {
+            "id": "d2:f4:29:99:68:61-ea:94:f6:50:ce:14",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 29,
+            "type": "vpn"
+        },
+        {
+            "id": "e0:66:78:8f:ad:29-ea:94:f6:0d:a5:52",
+            "quality": "TT",
+            "source": 73,
+            "target": 74,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:ec:a0:b5-26:a4:3c:ec:ac:4d",
+            "quality": "1.747, 1.301",
+            "source": 85,
+            "target": 64,
+            "type": null
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:0d:a6:4c",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 79,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:0d:a6:4c-f4:09:d8:24:1d:4c",
+            "quality": "TT",
+            "source": 79,
+            "target": 82,
+            "type": "client"
+        },
+        {
+            "id": "ea:94:f6:4f:ce:3a-ea:94:f6:4f:ce:52",
+            "quality": "1.099, 1.138",
+            "source": 84,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:02:ed:cd:ae:be-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:94:f6:63:c7:36",
+            "quality": "1.000, 1.004",
+            "source": 77,
+            "target": 47,
+            "type": "vpn"
+        },
+        {
+            "id": "ea:e1:28:2f:75:0a-fe:d1:11:88:6e:12",
+            "quality": "1.000, 1.020",
+            "source": 17,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "c2:4a:00:b4:05:94-f8:db:7f:9b:46:04",
+            "quality": "TT",
+            "source": 5,
+            "target": 40,
+            "type": "client"
+        },
+        {
+            "id": "66:70:02:ef:1b:00-b0:df:3a:86:4b:00",
+            "quality": "TT",
+            "source": 4,
+            "target": 36,
+            "type": "client"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-fa:d1:11:57:58:48",
+            "quality": "1.000, 1.000",
+            "source": 13,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "80:be:05:5d:a4:d1-ea:de:27:4b:33:06",
+            "quality": "TT",
+            "source": 49,
+            "target": 50,
+            "type": "client"
+        },
+        {
+            "id": "12:01:ee:2b:1b:9a-12:01:ee:2b:52:9e",
+            "quality": "1.049, 1.000",
+            "source": 7,
+            "target": 59,
+            "type": null
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:94:f6:50:cb:5a",
+            "quality": "1.004, 1.004",
+            "source": 77,
+            "target": 8,
+            "type": "vpn"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:de:27:4b:33:06",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 49,
+            "type": "vpn"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:d3:28",
+            "quality": "1.000, 1.000",
+            "source": 98,
+            "target": 94,
+            "type": "vpn"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "12:02:ed:2b:1b:9a-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 7,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:d9:4d:28-ea:94:f6:a2:1a:7a",
+            "quality": "1.049, 1.067",
+            "source": 92,
+            "target": 43,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:cd:ae:be-12:02:ed:cd:ae:be",
+            "quality": "TT",
+            "source": 6,
+            "target": 58,
+            "type": "client"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:94:f6:50:ce:3a",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:2c:4f:54-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 10,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:ce:14",
+            "quality": "1.000, 1.016",
+            "source": 94,
+            "target": 29,
+            "type": "vpn"
+        },
+        {
+            "id": "1c:99:4c:3b:35:27-26:a4:3c:d9:4d:28",
+            "quality": "TT",
+            "source": 43,
+            "target": 44,
+            "type": "client"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:de:27:30:79:ec",
+            "quality": "1.000, 1.012",
+            "source": 94,
+            "target": 63,
+            "type": "vpn"
+        },
+        {
+            "id": "c6:4a:00:8d:75:7f-f6:ec:38:e5:a3:8c",
+            "quality": "1.020, 1.081",
+            "source": 12,
+            "target": 26,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:d9:52:64-88:32:9b:f4:80:d5",
+            "quality": "TT",
+            "source": 51,
+            "target": 52,
+            "type": "client"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:de:27:30:7a:4e",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 72,
+            "type": "vpn"
+        },
+        {
+            "id": "20:6e:9c:0c:a3:d7-ea:94:f6:50:c7:bc",
+            "quality": "TT",
+            "source": 21,
+            "target": 22,
+            "type": "client"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:de:27:4b:33:06",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 49,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:2b:52:00-12:fe:ed:7b:48:c6",
+            "quality": "1.000, 1.000",
+            "source": 100,
+            "target": 42,
+            "type": null
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-c2:4a:00:2d:f1:72",
+            "quality": "1.000, 1.000",
+            "source": 99,
+            "target": 94,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:3c:2e:14-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.004",
+            "source": 14,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-c2:4a:00:b5:05:94",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "78:e4:00:47:31:d1-c2:4a:00:b4:05:94",
+            "quality": "TT",
+            "source": 5,
+            "target": 39,
+            "type": "client"
+        },
+        {
+            "id": "12:01:ee:cd:ae:be-26:a4:3c:d9:4d:28",
+            "quality": "1.037, 1.058",
+            "source": 6,
+            "target": 43,
+            "type": null
+        },
+        {
+            "id": "d0:7a:b5:08:c8:91-ea:94:f6:0d:a6:4c",
+            "quality": "TT",
+            "source": 79,
+            "target": 80,
+            "type": "client"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:2b:91:80",
+            "quality": "1.000, 1.000",
+            "source": 101,
+            "target": 94,
+            "type": "vpn"
+        },
+        {
+            "id": "c2:4a:00:b5:05:94-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:01:ee:cd:ae:be-ea:94:f6:a2:1a:7a",
+            "quality": "1.028, 1.000",
+            "source": 92,
+            "target": 6,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:2c:4f:be-be:98:1f:07:ff:a3",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 83,
+            "type": "vpn"
+        },
+        {
+            "id": "12:02:ed:cd:ae:be-20:64:32:2c:ec:eb",
+            "quality": "TT",
+            "source": 6,
+            "target": 57,
+            "type": "client"
+        },
+        {
+            "id": "30:d6:c9:4c:dd:1d-66:70:02:ef:1b:00",
+            "quality": "TT",
+            "source": 4,
+            "target": 38,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:2c:4f:54-be:98:1f:07:ff:a3",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 10,
+            "type": "vpn"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:de:27:30:7a:4e",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 72,
+            "type": "vpn"
+        },
+        {
+            "id": "b8:5e:7b:b4:cd:78-ea:de:27:30:7a:76",
+            "quality": "TT",
+            "source": 75,
+            "target": 76,
+            "type": "client"
+        },
+        {
             "id": "26:a4:3c:bc:e2:66-be:98:1f:07:ff:a3",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 0,
+            "source": 94,
+            "target": 1,
             "type": "vpn"
         },
         {
             "id": "26:a4:3c:fe:c7:68-c2:4d:01:fc:22:06",
-            "quality": "1.109, 1.555",
-            "source": 13,
-            "target": 58,
+            "quality": "1.441, 1.342",
+            "source": 16,
+            "target": 68,
             "type": null
         },
         {
             "id": "ea:94:f6:4f:cd:fc-fa:d1:11:3a:b6:68",
-            "quality": "1.032, 1.020",
-            "source": 31,
-            "target": 1,
+            "quality": "1.085, 1.004",
+            "source": 33,
+            "target": 2,
             "type": null
         },
         {
-            "id": "5e:fb:c7:49:bb:b9-be:98:1f:07:ff:a3",
+            "id": "4c:8d:79:10:53:85-ea:de:27:2f:7a:46",
             "quality": "TT",
-            "source": 91,
-            "target": 92,
+            "source": 86,
+            "target": 87,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:2c:4f:54-b4:f0:ab:ee:f5:7b",
+            "id": "92:84:12:d4:5b:5f-be:98:1f:07:ff:a3",
             "quality": "TT",
-            "source": 8,
-            "target": 69,
+            "source": 94,
+            "target": 95,
             "type": "client"
         },
         {
-            "id": "26:a4:3c:fe:c7:68-34:a3:95:b0:5e:dd",
+            "id": "78:9e:d0:f7:ff:9d-ea:97:f7:0c:a5:e4",
             "quality": "TT",
-            "source": 58,
-            "target": 59,
+            "source": 89,
+            "target": 91,
             "type": "client"
         },
         {
-            "id": "26:a4:3c:d9:52:64-ea:94:f6:4f:cb:5a",
-            "quality": "1.000, 1.090",
-            "source": 7,
-            "target": 39,
-            "type": null
-        },
-        {
-            "id": "26:a4:3c:ec:ac:4d-94:35:0a:0e:7d:3c",
+            "id": "ac:7f:3e:32:58:e8-ea:94:f6:50:ce:40",
             "quality": "TT",
             "source": 54,
             "target": 55,
             "type": "client"
         },
         {
-            "id": "12:fe:ed:2c:52:00-68:09:27:b8:22:cf",
+            "id": "12:fe:ed:2b:52:00-26:a4:3c:a3:13:a7",
+            "quality": "1.000, 1.016",
+            "source": 42,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "26:a4:3c:d9:52:64-ea:94:f6:4f:cb:5a",
+            "quality": "1.000, 1.090",
+            "source": 8,
+            "target": 51,
+            "type": null
+        },
+        {
+            "id": "00:16:44:90:6c:31-12:fe:ed:2b:15:ae",
             "quality": "TT",
-            "source": 35,
-            "target": 36,
+            "source": 18,
+            "target": 19,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:d9:4d:28-60:21:c0:f0:2c:29",
+            "quality": "TT",
+            "source": 43,
+            "target": 45,
             "type": "client"
         },
         {
             "id": "be:98:1f:07:ff:a3-ea:de:27:30:7a:76",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 64,
+            "source": 94,
+            "target": 75,
             "type": "vpn"
         },
         {
             "id": "12:fe:ed:3b:2e:13-f6:ec:38:e9:6d:14",
-            "quality": "1.085, 1.181",
-            "source": 11,
-            "target": 82,
+            "quality": "1.238, 1.518",
+            "source": 14,
+            "target": 93,
             "type": null
         },
         {
-            "id": "26:a4:3c:fe:c7:68-ea:de:27:4a:33:06",
-            "quality": "6.375",
-            "source": 4,
-            "target": 58,
-            "type": null
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:cb:5a",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 8,
+            "type": "vpn"
         },
         {
-            "id": "74:e2:f5:2e:8a:f5-ea:94:f6:2a:91:0a",
-            "quality": "TT",
-            "source": 25,
-            "target": 26,
-            "type": "client"
+            "id": "be:98:1f:07:ff:a3-fa:d1:11:57:58:48",
+            "quality": "1.004, 1.016",
+            "source": 94,
+            "target": 13,
+            "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:94:f6:50:c7:bc",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 16,
+            "quality": "1.000, 1.004",
+            "source": 77,
+            "target": 21,
             "type": "vpn"
         },
         {
             "id": "be:98:1f:07:ff:a3-ea:94:f6:50:ce:3a",
-            "quality": "1.000, 1.012",
-            "source": 91,
-            "target": 9,
+            "quality": "1.004, 1.012",
+            "source": 94,
+            "target": 11,
             "type": "vpn"
         },
         {
             "id": "10:fe:ed:2b:52:9e-12:01:ee:2b:52:9e",
             "quality": "TT",
-            "source": 46,
-            "target": 48,
+            "source": 59,
+            "target": 60,
             "type": "client"
-        },
-        {
-            "id": "d2:f4:29:99:68:61-fa:d1:11:57:58:48",
-            "quality": "1.000, 1.000",
-            "source": 81,
-            "target": 66,
-            "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-fa:d1:11:3b:b6:68",
-            "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 1,
+            "quality": "1.000, 1.008",
+            "source": 77,
+            "target": 2,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:2c:4f:54-d8:96:95:2d:d0:c8",
+            "id": "ea:97:f7:0c:a5:e4-f8:a9:d0:1d:c8:d2",
             "quality": "TT",
-            "source": 8,
-            "target": 70,
+            "source": 89,
+            "target": 90,
             "type": "client"
         },
         {
+            "id": "26:a4:3c:bb:d3:36-26:a4:3c:bb:e2:66",
+            "quality": "1.474, 1.012",
+            "source": 24,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "d2:f4:29:99:68:61-ea:94:f6:50:ce:40",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 54,
+            "type": "vpn"
+        },
+        {
             "id": "26:a4:3c:fe:c7:68-ea:97:f7:0c:a5:e4",
-            "quality": "3.000, 1.301",
-            "source": 80,
-            "target": 58,
+            "quality": "1.527, 2.073",
+            "source": 89,
+            "target": 68,
             "type": null
         },
         {
             "id": "12:fe:ed:2c:4f:be-d2:f4:29:99:68:61",
-            "quality": "1.016, 1.000",
-            "source": 74,
-            "target": 66,
+            "quality": "1.000, 1.000",
+            "source": 83,
+            "target": 77,
             "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:94:f6:0d:a5:52",
             "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 63,
+            "source": 77,
+            "target": 73,
             "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:94:f6:0d:a5:50",
             "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 30,
+            "source": 77,
+            "target": 31,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:a4:13:a7-d2:f4:29:99:68:61",
+            "quality": "1.004, 1.008",
+            "source": 77,
+            "target": 0,
             "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:94:f6:0d:a6:4c",
-            "quality": "1.012, 1.000",
-            "source": 71,
-            "target": 66,
+            "quality": "1.000, 1.000",
+            "source": 79,
+            "target": 77,
             "type": "vpn"
         },
         {
-            "id": "26:a4:3c:bb:d3:36-30:c7:ae:87:aa:e4",
+            "id": "a4:ee:57:71:47:23-ea:94:f6:0d:a6:4c",
             "quality": "TT",
-            "source": 22,
-            "target": 24,
+            "source": 79,
+            "target": 81,
             "type": "client"
         },
         {
             "id": "c2:4a:00:8e:75:80-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 10,
-            "target": 66,
+            "quality": "1.008, 1.004",
+            "source": 12,
+            "target": 77,
             "type": "vpn"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:de:27:30:79:ec",
-            "quality": "1.004, 1.000",
-            "source": 66,
-            "target": 53,
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 63,
             "type": "vpn"
+        },
+        {
+            "id": "ea:94:f6:50:cb:5a-f0:7b:cb:54:c5:76",
+            "quality": "TT",
+            "source": 8,
+            "target": 62,
+            "type": "client"
         },
         {
             "id": "ce:fb:09:7b:0d:de-d2:f4:29:99:68:61",
             "quality": "TT",
-            "source": 66,
-            "target": 67,
+            "source": 77,
+            "target": 78,
+            "type": "client"
+        },
+        {
+            "id": "00:13:e8:15:7d:d3-26:a4:3c:d9:4d:28",
+            "quality": "TT",
+            "source": 43,
+            "target": 46,
             "type": "client"
         },
         {
             "id": "d2:f4:29:99:68:61-ea:e2:27:2f:75:0a",
             "quality": "1.000, 1.000",
-            "source": 14,
-            "target": 66,
+            "source": 17,
+            "target": 77,
             "type": "vpn"
         },
         {
+            "id": "c2:4a:00:2d:f1:72-d2:f4:29:99:68:61",
+            "quality": "1.004, 1.004",
+            "source": 99,
+            "target": 77,
+            "type": "vpn"
+        },
+        {
+            "id": "10:a5:d0:3d:1b:4f-12:fe:ed:2c:19:3e",
+            "quality": "TT",
+            "source": 69,
+            "target": 70,
+            "type": "client"
+        },
+        {
             "id": "12:fe:ed:2b:4f:54-ea:de:27:2f:7a:46",
-            "quality": "1.335, 1.128",
-            "source": 78,
-            "target": 8,
+            "quality": "1.081, 1.164",
+            "source": 86,
+            "target": 10,
             "type": null
         },
         {
             "id": "be:98:1f:07:ff:a3-fa:d1:11:89:6e:12",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 2,
+            "source": 94,
+            "target": 3,
             "type": "vpn"
         },
         {
             "id": "66:70:02:f0:1b:00-be:98:1f:07:ff:a3",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 32,
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 4,
             "type": "vpn"
         },
         {
             "id": "26:a4:3c:bc:e2:66-d2:f4:29:99:68:61",
             "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 0,
-            "type": "vpn"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-c2:4a:00:8e:75:80",
-            "quality": "1.000, 1.004",
-            "source": 91,
-            "target": 10,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:2b:15:ae-c2:4d:01:fc:22:06",
-            "quality": "1.020, 1.037",
-            "source": 13,
-            "target": 15,
-            "type": null
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-fa:d1:11:3b:b6:68",
-            "quality": "1.000, 1.004",
-            "source": 91,
+            "source": 77,
             "target": 1,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:2c:19:3e-d2:f4:29:99:68:61",
+            "id": "be:98:1f:07:ff:a3-c2:4a:00:8e:75:80",
             "quality": "1.000, 1.000",
-            "source": 66,
-            "target": 60,
+            "source": 94,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "26:a4:3c:ec:ac:4d-c2:4a:00:e4:5c:db",
-            "quality": "1.037, 1.090",
-            "source": 56,
-            "target": 54,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:2c:4f:54-d2:f4:29:99:68:61",
-            "quality": "1.000, 1.000",
-            "source": 8,
-            "target": 66,
-            "type": "vpn"
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:c7:bc",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 16,
-            "type": "vpn"
-        },
-        {
-            "id": "cc:08:e0:5c:d3:43-ea:94:f6:0d:a6:4c",
+            "id": "6c:e9:07:2c:d7:61-c2:4a:00:b4:05:94",
             "quality": "TT",
-            "source": 71,
-            "target": 72,
+            "source": 5,
+            "target": 41,
             "type": "client"
         },
         {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:cb:5a",
-            "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 7,
-            "type": "vpn"
-        },
-        {
-            "id": "88:32:9b:f4:80:d5-ea:94:f6:50:cb:5a",
+            "id": "88:53:2e:e6:4c:04-ea:de:27:2f:7a:46",
             "quality": "TT",
-            "source": 7,
-            "target": 52,
+            "source": 86,
+            "target": 88,
             "type": "client"
         },
         {
-            "id": "d0:22:be:27:99:fa-f6:ec:38:e5:a3:8c",
-            "quality": "TT",
-            "source": 27,
-            "target": 28,
-            "type": "client"
-        },
-        {
-            "id": "26:a4:3c:ec:a0:b5-ea:94:f6:cd:51:9f",
-            "quality": "1.016, 1.342",
-            "source": 12,
-            "target": 77,
+            "id": "12:fe:ed:2b:15:ae-c2:4d:01:fc:22:06",
+            "quality": "1.123, 1.000",
+            "source": 16,
+            "target": 18,
             "type": null
         },
         {
-            "id": "26:a4:3c:bb:d3:36-26:a4:3c:bb:e2:66",
-            "quality": "1.114, 1.054",
-            "source": 22,
-            "target": 0,
-            "type": null
-        },
-        {
-            "id": "be:98:1f:07:ff:a3-ea:94:f6:63:c7:36",
+            "id": "b2:48:7a:dc:27:da-be:98:1f:07:ff:a3",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 38,
+            "source": 94,
+            "target": 53,
             "type": "vpn"
         },
         {
-            "id": "d2:f4:29:99:68:61-fa:d1:11:89:6e:12",
+            "id": "be:98:1f:07:ff:a3-fa:d1:11:3b:b6:68",
             "quality": "1.000, 1.000",
-            "source": 66,
+            "source": 94,
             "target": 2,
             "type": "vpn"
         },
         {
-            "id": "12:02:ed:cd:ae:be-be:98:1f:07:ff:a3",
+            "id": "84:38:38:f7:0c:48-ea:94:f6:0d:a5:50",
+            "quality": "TT",
+            "source": 31,
+            "target": 32,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:2c:19:3e-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.016",
+            "source": 77,
+            "target": 69,
+            "type": "vpn"
+        },
+        {
+            "id": "26:a4:3c:ec:ac:4d-c2:4a:00:e4:5c:db",
+            "quality": "1.000, 1.192",
+            "source": 9,
+            "target": 64,
+            "type": null
+        },
+        {
+            "id": "68:a8:6d:70:e5:53-ea:94:f6:50:ce:14",
+            "quality": "TT",
+            "source": 29,
+            "target": 30,
+            "type": "client"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:50:c7:bc",
             "quality": "1.000, 1.000",
-            "source": 91,
-            "target": 5,
+            "source": 94,
+            "target": 21,
+            "type": "vpn"
+        },
+        {
+            "id": "a4:81:ee:5f:82:b0-f6:ec:38:e5:a3:8c",
+            "quality": "TT",
+            "source": 26,
+            "target": 27,
+            "type": "client"
+        },
+        {
+            "id": "8c:3a:e3:85:12:9f-ea:94:f6:4f:cd:fc",
+            "quality": "TT",
+            "source": 33,
+            "target": 34,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:3c:2e:14-90:f1:aa:e9:16:45",
+            "quality": "TT",
+            "source": 14,
+            "target": 96,
+            "type": "client"
+        },
+        {
+            "id": "26:a4:3c:ec:a0:b5-ea:94:f6:cd:51:9f",
+            "quality": "1.067, 1.604",
+            "source": 15,
+            "target": 85,
+            "type": null
+        },
+        {
+            "id": "b2:48:7a:dc:27:da-d2:f4:29:99:68:61",
+            "quality": "1.000, 1.000",
+            "source": 77,
+            "target": 53,
+            "type": "vpn"
+        },
+        {
+            "id": "f0:27:65:ed:29:f1-f6:ec:38:e5:a3:8c",
+            "quality": "TT",
+            "source": 26,
+            "target": 28,
+            "type": "client"
+        },
+        {
+            "id": "be:98:1f:07:ff:a3-ea:94:f6:63:c7:36",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 47,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:3c:2e:14-60:02:b4:8b:ef:57",
+            "quality": "TT",
+            "source": 14,
+            "target": 97,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:7b:48:c6-26:a4:3c:a3:13:a7",
+            "quality": "1.032, 1.012",
+            "source": 100,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "28:ba:b5:d8:17:4e-66:70:02:ef:1b:00",
+            "quality": "TT",
+            "source": 4,
+            "target": 35,
+            "type": "client"
+        },
+        {
+            "id": "12:fe:ed:e7:fb:1a-be:98:1f:07:ff:a3",
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 71,
+            "type": "vpn"
+        },
+        {
+            "id": "d2:f4:29:99:68:61-fa:d1:11:89:6e:12",
+            "quality": "1.004, 1.008",
+            "source": 77,
+            "target": 3,
+            "type": "vpn"
+        },
+        {
+            "id": "12:02:ed:cd:ae:be-be:98:1f:07:ff:a3",
+            "quality": "1.004, 1.004",
+            "source": 94,
+            "target": 6,
             "type": "vpn"
         },
         {
             "id": "c2:4a:00:b4:05:94-ea:94:f6:2a:91:0a",
-            "quality": "1.054, 1.109",
-            "source": 3,
+            "quality": "1.028, 1.275",
+            "source": 5,
             "target": 25,
             "type": null
         },
         {
             "id": "be:98:1f:07:ff:a3-ea:94:f6:50:ce:40",
-            "quality": "1.000, 1.004",
-            "source": 91,
-            "target": 41,
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 54,
             "type": "vpn"
         },
         {
             "id": "12:02:ed:2b:1b:9a-be:98:1f:07:ff:a3",
-            "quality": "1.000, 1.008",
-            "source": 91,
-            "target": 6,
+            "quality": "1.000, 1.000",
+            "source": 94,
+            "target": 7,
             "type": "vpn"
         }
     ],
     "meta": {
-        "timestamp": "2014-11-07T00:50:02"
+        "timestamp": "2014-11-15T13:41:01"
     },
     "nodes": [
         {
-            "clientcount": 2,
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.13529246299192,
+                11.645700093358755
+            ],
+            "id": "26:a4:3c:a3:13:a7",
+            "macs": "26:a4:3c:a4:13:a7, 24:a4:3c:a3:13:a7, 26:a4:3c:a3:13:a7",
+            "model": "Ubiquiti UniFi",
+            "name": "alpha",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -928,11 +1044,11 @@
             "macs": "f8:d1:11:3a:b6:68, fa:d1:11:3a:b6:68, fa:d1:11:3b:b6:68",
             "model": "TP-Link TL-WR1043N/ND v1",
             "name": "wr1043n-b668",
-            "uptime": "2564353.23"
+            "uptime": "3301813.04"
         },
         {
             "clientcount": 0,
-            "firmware": "0.29_beta2",
+            "firmware": "0.30-beta.1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -949,7 +1065,25 @@
             "uptime": null
         },
         {
-            "clientcount": 1,
+            "clientcount": 4,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.838789659969144,
+                10.773679912090302
+            ],
+            "id": "66:70:02:ef:1b:00",
+            "macs": "64:70:02:ef:1b:00, 66:70:02:f0:1b:00, 66:70:02:ef:1b:00",
+            "model": "TP-Link TL-WR741N/ND v4",
+            "name": "neorevoxos",
+            "uptime": null
+        },
+        {
+            "clientcount": 3,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -967,25 +1101,7 @@
             "uptime": null
         },
         {
-            "clientcount": 0,
-            "firmware": "0.29",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                52.11868770400388,
-                11.627136524766682
-            ],
-            "id": "ea:de:27:4b:33:06",
-            "macs": "ea:de:27:4b:33:06, ea:de:27:4a:33:06, e8:de:27:4a:33:06",
-            "model": "TP-Link TL-WR741N/ND v4",
-            "name": "f4plab",
-            "uptime": null
-        },
-        {
-            "clientcount": 1,
+            "clientcount": 2,
             "firmware": null,
             "flags": {
                 "client": false,
@@ -1033,7 +1149,25 @@
             "uptime": null
         },
         {
-            "clientcount": 3,
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.11355,
+                11.615991
+            ],
+            "id": "c2:4a:00:e5:5c:dc",
+            "macs": "c0:4a:00:e4:5c:dc, c2:4a:00:e4:5c:db, c2:4a:00:e5:5c:dc",
+            "model": "TP-Link TL-WDR3600 v1",
+            "name": "ponyhof_2",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1084,10 +1218,28 @@
             "macs": "c6:4a:00:8d:75:7f, c2:4a:00:8e:75:80, c0:4a:00:8d:75:80",
             "model": "TP-Link TL-WDR3600 v1",
             "name": "suedpol",
-            "uptime": "13654.76"
+            "uptime": "4943.56"
         },
         {
-            "clientcount": 1,
+            "clientcount": 0,
+            "firmware": "0.30-beta.1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.14561533814418,
+                11.96281135060417
+            ],
+            "id": "fa:d1:11:56:58:48",
+            "macs": "fa:d1:11:57:58:48, f8:d1:11:56:58:48, fa:d1:11:56:58:48",
+            "model": "TP-Link TL-WR1043N/ND v1",
+            "name": "SyneX_01",
+            "uptime": null
+        },
+        {
+            "clientcount": 2,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1105,8 +1257,8 @@
             "uptime": null
         },
         {
-            "clientcount": 1,
-            "firmware": "0.28",
+            "clientcount": 0,
+            "firmware": "0.29",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1120,10 +1272,10 @@
             "macs": "ea:94:f6:cd:51:9f, e8:94:f6:cd:51:a0, ea:94:f6:ce:51:a0",
             "model": "TP-Link TL-WDR4300 v1",
             "name": "GingerLovers",
-            "uptime": 1589055.09
+            "uptime": null
         },
         {
-            "clientcount": 1,
+            "clientcount": 0,
             "firmware": "0.29_beta1-9-g21150af",
             "flags": {
                 "client": false,
@@ -1142,7 +1294,7 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.29_beta1-7-g1b1734d-dirty",
+            "firmware": "0.29_beta1-9-g21150af",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1156,8 +1308,8 @@
             "uptime": null
         },
         {
-            "clientcount": 0,
-            "firmware": "0.29_beta2",
+            "clientcount": 1,
+            "firmware": "0.30-beta.1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1174,7 +1326,40 @@
             "uptime": null
         },
         {
-            "clientcount": 3,
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:16:44:90:6c:31",
+            "macs": "00:16:44:90:6c:31",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.83878634562499,
+                10.773510932922363
+            ],
+            "id": "12:fe:ed:b1:20:34",
+            "macs": "12:fe:ed:b1:20:34, 10:fe:ed:b1:20:34",
+            "model": "TP-Link TL-MR3020 v1",
+            "name": "freifunk-10feedb12034",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1189,36 +1374,6 @@
             "macs": "e8:94:f6:4f:c7:bc, ea:94:f6:50:c7:bc",
             "model": "TP-Link TL-WR841N/ND v9",
             "name": "sikyon",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "00:04:4b:25:2a:8e",
-            "macs": "00:04:4b:25:2a:8e",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "a0:88:b4:a4:d4:98",
-            "macs": "a0:88:b4:a4:d4:98",
-            "model": null,
-            "name": "",
             "uptime": null
         },
         {
@@ -1245,29 +1400,14 @@
                 "online": true
             },
             "geo": null,
-            "id": "00:26:82:ad:1a:5f",
-            "macs": "00:26:82:ad:1a:5f",
+            "id": "10:68:3f:fb:66:2e",
+            "macs": "10:68:3f:fb:66:2e",
             "model": null,
             "name": "",
             "uptime": null
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "78:4b:87:de:45:55",
-            "macs": "78:4b:87:de:45:55",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 2,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1286,36 +1426,6 @@
         },
         {
             "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "48:60:bc:be:f7:b9",
-            "macs": "48:60:bc:be:f7:b9",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "30:c7:ae:87:aa:e4",
-            "macs": "30:c7:ae:87:aa:e4",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 1,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1333,22 +1443,7 @@
             "uptime": null
         },
         {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "74:e2:f5:2e:8a:f5",
-            "macs": "74:e2:f5:2e:8a:f5",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 1,
+            "clientcount": 2,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1374,14 +1469,29 @@
                 "online": true
             },
             "geo": null,
-            "id": "d0:22:be:27:99:fa",
-            "macs": "d0:22:be:27:99:fa",
+            "id": "a4:81:ee:5f:82:b0",
+            "macs": "a4:81:ee:5f:82:b0",
             "model": null,
             "name": "",
             "uptime": null
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f0:27:65:ed:29:f1",
+            "macs": "f0:27:65:ed:29:f1",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1400,6 +1510,21 @@
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "68:a8:6d:70:e5:53",
+            "macs": "68:a8:6d:70:e5:53",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1418,6 +1543,21 @@
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "84:38:38:f7:0c:48",
+            "macs": "84:38:38:f7:0c:48",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
             "firmware": "0.27",
             "flags": {
                 "client": false,
@@ -1432,24 +1572,21 @@
             "macs": "ea:94:f6:4f:cd:fc, e8:94:f6:4f:cd:fc",
             "model": "TP-Link TL-WR841N/ND v9",
             "name": "wr841n-cdfc",
-            "uptime": "375566.03"
+            "uptime": "1113085.76"
         },
         {
-            "clientcount": 1,
-            "firmware": "0.29",
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
                 "online": true
             },
-            "geo": [
-                51.838789659969144,
-                10.773679912090302
-            ],
-            "id": "66:70:02:f0:1b:00",
-            "macs": "64:70:02:ef:1b:00, 66:70:02:f0:1b:00",
-            "model": "TP-Link TL-WR741N/ND v4",
-            "name": "neorevoxos",
+            "geo": null,
+            "id": "8c:3a:e3:85:12:9f",
+            "macs": "8c:3a:e3:85:12:9f",
+            "model": null,
+            "name": "",
             "uptime": null
         },
         {
@@ -1476,28 +1613,118 @@
                 "online": true
             },
             "geo": null,
-            "id": "24:69:a5:94:f0:36",
-            "macs": "24:69:a5:94:f0:36",
+            "id": "b0:df:3a:86:4b:00",
+            "macs": "b0:df:3a:86:4b:00",
             "model": null,
             "name": "",
             "uptime": null
         },
         {
-            "clientcount": 2,
-            "firmware": "0.29-2-gcb62cf8",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f0:25:b7:4d:57:a9",
+            "macs": "f0:25:b7:4d:57:a9",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "30:d6:c9:4c:dd:1d",
+            "macs": "30:d6:c9:4c:dd:1d",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "78:e4:00:47:31:d1",
+            "macs": "78:e4:00:47:31:d1",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:db:7f:9b:46:04",
+            "macs": "f8:db:7f:9b:46:04",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "6c:e9:07:2c:d7:61",
+            "macs": "6c:e9:07:2c:d7:61",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.30-beta.1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "12:fe:ed:2c:52:00",
-            "macs": "12:fe:ed:2c:52:00, 10:fe:ed:2b:52:00",
+            "id": "12:fe:ed:2b:52:00",
+            "macs": "12:fe:ed:2b:52:00, 10:fe:ed:2b:52:00",
             "model": "TP-Link TL-WR841N/ND v8",
             "name": "ffmd-dev",
             "uptime": null
         },
         {
+            "clientcount": 3,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "26:a4:3c:d9:4d:28",
+            "macs": "24:a4:3c:d9:4d:28, 26:a4:3c:d9:4d:28",
+            "model": "Ubiquiti UniFi",
+            "name": "Sonnenstudio",
+            "uptime": null
+        },
+        {
             "clientcount": 0,
             "firmware": null,
             "flags": {
@@ -1506,8 +1733,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "68:09:27:b8:22:cf",
-            "macs": "68:09:27:b8:22:cf",
+            "id": "1c:99:4c:3b:35:27",
+            "macs": "1c:99:4c:3b:35:27",
             "model": null,
             "name": "",
             "uptime": null
@@ -1521,14 +1748,29 @@
                 "online": true
             },
             "geo": null,
-            "id": "20:7d:74:6c:75:61",
-            "macs": "20:7d:74:6c:75:61",
+            "id": "60:21:c0:f0:2c:29",
+            "macs": "60:21:c0:f0:2c:29",
             "model": null,
             "name": "",
             "uptime": null
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "00:13:e8:15:7d:d3",
+            "macs": "00:13:e8:15:7d:d3",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
             "firmware": "0.27",
             "flags": {
                 "client": false,
@@ -1543,7 +1785,55 @@
             "macs": "e8:94:f6:62:c7:36, ea:94:f6:63:c7:36",
             "model": "TP-Link TL-WR841N/ND v9",
             "name": "Spierenstich",
-            "uptime": "712253.04"
+            "uptime": "1449713.67"
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f4:1b:a1:5a:03:df",
+            "macs": "f4:1b:a1:5a:03:df",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.11868770400388,
+                11.627136524766682
+            ],
+            "id": "ea:de:27:4b:33:06",
+            "macs": "ea:de:27:4b:33:06, e8:de:27:4a:33:06",
+            "model": "TP-Link TL-WR741N/ND v4",
+            "name": "f4plab",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "80:be:05:5d:a4:d1",
+            "macs": "80:be:05:5d:a4:d1",
+            "model": null,
+            "name": "",
+            "uptime": null
         },
         {
             "clientcount": 1,
@@ -1572,14 +1862,32 @@
                 "online": true
             },
             "geo": null,
-            "id": "cc:07:ab:f1:f6:bb",
-            "macs": "cc:07:ab:f1:f6:bb",
+            "id": "88:32:9b:f4:80:d5",
+            "macs": "88:32:9b:f4:80:d5",
             "model": null,
             "name": "",
             "uptime": null
         },
         {
-            "clientcount": 3,
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.120469669252074,
+                11.629915293306112
+            ],
+            "id": "b2:48:7a:dc:27:da",
+            "macs": "b0:48:7a:db:27:da, b2:48:7a:dc:27:da",
+            "model": "TP-Link TL-WR1043N/ND v1",
+            "name": "CafeCentral-SoerenHerbst",
+            "uptime": null
+        },
+        {
+            "clientcount": 2,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1594,21 +1902,6 @@
             "macs": "ea:94:f6:50:ce:40, e8:94:f6:4f:ce:40",
             "model": "TP-Link TL-WR841N/ND v9",
             "name": "Kekse23",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "f8:e0:79:0c:38:3c",
-            "macs": "f8:e0:79:0c:38:3c",
-            "model": null,
-            "name": "",
             "uptime": null
         },
         {
@@ -1643,6 +1936,21 @@
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "20:64:32:2c:ec:eb",
+            "macs": "20:64:32:2c:ec:eb",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
             "firmware": "0.29_beta1-9-g21150af",
             "flags": {
                 "client": true,
@@ -1660,7 +1968,7 @@
             "uptime": null
         },
         {
-            "clientcount": 2,
+            "clientcount": 1,
             "firmware": null,
             "flags": {
                 "client": false,
@@ -1670,21 +1978,6 @@
             "geo": null,
             "id": "12:01:ee:2b:52:9e",
             "macs": "12:01:ee:2b:52:9e",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "20:54:76:8a:87:7c",
-            "macs": "20:54:76:8a:87:7c",
             "model": null,
             "name": "",
             "uptime": null
@@ -1705,39 +1998,6 @@
             "macs": "10:fe:ed:2b:52:9e",
             "model": "TP-Link TL-WR841N/ND v8",
             "name": "Hinterhof01",
-            "uptime": null
-        },
-        {
-            "clientcount": 1,
-            "firmware": "0.29",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                52.130342,
-                11.620026
-            ],
-            "id": "a2:f3:c1:67:a1:b4",
-            "macs": "a2:f3:c1:67:a1:b4, a0:f3:c1:66:a1:b4",
-            "model": "TP-Link TL-WR841N/ND v8",
-            "name": "GrosseDiesdorfer251",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "74:de:2b:d9:63:af",
-            "macs": "74:de:2b:d9:63:af",
-            "model": null,
-            "name": "",
             "uptime": null
         },
         {
@@ -1767,8 +2027,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "88:32:9b:f4:80:d5",
-            "macs": "88:32:9b:f4:80:d5",
+            "id": "f0:7b:cb:54:c5:76",
+            "macs": "f0:7b:cb:54:c5:76",
             "model": null,
             "name": "",
             "uptime": null
@@ -1792,7 +2052,7 @@
             "uptime": null
         },
         {
-            "clientcount": 1,
+            "clientcount": 3,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1818,28 +2078,10 @@
                 "online": true
             },
             "geo": null,
-            "id": "94:35:0a:0e:7d:3c",
-            "macs": "94:35:0a:0e:7d:3c",
+            "id": "d0:2d:b3:6b:0e:8b",
+            "macs": "d0:2d:b3:6b:0e:8b",
             "model": null,
             "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 1,
-            "firmware": "0.29",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                52.11365016517004,
-                11.615957021604117
-            ],
-            "id": "c2:4a:00:e4:5c:db",
-            "macs": "c0:4a:00:e4:5c:dc, c2:4a:00:e4:5c:db",
-            "model": "TP-Link TL-WDR3600 v1",
-            "name": "ponyhof",
             "uptime": null
         },
         {
@@ -1851,15 +2093,30 @@
                 "online": true
             },
             "geo": null,
-            "id": "58:a2:b5:9d:0c:56",
-            "macs": "58:a2:b5:9d:0c:56",
+            "id": "28:9a:fa:1f:8d:0e",
+            "macs": "28:9a:fa:1f:8d:0e",
             "model": null,
             "name": "",
             "uptime": null
         },
         {
-            "clientcount": 1,
-            "firmware": "0.29_beta2",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "70:de:e2:e6:56:2f",
+            "macs": "70:de:e2:e6:56:2f",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.30-beta.1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -1873,21 +2130,6 @@
             "macs": "26:a4:3c:fe:c7:68, 24:a4:3c:fe:c7:68",
             "model": "Ubiquiti Nanostation M",
             "name": "balkonw",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "34:a3:95:b0:5e:dd",
-            "macs": "34:a3:95:b0:5e:dd",
-            "model": null,
-            "name": "",
             "uptime": null
         },
         {
@@ -1906,7 +2148,7 @@
             "macs": "12:fe:ed:2c:19:3e, 10:fe:ed:2b:19:3e",
             "model": "TP-Link TL-WR841N/ND v8",
             "name": "yomin",
-            "uptime": "97691.01"
+            "uptime": "657116.36"
         },
         {
             "clientcount": 0,
@@ -1917,10 +2159,28 @@
                 "online": true
             },
             "geo": null,
-            "id": "f0:27:65:5d:4a:19",
-            "macs": "f0:27:65:5d:4a:19",
+            "id": "10:a5:d0:3d:1b:4f",
+            "macs": "10:a5:d0:3d:1b:4f",
             "model": null,
             "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.130810907462134,
+                11.63906967267394
+            ],
+            "id": "12:fe:ed:e7:fb:1a",
+            "macs": "12:fe:ed:e7:fb:1a, 10:fe:ed:e6:fb:1a",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "marktplatz",
             "uptime": null
         },
         {
@@ -1942,7 +2202,7 @@
             "uptime": null
         },
         {
-            "clientcount": 0,
+            "clientcount": 1,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -1957,6 +2217,21 @@
             "macs": "ea:94:f6:0d:a5:52, e8:94:f6:0c:a5:52",
             "model": "TP-Link TL-WR841N/ND v9",
             "name": "Getraenkefeinkost",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e0:66:78:8f:ad:29",
+            "macs": "e0:66:78:8f:ad:29",
+            "model": null,
+            "name": "",
             "uptime": null
         },
         {
@@ -1986,8 +2261,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "54:26:96:94:d6:03",
-            "macs": "54:26:96:94:d6:03",
+            "id": "b8:5e:7b:b4:cd:78",
+            "macs": "b8:5e:7b:b4:cd:78",
             "model": null,
             "name": "",
             "uptime": null
@@ -2023,52 +2298,7 @@
             "uptime": null
         },
         {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "4c:8d:79:10:53:85",
-            "macs": "4c:8d:79:10:53:85",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "b4:f0:ab:ee:f5:7b",
-            "macs": "b4:f0:ab:ee:f5:7b",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "d8:96:95:2d:d0:c8",
-            "macs": "d8:96:95:2d:d0:c8",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 2,
+            "clientcount": 3,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -2094,8 +2324,8 @@
                 "online": true
             },
             "geo": null,
-            "id": "cc:08:e0:5c:d3:43",
-            "macs": "cc:08:e0:5c:d3:43",
+            "id": "d0:7a:b5:08:c8:91",
+            "macs": "d0:7a:b5:08:c8:91",
             "model": null,
             "name": "",
             "uptime": null
@@ -2116,8 +2346,23 @@
             "uptime": null
         },
         {
-            "clientcount": 1,
-            "firmware": "0.29_beta2",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f4:09:d8:24:1d:4c",
+            "macs": "f4:09:d8:24:1d:4c",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.30-beta.1",
             "flags": {
                 "client": false,
                 "gateway": false,
@@ -2131,21 +2376,6 @@
             "macs": "10:fe:ed:2b:4f:be, 12:fe:ed:2c:4f:be",
             "model": "TP-Link TL-WR841N/ND v8",
             "name": "bastinat0r",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "64:20:0c:11:86:f0",
-            "macs": "64:20:0c:11:86:f0",
-            "model": null,
-            "name": "",
             "uptime": null
         },
         {
@@ -2185,7 +2415,7 @@
             "uptime": null
         },
         {
-            "clientcount": 0,
+            "clientcount": 2,
             "firmware": "0.29",
             "flags": {
                 "client": false,
@@ -2201,21 +2431,36 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.29_beta2",
+            "firmware": null,
             "flags": {
-                "client": false,
+                "client": true,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "ea:94:f6:a2:1a:7a",
-            "macs": "ea:94:f6:a2:1a:7a, e8:94:f6:a2:1a:7a",
-            "model": "TP-Link TL-WR841N/ND v8",
-            "name": "bastinat0r-spielknoten",
+            "id": "4c:8d:79:10:53:85",
+            "macs": "4c:8d:79:10:53:85",
+            "model": null,
+            "name": "",
             "uptime": null
         },
         {
             "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "88:53:2e:e6:4c:04",
+            "macs": "88:53:2e:e6:4c:04",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 2,
             "firmware": "0.29_beta1-9-g21150af",
             "flags": {
                 "client": false,
@@ -2234,20 +2479,47 @@
         },
         {
             "clientcount": 0,
-            "firmware": "0.29_beta2",
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "f8:a9:d0:1d:c8:d2",
+            "macs": "f8:a9:d0:1d:c8:d2",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "78:9e:d0:f7:ff:9d",
+            "macs": "78:9e:d0:f7:ff:9d",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.30-beta.1",
             "flags": {
                 "client": false,
                 "gateway": false,
                 "online": true
             },
-            "geo": [
-                52.14561533814418,
-                11.96281135060417
-            ],
-            "id": "fa:d1:11:57:58:48",
-            "macs": "fa:d1:11:57:58:48, f8:d1:11:56:58:48",
-            "model": "TP-Link TL-WR1043N/ND v1",
-            "name": "SyneX_01",
+            "geo": null,
+            "id": "ea:94:f6:a2:1a:7a",
+            "macs": "ea:94:f6:a2:1a:7a, e8:94:f6:a2:1a:7a",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "bastinat0r-spielknoten",
             "uptime": null
         },
         {
@@ -2266,129 +2538,6 @@
             "macs": "f4:ec:38:e9:6d:14, f6:ec:38:e9:6d:14",
             "model": "TP-Link TL-WR1043N/ND v1",
             "name": "adreno2",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "88:32:9b:aa:ca:42",
-            "macs": "88:32:9b:aa:ca:42",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "90:72:40:6c:25:89",
-            "macs": "90:72:40:6c:25:89",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 1,
-            "firmware": "0.29",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                52.13105,
-                11.61755
-            ],
-            "id": "ea:94:f6:50:d3:28",
-            "macs": "e8:94:f6:4f:d3:28, ea:94:f6:50:d3:28",
-            "model": "TP-Link TL-WR841N/ND v9",
-            "name": "ira_vacuus",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "84:38:38:f4:29:c6",
-            "macs": "84:38:38:f4:29:c6",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "30:a8:db:8b:82:43",
-            "macs": "30:a8:db:8b:82:43",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 2,
-            "firmware": "0.29",
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "fa:d1:11:73:73:88",
-            "macs": "f8:d1:11:73:73:88, fa:d1:11:73:73:88",
-            "model": "TP-Link TL-WR740N/ND v4",
-            "name": "freifunk-f8d111737388 [a]",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "78:4b:87:6c:f9:60",
-            "macs": "78:4b:87:6c:f9:60",
-            "model": null,
-            "name": "",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "cc:07:ab:b0:84:6a",
-            "macs": "cc:07:ab:b0:84:6a",
-            "model": null,
-            "name": "",
             "uptime": null
         },
         {
@@ -2415,10 +2564,124 @@
                 "online": true
             },
             "geo": null,
-            "id": "5e:fb:c7:49:bb:b9",
-            "macs": "5e:fb:c7:49:bb:b9",
+            "id": "92:84:12:d4:5b:5f",
+            "macs": "92:84:12:d4:5b:5f",
             "model": null,
             "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "90:f1:aa:e9:16:45",
+            "macs": "90:f1:aa:e9:16:45",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": true,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "60:02:b4:8b:ef:57",
+            "macs": "60:02:b4:8b:ef:57",
+            "model": null,
+            "name": "",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.13105,
+                11.61755
+            ],
+            "id": "ea:94:f6:50:d3:28",
+            "macs": "e8:94:f6:4f:d3:28, ea:94:f6:50:d3:28",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "ira_vacuus",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.145566617816904,
+                11.96286141872406
+            ],
+            "id": "c2:4a:00:2d:f1:72",
+            "macs": "c0:4a:00:2c:f1:72, c2:4a:00:2d:f1:72",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "SyneX_02",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.30-beta.1",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "12:fe:ed:7b:48:c6",
+            "macs": "10:fe:ed:7b:48:c6, 12:fe:ed:7b:48:c6",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "ffmd_dev2",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                52.125008253358175,
+                11.631385143846273
+            ],
+            "id": "ea:94:f6:2b:91:80",
+            "macs": "e8:94:f6:2a:91:80, ea:94:f6:2b:91:80",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "T8_Friseur",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": "0.29",
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "fa:d1:11:73:73:88",
+            "macs": "f8:d1:11:73:73:88, fa:d1:11:73:73:88",
+            "model": "TP-Link TL-WR740N/ND v4",
+            "name": "freifunk-f8d111737388 [a]",
             "uptime": null
         },
         {
@@ -2437,39 +2700,6 @@
             "macs": "c0:4a:00:49:e8:38",
             "model": null,
             "name": "DonnieD",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "e8:de:27:4a:31:da",
-            "macs": "e8:de:27:4a:31:da",
-            "model": null,
-            "name": "balkonv",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                52.11872393690884,
-                11.627050694078207
-            ],
-            "id": "24:a4:3c:d9:4d:28",
-            "macs": "24:a4:3c:d9:4d:28",
-            "model": null,
-            "name": "Sonnenstudio",
             "uptime": null
         },
         {
@@ -2595,46 +2825,25 @@
                 "online": false
             },
             "geo": null,
+            "id": "be:78:1b:da:85:4a",
+            "macs": "be:78:1b:da:85:4a",
+            "model": null,
+            "name": "falbala",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
             "id": "e8:94:f6:4f:d3:24",
             "macs": "e8:94:f6:4f:d3:24",
             "model": null,
             "name": "wr841n-d324",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                52.130810907462134,
-                11.63906967267394
-            ],
-            "id": "10:fe:ed:e6:fb:1a",
-            "macs": "10:fe:ed:e6:fb:1a",
-            "model": null,
-            "name": "marktplatz",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                52.145566617816904,
-                11.96286141872406
-            ],
-            "id": "c0:4a:00:2c:f1:72",
-            "macs": "c0:4a:00:2c:f1:72",
-            "model": null,
-            "name": "SyneX_02",
             "uptime": null
         },
         {
@@ -2661,28 +2870,10 @@
                 "online": false
             },
             "geo": null,
-            "id": "c0:4a:00:cc:93:6e",
-            "macs": "c0:4a:00:cc:93:6e",
+            "id": "e8:de:27:4a:31:da",
+            "macs": "e8:de:27:4a:31:da",
             "model": null,
-            "name": "balkonz",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                52.13529246299192,
-                11.645700093358755
-            ],
-            "id": "24:a4:3c:a3:13:a7",
-            "macs": "24:a4:3c:a3:13:a7",
-            "model": null,
-            "name": "alpha",
+            "name": "balkonv",
             "uptime": null
         },
         {
@@ -2694,10 +2885,10 @@
                 "online": false
             },
             "geo": null,
-            "id": "e8:94:f6:2a:91:80",
-            "macs": "e8:94:f6:2a:91:80",
+            "id": "c0:4a:00:cc:93:6e",
+            "macs": "c0:4a:00:cc:93:6e",
             "model": null,
-            "name": "wr841n-9180",
+            "name": "balkonz",
             "uptime": null
         },
         {
@@ -2713,21 +2904,6 @@
             "macs": "e8:94:f6:2a:c1:ae",
             "model": null,
             "name": "wr841n-c1ae",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "e8:94:f6:62:a4:5c",
-            "macs": "e8:94:f6:62:a4:5c",
-            "model": null,
-            "name": "Schotstek",
             "uptime": null
         },
         {
@@ -2769,6 +2945,21 @@
                 "online": false
             },
             "geo": null,
+            "id": "e8:94:f6:62:a4:5c",
+            "macs": "e8:94:f6:62:a4:5c",
+            "model": null,
+            "name": "Schotstek",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
             "id": "e8:94:f6:2a:92:b4",
             "macs": "e8:94:f6:2a:92:b4",
             "model": null,
@@ -2791,24 +2982,6 @@
             "macs": "e8:94:f6:0c:a6:3a",
             "model": null,
             "name": "Freifunk-Cracau-1",
-            "uptime": null
-        },
-        {
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.83878634562499,
-                10.773510932922363
-            ],
-            "id": "10:fe:ed:b1:20:34",
-            "macs": "10:fe:ed:b1:20:34",
-            "model": null,
-            "name": "freifunk-10feedb12034",
             "uptime": null
         },
         {
@@ -2923,6 +3096,24 @@
             "macs": "e8:94:f6:2a:ae:b6",
             "model": null,
             "name": "wr841n-aeb6",
+            "uptime": null
+        },
+        {
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "client": false,
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                52.130342,
+                11.620026
+            ],
+            "id": "a0:f3:c1:66:a1:b4",
+            "macs": "a0:f3:c1:66:a1:b4",
+            "model": null,
+            "name": "GrosseDiesdorfer251",
             "uptime": null
         }
     ]

@@ -22,8 +22,8 @@ class Region < Struct.new(:key, :name, :zoom, :location, :data_url, :twitter, :h
     Region.new(:darmstadt,    "Darmstadt",      10, [49.87,  8.65], "http://map.freifunk-darmstadt.de/nodes.json",                    "freifunkda",       "http://darmstadt.freifunk.net"),
     Region.new(:ff3l,         "Dreiländereck",   7, [47.58,  7.74], "http://gw2.freifunk-3laendereck.de/nodes.json",                  "Freifunk3L",       "http://freifunk-3laendereck.net"),
     Region.new(:uelzen,       "Uelzen",          9, [52.96, 10.55], "http://uegw1.freifunk-uelzen.de/map/nodes.json",                 "FreifunkUE",       "http://freifunk-uelzen.de"),    
+    Region.new(:westpfalz,    "Westpfalz",       9, [49.48,  7.63], "http://map.freifunk-westpfalz.de/nodes.json",                    "FFWestpfalz",      "http://www.freifunk-westpfalz.de/"),
     Region.new(:mzwi,         "Mainz/Wiesbaden",11, [50.03,  8.24], "http://map.freifunk-mainz.de/nodes.json",                        ["freifunkmainz", "freifunkwi"], ["http://www.freifunk-mainz.de", "http://freifunk-wiesbaden.de/"]),
-    Region.new(:westpfalz,         "Westpfalz", 9, [49.48 7.63], "http://map.freifunk-westpfalz.de/nodes.json",                        "FFWestpfalz", "http://www.freifunk-westpfalz.de/"),
   ]
 
   def self.all

@@ -1,0 +1,522 @@
+{
+    "links": [
+        {
+            "id": "12:fe:ed:9c:e5:e2-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9c:fb:4c-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9e:82",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-ea:94:f6:41:45:00",
+            "quality": "1.000, 1.000",
+            "source": 15,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:ce:63:a4-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000",
+            "source": 11,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:64:17:90",
+            "quality": "1.000, 1.000",
+            "source": 17,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:64:17:88",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9d:fa",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-ea:94:f6:d5:4a:08",
+            "quality": "1.000, 1.004",
+            "source": 7,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-ea:94:f6:62:91:bc",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "66:66:b3:50:0f:6b-c6:6e:1f:7e:9d:fa",
+            "quality": "1.000, 1.016",
+            "source": 0,
+            "target": 9,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:b7:4c:46-ee:94:f6:61:91:bc",
+            "quality": "1.000, 1.049",
+            "source": 2,
+            "target": 16,
+            "type": null
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9e:88",
+            "quality": "1.000, 1.000",
+            "source": 6,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9b:f1:e8-12:fe:ed:9b:fb:4c",
+            "quality": "1.000, 1.016",
+            "source": 1,
+            "target": 13,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:ce:b7:2c-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000",
+            "source": 10,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9c:e3:70-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.032",
+            "source": 5,
+            "target": 4,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b7:4c:46-ea:94:f6:61:91:ac",
+            "quality": "1.016, 1.000",
+            "source": 16,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "ea:94:f6:61:91:ac-ee:94:f6:61:91:bc",
+            "quality": "1.000, 1.016",
+            "source": 2,
+            "target": 3,
+            "type": null
+        }
+    ],
+    "meta": {
+        "timestamp": "2014-11-15T13:41:01"
+    },
+    "nodes": [
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.450647443881,
+                7.7669048309326
+            ],
+            "id": "c4:6e:1f:7e:9d:fa",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "KL-Esperanto",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "nightly",
+            "clientcount": 1,
+            "firmware": "0.1.1-141114-0215",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.43090310405,
+                7.7536064386368
+            ],
+            "id": "10:fe:ed:9b:fb:4c",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-fireball",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": false,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1+0-beta20141011",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "e8:94:f6:61:91:bc",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-Ulmet-3",
+            "region": "gluon-v2014.3"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "nightly",
+            "clientcount": 0,
+            "firmware": "0.1.1-141114-2300",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.58579,
+                7.455624
+            ],
+            "id": "e8:94:f6:61:91:ac",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-Ulmet-2",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.439506,
+                7.7635
+            ],
+            "id": "10:fe:ed:9b:e3:70",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-morpheus",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": null,
+            "base": "",
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "52:54:00:4d:f9:ba",
+            "model": "",
+            "name": "Gateway",
+            "region": ""
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.43175088183,
+                7.7623343467712
+            ],
+            "id": "c4:6e:1f:7e:9e:88",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-kl-lamm",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.449990253937,
+                7.7762067317963
+            ],
+            "id": "e8:94:f6:d4:4a:08",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "wp-KL-Benzinoring",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "stable",
+            "clientcount": 1,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.42566,
+                7.74385
+            ],
+            "id": "c4:6e:1f:63:17:88",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-Kurt34-1",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:50:0f:6c",
+            "model": "TP-Link TL-WDR3600 v1",
+            "name": "wp-ZauneiTest1",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.1+0-beta20141018-0215",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.440394122695,
+                7.7622699737549
+            ],
+            "id": "10:fe:ed:cd:b7:2c",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "Chaos_inKL",
+            "region": "gluon-v2014.3"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.452464,
+                7.385174
+            ],
+            "id": "10:fe:ed:cd:63:a4",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-stbag1",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.22565,
+                7.44488
+            ],
+            "id": "c4:6e:1f:7e:9e:82",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-stelzenhill",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "nightly",
+            "clientcount": 0,
+            "firmware": "0.1+0-beta20141018-0215",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.430965902907,
+                7.7537620067596
+            ],
+            "id": "10:fe:ed:9b:f1:e8",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-vaurien",
+            "region": "gluon-v2014.3"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 1,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.443315,
+                7.772533
+            ],
+            "id": "10:fe:ed:9b:e5:e2",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-funklauch",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "stable",
+            "clientcount": 2,
+            "firmware": "0.1+0-beta20141018-0215",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.437436080134,
+                7.741584777832
+            ],
+            "id": "e8:94:f6:40:45:00",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "Meisenweg",
+            "region": "gluon-v2014.3"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.585868,
+                7.455432
+            ],
+            "id": "10:fe:ed:b7:4c:46",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-Ulmet-4",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.472439767653,
+                7.44369328022
+            ],
+            "id": "c4:6e:1f:63:17:90",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-glm1",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                49.32597,
+                7.69639
+            ],
+            "id": "c4:6e:1f:7e:9d:d0",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-gslbrg1",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                49.4388347,
+                7.759941
+            ],
+            "id": "c4:6e:1f:7e:9d:30",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-Stadtgaertner",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "e8:94:f6:6a:be:0e",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "Kusel-1",
+            "region": "gluon-v2014.3.1"
+        }
+    ]
+}

@@ -1,1542 +1,654 @@
 {
     "links": [
         {
-            "id": "a6:f3:c1:cd:e4:1a-d487baebd97fd422334eb49955f82144",
-            "quality": "TT",
-            "source": 9,
-            "target": 10,
-            "type": "client"
-        },
-        {
-            "id": "a6:f3:c1:cd:e4:1a-ac9d99cc82688e19de97311c7ada0937",
-            "quality": "TT",
-            "source": 9,
-            "target": 12,
-            "type": "client"
-        },
-        {
-            "id": "a6:f3:c1:cd:e4:9c-f93fb64323f3d0dc4a690614e4d133dc",
-            "quality": "TT",
-            "source": 8,
-            "target": 36,
-            "type": "client"
-        },
-        {
-            "id": "62:70:02:44:21:e2-e5ea6199c216fc64bef11e0f49d1fed7",
-            "quality": "TT",
-            "source": 2,
-            "target": 25,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-c6:d0:2a:85:87:56",
-            "quality": "1.000, 1.000",
+            "id": "10:fe:ed:9c:28:fc-10:fe:ed:e6:5b:68",
+            "quality": "1.118",
             "source": 2,
             "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "a6:f3:c1:cd:ab:4e-cfa3f9e1c84d6f36b060ee283346916f",
-            "quality": "TT",
-            "source": 5,
-            "target": 29,
-            "type": "client"
-        },
-        {
-            "id": "6a3a26505bbccd1884c1210d82ae856a-fe:1a:67:d3:36:4a",
-            "quality": "TT",
-            "source": 0,
-            "target": 13,
-            "type": "client"
-        },
-        {
-            "id": "a6:f3:c1:cd:e4:1a-a6:f3:c1:cd:e4:a4",
-            "quality": "1.225",
-            "source": 9,
-            "target": 15,
             "type": null
         },
         {
-            "id": "04:be:e1:ba:fe:90-ea:94:f6:51:70:1e",
+            "id": "04:be:e1:ba:fe:70-ea:94:f6:90:0b:9c",
             "quality": "1.000, 1.000",
-            "source": 4,
-            "target": 20,
+            "source": 5,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "29af31adfc67387ec653a22e2ba84e1c-a6:f3:c1:cd:e4:a4",
-            "quality": "TT",
-            "source": 15,
-            "target": 17,
-            "type": "client"
+            "id": "10:fe:ed:7b:7c:0a-10:fe:ed:e6:5b:68",
+            "quality": "1.000, 1.067",
+            "source": 17,
+            "target": 2,
+            "type": null
         },
         {
-            "id": "d83ce2d859c7bdd553b0380e52634aa2-fa:d1:11:81:16:20",
-            "quality": "TT",
+            "id": "10:fe:ed:7b:7c:0a-e8:94:f6:68:29:eb",
+            "quality": "1.085",
             "source": 1,
-            "target": 24,
-            "type": "client"
+            "target": 17,
+            "type": null
         },
         {
-            "id": "04:be:e1:ba:fe:f0-ae:c7:82:e1:1b:f2",
-            "quality": "1.000, 1.000",
+            "id": "e8:94:f6:68:29:c0-e8:94:f6:68:29:ec",
+            "quality": "1.000, 1.016",
             "source": 3,
             "target": 1,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:7b:7c:0a-10:fe:ed:9c:29:0e",
+            "quality": "1.425",
+            "source": 18,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "04:be:e1:ba:fe:70-66:66:b3:74:f1:5c",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 10,
             "type": "vpn"
         },
         {
-            "id": "2d623529deafc7ad22bf81f248f3cbfb-fe:1a:67:d3:36:4a",
-            "quality": "TT",
-            "source": 0,
-            "target": 14,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-f2:ef:44:59:3d:8d",
-            "quality": "1.000, 1.000",
+            "id": "e8:94:f6:68:29:bf-e8:94:f6:68:29:e1",
+            "quality": "1.076, 1.000",
             "source": 8,
-            "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "04:be:e1:ba:fe:80-04:be:e1:ba:fe:90",
-            "quality": "1.015, 1.000",
-            "source": 38,
-            "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "12:50:11:81:16:20-5a:df:67:92:52:f8",
-            "quality": "1.000, 1.000",
-            "source": 7,
             "target": 3,
             "type": null
         },
         {
-            "id": "62:66:b3:a1:7b:24-6ebe6c0246b1442b22ab5e2599cf9a08",
-            "quality": "TT",
-            "source": 7,
-            "target": 33,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-d2:f6:63:42:36:73",
-            "quality": "1.000, 1.000",
-            "source": 20,
-            "target": 0,
-            "type": "vpn"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-d2:62:af:ba:d4:6a",
-            "quality": "1.000, 1.000",
-            "source": 5,
-            "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "63264611347ae2f425ecfc631734fec3-a6:f3:c1:cd:e4:1a",
-            "quality": "TT",
-            "source": 9,
-            "target": 11,
-            "type": "client"
-        },
-        {
-            "id": "62:70:02:44:21:e2-6908c8a8a48cf624ce07622846de9ee6",
-            "quality": "TT",
-            "source": 2,
-            "target": 26,
-            "type": "client"
-        },
-        {
-            "id": "81a817825d87fdaab497b20ab83e7675-a6:f3:c1:cd:e4:a4",
-            "quality": "TT",
-            "source": 15,
-            "target": 16,
-            "type": "client"
-        },
-        {
-            "id": "62:66:b3:98:00:ac-8731e94e7c475dec38566addc1214266",
-            "quality": "TT",
+            "id": "02:23:cd:20:ea:d2-04:be:e1:ba:fe:70",
+            "quality": "1.004, 1.000",
             "source": 6,
-            "target": 31,
-            "type": "client"
+            "target": 12,
+            "type": "vpn"
         },
         {
-            "id": "82ed00c980556a58b7b137659c1f6751-fa:d1:11:81:16:20",
-            "quality": "TT",
+            "id": "10:fe:ed:9c:29:0e-e8:94:f6:68:29:eb",
+            "quality": "1.054",
             "source": 1,
-            "target": 22,
-            "type": "client"
-        },
-        {
-            "id": "a6:f3:c1:cd:e4:a4-d6023a9c565dfdc720ffdec02a6fedef",
-            "quality": "TT",
-            "source": 15,
             "target": 18,
-            "type": "client"
+            "type": null
         },
         {
-            "id": "04:be:e1:ba:fe:f0-2cad7492d394af80c644a48d918ce2fa",
-            "quality": "TT",
-            "source": 3,
-            "target": 27,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-ae:c7:82:e1:1b:f2",
-            "quality": "1.000, 1.000",
-            "source": 1,
-            "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "7f97031db47c4412ad994cdcc6cb5e0f-a6:f3:c1:cd:ab:4e",
-            "quality": "TT",
-            "source": 5,
-            "target": 30,
-            "type": "client"
-        },
-        {
-            "id": "3032ecb4a43ea02f36bbaea4541f21d3-fa:d1:11:81:16:20",
-            "quality": "TT",
-            "source": 1,
-            "target": 23,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-92:4f:36:71:2a:71",
-            "quality": "1.000, 1.000",
-            "source": 6,
-            "target": 20,
-            "type": "vpn"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-5d88c5407c52594b7c04e73cdf845edf",
-            "quality": "TT",
-            "source": 20,
-            "target": 21,
-            "type": "client"
-        },
-        {
-            "id": "503b996a32a4e62bea576e6249cce915-a6:f3:c1:cd:e4:9c",
-            "quality": "TT",
-            "source": 8,
-            "target": 37,
-            "type": "client"
-        },
-        {
-            "id": "62:66:b3:98:00:ac-f24f0cb29664ba1e2db7c75505620dde",
-            "quality": "TT",
-            "source": 6,
-            "target": 32,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:f0-ea:94:f6:51:70:1e",
-            "quality": "1.000, 1.000",
-            "source": 4,
+            "id": "10:fe:ed:9c:29:0e-e8:94:f6:68:29:bf",
+            "quality": "1.197, 1.386",
+            "source": 18,
             "target": 3,
+            "type": null
+        },
+        {
+            "id": "04:be:e1:ba:fe:70-a2:f3:c1:65:4e:3e",
+            "quality": "1.000, 1.000",
+            "source": 13,
+            "target": 12,
             "type": "vpn"
         },
         {
-            "id": "8a28f9af955b59cbb198c81e74f2c40d-a6:f3:c1:cd:e4:9c",
-            "quality": "TT",
-            "source": 8,
-            "target": 35,
-            "type": "client"
+            "id": "04:be:e1:ba:fe:70-12:fe:ed:8b:38:b0",
+            "quality": "1.000, 1.016",
+            "source": 15,
+            "target": 12,
+            "type": "vpn"
         },
         {
-            "id": "04:be:e1:ba:fe:80-c954ee0ed1f8bc3139225f7179cf8ad8",
-            "quality": "TT",
-            "source": 38,
-            "target": 39,
-            "type": "client"
+            "id": "10:fe:ed:9c:28:fc-e8:94:f6:68:29:bf",
+            "quality": "1.214",
+            "source": 3,
+            "target": 20,
+            "type": null
         },
         {
-            "id": "a6:f3:c1:cd:e4:1a-a6:f3:c1:cd:e4:9c",
-            "quality": "1.214, 1.085",
+            "id": "e8:94:f6:68:29:c0-e8:94:f6:68:29:e2",
+            "quality": "1.016, 1.000",
             "source": 8,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "04:be:e1:ba:fe:70-56:e6:fc:ad:d4:e8",
+            "quality": "1.000, 1.000",
+            "source": 7,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "10:fe:ed:7b:7c:9a-10:fe:ed:e6:5b:68",
+            "quality": "1.008, 1.232",
+            "source": 21,
+            "target": 2,
+            "type": null
+        },
+        {
+            "id": "a0:f3:c1:af:67:e7-c0:4a:00:38:e6:ad",
+            "quality": "1.143, 1.109",
+            "source": 4,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "74:ea:3a:a2:af:a4-a0:f3:c1:96:86:04",
+            "quality": "2.056, 1.371",
+            "source": 14,
             "target": 9,
             "type": null
         },
         {
-            "id": "04:be:e1:ba:fe:80-04:be:e1:ba:fe:f0",
-            "quality": "1.003, 1.000",
-            "source": 38,
-            "target": 3,
-            "type": "vpn"
-        },
-        {
-            "id": "a6:f3:c1:cd:e4:9c-a6:f3:c1:cd:e4:a4",
-            "quality": "1.085, 1.000",
-            "source": 8,
-            "target": 15,
+            "id": "a0:f3:c1:96:86:04-e8:94:f6:8f:0b:9c",
+            "quality": "1.016, 1.016",
+            "source": 5,
+            "target": 9,
             "type": null
         },
         {
-            "id": "a062655a3f8e1a2a7eb9d7cdda5d226e-ea:94:f6:50:70:1e",
-            "quality": "TT",
-            "source": 4,
-            "target": 28,
-            "type": "client"
-        },
-        {
-            "id": "62:66:b3:a1:7b:24-d278f876d9cd9d9a7571bbbefc04b725",
-            "quality": "TT",
-            "source": 7,
-            "target": 34,
-            "type": "client"
-        },
-        {
-            "id": "04:be:e1:ba:fe:90-04:be:e1:ba:fe:f0",
-            "quality": "1.000, 1.015",
+            "id": "e8:94:f6:68:29:bf-e8:94:f6:68:29:eb",
+            "quality": "1.004, 1.128",
             "source": 3,
-            "target": 20,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:7b:7c:9a-10:fe:ed:9c:29:0e",
+            "quality": "1.262",
+            "source": 21,
+            "target": 18,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:9c:28:fc-10:fe:ed:9c:29:0e",
+            "quality": "1.114, 1.321",
+            "source": 20,
+            "target": 18,
+            "type": null
+        },
+        {
+            "id": "e8:94:f6:68:29:e2-e8:94:f6:68:29:ec",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:9c:28:fc-e8:94:f6:68:29:eb",
+            "quality": "1.000, 1.143",
+            "source": 20,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "04:be:e1:ba:fe:70-a2:f3:c1:b0:67:e8",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 0,
             "type": "vpn"
         },
         {
-            "id": "a6:f3:c1:cd:e4:a4-f56464cab2cb98e0963ca53bc08047b3",
-            "quality": "TT",
-            "source": 15,
-            "target": 19,
-            "type": "client"
+            "id": "a0:f3:c1:af:67:e8-c0:4a:00:38:e6:ae",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 0,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:7b:7c:0a-10:fe:ed:9c:28:fc",
+            "quality": "1.118, 1.154",
+            "source": 20,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:e6:5b:68-e8:94:f6:68:29:bf",
+            "quality": "1.256, 1.090",
+            "source": 3,
+            "target": 2,
+            "type": null
+        },
+        {
+            "id": "00:23:cd:1f:ea:d2-74:ea:3a:a2:af:a4",
+            "quality": "1.170, 1.000",
+            "source": 6,
+            "target": 14,
+            "type": null
+        },
+        {
+            "id": "04:be:e1:ba:fe:70-f6:ec:38:f1:db:36",
+            "quality": "1.000, 1.000",
+            "source": 19,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "10:fe:ed:7b:7c:0a-e8:94:f6:68:29:bf",
+            "quality": "1.062",
+            "source": 3,
+            "target": 17,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:7b:7c:0a-10:fe:ed:7b:7c:9a",
+            "quality": "1.118",
+            "source": 17,
+            "target": 21,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:7b:7c:9a-e8:94:f6:68:29:bf",
+            "quality": "1.032, 1.256",
+            "source": 21,
+            "target": 3,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:39:a2:b2-54:e6:fc:ac:d4:e8",
+            "quality": "1.028, 1.000",
+            "source": 7,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "10:fe:ed:7b:7c:9a-10:fe:ed:9c:28:68",
+            "quality": "1.301, 1.262",
+            "source": 21,
+            "target": 16,
+            "type": null
+        },
+        {
+            "id": "04:be:e1:ba:fe:70-12:fe:ed:e7:5b:68",
+            "quality": "1.000, 1.000",
+            "source": 12,
+            "target": 2,
+            "type": "vpn"
+        },
+        {
+            "id": "10:fe:ed:9c:29:0e-10:fe:ed:e6:5b:68",
+            "quality": "1.041, 1.474",
+            "source": 18,
+            "target": 2,
+            "type": null
         }
     ],
     "meta": {
-        "timestamp": "2014-11-07T00:50:51"
+        "timestamp": "2014-11-15T13:41:24"
     },
     "nodes": [
         {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": false,
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "a0:f3:c1:af:67:e8",
+            "name": "k295"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.266758,
+                7.14485
+            ],
+            "id": "e8:94:f6:68:29:ec",
+            "name": "Utopiawerkstadt"
+        },
+        {
+            "clientcount": 4,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.26675,
+                7.14505
+            ],
+            "id": "10:fe:ed:e6:5b:68",
+            "name": "/dev/tal"
+        },
+        {
+            "clientcount": 4,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.26679,
+                7.14509
+            ],
+            "id": "e8:94:f6:68:29:c0",
+            "name": "Hutmacher"
+        },
+        {
+            "clientcount": 3,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "c0:4a:00:38:e6:ae",
+            "name": "k-305"
+        },
+        {
+            "clientcount": 3,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.280325,
+                7.235512
+            ],
+            "id": "e8:94:f6:8f:0b:9c",
+            "name": "DUSTIN-AK9"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.279906,
+                7.234885
+            ],
+            "id": "00:23:cd:1f:ea:d2",
+            "name": "DUSTIN-AW9"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.198805,
+                7.131172
+            ],
+            "id": "54:e6:fc:ac:d4:e8",
+            "name": "BaseXX"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.26685,
+                7.14518
+            ],
+            "id": "e8:94:f6:68:29:e2",
+            "name": "Utopiastadt-WarteraumDritteKlasse"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.280396,
+                7.235451
+            ],
+            "id": "a0:f3:c1:96:86:04",
+            "name": "DUSTIN-AK9.2"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140909",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.266525,
+                7.182243
+            ],
+            "id": "64:66:b3:73:f1:5c",
+            "name": "Loechcafe"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                51.198951,
+                7.131146
+            ],
+            "id": "10:fe:ed:39:a2:b2",
+            "name": "brige-251"
+        },
+        {
+            "clientcount": 4,
+            "firmware": "3.16.7-gentoo",
+            "flags": {
                 "gateway": true,
                 "online": true
             },
-            "geo": [
-                51.263294,
-                7.1426475
-            ],
-            "id": "fe:1a:67:d3:36:4a",
-            "macs": "fe:1a:67:d3:36:4a, d2:f6:63:42:36:73",
-            "name": "node254"
+            "geo": null,
+            "id": "04:be:e1:ba:fe:70",
+            "name": "wupper7"
         },
         {
+            "clientcount": 7,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.216522,
-                7.151346
+                51.281565,
+                7.205605
             ],
-            "id": "fa:d1:11:81:16:20",
-            "macs": "ae:c7:82:e1:1b:f2, fa:d1:11:81:16:20",
-            "name": "ocyanter"
+            "id": "a0:f3:c1:64:4e:3e",
+            "name": "AppelLeonKling"
         },
         {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": false,
-                "gateway": true,
-                "online": true
-            },
-            "geo": [
-                51.250463,
-                7.1265276
-            ],
-            "id": "62:70:02:44:21:e2",
-            "macs": "62:70:02:44:21:e2, c6:d0:2a:85:87:56",
-            "name": "node86"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:f0",
-            "macs": "12:50:11:81:16:20, 04:be:e1:ba:fe:f0",
-            "name": "wupper9alt"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ea:94:f6:50:70:1e",
-            "macs": "ea:94:f6:50:70:1e, ea:94:f6:51:70:1e",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": true,
-                "online": true
-            },
-            "geo": [
-                51.256113,
-                7.136645
-            ],
-            "id": "a6:f3:c1:cd:ab:4e",
-            "macs": "a6:f3:c1:cd:ab:4e, d2:62:af:ba:d4:6a",
-            "name": "Spatenhai (k123)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": true,
-                "online": true
-            },
-            "geo": [
-                51.268625,
-                7.1855467
-            ],
-            "id": "62:66:b3:98:00:ac",
-            "macs": "92:4f:36:71:2a:71, 62:66:b3:98:00:ac",
-            "name": "node267"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": true,
-                "online": true
-            },
-            "geo": null,
-            "id": "62:66:b3:a1:7b:24",
-            "macs": "5a:df:67:92:52:f8, 62:66:b3:a1:7b:24",
-            "name": "node243"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": true,
-                "online": true
-            },
-            "geo": [
-                51.256841,
-                7.138184
-            ],
-            "id": "a6:f3:c1:cd:e4:9c",
-            "macs": "f2:ef:44:59:3d:8d, a6:f3:c1:cd:e4:9c",
-            "name": "imendIT (k121)"
-        },
-        {
-            "flags": {
-                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.256664,
-                7.137948
+                51.280076,
+                7.234933
             ],
-            "id": "a6:f3:c1:cd:e4:1a",
-            "macs": "a6:f3:c1:cd:e4:1a",
-            "name": "node132"
+            "id": "74:ea:3a:a2:af:a4",
+            "name": "DUSTIN-AW7"
         },
         {
+            "clientcount": 2,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": true,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "d487baebd97fd422334eb49955f82144",
-            "macs": "d487baebd97fd422334eb49955f82144",
-            "name": ""
+            "id": "10:fe:ed:8a:38:b0",
+            "name": "freifunk-10bbbbbbbbb0"
         },
         {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": true,
                 "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "63264611347ae2f425ecfc631734fec3",
-            "macs": "63264611347ae2f425ecfc631734fec3",
-            "name": ""
+            "id": "10:fe:ed:9c:28:68",
+            "name": "freifunk-10feed9c2868"
         },
         {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "ac9d99cc82688e19de97311c7ada0937",
-            "macs": "ac9d99cc82688e19de97311c7ada0937",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "6a3a26505bbccd1884c1210d82ae856a",
-            "macs": "6a3a26505bbccd1884c1210d82ae856a",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "2d623529deafc7ad22bf81f248f3cbfb",
-            "macs": "2d623529deafc7ad22bf81f248f3cbfb",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": false,
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                51.256951,
-                7.138398
+                51.26682,
+                7.14491
             ],
-            "id": "a6:f3:c1:cd:e4:a4",
-            "macs": "a6:f3:c1:cd:e4:a4",
-            "name": "beatz und kekse (k127)"
+            "id": "10:fe:ed:7b:7c:0a",
+            "name": "Utopiastadt-Coworking"
         },
         {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": true,
                 "gateway": false,
                 "online": true
-            },
-            "geo": null,
-            "id": "81a817825d87fdaab497b20ab83e7675",
-            "macs": "81a817825d87fdaab497b20ab83e7675",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "29af31adfc67387ec653a22e2ba84e1c",
-            "macs": "29af31adfc67387ec653a22e2ba84e1c",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "d6023a9c565dfdc720ffdec02a6fedef",
-            "macs": "d6023a9c565dfdc720ffdec02a6fedef",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "f56464cab2cb98e0963ca53bc08047b3",
-            "macs": "f56464cab2cb98e0963ca53bc08047b3",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:90",
-            "macs": "04:be:e1:ba:fe:90",
-            "name": "wupper9"
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "5d88c5407c52594b7c04e73cdf845edf",
-            "macs": "5d88c5407c52594b7c04e73cdf845edf",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "82ed00c980556a58b7b137659c1f6751",
-            "macs": "82ed00c980556a58b7b137659c1f6751",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "3032ecb4a43ea02f36bbaea4541f21d3",
-            "macs": "3032ecb4a43ea02f36bbaea4541f21d3",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "d83ce2d859c7bdd553b0380e52634aa2",
-            "macs": "d83ce2d859c7bdd553b0380e52634aa2",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "e5ea6199c216fc64bef11e0f49d1fed7",
-            "macs": "e5ea6199c216fc64bef11e0f49d1fed7",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "6908c8a8a48cf624ce07622846de9ee6",
-            "macs": "6908c8a8a48cf624ce07622846de9ee6",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "2cad7492d394af80c644a48d918ce2fa",
-            "macs": "2cad7492d394af80c644a48d918ce2fa",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "a062655a3f8e1a2a7eb9d7cdda5d226e",
-            "macs": "a062655a3f8e1a2a7eb9d7cdda5d226e",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "cfa3f9e1c84d6f36b060ee283346916f",
-            "macs": "cfa3f9e1c84d6f36b060ee283346916f",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "7f97031db47c4412ad994cdcc6cb5e0f",
-            "macs": "7f97031db47c4412ad994cdcc6cb5e0f",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "8731e94e7c475dec38566addc1214266",
-            "macs": "8731e94e7c475dec38566addc1214266",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "f24f0cb29664ba1e2db7c75505620dde",
-            "macs": "f24f0cb29664ba1e2db7c75505620dde",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "6ebe6c0246b1442b22ab5e2599cf9a08",
-            "macs": "6ebe6c0246b1442b22ab5e2599cf9a08",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "d278f876d9cd9d9a7571bbbefc04b725",
-            "macs": "d278f876d9cd9d9a7571bbbefc04b725",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "8a28f9af955b59cbb198c81e74f2c40d",
-            "macs": "8a28f9af955b59cbb198c81e74f2c40d",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "f93fb64323f3d0dc4a690614e4d133dc",
-            "macs": "f93fb64323f3d0dc4a690614e4d133dc",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "503b996a32a4e62bea576e6249cce915",
-            "macs": "503b996a32a4e62bea576e6249cce915",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:80",
-            "macs": "04:be:e1:ba:fe:80",
-            "name": "wupper8"
-        },
-        {
-            "flags": {
-                "client": true,
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "c954ee0ed1f8bc3139225f7179cf8ad8",
-            "macs": "c954ee0ed1f8bc3139225f7179cf8ad8",
-            "name": ""
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
             },
             "geo": [
-                51.19878,
-                7.13108
+                51.26663,
+                7.14457
             ],
-            "id": "56:e6:fc:ac:d4:e8",
-            "macs": "56:e6:fc:ac:d4:e8",
-            "name": "BaseXX (k84)"
+            "id": "10:fe:ed:9c:29:0e",
+            "name": "Utopiastadt-hinten"
         },
         {
+            "clientcount": 2,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
-                51.25622,
-                7.140207
+                51.281528,
+                7.205804
             ],
-            "id": "a6:f3:c1:cd:e4:64",
-            "macs": "a6:f3:c1:cd:e4:64",
-            "name": "Caf\u00e9 Engel (k124)"
+            "id": "f4:ec:38:f0:db:36",
+            "name": "balconia"
         },
         {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
             "flags": {
-                "client": false,
                 "gateway": false,
-                "online": false
+                "online": true
+            },
+            "geo": null,
+            "id": "10:fe:ed:9c:28:fc",
+            "name": "freifunk-10feed9c28fc"
+        },
+        {
+            "clientcount": 1,
+            "firmware": "0.5.90-ffw-20140910",
+            "flags": {
+                "gateway": false,
+                "online": true
             },
             "geo": [
-                51.280508,
-                7.235211
+                51.266797,
+                7.145035
             ],
-            "id": "92:0c:6d:ed:42:48",
-            "macs": "92:0c:6d:ed:42:48",
-            "name": "dustin5"
+            "id": "10:fe:ed:7b:7c:9a",
+            "name": "freifunk-10feed7b7c9a"
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": null,
-            "id": "16:fe:ed:39:ad:74",
-            "macs": "16:fe:ed:39:ad:74",
-            "name": "node248"
+            "id": "f4:ec:38:e9:7a:9e",
+            "name": "10tst10"
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266628,
-                7.144484
-            ],
-            "id": "a2:f3:c1:99:48:97",
-            "macs": "a2:f3:c1:99:48:97",
-            "name": "(k296)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266667,
-                7.144757
-            ],
-            "id": "12:fe:ed:39:a6:30",
-            "macs": "12:fe:ed:39:a6:30",
-            "name": "(k250)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.256635,
-                7.137573
-            ],
-            "id": "a0:f3:c1:cd:e4:a8",
-            "macs": "a0:f3:c1:cd:e4:a8",
-            "name": "node106"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.256513,
-                7.138683
-            ],
-            "id": "62:66:b3:a1:7b:6c",
-            "macs": "62:66:b3:a1:7b:6c",
-            "name": "node246"
-        },
-        {
-            "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": null,
             "id": "00:90:4b:d6:9c:17",
-            "macs": "00:90:4b:d6:9c:17",
-            "name": "zugvogel"
+            "name": ""
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": [
-                51.256983,
-                7.13665
+                51.26684,
+                7.14519
             ],
-            "id": "62:70:02:44:2b:4a",
-            "macs": "62:70:02:44:2b:4a",
-            "name": "node88"
+            "id": "10:fe:ed:7b:7c:4a",
+            "name": "Utopiastadt-Sofa"
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": [
-                51.255808,
-                7.135979
+                51.25651,
+                7.13869
             ],
-            "id": "a6:f3:c1:cd:e4:ce",
-            "macs": "a6:f3:c1:cd:e4:ce",
-            "name": "node129"
+            "id": "64:66:b3:a1:7b:6c",
+            "name": "auerschulstr"
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.280405,
-                7.235473
-            ],
-            "id": "06:23:cd:1f:ea:d2",
-            "macs": "06:23:cd:1f:ea:d2",
-            "name": "dustin2"
-        },
-        {
-            "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": null,
-            "id": "62:70:02:44:20:ea",
-            "macs": "62:70:02:44:20:ea",
-            "name": "node87"
+            "id": "c0:4a:00:38:e6:2e",
+            "name": "k-306"
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "c2:4a:00:38:e6:ad",
-            "macs": "c2:4a:00:38:e6:ad",
-            "name": "node305"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "de:5d:4c:f2:c3:ae",
-            "macs": "de:5d:4c:f2:c3:ae",
-            "name": "node147"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:10",
-            "macs": "04:be:e1:ba:fe:10",
-            "name": "wupper1"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "f2:ec:38:e9:7a:9e",
-            "macs": "f2:ec:38:e9:7a:9e",
-            "name": "10tst43"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "66:66:b3:a1:7b:56",
-            "macs": "66:66:b3:a1:7b:56",
-            "name": "node244"
-        },
-        {
-            "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": [
-                51.280997,
-                7.230859
+                51.256224,
+                7.140206
             ],
-            "id": "12:fe:ed:39:b0:06",
-            "macs": "12:fe:ed:39:b0:06",
-            "name": "node249"
+            "id": "a0:f3:c1:cd:e4:64",
+            "name": "k124"
         },
         {
+            "clientcount": 0,
+            "firmware": null,
             "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "62:66:b3:a1:8a:de",
-            "macs": "62:66:b3:a1:8a:de",
-            "name": "node245"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:70",
-            "macs": "04:be:e1:ba:fe:70",
-            "name": "wupper7"
-        },
-        {
-            "flags": {
-                "client": false,
                 "gateway": false,
                 "online": false
             },
             "geo": [
-                51.256124,
-                7.139402
+                51.256117,
+                7.139396
             ],
-            "id": "a6:f3:c1:cd:e4:90",
-            "macs": "a6:f3:c1:cd:e4:90",
-            "name": "Glashaus (k125)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.250631,
-                7.137926
-            ],
-            "id": "96:f6:52:87:72:08",
-            "macs": "96:f6:52:87:72:08",
-            "name": "Waldfrosch"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.27692,
-                7.21706
-            ],
-            "id": "fe:1a:67:af:08:62",
-            "macs": "fe:1a:67:af:08:62",
-            "name": "hugo"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.281596,
-                7.205607
-            ],
-            "id": "a6:f3:c1:64:4e:3e",
-            "macs": "a6:f3:c1:64:4e:3e",
-            "name": "AppelLeonKling"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266759,
-                7.14502
-            ],
-            "id": "a2:f3:c1:af:67:e7",
-            "macs": "a2:f3:c1:af:67:e7",
-            "name": "node295"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.256376,
-                7.137211
-            ],
-            "id": "a2:f3:c1:cd:e4:77",
-            "macs": "a2:f3:c1:cd:e4:77",
-            "name": "node122"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:d0",
-            "macs": "04:be:e1:ba:fe:d0",
-            "name": "TAL42.de"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.255927,
-                7.137677
-            ],
-            "id": "a0:f3:c1:cd:ab:a8",
-            "macs": "a0:f3:c1:cd:ab:a8",
-            "name": "node131"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.277139,
-                7.2164726
-            ],
-            "id": "62:70:02:8f:56:fb",
-            "macs": "62:70:02:8f:56:fb",
-            "name": "node269"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "00:1a:4d:5a:6a:f4",
-            "macs": "00:1a:4d:5a:6a:f4",
-            "name": "heizung"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.222337,
-                7.197423
-            ],
-            "id": "12:fe:ed:e5:ef:29",
-            "macs": "12:fe:ed:e5:ef:29",
-            "name": "Luftikus"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.281534,
-                7.205795
-            ],
-            "id": "f6:ec:38:f0:db:36",
-            "macs": "f6:ec:38:f0:db:36",
-            "name": "balconia"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266214,
-                7.144039
-            ],
-            "id": "62:70:02:b4:ae:4e",
-            "macs": "62:70:02:b4:ae:4e",
-            "name": "node85"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "f6:ec:38:e9:7a:d0",
-            "macs": "f6:ec:38:e9:7a:d0",
-            "name": "(k82)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.279924,
-                7.23488
-            ],
-            "id": "62:66:b3:73:f1:5c",
-            "macs": "62:66:b3:73:f1:5c",
-            "name": "dustin3"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "fa:1a:67:d3:34:fa",
-            "macs": "fa:1a:67:d3:34:fa",
-            "name": "node252"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266802159683,
-                7.1448093652725
-            ],
-            "id": "62:70:02:b4:ae:38",
-            "macs": "62:70:02:b4:ae:38",
-            "name": "node76"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266256,
-                7.14463
-            ],
-            "id": "de:5d:4c:f2:c3:a8",
-            "macs": "de:5d:4c:f2:c3:a8",
-            "name": "node162"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.266997,
-                7.198575
-            ],
-            "id": "76:ea:3a:de:19:aa",
-            "macs": "76:ea:3a:de:19:aa",
-            "name": "litle-bear-2"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.265983,
-                7.221877
-            ],
-            "id": "62:70:02:44:21:70",
-            "macs": "62:70:02:44:21:70",
-            "name": "Felix (k91)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.255867,
-                7.136035
-            ],
-            "id": "a6:f3:c1:cd:e4:6c",
-            "macs": "a6:f3:c1:cd:e4:6c",
-            "name": "Caf\u00e9 du Congo (k128)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "16:fe:ed:39:93:00",
-            "macs": "16:fe:ed:39:93:00",
-            "name": "node242"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.256228,
-                7.137232
-            ],
-            "id": "a0:f3:c1:cd:e4:5a",
-            "macs": "a0:f3:c1:cd:e4:5a",
-            "name": "node130"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "04:be:e1:ba:fe:00",
-            "macs": "04:be:e1:ba:fe:00",
-            "name": "wupper0"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.250822,
-                7.133066
-            ],
-            "id": "98:3b:16:1e:5f:2d",
-            "macs": "98:3b:16:1e:5f:2d",
-            "name": "Midas"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "62:66:b3:a1:7b:66",
-            "macs": "62:66:b3:a1:7b:66",
-            "name": "node247"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "f6:32:3a:08:6e:8d",
-            "macs": "f6:32:3a:08:6e:8d",
-            "name": "reddwarf"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "c2:4a:00:38:e6:2d",
-            "macs": "c2:4a:00:38:e6:2d",
-            "name": "node306"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.255455,
-                7.135175
-            ],
-            "id": "a2:f3:c1:cd:e4:6f",
-            "macs": "a2:f3:c1:cd:e4:6f",
-            "name": "node126"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.280055,
-                7.234924
-            ],
-            "id": "72:ea:3a:b2:33:36",
-            "macs": "72:ea:3a:b2:33:36",
-            "name": "dustin4"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "00:00:f0:00:04:00",
-            "macs": "00:00:f0:00:04:00",
-            "name": "KjuBie"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "00:00:f0:00:02:00",
-            "macs": "00:00:f0:00:02:00",
-            "name": "QBkling"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.277147,
-                7.216001
-            ],
-            "id": "62:70:02:44:21:62",
-            "macs": "62:70:02:44:21:62",
-            "name": "node89"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "12:fe:ed:39:a2:b2",
-            "macs": "12:fe:ed:39:a2:b2",
-            "name": "(k251)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "fa:1a:67:97:cd:66",
-            "macs": "fa:1a:67:97:cd:66",
-            "name": "node253"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.256365,
-                7.136908
-            ],
-            "id": "a6:f3:c1:cd:ab:02",
-            "macs": "a6:f3:c1:cd:ab:02",
-            "name": "Belle Etage (k107)"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.280312,
-                7.235599
-            ],
-            "id": "a2:f3:c1:96:86:04",
-            "macs": "a2:f3:c1:96:86:04",
-            "name": "dustin1"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": null,
-            "id": "12:fe:ed:84:70:99",
-            "macs": "12:fe:ed:84:70:99",
-            "name": "node304"
-        },
-        {
-            "flags": {
-                "client": false,
-                "gateway": false,
-                "online": false
-            },
-            "geo": [
-                51.280292,
-                7.235579
-            ],
-            "id": "fe:1a:67:d3:36:26",
-            "macs": "fe:1a:67:d3:36:26",
-            "name": "node241"
+            "id": "a0:f3:c1:cd:e4:90",
+            "name": "k125"
         }
     ]
 }
