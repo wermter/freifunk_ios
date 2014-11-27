@@ -36,7 +36,7 @@ Motion::Project::App.setup do |app|
 
   app.release do
     app.version                                   = VERSION
-    app.info_plist['CFBundleShortVersionString']  = VERSION
+    app.info_plist['CFBundleShortVersionString']  = "2.14.2"
     app.provisioning_profile                      = "#{ENV['HOME']}/Dropbox/ios_certs/freifunk_distribution.mobileprovision"
   end
 end
