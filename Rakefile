@@ -5,6 +5,7 @@ require 'bundler'
 Bundler.require :default
 require 'bubble-wrap/location'
 require 'bubble-wrap/reactor'
+require 'motion-testflight'
 
 VERSION = "2.14.0"
 
