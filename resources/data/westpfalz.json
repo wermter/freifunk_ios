@@ -1,134 +1,274 @@
 {
     "links": [
         {
-            "id": "12:fe:ed:9c:e5:e2-52:54:00:4d:f9:ba",
-            "quality": "1.000, 1.000",
-            "source": 14,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:9c:fb:4c-52:54:00:4d:f9:ba",
-            "quality": "1.000, 1.000",
-            "source": 1,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9e:82",
-            "quality": "1.000, 1.000",
-            "source": 12,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "52:54:00:4d:f9:ba-ea:94:f6:41:45:00",
-            "quality": "1.000, 1.000",
-            "source": 15,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
             "id": "12:fe:ed:ce:63:a4-52:54:00:4d:f9:ba",
-            "quality": "1.000, 1.000",
-            "source": 11,
-            "target": 5,
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 14,
             "type": "vpn"
         },
         {
             "id": "52:54:00:4d:f9:ba-c6:6e:1f:64:17:90",
-            "quality": "1.000, 1.000",
-            "source": 17,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "52:54:00:4d:f9:ba-c6:6e:1f:64:17:88",
-            "quality": "1.000, 1.000",
-            "source": 8,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9d:fa",
-            "quality": "1.000, 1.000",
-            "source": 0,
+            "quality": "1.000, 1.000, 1.000",
+            "source": 21,
             "target": 5,
             "type": "vpn"
         },
         {
             "id": "52:54:00:4d:f9:ba-ea:94:f6:d5:4a:08",
-            "quality": "1.000, 1.004",
-            "source": 7,
-            "target": 5,
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 0,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9e:88",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 10,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9c:e3:70-52:54:00:5d:e8:ab",
+            "quality": "1.000, 1.000",
+            "source": 8,
+            "target": 6,
             "type": "vpn"
         },
         {
             "id": "52:54:00:4d:f9:ba-ea:94:f6:62:91:bc",
-            "quality": "1.000, 1.000",
-            "source": 2,
+            "quality": "1.000, 1.000, 1.000",
+            "source": 4,
             "target": 5,
             "type": "vpn"
         },
         {
-            "id": "66:66:b3:50:0f:6b-c6:6e:1f:7e:9d:fa",
-            "quality": "1.000, 1.016",
+            "id": "52:54:00:5d:e8:ab-ea:94:f6:d5:4a:08",
+            "quality": "1.000, 1.000",
+            "source": 0,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-ea:94:f6:62:91:bc",
+            "quality": "1.000, 1.000",
+            "source": 4,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:85:72:2e-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 20,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:ce:b7:2c-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 13,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:b7:4c:46-ea:94:f6:61:91:ac",
+            "quality": "1.016, 1.000",
+            "source": 18,
+            "target": 7,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:9c:e5:e2-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 16,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9d:ca",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 3,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:ce:63:a4-52:54:00:5d:e8:ab",
+            "quality": "1.000, 1.000",
+            "source": 14,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-c6:6e:1f:e9:43:ec",
+            "quality": "1.000, 1.000",
+            "source": 15,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "c6:6e:1f:7e:9d:ca-c6:6e:1f:7e:9e:62",
+            "quality": "1.049, 1.008",
+            "source": 3,
+            "target": 11,
+            "type": null
+        },
+        {
+            "id": "12:fe:ed:9c:e5:e2-52:54:00:5d:e8:ab",
+            "quality": "1.000, 1.000",
+            "source": 16,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-66:6a:b3:50:0f:6c",
+            "quality": "1.000, 1.000",
+            "source": 1,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-c6:6e:1f:7f:9d:ca",
+            "quality": "1.015, 1.000",
+            "source": 3,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:72:1f:7e:9d:fa",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 2,
+            "type": "vpn"
+        },
+        {
+            "id": "c6:6e:1f:7e:9e:9e-ea:94:f6:d4:4a:07",
+            "quality": "1.049, 1.020",
             "source": 0,
             "target": 9,
             "type": null
         },
         {
             "id": "12:fe:ed:b7:4c:46-ee:94:f6:61:91:bc",
-            "quality": "1.000, 1.049",
-            "source": 2,
-            "target": 16,
+            "quality": "1.008, 1.000",
+            "source": 4,
+            "target": 18,
             "type": null
         },
         {
-            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9e:88",
+            "id": "52:54:00:5d:e8:ab-c6:6e:1f:64:17:90",
             "quality": "1.000, 1.000",
-            "source": 6,
+            "source": 21,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9d:30",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 22,
             "target": 5,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:9b:f1:e8-12:fe:ed:9b:fb:4c",
-            "quality": "1.000, 1.016",
-            "source": 1,
-            "target": 13,
-            "type": null
-        },
-        {
-            "id": "12:fe:ed:ce:b7:2c-52:54:00:4d:f9:ba",
-            "quality": "1.000, 1.000",
-            "source": 10,
-            "target": 5,
-            "type": "vpn"
-        },
-        {
-            "id": "12:fe:ed:9c:e3:70-52:54:00:4d:f9:ba",
-            "quality": "1.000, 1.032",
+            "id": "52:54:00:4d:f9:ba-66:6a:b3:50:0f:6c",
+            "quality": "1.000, 1.000, 1.000",
             "source": 5,
-            "target": 4,
+            "target": 1,
             "type": "vpn"
         },
         {
-            "id": "12:fe:ed:b7:4c:46-ea:94:f6:61:91:ac",
-            "quality": "1.016, 1.000",
-            "source": 16,
-            "target": 3,
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:64:17:88",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 12,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-c6:72:1f:7e:9d:fa",
+            "quality": "1.000, 1.000",
+            "source": 2,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:85:72:2e-52:54:00:5d:e8:ab",
+            "quality": "1.000, 1.000",
+            "source": 20,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:7f:9d:e4",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 17,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "66:67:b3:50:0f:6c-c4:6e:1f:7e:9d:fb",
+            "quality": "1.000, 1.016",
+            "source": 2,
+            "target": 1,
             "type": null
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-ea:94:f6:6b:be:0e",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 19,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-c6:6e:1f:7f:9d:30",
+            "quality": "1.000, 1.000",
+            "source": 22,
+            "target": 6,
+            "type": "vpn"
         },
         {
             "id": "ea:94:f6:61:91:ac-ee:94:f6:61:91:bc",
             "quality": "1.000, 1.016",
-            "source": 2,
-            "target": 3,
+            "source": 4,
+            "target": 7,
             "type": null
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-c6:6e:1f:e9:43:ec",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 15,
+            "target": 5,
+            "type": "vpn"
+        },
+        {
+            "id": "52:54:00:5d:e8:ab-ea:94:f6:6b:be:0e",
+            "quality": "1.000, 1.000",
+            "source": 19,
+            "target": 6,
+            "type": "vpn"
+        },
+        {
+            "id": "12:fe:ed:9c:e3:70-52:54:00:4d:f9:ba",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 8,
+            "type": "vpn"
+        },
+        {
+            "id": "66:69:b4:50:0f:6c-c6:71:20:7e:9d:fa",
+            "quality": "1.020, 1.037",
+            "source": 2,
+            "target": 1,
+            "type": null
+        },
+        {
+            "id": "52:54:00:4d:f9:ba-52:54:00:5d:e8:ab",
+            "quality": "1.000, 1.000, 1.000",
+            "source": 5,
+            "target": 6,
+            "type": "vpn"
         }
     ],
     "meta": {
-        "timestamp": "2014-11-15T13:41:01"
+        "timestamp": "2015-01-06T17:59:01"
     },
     "nodes": [
         {
@@ -136,7 +276,42 @@
             "base": "",
             "branch": "beta",
             "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "firmware": "0.1.4-150103-1607",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.449990253937,
+                7.7762067317963
+            ],
+            "id": "e8:94:f6:d4:4a:08",
+            "model": "TP-Link TL-WDR4300 v1",
+            "name": "wp-KL-Benzinoring",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.5exp-150105-2101",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": null,
+            "id": "64:66:b3:50:0f:6c",
+            "model": "TP-Link TL-WDR3600 v1",
+            "name": "wp-ZauneiTest1",
+            "region": "gluon-v2014.4"
+        },
+        {
+            "autoupdater": false,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 2,
+            "firmware": "0.1.5exp-150105-2101",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -148,25 +323,25 @@
             "id": "c4:6e:1f:7e:9d:fa",
             "model": "TP-Link TL-WR841N/ND v9",
             "name": "KL-Esperanto",
-            "region": "gluon-v2014.3.1"
+            "region": "gluon-v2014.4"
         },
         {
             "autoupdater": true,
             "base": "",
-            "branch": "nightly",
-            "clientcount": 1,
-            "firmware": "0.1.1-141114-0215",
+            "branch": "stable",
+            "clientcount": 0,
+            "firmware": "0.1.3-141201-0215",
             "flags": {
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                49.43090310405,
-                7.7536064386368
+                49.438537576488,
+                7.7638953924179
             ],
-            "id": "10:fe:ed:9b:fb:4c",
-            "model": "TP-Link TL-WR841N/ND v8",
-            "name": "wp-fireball",
+            "id": "c4:6e:1f:7e:9d:ca",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-fairness_Kaufhaus_A",
             "region": "gluon-v2014.3.1"
         },
         {
@@ -186,11 +361,43 @@
             "region": "gluon-v2014.3"
         },
         {
+            "autoupdater": null,
+            "base": "",
+            "branch": "",
+            "clientcount": 3,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "52:54:00:4d:f9:ba",
+            "model": "",
+            "name": "Gate01",
+            "region": ""
+        },
+        {
+            "autoupdater": null,
+            "base": "",
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": true,
+                "online": true
+            },
+            "geo": null,
+            "id": "52:54:00:5d:e8:ab",
+            "model": "",
+            "name": "Gate02",
+            "region": ""
+        },
+        {
             "autoupdater": true,
             "base": "",
             "branch": "nightly",
-            "clientcount": 0,
-            "firmware": "0.1.1-141114-2300",
+            "clientcount": 1,
+            "firmware": "0.1.4-150105-0215",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -208,8 +415,8 @@
             "autoupdater": true,
             "base": "",
             "branch": "beta",
-            "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "clientcount": 1,
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -224,27 +431,27 @@
             "region": "gluon-v2014.3.1"
         },
         {
-            "autoupdater": null,
+            "autoupdater": true,
             "base": "",
-            "branch": "",
+            "branch": "stable",
             "clientcount": 0,
-            "firmware": null,
+            "firmware": "0.1.3-141201-0215",
             "flags": {
-                "gateway": true,
+                "gateway": false,
                 "online": true
             },
             "geo": null,
-            "id": "52:54:00:4d:f9:ba",
-            "model": "",
-            "name": "Gateway",
-            "region": ""
+            "id": "c4:6e:1f:7e:9e:9e",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-outdoor-test",
+            "region": "gluon-v2014.3.1"
         },
         {
             "autoupdater": true,
             "base": "",
             "branch": "beta",
-            "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "clientcount": 1,
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -261,20 +468,20 @@
         {
             "autoupdater": true,
             "base": "",
-            "branch": "beta",
+            "branch": "stable",
             "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "firmware": "0.1.3-141201-0215",
             "flags": {
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                49.449990253937,
-                7.7762067317963
+                49.438488740479,
+                7.7634876966476
             ],
-            "id": "e8:94:f6:d4:4a:08",
-            "model": "TP-Link TL-WDR4300 v1",
-            "name": "wp-KL-Benzinoring",
+            "id": "c4:6e:1f:7e:9e:62",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "wp-fairness_Kaufhaus_B",
             "region": "gluon-v2014.3.1"
         },
         {
@@ -299,24 +506,8 @@
         {
             "autoupdater": true,
             "base": "",
-            "branch": "beta",
-            "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
-            "flags": {
-                "gateway": false,
-                "online": true
-            },
-            "geo": null,
-            "id": "64:66:b3:50:0f:6c",
-            "model": "TP-Link TL-WDR3600 v1",
-            "name": "wp-ZauneiTest1",
-            "region": "gluon-v2014.3.1"
-        },
-        {
-            "autoupdater": true,
-            "base": "",
             "branch": "stable",
-            "clientcount": 0,
+            "clientcount": 1,
             "firmware": "0.1+0-beta20141018-0215",
             "flags": {
                 "gateway": false,
@@ -336,7 +527,7 @@
             "base": "",
             "branch": "beta",
             "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -354,46 +545,27 @@
             "autoupdater": true,
             "base": "",
             "branch": "stable",
-            "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "clientcount": 1,
+            "firmware": "0.1.3-141201-0215",
             "flags": {
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                49.22565,
-                7.44488
+                49.57237,
+                7.05802
             ],
-            "id": "c4:6e:1f:7e:9e:82",
+            "id": "c4:6e:1f:e8:43:ec",
             "model": "TP-Link TL-WR841N/ND v9",
-            "name": "wp-stelzenhill",
+            "name": "wp-c46e1fe843ec",
             "region": "gluon-v2014.3.1"
         },
         {
             "autoupdater": true,
             "base": "",
-            "branch": "nightly",
-            "clientcount": 0,
-            "firmware": "0.1+0-beta20141018-0215",
-            "flags": {
-                "gateway": false,
-                "online": true
-            },
-            "geo": [
-                49.430965902907,
-                7.7537620067596
-            ],
-            "id": "10:fe:ed:9b:f1:e8",
-            "model": "TP-Link TL-WR841N/ND v8",
-            "name": "wp-vaurien",
-            "region": "gluon-v2014.3"
-        },
-        {
-            "autoupdater": true,
-            "base": "",
             "branch": "beta",
-            "clientcount": 1,
-            "firmware": "0.1.1-141104-1750",
+            "clientcount": 3,
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -411,27 +583,27 @@
             "autoupdater": true,
             "base": "",
             "branch": "stable",
-            "clientcount": 2,
-            "firmware": "0.1+0-beta20141018-0215",
+            "clientcount": 0,
+            "firmware": "0.1.1-141104-1750",
             "flags": {
                 "gateway": false,
                 "online": true
             },
             "geo": [
-                49.437436080134,
-                7.741584777832
+                49.411352777,
+                7.697016666
             ],
-            "id": "e8:94:f6:40:45:00",
+            "id": "c4:6e:1f:7e:9d:e4",
             "model": "TP-Link TL-WR841N/ND v9",
-            "name": "Meisenweg",
-            "region": "gluon-v2014.3"
+            "name": "wp-kl-forststrasse1",
+            "region": "gluon-v2014.3.1"
         },
         {
             "autoupdater": true,
             "base": "",
             "branch": "beta",
             "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -449,8 +621,46 @@
             "autoupdater": true,
             "base": "",
             "branch": "beta",
+            "clientcount": 1,
+            "firmware": "0.1.4-150103-1607",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.544893,
+                7.390295
+            ],
+            "id": "e8:94:f6:6a:be:0e",
+            "model": "TP-Link TL-WR841N/ND v9",
+            "name": "Kusel-1",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
             "clientcount": 0,
-            "firmware": "0.1.1-141104-1750",
+            "firmware": "0.1.4-150103-1607",
+            "flags": {
+                "gateway": false,
+                "online": true
+            },
+            "geo": [
+                49.437867,
+                7.771923
+            ],
+            "id": "10:fe:ed:84:72:2e",
+            "model": "TP-Link TL-WDR3600 v1",
+            "name": "wp-caprica",
+            "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": true,
+            "base": "",
+            "branch": "beta",
+            "clientcount": 0,
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
                 "online": true
@@ -468,30 +678,11 @@
             "autoupdater": true,
             "base": "",
             "branch": "beta",
-            "clientcount": 0,
-            "firmware": null,
+            "clientcount": 2,
+            "firmware": "0.1.4-150103-1607",
             "flags": {
                 "gateway": false,
-                "online": false
-            },
-            "geo": [
-                49.32597,
-                7.69639
-            ],
-            "id": "c4:6e:1f:7e:9d:d0",
-            "model": "TP-Link TL-WR841N/ND v9",
-            "name": "wp-gslbrg1",
-            "region": "gluon-v2014.3.1"
-        },
-        {
-            "autoupdater": true,
-            "base": "",
-            "branch": "beta",
-            "clientcount": 0,
-            "firmware": null,
-            "flags": {
-                "gateway": false,
-                "online": false
+                "online": true
             },
             "geo": [
                 49.4388347,
@@ -503,7 +694,45 @@
             "region": "gluon-v2014.3.1"
         },
         {
+            "autoupdater": false,
+            "base": "",
+            "branch": "nightly",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                49.43090310405,
+                7.7536064386368
+            ],
+            "id": "10:fe:ed:9b:fb:4c",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-fireball",
+            "region": "gluon-v2014.3.1"
+        },
+        {
             "autoupdater": true,
+            "base": "",
+            "branch": "nightly",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": [
+                49.430965902907,
+                7.7537620067596
+            ],
+            "id": "10:fe:ed:9b:f1:e8",
+            "model": "TP-Link TL-WR841N/ND v8",
+            "name": "wp-vaurien",
+            "region": "gluon-v2014.4"
+        },
+        {
+            "autoupdater": false,
             "base": "",
             "branch": "beta",
             "clientcount": 0,
@@ -513,10 +742,26 @@
                 "online": false
             },
             "geo": null,
-            "id": "e8:94:f6:6a:be:0e",
-            "model": "TP-Link TL-WR841N/ND v9",
-            "name": "Kusel-1",
+            "id": "e8:de:27:3e:bb:b6",
+            "model": "TP-Link TL-MR3020 v1",
+            "name": "ZauneiMobil_1",
             "region": "gluon-v2014.3.1"
+        },
+        {
+            "autoupdater": null,
+            "base": "",
+            "branch": "",
+            "clientcount": 0,
+            "firmware": null,
+            "flags": {
+                "gateway": false,
+                "online": false
+            },
+            "geo": null,
+            "id": "c6:6e:1f:7e:9d:fa",
+            "model": "",
+            "name": "",
+            "region": ""
         }
     ]
 }
