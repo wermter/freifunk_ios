@@ -11,6 +11,7 @@ VERSION = "2.15.0"
 
 Motion::Project::App.setup do |app|
   app.name                    = 'freifunk'
+  app.archs['iPhoneOS']       |= ['arm64']
   app.device_family           = [:iphone, :ipad]
   app.deployment_target       = '7.0'
   app.icons                   = Dir['resources/Icon*'].map { |file| File.basename(file) }
