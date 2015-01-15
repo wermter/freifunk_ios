@@ -24,7 +24,7 @@ class Node
   end
 
   def geo?
-    !geo.nil?
+    geo.is_a?(Array) && geo.size == 2
   end
 
   def online?
@@ -44,6 +44,10 @@ class Node
   end
 
   def valid?
+    if geo?
+      return false if geo.first.abs > 90
+      return false if geo.last.abs > 90
+    end
     !node_id.nil? && !name.nil? && name.length > 0
   end
 
