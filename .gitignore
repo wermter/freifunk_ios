@@ -2,8 +2,6 @@
 build
 tags
 vendor/pods
-app/pixate_code.rb
-app/testflight_launcher.rb
 resources/*.nib
 resources/*.momd
 resources/*.storyboardc

@@ -2,8 +2,6 @@ class AppDelegate
   attr_reader :file_loader, :node_repo, :link_repo
 
   def application(application, didFinishLaunchingWithOptions: launchOptions)
-    TestFlight.takeOff(NSBundle.mainBundle.objectForInfoDictionaryKey('testflight_apitoken'))
-
     reload
 
     UISearchBar.appearance.tintColor = Color::LIGHT

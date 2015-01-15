@@ -5,7 +5,6 @@ require 'bundler'
 Bundler.require :default
 require 'bubble-wrap/location'
 require 'bubble-wrap/reactor'
-require 'motion-testflight'
 
 VERSION = "2.15.0"
 
@@ -18,27 +17,17 @@ Motion::Project::App.setup do |app|
   app.codesign_certificate    = 'iPhone Distribution: Peter Schroeder'
   app.identifier              = 'de.nofail.freifunk'
 
-  app.testflight.sdk = 'vendor/TestFlightSDK'
-  app.info_plist['testflight_apitoken'] = ENV['TESTFLIGHT_APP_TOKEN_FREIFUNK']
-
   app.development do
     app.version                                   = "build #{%x(git describe --tags).chomp}"
     app.info_plist['CFBundleShortVersionString']  = VERSION
     app.provisioning_profile                      = "#{ENV['HOME']}/Dropbox/ios_certs/ad_hoc_distribution_freifunk.mobileprovision"
-
-    app.testflight.api_token          = ENV['TESTFLIGHT_API_TOKEN']
-    app.testflight.team_token         = ENV['TESTFLIGHT_TEAM_TOKEN_FREIFUNK']
-    app.testflight.app_token          = ENV['TESTFLIGHT_APP_TOKEN_FREIFUNK']
-    app.testflight.notify             = true
-    app.testflight.identify_testers   = true
-    app.testflight.distribution_lists = ['freifunk']
 
     app.entitlements['get-task-allow'] = false
   end
 
   app.release do
     app.version                                   = VERSION
-    app.info_plist['CFBundleShortVersionString']  = "2.15.1"
+    app.info_plist['CFBundleShortVersionString']  = "2.15.2"
     app.provisioning_profile                      = "#{ENV['HOME']}/Dropbox/ios_certs/freifunk_distribution.mobileprovision"
   end
 end
