@@ -7,7 +7,7 @@ require 'bubble-wrap/location'
 require 'bubble-wrap/reactor'
 require 'motion-testflight'
 
-VERSION = "2.14.0"
+VERSION = "2.15.0"
 
 Motion::Project::App.setup do |app|
   app.name                    = 'freifunk'
@@ -37,7 +37,7 @@ Motion::Project::App.setup do |app|
 
   app.release do
     app.version                                   = VERSION
-    app.info_plist['CFBundleShortVersionString']  = "2.14.2"
+    app.info_plist['CFBundleShortVersionString']  = "2.15.1"
     app.provisioning_profile                      = "#{ENV['HOME']}/Dropbox/ios_certs/freifunk_distribution.mobileprovision"
   end
 end
