@@ -1,7 +1,7 @@
 {
     "links": [],
     "meta": {
-        "timestamp": "2015-01-06T17:59:38.611091"
+        "timestamp": "2015-01-15T15:48:04.074036"
     },
     "nodes": [
         {
@@ -69,6 +69,21 @@
                 "online": true
             },
             "geo": [
+                52.306919,
+                10.53774
+            ],
+            "id": "e8:de:27:5f:ba:1e",
+            "macs": "e8:de:27:5f:ba:1e",
+            "name": "Freifunk-Venice"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.256682345553,
                 10.510713458061
             ],
@@ -84,12 +99,12 @@
                 "online": true
             },
             "geo": [
-                52.25284,
-                10.51009
+                52.341691,
+                10.446366
             ],
-            "id": "e8:94:f6:f5:7d:42",
-            "macs": "e8:94:f6:f5:7d:42",
-            "name": "voctri"
+            "id": "e8:94:f6:52:07:04",
+            "macs": "e8:94:f6:52:07:04",
+            "name": "Willy--Linus"
         },
         {
             "clientcount": null,
@@ -99,12 +114,12 @@
                 "online": true
             },
             "geo": [
-                52.341691,
-                10.446366
+                52.25284,
+                10.51009
             ],
-            "id": "e8:94:f6:52:07:04",
-            "macs": "e8:94:f6:52:07:04",
-            "name": "Willy--Linus"
+            "id": "e8:94:f6:f5:7d:42",
+            "macs": "e8:94:f6:f5:7d:42",
+            "name": "voctri"
         },
         {
             "clientcount": null,
@@ -144,12 +159,42 @@
                 "online": true
             },
             "geo": [
+                52.27296,
+                10.51703
+            ],
+            "id": "14:cc:20:63:07:c4",
+            "macs": "14:cc:20:63:07:c4",
+            "name": "freifunk-14cc206307c4"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.24936,
                 10.65098
             ],
             "id": "c4:6e:1f:7b:18:f8",
             "macs": "c4:6e:1f:7b:18:f8",
             "name": "CremlingenHauptstrasse_3"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.250768,
+                10.483054
+            ],
+            "id": "e8:de:27:d5:e4:0a",
+            "macs": "e8:de:27:d5:e4:0a",
+            "name": "Piratenpartei-Braunschweig"
         },
         {
             "clientcount": null,
@@ -189,12 +234,12 @@
                 "online": true
             },
             "geo": [
-                52.2451,
-                10.5394
+                52.270685,
+                10.523255
             ],
-            "id": "e8:de:27:d5:e2:c6",
-            "macs": "e8:de:27:d5:e2:c6",
-            "name": "freifunk-e8de27d5e2c6"
+            "id": "e8:94:f6:2a:5d:ac",
+            "macs": "e8:94:f6:2a:5d:ac",
+            "name": "freufunk-gecko"
         },
         {
             "clientcount": null,
@@ -204,12 +249,27 @@
                 "online": true
             },
             "geo": [
-                52.270685,
-                10.523255
+                52.26699,
+                10.54782
             ],
-            "id": "e8:94:f6:2a:5d:ac",
-            "macs": "e8:94:f6:2a:5d:ac",
-            "name": "freufunk-gecko"
+            "id": "c4:6e:1f:ed:7e:98",
+            "macs": "c4:6e:1f:ed:7e:98",
+            "name": "freifunk-justeazy-2"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2451,
+                10.5394
+            ],
+            "id": "e8:de:27:d5:e2:c6",
+            "macs": "e8:de:27:d5:e2:c6",
+            "name": "freifunk-e8de27d5e2c6"
         },
         {
             "clientcount": null,
@@ -243,6 +303,21 @@
         },
         {
             "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.35882,
+                10.497648
+            ],
+            "id": "f4:ec:38:cb:65:3a",
+            "macs": "f4:ec:38:cb:65:3a",
+            "name": "Dorfstrasse-3-pmde_ffbs3"
+        },
+        {
+            "clientcount": null,
             "firmware": "OpenWRT Attitude adjustment, salted with select Gluon parts",
             "flags": {
                 "client": false,
@@ -264,12 +339,12 @@
                 "online": true
             },
             "geo": [
-                52.2707462,
-                10.501539
+                52.278790109047,
+                10.548688173294
             ],
-            "id": "68:72:51:0a:34:e3",
-            "macs": "68:72:51:0a:34:e3",
-            "name": "neustadtring1-1"
+            "id": "e8:94:f6:2a:b1:4a",
+            "macs": "e8:94:f6:2a:b1:4a",
+            "name": "an_der_schule"
         },
         {
             "clientcount": null,
@@ -279,12 +354,12 @@
                 "online": true
             },
             "geo": [
-                52.278790109047,
-                10.548688173294
+                52.2707462,
+                10.501539
             ],
-            "id": "e8:94:f6:2a:b1:4a",
-            "macs": "e8:94:f6:2a:b1:4a",
-            "name": "an_der_schule"
+            "id": "68:72:51:0a:34:e3",
+            "macs": "68:72:51:0a:34:e3",
+            "name": "neustadtring1-1"
         },
         {
             "clientcount": null,
@@ -339,12 +414,12 @@
                 "online": true
             },
             "geo": [
-                52.286709,
-                10.589688
+                52.266161,
+                10.535928
             ],
-            "id": "e8:94:f6:50:59:58",
-            "macs": "e8:94:f6:50:59:58",
-            "name": "freifunk-Volkmarode1"
+            "id": "c4:6e:1f:e8:43:5e",
+            "macs": "c4:6e:1f:e8:43:5e",
+            "name": "fasanenstr"
         },
         {
             "clientcount": null,
@@ -369,12 +444,27 @@
                 "online": true
             },
             "geo": [
+                52.286709,
+                10.589688
+            ],
+            "id": "e8:94:f6:50:59:58",
+            "macs": "e8:94:f6:50:59:58",
+            "name": "freifunk-Volkmarode1"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.26696,
                 10.54748
             ],
             "id": "c4:6e:1f:42:0d:ea",
             "macs": "c4:6e:1f:42:0d:ea",
-            "name": "freifunk-justeazy"
+            "name": "freifunk-justeazy-1"
         },
         {
             "clientcount": null,
@@ -417,6 +507,21 @@
             "id": "e8:94:f6:51:f8:3a",
             "macs": "e8:94:f6:51:f8:3a",
             "name": "bw_knoten"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.27932,
+                10.51874
+            ],
+            "id": "e8:94:f6:2a:b1:cc",
+            "macs": "e8:94:f6:2a:b1:cc",
+            "name": "freifunk-bene"
         },
         {
             "clientcount": null,
@@ -471,21 +576,6 @@
             "id": "e8:94:f6:51:fc:08",
             "macs": "e8:94:f6:51:fc:08",
             "name": "bayan"
-        },
-        {
-            "clientcount": null,
-            "firmware": "gluon-v2014.2-175-g34f464c",
-            "flags": {
-                "client": false,
-                "online": true
-            },
-            "geo": [
-                52.2758514,
-                10.547132
-            ],
-            "id": "c4:6e:1f:7b:1b:c4",
-            "macs": "c4:6e:1f:7b:1b:c4",
-            "name": "Medienkoch"
         },
         {
             "clientcount": null,
@@ -552,9 +642,9 @@
                 "online": true
             },
             "geo": null,
-            "id": "e8:de:27:55:a2:5e",
-            "macs": "e8:de:27:55:a2:5e",
-            "name": "freifunk-bs-wanderknoten-008"
+            "id": "c4:6e:1f:93:1e:e8",
+            "macs": "c4:6e:1f:93:1e:e8",
+            "name": "freifunk-c46e1f931ee8"
         },
         {
             "clientcount": null,
@@ -564,9 +654,9 @@
                 "online": true
             },
             "geo": null,
-            "id": "c4:6e:1f:93:1e:e8",
-            "macs": "c4:6e:1f:93:1e:e8",
-            "name": "freifunk-c46e1f931ee8"
+            "id": "e8:de:27:55:a2:5e",
+            "macs": "e8:de:27:55:a2:5e",
+            "name": "freifunk-bs-wanderknoten-008"
         },
         {
             "clientcount": null,
@@ -582,21 +672,6 @@
             "id": "e8:94:f6:2a:5c:3e",
             "macs": "e8:94:f6:2a:5c:3e",
             "name": "freifunk-wintermind"
-        },
-        {
-            "clientcount": null,
-            "firmware": "gluon-v2014.2-236-g00b3544",
-            "flags": {
-                "client": false,
-                "online": true
-            },
-            "geo": [
-                52.26591,
-                10.54461
-            ],
-            "id": "64:66:b3:78:14:24",
-            "macs": "64:66:b3:78:14:24",
-            "name": "nussnode"
         },
         {
             "clientcount": null,
@@ -723,6 +798,21 @@
                 "online": true
             },
             "geo": [
+                52.26,
+                10.502
+            ],
+            "id": "c4:6e:1f:7b:18:d0",
+            "macs": "c4:6e:1f:7b:18:d0",
+            "name": "HD37021"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.256432,
                 10.50625
             ],
@@ -738,12 +828,12 @@
                 "online": true
             },
             "geo": [
-                52.26,
-                10.502
+                52.2677401,
+                10.5034042
             ],
-            "id": "c4:6e:1f:7b:18:d0",
-            "macs": "c4:6e:1f:7b:18:d0",
-            "name": "HD37021"
+            "id": "c4:6e:1f:7b:19:2e",
+            "macs": "c4:6e:1f:7b:19:2e",
+            "name": "biebercastle"
         },
         {
             "clientcount": null,
@@ -768,12 +858,12 @@
                 "online": true
             },
             "geo": [
-                52.2677401,
-                10.5034042
+                52.17101,
+                10.533575
             ],
-            "id": "c4:6e:1f:7b:19:2e",
-            "macs": "c4:6e:1f:7b:19:2e",
-            "name": "biebercastle"
+            "id": "a0:f3:c1:d8:b6:38",
+            "macs": "a0:f3:c1:d8:b6:38",
+            "name": "freifunk-a0f3c1d8b638"
         },
         {
             "clientcount": null,
@@ -810,6 +900,21 @@
                 "online": true
             },
             "geo": [
+                52.2749617,
+                10.5389811
+            ],
+            "id": "e8:94:f6:2a:5c:86",
+            "macs": "e8:94:f6:2a:5c:86",
+            "name": "freifunk-e894f62a5c86"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.22616,
                 11.02431
             ],
@@ -825,12 +930,12 @@
                 "online": true
             },
             "geo": [
-                52.2749617,
-                10.5389811
+                52.312058,
+                10.516155
             ],
-            "id": "e8:94:f6:2a:5c:86",
-            "macs": "e8:94:f6:2a:5c:86",
-            "name": "freifunk-e894f62a5c86"
+            "id": "e8:94:f6:52:05:54",
+            "macs": "e8:94:f6:52:05:54",
+            "name": "unkreativ"
         },
         {
             "clientcount": null,
@@ -846,6 +951,21 @@
             "id": "e8:94:f6:62:4c:6e",
             "macs": "e8:94:f6:62:4c:6e",
             "name": "MaJa-Freifunk"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2676208,
+                10.5003332
+            ],
+            "id": "90:f6:52:21:44:f4",
+            "macs": "90:f6:52:21:44:f4",
+            "name": "freifunk-wrg-bs"
         },
         {
             "clientcount": null,
@@ -873,6 +993,21 @@
             "id": "c4:6e:1f:3b:6e:1a",
             "macs": "c4:6e:1f:3b:6e:1a",
             "name": "Freikenoten"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.358615,
+                10.497632
+            ],
+            "id": "b0:48:7a:f6:5a:ba",
+            "macs": "b0:48:7a:f6:5a:ba",
+            "name": "Dorfstrasse-3-pmde_ffbs5"
         },
         {
             "clientcount": null,
@@ -984,21 +1119,6 @@
                 "online": true
             },
             "geo": [
-                52.274151,
-                10.40639
-            ],
-            "id": "e8:de:27:55:a2:8c",
-            "macs": "e8:de:27:55:a2:8c",
-            "name": "freifunk-wedtlenstedt"
-        },
-        {
-            "clientcount": null,
-            "firmware": "gluon-v2014.2-175-g34f464c",
-            "flags": {
-                "client": false,
-                "online": true
-            },
-            "geo": [
                 52.28553,
                 10.5257
             ],
@@ -1029,12 +1149,12 @@
                 "online": true
             },
             "geo": [
-                52.23595,
-                11.00105
+                52.275189764338,
+                10.5353307724
             ],
-            "id": "e8:94:f6:f5:80:e8",
-            "macs": "e8:94:f6:f5:80:e8",
-            "name": "Mikrowellenresonator_Ost"
+            "id": "e8:94:f6:2a:b2:5c",
+            "macs": "e8:94:f6:2a:b2:5c",
+            "name": "Lothars_Dialog-1"
         },
         {
             "clientcount": null,
@@ -1044,12 +1164,12 @@
                 "online": true
             },
             "geo": [
-                52.275189764338,
-                10.5353307724
+                52.23595,
+                11.00105
             ],
-            "id": "e8:94:f6:2a:b2:5c",
-            "macs": "e8:94:f6:2a:b2:5c",
-            "name": "Lothars_Dialog-1"
+            "id": "e8:94:f6:f5:80:e8",
+            "macs": "e8:94:f6:f5:80:e8",
+            "name": "Mikrowellenresonator_Ost"
         },
         {
             "clientcount": null,
@@ -1101,6 +1221,21 @@
                 "online": true
             },
             "geo": [
+                52.268355,
+                10.540499
+            ],
+            "id": "a0:f3:c1:05:c1:96",
+            "macs": "a0:f3:c1:05:c1:96",
+            "name": "freifunk-a0f3c105c196"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
                 52.25648,
                 10.5061
             ],
@@ -1110,18 +1245,15 @@
         },
         {
             "clientcount": null,
-            "firmware": "gluon-v2014.2-236-g00b3544",
+            "firmware": "gluon-v2014.2-175-g34f464c",
             "flags": {
                 "client": false,
                 "online": true
             },
-            "geo": [
-                52.2785658,
-                10.5211247
-            ],
-            "id": "e8:94:f6:6a:34:c0",
-            "macs": "e8:94:f6:6a:34:c0",
-            "name": "stratum0-1"
+            "geo": null,
+            "id": "e8:de:27:55:a2:5a",
+            "macs": "e8:de:27:55:a2:5a",
+            "name": "freifunk-bs-wanderknoten-001"
         },
         {
             "clientcount": null,
@@ -1137,6 +1269,21 @@
             "id": "e8:de:27:d6:11:00",
             "macs": "e8:de:27:d6:11:00",
             "name": "Chateau_Freifunk"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-236-g00b3544",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.2785658,
+                10.5211247
+            ],
+            "id": "e8:94:f6:6a:34:c0",
+            "macs": "e8:94:f6:6a:34:c0",
+            "name": "stratum0-1"
         },
         {
             "clientcount": null,
@@ -1182,6 +1329,21 @@
             "id": "64:66:b3:2f:1a:2a",
             "macs": "64:66:b3:2f:1a:2a",
             "name": "Uhlandstra\u00dfe"
+        },
+        {
+            "clientcount": null,
+            "firmware": "gluon-v2014.2-175-g34f464c",
+            "flags": {
+                "client": false,
+                "online": true
+            },
+            "geo": [
+                52.3002232,
+                10.5450313
+            ],
+            "id": "e8:94:f6:cd:6c:6a",
+            "macs": "e8:94:f6:cd:6c:6a",
+            "name": "Schuntille"
         },
         {
             "clientcount": null,
