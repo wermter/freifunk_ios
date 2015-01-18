@@ -13,7 +13,6 @@ Motion::Project::App.setup do |app|
   app.archs['iPhoneOS']       |= ['arm64']
   app.device_family           = [:iphone, :ipad]
   app.deployment_target       = '7.0'
-  app.sdk_version             = '7.1'
   app.icons                   = Dir['resources/Icon*'].map { |file| File.basename(file) }
   app.codesign_certificate    = 'iPhone Distribution: Peter Schroeder'
   app.identifier              = 'de.nofail.freifunk'
