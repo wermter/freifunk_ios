@@ -1,10 +1,8 @@
 class MapController < UIViewController
-  include MapKit
-
-  SPAN    = [3.1, 3.1]
-  NEAR_IN = 12
 
   FILTER_ITEMS = ["Alle", "Online", "Offline", "Mesh"]
+
+  attr_reader :map
 
   def init
     (super || self).tap do |it|
@@ -12,8 +10,13 @@ class MapController < UIViewController
     end
   end
 
-  def loadView
-    self.view = map
+  def viewDidLoad
+    view.backgroundColor = UIColor.lightGrayColor
+    @map = MKMapView.alloc.initWithFrame(view.bounds)
+    @map.mapType = MKMapTypeStandard
+    @map.delegate = self
+    @map.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight
+    view.addSubview(@map)
 
     @track_button = MKUserTrackingBarButtonItem.alloc.initWithMapView(map)
     self.navigationItem.rightBarButtonItems = [@track_button]
@@ -31,11 +34,14 @@ class MapController < UIViewController
       control.addTarget(self, action: 'filter_map:', forControlEvents: UIControlEventValueChanged)
     end
     self.navigationItem.titleView = @control
-  end
 
-  def viewDidLoad
     reload
   end
+
+  def viewDidUnload
+    @map = nil
+  end
+
 
   def viewDidDisappear(animated)
     disable_loading
@@ -72,8 +78,9 @@ class MapController < UIViewController
   end
 
   def center(node)
-    map.region = CoordinateRegion.new(node.coordinate, SPAN)
-    map.set_zoom_level(NEAR_IN)
+    location = CLLocationCoordinate2DMake(*node.geo)
+    region = MKCoordinateRegionMakeWithDistance(location, 500, 500)
+    map.setRegion(region, animated:true)
     map.selectAnnotation(node, animated: true)
   end
 
@@ -154,16 +161,9 @@ class MapController < UIViewController
   end
 
   def init_map
-    map.region = CoordinateRegion.new(delegate.region.location, SPAN)
-    map.set_zoom_level(delegate.region.zoom)
-  end
-
-  def map
-    @map ||= MapView.new.tap do |map|
-      map.delegate = self
-      map.frame = tabBarController.tabBar.frame
-      map.sizeToFit
-    end
+    location = CLLocationCoordinate2DMake(*delegate.region.location)
+    region = MKCoordinateRegionMakeWithDistance(location, delegate.region.zoom * 5000, delegate.region.zoom * 5000)
+    map.setRegion(region, animated:true)
   end
 
   def delegate

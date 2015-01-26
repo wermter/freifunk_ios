@@ -1,6 +1,4 @@
 class Node
-  include CoreLocation::DataTypes
-
   attr_reader :node_id, :name, :geo, :flags, :macs
 
   def initialize(node_id, name, geo, flags, macs)
@@ -20,7 +18,7 @@ class Node
   end
 
   def coordinate
-    LocationCoordinate.new(geo.first, geo.last).api
+    CLLocationCoordinate2DMake(*geo)
   end
 
   def geo?

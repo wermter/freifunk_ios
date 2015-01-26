@@ -16,7 +16,9 @@ Motion::Project::App.setup do |app|
   app.icons                   = Dir['resources/Icon*'].map { |file| File.basename(file) }
   app.codesign_certificate    = 'iPhone Distribution: Peter Schroeder'
   app.identifier              = 'de.nofail.freifunk'
-
+  
+  app.frameworks += ['CoreLocation', 'MapKit']
+  
   app.development do
     app.version                                   = "build #{%x(git describe --tags).chomp}"
     app.info_plist['CFBundleShortVersionString']  = VERSION
