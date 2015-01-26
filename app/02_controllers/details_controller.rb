@@ -14,33 +14,30 @@ class DetailsController < UITableViewController
   end
 
   def numberOfSectionsInTableView(tableView)
-    node.geo? ? 4 : 3
+    3
   end
 
   def tableView(tableView, titleForHeaderInSection: section)
     {
       0 => "Info",
       1 => "Flags",
-      2 => "Macs",
     }[section]
   end
 
   def tableView(tableView, numberOfRowsInSection: section)
     case section
     when 0
-      node.geo? ? 3 : 2
+      3
     when 1
       3
     when 2
-      node.macs.size
-    when 3
-      1
+      3
     end
   end
 
   def tableView(tableView, cellForRowAtIndexPath: indexPath)
     (tableView.dequeueReusableCellWithIdentifier(:detail_cell) || UITableViewCell.alloc.initWithStyle(UITableViewCellStyleDefault, reuseIdentifier: :detail_cell)).tap do |cell|
-      if indexPath.section == 3
+      if indexPath.section == 2
         cell.accessoryType  = UITableViewCellAccessoryDisclosureIndicator
         cell.selectionStyle = UITableViewCellSelectionStyleGray
       else
@@ -59,31 +56,35 @@ class DetailsController < UITableViewController
       when 1
         cell.textLabel.text = node.node_id
       when 2
-        cell.textLabel.text = node.geo.join(", ")
+        cell.textLabel.text = node.community
       end
     when 1
       case indexPath.row
       when 0
-        cell.textLabel.text = "Online: #{node.online? ? 'Ja' : 'Nein'}"
+        cell.textLabel.text = "Status: #{node.status}"
       when 1
-        cell.textLabel.text = "Client: #{node.client? ? 'Ja' : 'Nein'}"
+        cell.textLabel.text = "Clients: #{node.clients}"
       when 2
         cell.textLabel.text = "Gateway: #{node.gateway? ? 'Ja' : 'Nein'}"
       end
     when 2
-      cell.textLabel.text = node.macs[indexPath.row]
-    when 3
-      cell.textLabel.text = "in Karte anzeigen"
+      case indexPath.row
+      when 0
+        cell.textLabel.text = "Latitude: #{node.lat}"
+      when 1
+        cell.textLabel.text = "Longitude: #{node.long}"
+      when 2
+        cell.textLabel.text = "in Karte anzeigen"
+      end
     end
   end
 
   def tableView(tableView, didSelectRowAtIndexPath: indexPath)
     tableView.deselectRowAtIndexPath(indexPath, animated: true)
 
-    if indexPath.section == 3
+    if indexPath.section == 2
       if navigationController.tabBarController.selectedIndex == 1
         navigationController.tabBarController.viewControllers.first.popToRootViewControllerAnimated false
-        navigationController.tabBarController.viewControllers.first.viewControllers.first.reset_selection
         navigationController.tabBarController.viewControllers.first.viewControllers.first.center node
         navigationController.tabBarController.selectedIndex = 0
       end

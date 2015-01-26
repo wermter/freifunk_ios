@@ -1,12 +1,14 @@
 class Node
-  attr_reader :node_id, :name, :geo, :flags, :macs
+  attr_reader :node_id, :name, :clients, :community, :lat, :long, :status
 
-  def initialize(node_id, name, geo, flags, macs)
+  def initialize(node_id, name, clients, community, lat, long, status)
     @node_id    = node_id
     @name       = name
-    @geo        = geo
-    @flags      = flags
-    @macs       = macs.nil? ? [] : macs.split(", ")
+    @clients    = clients
+    @community  = community
+    @lat        = lat
+    @long       = long
+    @status     = status
   end
 
   def title
@@ -18,46 +20,38 @@ class Node
   end
 
   def coordinate
-    CLLocationCoordinate2DMake(*geo)
+    CLLocationCoordinate2DMake(lat, long)
   end
 
   def geo?
-    geo.is_a?(Array) && geo.size == 2
+    lat && long
   end
 
   def online?
-    flags["online"]
+    status == "online"
   end
 
   def offline?
     !online?
   end
 
-  def gateway?
-    flags["gateway"]
-  end
-
-  def client?
-    flags["client"]
-  end
-
   def valid?
-    if geo?
-      return false if geo.first.abs > 90
-      return false if geo.last.abs > 90
-    end
+    return false if lat > 90 || long > 90
+
     !node_id.nil? && !name.nil? && name.length > 0
   end
 
   def self.from_json(json)
-    Array(json[:nodes]).map { |it|
-      node_id = it[:id]
-      name    = it[:name]
-      geo     = it[:geo]
-      flags   = it[:flags]
-      macs    = it[:macs]
+    Array(json[:allTheRouters]).map do |it|
+      node_id   = it[:id]
+      name      = it[:name]
+      clients   = it[:clients]
+      community = it[:community]
+      lat       = it[:lat].to_f
+      long      = it[:long].to_f
+      status    = it[:status]
 
-      new(node_id, name, geo, flags, macs)
-    }.select(&:valid?)
+      new(node_id, name, clients, community, lat, long, status)
+    end.select(&:valid?)
   end
 end

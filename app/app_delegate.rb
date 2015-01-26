@@ -1,5 +1,5 @@
 class AppDelegate
-  attr_reader :file_loader, :node_repo, :link_repo
+  attr_reader :file_loader, :node_repo, :region_repo
 
   def application(application, didFinishLaunchingWithOptions: launchOptions)
     reload
@@ -20,22 +20,22 @@ class AppDelegate
 
   def region
     if key = App::Persistence['region']
-      Region.find(key.to_sym) || Region::ALL.first
-    else
-      Region::ALL.first
-    end
-  end
-
-  def region=(region)
-    App::Persistence['region'] = region.key.to_s
-    reload
-    region
+      region_repo.find(key)
+    end || region_repo.all.first
   end
 
   def reload
-    @file_loader  = FileLoader.new(region)
+    @file_loader  = FileLoader.new
     @node_repo    = NodeRepository.new(@file_loader.load_nodes)
-    @link_repo    = LinkRepository.new(@file_loader.load_links)
+    @region_repo  = RegionRepository.new(@file_loader.load_regions)
+  end
+
+  def coordinate
+    puts "coordinate"
+    lat = long = 0
+    current = node_repo.all.select { |node| node.community == region.key }
+    current.each { |node| lat += node.lat; long += node.long }
+    [lat / current.size, long / current.size]
   end
 
   private

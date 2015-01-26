@@ -1,12 +1,8 @@
 class FileLoader
-  attr_reader :region
-
-  def initialize(region)
-    @region = region
-  end
+  URL = "http://www.freifunk-karte.de/data.php"
 
   def download(&block)
-    AFMotion::HTTP.get(region.data_url) do |response|
+    AFMotion::HTTP.get(URL) do |response|
       if state = response.success?
         response.body.writeToFile(download_path, atomically: true)
       end
@@ -19,7 +15,7 @@ class FileLoader
   end
 
   def check_state(&block)
-    AFMotion::HTTP.head(region.data_url) do |response|
+    AFMotion::HTTP.head(URL) do |response|
       if state = !!response.headers
         remote  = NSDate.dateWithNaturalLanguageString(response.headers["Last-Modified"])
         local   = File.mtime(file_path)
@@ -30,11 +26,11 @@ class FileLoader
   end
 
   def download_path
-    "#{App.documents_path}/#{region.key}.json"
+    "#{App.documents_path}/nodes.json"
   end
 
   def local_path
-    "#{App.resources_path}/data/#{region.key}.json"
+    "#{App.resources_path}/data/nodes.json"
   end
 
   def file_path
@@ -45,8 +41,8 @@ class FileLoader
     load_json { |json| Node.from_json(json) }
   end
 
-  def load_links
-    load_json { |json| Link.from_json(json) }
+  def load_regions
+    load_json { |json| Region.from_json(json) }
   end
 
   def load_json

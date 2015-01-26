@@ -29,9 +29,9 @@ class SettingsController < UITableViewController
     when 0
       1
     when 1
-      Region.all.size
+      delegate.region_repo.all.size
     when 2
-      Array(delegate.region.twitter).size + Array(delegate.region.homepage).size
+      2
     when 3
       2
     end
@@ -51,7 +51,7 @@ class SettingsController < UITableViewController
       cell.textLabel.text       = "Knoten aktualisieren"
       cell.detailTextLabel.text = "zuletzt aktualisiert #{delegate.file_loader.last_update}"
     when 1
-      region = Region.all[indexPath.row]
+      region = delegate.region_repo.all[indexPath.row]
       cell.textLabel.text = region.name
       if delegate.region == region
         cell.accessoryType  = UITableViewCellAccessoryCheckmark
@@ -61,10 +61,12 @@ class SettingsController < UITableViewController
         cell.selectionStyle = UITableViewCellSelectionStyleGray
       end
     when 2
-      texts = Array(delegate.region.twitter).map { |handle|
-        "Twitter: @#{handle}"
-      } + Array(delegate.region.twitter).map { |site| "Website: #{site}" }
-      cell.textLabel.text = texts[indexPath.row]
+      case indexPath.row
+      when 0
+        cell.textLabel.text = delegate.region.name
+      when 1
+        cell.textLabel.text = delegate.region.url
+      end
     when 3
       case indexPath.row
       when 0
@@ -95,13 +97,10 @@ class SettingsController < UITableViewController
         end
       end
     when 1
-      delegate.region = Region.all[indexPath.row]
+      App::Persistence['region'] = delegate.region_repo.all[indexPath.row].key
       reload_controllers
     when 2
-      urls = Array(delegate.region.twitter).map { |handle|
-        "http://twitter.com/#{handle}"
-      } + Array(delegate.region.twitter)
-      open_url(urls[indexPath.row])
+      open_url(delegate.region.url)
     when 3
       case indexPath.row
       when 0

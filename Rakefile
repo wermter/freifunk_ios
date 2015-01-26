@@ -16,12 +16,12 @@ Motion::Project::App.setup do |app|
   app.icons                   = Dir['resources/Icon*'].map { |file| File.basename(file) }
   app.codesign_certificate    = 'iPhone Distribution: Peter Schroeder'
   app.identifier              = 'de.nofail.freifunk'
-  
+
   app.frameworks += ['CoreLocation', 'MapKit']
   app.pods do
     pod "OCMapView"
   end
-  
+
   app.development do
     app.version                                   = "build #{%x(git describe --tags).chomp}"
     app.info_plist['CFBundleShortVersionString']  = VERSION
@@ -38,16 +38,8 @@ Motion::Project::App.setup do |app|
 end
 
 desc "download latest node json"
-task :nodes, [:name] do |t, args|
-  require_relative 'app/01_models/region.rb'
-  if name = args[:name]
-    regions = [Region.find(name.to_sym)]
-  else
-    regions = Region.all
-  end
-  regions.each do |region|
-    system("wget -O tmp.json '#{region.data_url}'")
-    system("cat tmp.json | python -mjson.tool > resources/data/#{region.key}.json")
-    system("rm tmp.json")
-  end
+task :nodes do
+  system("wget -O tmp.json 'http://www.freifunk-karte.de/data.php'")
+  system("cat tmp.json | python -mjson.tool > resources/data/nodes.json")
+  system("rm tmp.json")
 end

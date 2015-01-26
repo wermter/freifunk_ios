@@ -1,6 +1,5 @@
 class MapController < UIViewController
-
-  FILTER_ITEMS = ["Knoten", "Mesh"]
+  ZOOM = 12
 
   attr_reader :map
 
@@ -30,14 +29,6 @@ class MapController < UIViewController
       button.tintColor = Color::GRAY
     end
     self.navigationItem.leftBarButtonItems = [@loading_button]
-
-    @control = UISegmentedControl.alloc.tap do |control|
-      control.initWithItems(FILTER_ITEMS)
-      control.selectedSegmentIndex = 0
-      control.addTarget(self, action: 'filter_map:', forControlEvents: UIControlEventValueChanged)
-    end
-    self.navigationItem.titleView = @control
-
     reload
   end
 
@@ -50,6 +41,7 @@ class MapController < UIViewController
   end
 
   def mapView(mapView, viewForAnnotation: annotation)
+    puts "viewForAnnotation"
     case annotation
     when Node
       if view = mapView.dequeueReusableAnnotationViewWithIdentifier(:node_annotation)
@@ -82,24 +74,17 @@ class MapController < UIViewController
   end
 
   def mapView(mapView, rendererForOverlay: overlay)
-    case overlay
-    when MKCircle
-      MKCircleView.alloc.initWithCircle(overlay).tap do |it|
-        it.fillColor  = UIColor.yellowColor
-        it.alpha      = 0.25
-      end
-    when MKPolyline
-      MKPolylineRenderer.alloc.tap do |renderer|
-        renderer.initWithPolyline(overlay)
-        renderer.strokeColor = Color::LIGHT
-        renderer.lineWidth   = 4
-      end
+    puts "rendererForOverlay"
+    MKCircleView.alloc.initWithCircle(overlay).tap do |it|
+      it.fillColor  = UIColor.yellowColor
+      it.alpha      = 0.25
     end
   end
 
   def mapView(mapView, regionDidChangeAnimated: animated)
-    filter_map
+    puts "regionDidChangeAnimated"
     map.doClustering
+    update_overlays
   end
 
   def center(node)
@@ -109,14 +94,10 @@ class MapController < UIViewController
     map.selectAnnotation(node, animated: true)
   end
 
-  def reset_selection(index = 0)
-    @control.selectedSegmentIndex = index
-    filter_map
-  end
-
   def reload
     init_map
-    filter_map
+    update_annotations
+    update_overlays
   end
 
   protected
@@ -131,7 +112,8 @@ class MapController < UIViewController
     delegate.file_loader.download do |state|
       if state
         delegate.reload
-        filter_map
+        update_annotations
+        update_overlays
       else
         App.alert("Fehler beim laden...")
       end
@@ -162,36 +144,29 @@ class MapController < UIViewController
     navigationController.pushViewController(controller, animated: true)
   end
 
-  def filter_map(sender = nil)
+  def update_annotations
+    puts "update_annotations"
     map.removeAnnotations(map.annotations.reject { |a| a.is_a? MKUserLocation })
+    puts "update_annotations1"
+    map.addAnnotations(delegate.node_repo.geo)
+  end
+
+  def update_overlays
+    puts "update_overlays"
     map.removeOverlays(map.overlays)
-    case @control.selectedSegmentIndex
-    when 0
-      map.addAnnotations(delegate.node_repo.geo)
-      map.displayedAnnotations.each do |annotation|
-        if annotation.is_a? OCAnnotation
-          clusterRadius = map.region.span.longitudeDelta * map.clusterSize * 111000 / 2.0
-          clusterRadius = clusterRadius * Math.cos(annotation.coordinate.latitude * Math::PI / 180.0)
-          circle = MKCircle.circleWithCenterCoordinate(annotation.coordinate, radius: clusterRadius)
-          map.addOverlay(circle)
-        end
-      end
-    when 1
-      connections = delegate.link_repo.connections(delegate.node_repo.geo)
-      map.addAnnotations(connections.flatten.uniq)
-      connections.each do |source, target|
-        coords = Pointer.new(CLLocationCoordinate2D.type, 2)
-        coords[0] = source.coordinate
-        coords[1] = target.coordinate
-        line = MKPolyline.polylineWithCoordinates(coords, count: 2)
-        map.addOverlay(line)
+    map.displayedAnnotations.each do |annotation|
+      if annotation.is_a? OCAnnotation
+        clusterRadius = map.region.span.longitudeDelta * map.clusterSize * 111000 / 2.0
+        clusterRadius = clusterRadius * Math.cos(annotation.coordinate.latitude * Math::PI / 180.0)
+        circle = MKCircle.circleWithCenterCoordinate(annotation.coordinate, radius: clusterRadius)
+        map.addOverlay(circle)
       end
     end
   end
 
   def init_map
-    location = CLLocationCoordinate2DMake(*delegate.region.location)
-    region = MKCoordinateRegionMakeWithDistance(location, delegate.region.zoom * 5000, delegate.region.zoom * 5000)
+    location = CLLocationCoordinate2DMake(*delegate.coordinate)
+    region = MKCoordinateRegionMakeWithDistance(location, ZOOM * 5000, ZOOM * 5000)
     map.setRegion(region, animated:true)
   end
 

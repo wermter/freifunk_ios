@@ -8,19 +8,19 @@ class NodeRepository
   end
 
   def sorted
-    all.sort_by { |node| node.name.downcase }
+    @sorted ||= all.sort_by { |node| node.name.downcase }
   end
 
   def online
-    all.select(&:online?)
+    @online ||= all.select(&:online?)
   end
 
   def offline
-    all.select(&:offline?)
+    @offline ||= all.select(&:offline?)
   end
 
   def geo
-    all.select(&:geo?)
+    @geo ||= all.select(&:geo?)
   end
 
   def find(query)
