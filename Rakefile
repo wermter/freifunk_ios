@@ -18,6 +18,9 @@ Motion::Project::App.setup do |app|
   app.identifier              = 'de.nofail.freifunk'
   
   app.frameworks += ['CoreLocation', 'MapKit']
+  app.pods do
+    pod "OCMapView"
+  end
   
   app.development do
     app.version                                   = "build #{%x(git describe --tags).chomp}"

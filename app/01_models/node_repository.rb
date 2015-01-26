@@ -19,6 +19,10 @@ class NodeRepository
     all.select(&:offline?)
   end
 
+  def geo
+    all.select(&:geo?)
+  end
+
   def find(query)
     sorted.select do |node|
       tokenize(query).any? do |token|

@@ -18,11 +18,14 @@ PODS:
   - AFNetworking/UIKit (2.2.4):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
+  - OCMapView (0.1.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 2.2.4)
+  - OCMapView
 
 SPEC CHECKSUMS:
   AFNetworking: ab63e259fe91eef4519b371ef0a4955af0e73e64
+  OCMapView: b6c23a490834c7ac6d4c125cb8431e0ba33abcb9
 
 COCOAPODS: 0.33.1

@@ -1,6 +1,6 @@
 class MapController < UIViewController
 
-  FILTER_ITEMS = ["Alle", "Online", "Offline", "Mesh"]
+  FILTER_ITEMS = ["Knoten", "Mesh"]
 
   attr_reader :map
 
@@ -12,7 +12,10 @@ class MapController < UIViewController
 
   def viewDidLoad
     view.backgroundColor = UIColor.lightGrayColor
-    @map = MKMapView.alloc.initWithFrame(view.bounds)
+    @map = OCMapView.alloc.initWithFrame(view.bounds)
+    @map.clusteringMethod = OCClusteringMethodBubble
+    @map.clusterSize = 0.3
+    @map.minLongitudeDeltaToCluster = 0.1
     @map.mapType = MKMapTypeStandard
     @map.delegate = self
     @map.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight
@@ -30,7 +33,7 @@ class MapController < UIViewController
 
     @control = UISegmentedControl.alloc.tap do |control|
       control.initWithItems(FILTER_ITEMS)
-      control.selectedSegmentIndex = 1
+      control.selectedSegmentIndex = 0
       control.addTarget(self, action: 'filter_map:', forControlEvents: UIControlEventValueChanged)
     end
     self.navigationItem.titleView = @control
@@ -42,39 +45,61 @@ class MapController < UIViewController
     @map = nil
   end
 
-
   def viewDidDisappear(animated)
     disable_loading
   end
 
   def mapView(mapView, viewForAnnotation: annotation)
-    return if annotation.is_a? MKUserLocation
-
-    if view = mapView.dequeueReusableAnnotationViewWithIdentifier(:node_annotation)
-      view.annotation   = annotation
-      view
-    else
-      view = MKPinAnnotationView.alloc.tap do |it|
-        it.initWithAnnotation(annotation, reuseIdentifier: :node_annotation)
-        it.canShowCallout  = true
-        button = UIButton.buttonWithType(UIButtonTypeInfoLight)
-        button.addTarget(self, action: 'show_details:', forControlEvents: UIControlEventTouchUpInside)
-        it.rightCalloutAccessoryView = button
+    case annotation
+    when Node
+      if view = mapView.dequeueReusableAnnotationViewWithIdentifier(:node_annotation)
+        view.annotation = annotation
+      else
+        view = MKPinAnnotationView.alloc.tap do |it|
+          it.initWithAnnotation(annotation, reuseIdentifier: :node_annotation)
+          it.canShowCallout  = true
+          button = UIButton.buttonWithType(UIButtonTypeInfoLight)
+          button.addTarget(self, action: 'show_details:', forControlEvents: UIControlEventTouchUpInside)
+          it.rightCalloutAccessoryView = button
+        end
       end
+      view.pinColor = annotation.online? ? MKPinAnnotationColorGreen : MKPinAnnotationColorRed
+      view
+    when OCAnnotation
+      annotation.title    = "#{annotation.annotationsInCluster.count} Knoten"
+      annotation.subtitle = "#{annotation.coordinate.latitude} / #{annotation.coordinate.longitude}"
+      if view = mapView.dequeueReusableAnnotationViewWithIdentifier(:cluster_annotation)
+        view.annotation = annotation
+      else
+        view = MKPinAnnotationView.alloc.tap do |it|
+          it.initWithAnnotation(annotation, reuseIdentifier: :cluster_annotation)
+          it.canShowCallout = true
+        end
+      end
+      view.pinColor = MKPinAnnotationColorPurple
+      view
     end
-    view.animatesDrop = false
-    view.pinColor     = annotation.online? ? MKPinAnnotationColorGreen : MKPinAnnotationColorRed
-    view
   end
 
   def mapView(mapView, rendererForOverlay: overlay)
-    return unless overlay.is_a? MKPolyline
-
-    MKPolylineRenderer.alloc.tap do |renderer|
-      renderer.initWithPolyline(overlay)
-      renderer.strokeColor = Color::LIGHT
-      renderer.lineWidth   = 4
+    case overlay
+    when MKCircle
+      MKCircleView.alloc.initWithCircle(overlay).tap do |it|
+        it.fillColor  = UIColor.yellowColor
+        it.alpha      = 0.25
+      end
+    when MKPolyline
+      MKPolylineRenderer.alloc.tap do |renderer|
+        renderer.initWithPolyline(overlay)
+        renderer.strokeColor = Color::LIGHT
+        renderer.lineWidth   = 4
+      end
     end
+  end
+
+  def mapView(mapView, regionDidChangeAnimated: animated)
+    filter_map
+    map.doClustering
   end
 
   def center(node)
@@ -142,13 +167,17 @@ class MapController < UIViewController
     map.removeOverlays(map.overlays)
     case @control.selectedSegmentIndex
     when 0
-      map.addAnnotations(delegate.node_repo.all.select(&:geo?))
+      map.addAnnotations(delegate.node_repo.geo)
+      map.displayedAnnotations.each do |annotation|
+        if annotation.is_a? OCAnnotation
+          clusterRadius = map.region.span.longitudeDelta * map.clusterSize * 111000 / 2.0
+          clusterRadius = clusterRadius * Math.cos(annotation.coordinate.latitude * Math::PI / 180.0)
+          circle = MKCircle.circleWithCenterCoordinate(annotation.coordinate, radius: clusterRadius)
+          map.addOverlay(circle)
+        end
+      end
     when 1
-      map.addAnnotations(delegate.node_repo.online.select(&:geo?))
-    when 2
-      map.addAnnotations(delegate.node_repo.offline.select(&:geo?))
-    when 3
-      connections = delegate.link_repo.connections(delegate.node_repo.all.select(&:geo?))
+      connections = delegate.link_repo.connections(delegate.node_repo.geo)
       map.addAnnotations(connections.flatten.uniq)
       connections.each do |source, target|
         coords = Pointer.new(CLLocationCoordinate2D.type, 2)
