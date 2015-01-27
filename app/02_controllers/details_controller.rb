@@ -20,18 +20,18 @@ class DetailsController < UITableViewController
   def tableView(tableView, titleForHeaderInSection: section)
     {
       0 => "Info",
-      1 => "Flags",
+      1 => "Status",
     }[section]
   end
 
   def tableView(tableView, numberOfRowsInSection: section)
     case section
     when 0
-      3
+      2
     when 1
-      3
+      2
     when 2
-      3
+      1
     end
   end
 
@@ -52,10 +52,8 @@ class DetailsController < UITableViewController
     when 0
       case indexPath.row
       when 0
-        cell.textLabel.text = node.name
+        cell.textLabel.text = "#{node.name} (#{node.node_id})"
       when 1
-        cell.textLabel.text = node.node_id
-      when 2
         cell.textLabel.text = node.community
       end
     when 1
@@ -64,18 +62,9 @@ class DetailsController < UITableViewController
         cell.textLabel.text = "Status: #{node.status}"
       when 1
         cell.textLabel.text = "Clients: #{node.clients}"
-      when 2
-        cell.textLabel.text = "Gateway: #{node.gateway? ? 'Ja' : 'Nein'}"
       end
     when 2
-      case indexPath.row
-      when 0
-        cell.textLabel.text = "Latitude: #{node.lat}"
-      when 1
-        cell.textLabel.text = "Longitude: #{node.long}"
-      when 2
-        cell.textLabel.text = "in Karte anzeigen"
-      end
+      cell.textLabel.text = "Location: #{node.lat.round(2)} / #{node.long.round(2)}"
     end
   end
 

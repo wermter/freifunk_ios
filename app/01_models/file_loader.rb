@@ -37,8 +37,8 @@ class FileLoader
     File.exists?(download_path) ? download_path : local_path
   end
 
-  def load_nodes
-    load_json { |json| Node.from_json(json) }
+  def load_nodes(region)
+    load_json { |json| Node.from_json(json).select { |node| node.community == region.key } }
   end
 
   def load_regions

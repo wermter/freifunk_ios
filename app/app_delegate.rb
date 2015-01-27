@@ -26,16 +26,19 @@ class AppDelegate
 
   def reload
     @file_loader  = FileLoader.new
-    @node_repo    = NodeRepository.new(@file_loader.load_nodes)
     @region_repo  = RegionRepository.new(@file_loader.load_regions)
+    @node_repo    = NodeRepository.new(@file_loader.load_nodes(region))
   end
 
   def coordinate
-    puts "coordinate"
-    lat = long = 0
-    current = node_repo.all.select { |node| node.community == region.key }
-    current.each { |node| lat += node.lat; long += node.long }
-    [lat / current.size, long / current.size]
+    current = node_repo.geo
+    if current.empty?
+      [53.0, 7.0]
+    else
+      lat = long = 0
+      current.each { |node| lat += node.lat; long += node.long }
+      [lat / current.size, long / current.size]
+    end
   end
 
   private

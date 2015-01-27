@@ -23,6 +23,10 @@ class Node
     CLLocationCoordinate2DMake(lat, long)
   end
 
+  def groupTag
+    community
+  end
+
   def geo?
     lat && long
   end

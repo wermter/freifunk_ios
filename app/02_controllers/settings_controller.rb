@@ -21,7 +21,7 @@ class SettingsController < UITableViewController
   end
 
   def numberOfSectionsInTableView(tableView)
-    3
+    4
   end
 
   def tableView(tableView, numberOfRowsInSection: section)
@@ -29,9 +29,9 @@ class SettingsController < UITableViewController
     when 0
       1
     when 1
-      delegate.region_repo.all.size
-    when 2
       2
+    when 2
+      delegate.region_repo.all.size
     when 3
       2
     end
@@ -51,6 +51,17 @@ class SettingsController < UITableViewController
       cell.textLabel.text       = "Knoten aktualisieren"
       cell.detailTextLabel.text = "zuletzt aktualisiert #{delegate.file_loader.last_update}"
     when 1
+      case indexPath.row
+      when 0
+        cell.textLabel.text = delegate.region.name
+        cell.accessoryType  = UITableViewCellAccessoryCheckmark
+        cell.selectionStyle = UITableViewCellSelectionStyleBlue
+      when 1
+        cell.textLabel.text = delegate.region.url
+        cell.accessoryType  = UITableViewCellAccessoryDisclosureIndicator
+        cell.selectionStyle = UITableViewCellSelectionStyleGray
+      end
+    when 2
       region = delegate.region_repo.all[indexPath.row]
       cell.textLabel.text = region.name
       if delegate.region == region
@@ -59,13 +70,6 @@ class SettingsController < UITableViewController
       else
         cell.accessoryType  = UITableViewCellAccessoryDisclosureIndicator
         cell.selectionStyle = UITableViewCellSelectionStyleGray
-      end
-    when 2
-      case indexPath.row
-      when 0
-        cell.textLabel.text = delegate.region.name
-      when 1
-        cell.textLabel.text = delegate.region.url
       end
     when 3
       case indexPath.row
@@ -97,10 +101,13 @@ class SettingsController < UITableViewController
         end
       end
     when 1
+      case indexPath.row
+      when 1
+        open_url(delegate.region.url)
+      end
+    when 2
       App::Persistence['region'] = delegate.region_repo.all[indexPath.row].key
       reload_controllers
-    when 2
-      open_url(delegate.region.url)
     when 3
       case indexPath.row
       when 0
@@ -114,6 +121,7 @@ class SettingsController < UITableViewController
   protected
 
   def reload_controllers
+    delegate.reload
     tabBarController.viewControllers.each do |navigation_controller|
       navigation_controller.viewControllers.each do |controller|
         controller.reload if controller.respond_to? :reload

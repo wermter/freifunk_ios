@@ -12,12 +12,12 @@ class MapController < UIViewController
   def viewDidLoad
     view.backgroundColor = UIColor.lightGrayColor
     @map = OCMapView.alloc.initWithFrame(view.bounds)
-    @map.clusteringMethod = OCClusteringMethodBubble
-    @map.clusterSize = 0.3
+    @map.clusteringMethod           = OCClusteringMethodBubble
+    @map.clusterSize                = 0.3
     @map.minLongitudeDeltaToCluster = 0.1
-    @map.mapType = MKMapTypeStandard
-    @map.delegate = self
-    @map.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight
+    @map.mapType                    = MKMapTypeStandard
+    @map.delegate                   = self
+    @map.autoresizingMask           = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight
     view.addSubview(@map)
 
     @track_button = MKUserTrackingBarButtonItem.alloc.initWithMapView(map)
@@ -41,7 +41,6 @@ class MapController < UIViewController
   end
 
   def mapView(mapView, viewForAnnotation: annotation)
-    puts "viewForAnnotation"
     case annotation
     when Node
       if view = mapView.dequeueReusableAnnotationViewWithIdentifier(:node_annotation)
@@ -74,21 +73,26 @@ class MapController < UIViewController
   end
 
   def mapView(mapView, rendererForOverlay: overlay)
-    puts "rendererForOverlay"
-    MKCircleView.alloc.initWithCircle(overlay).tap do |it|
-      it.fillColor  = UIColor.yellowColor
-      it.alpha      = 0.25
+    if overlay.title == "fill"
+      MKCircleView.alloc.initWithCircle(overlay).tap do |it|
+        it.fillColor  = Color::MAIN
+        it.alpha      = 0.25
+      end
+    else
+      MKCircleView.alloc.initWithCircle(overlay).tap do |it|
+        it.strokeColor = Color::LIGHT
+        it.alpha       = 0.5
+      end
     end
   end
 
   def mapView(mapView, regionDidChangeAnimated: animated)
-    puts "regionDidChangeAnimated"
     map.doClustering
     update_overlays
   end
 
   def center(node)
-    location = CLLocationCoordinate2DMake(*node.geo)
+    location = CLLocationCoordinate2DMake(node.lat, node.long)
     region = MKCoordinateRegionMakeWithDistance(location, 500, 500)
     map.setRegion(region, animated:true)
     map.selectAnnotation(node, animated: true)
@@ -103,7 +107,7 @@ class MapController < UIViewController
   protected
 
   def timer
-    @timer ||= EM.add_periodic_timer 5.0 do
+    @timer ||= EM.add_periodic_timer 15.0 do
       trigger_reload
     end
   end
@@ -145,21 +149,24 @@ class MapController < UIViewController
   end
 
   def update_annotations
-    puts "update_annotations"
     map.removeAnnotations(map.annotations.reject { |a| a.is_a? MKUserLocation })
-    puts "update_annotations1"
     map.addAnnotations(delegate.node_repo.geo)
   end
 
   def update_overlays
-    puts "update_overlays"
     map.removeOverlays(map.overlays)
     map.displayedAnnotations.each do |annotation|
       if annotation.is_a? OCAnnotation
         clusterRadius = map.region.span.longitudeDelta * map.clusterSize * 111000 / 2.0
         clusterRadius = clusterRadius * Math.cos(annotation.coordinate.latitude * Math::PI / 180.0)
-        circle = MKCircle.circleWithCenterCoordinate(annotation.coordinate, radius: clusterRadius)
+
+        circle        = MKCircle.circleWithCenterCoordinate(annotation.coordinate, radius: clusterRadius)
+        circle.title  = "fill"
         map.addOverlay(circle)
+
+        line        = MKCircle.circleWithCenterCoordinate(annotation.coordinate, radius: clusterRadius)
+        line.title  = "stroke"
+        map.addOverlay(line)
       end
     end
   end
